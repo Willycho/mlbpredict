@@ -11,6 +11,7 @@ Storage:
 import sys
 import os
 import json
+import argparse
 from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -119,7 +120,11 @@ def save_predictions(kst_date: str, predictions: list[dict], f5_lines_map: dict)
 
 
 def main():
-    kst_date = get_target_kst_date()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--date", type=str, default=None, help="Target KST date YYYY-MM-DD (override auto)")
+    args = parser.parse_args()
+
+    kst_date = args.date or get_target_kst_date()
     print(f"[bulk] target KST date: {kst_date}")
 
     # 1. MLB 스케줄

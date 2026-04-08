@@ -4,7 +4,12 @@ on:
   schedule:
     # KST 21:00 = UTC 12:00
     - cron: '0 12 * * *'
-  workflow_dispatch:  # 수동 트리거
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target KST date (YYYY-MM-DD). Empty = auto'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -32,7 +37,11 @@ jobs:
           ODDS_API_KEY_BACKUP1: ${{ secrets.ODDS_API_KEY_BACKUP1 }}
           ODDS_API_KEY_BACKUP2: ${{ secrets.ODDS_API_KEY_BACKUP2 }}
         run: |
-          python scripts/daily_bulk_predict.py
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            python scripts/daily_bulk_predict.py --date "${{ github.event.inputs.target_date }}"
+          else
+            python scripts/daily_bulk_predict.py
+          fi
 
       - name: Commit results
         run: |
