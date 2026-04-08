@@ -1,0 +1,50 @@
+# Secrets — NEVER commit
+.env
+*.env
+.envrc
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+*.egg
+*.whl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 대용량 데이터만 제외 (작은 processed parquet은 포함)
+data/storage/statcast_raw_*.parquet
+data/storage/backtest_train/
+data/storage/snapshots/
+
+# Web local predictions cache (not Actions output)
+predictions/*.json
+!data/storage/predictions/
+
+# Temp / logs
+*.log
+tmp/
+temp/
+
+# C++ build artifacts
+engine/cpp/build/

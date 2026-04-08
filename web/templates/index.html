@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RSL Baseball V3</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>RSL Baseball V3</h1>
+    <p class="subtitle">Pitcher Matchup F5 Prediction Engine</p>
+  </header>
+
+  <!-- Tabs -->
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('v3')">V3 Pitcher (F5)</button>
+    <button class="tab pro-tab" onclick="switchTab('pro')">V3 Pro (Consensus)</button>
+  </div>
+
+  <div class="controls">
+    <input type="date" id="datePicker" />
+    <button onclick="loadData('predict')">Predict</button>
+    <button onclick="loadData('predict_force')" title="Re-run">Re-run</button>
+    <span id="status"></span>
+  </div>
+
+  <div id="summary" class="summary" style="display:none"></div>
+  <div id="subTabs" class="sub-tabs" style="display:none">
+    <button class="sub-tab active" onclick="switchSubTab('all')">ALL TOP 5</button>
+    <button class="sub-tab" onclick="switchSubTab('ml')">ML TOP 5</button>
+    <button class="sub-tab" onclick="switchSubTab('ou')">OU TOP 5</button>
+  </div>
+  <div id="proSubTabs" class="sub-tabs" style="display:none">
+    <button class="sub-tab active" onclick="switchProSubTab('top')">TOP PICKS</button>
+    <button class="sub-tab" onclick="switchProSubTab('tt')">TEAM TOTAL</button>
+  </div>
+  <div id="ttControls" class="tt-controls" style="display:none">
+    <span class="tt-label">Base Line:</span>
+    <button class="tt-btn active" onclick="switchTTLine(1.5)">1.5</button>
+    <button class="tt-btn" onclick="switchTTLine(2.5)">2.5</button>
+    <button class="tt-btn" onclick="switchTTLine(3.5)">3.5</button>
+  </div>
+  <div id="edgePicks" style="display:none"><h2 id="picksTitle">Top Picks</h2><div id="edgeList"></div></div>
+  <h2 id="gamesTitle" style="display:none">All Games</h2>
+  <div id="games"></div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let currentTab = 'v3';
+let currentSubTab = 'all';
+let cachedSweet = [];
+
+// KST 기준 오늘 날짜를 기본값으로 (사용자가 보는 날짜)
+const now = new Date();
+const kst = new Date(now.getTime() + 9 * 3600000);
+$('datePicker').value = kst.toISOString().slice(0, 10);
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelector(`.tab:nth-child(${tab === 'v3' ? 1 : 2})`).classList.add('active');
+  ['summary','edgePicks','gamesTitle','subTabs','proSubTabs','ttControls'].forEach(id => $(id).style.display = 'none');
+  $('games').innerHTML = '';
+  $('status').textContent = '';
+  cachedSweet = [];
+}
+
+function switchSubTab(sub) {
+  currentSubTab = sub;
+  document.querySelectorAll('#subTabs .sub-tab').forEach(t => t.classList.remove('active'));
+  const idx = {all:1, ml:2, ou:3}[sub] || 1;
+  document.querySelector(`#subTabs .sub-tab:nth-child(${idx})`).classList.add('active');
+  renderSubTabPicks();
+}
+
+function renderSubTabPicks() {
+  let filtered;
+  let title;
+  if (currentSubTab === 'all') {
+    filtered = cachedSweet.filter(s => s.type !== 'TT').slice(0, 5);
+    title = 'ALL TOP 5';
+  } else if (currentSubTab === 'ml') {
+    filtered = cachedSweet.filter(s => s.type === 'ML').slice(0, 5);
+    title = 'ML TOP 5';
+  } else if (currentSubTab === 'ou') {
+    filtered = cachedSweet.filter(s => s.type === 'OU').slice(0, 5);
+    title = 'OU TOP 5';
+  }
+
+  if (filtered.length) {
+    $('picksTitle').textContent = `${title} (${filtered.length})`;
+    $('edgePicks').style.display = 'block';
+    $('edgeList').innerHTML = filtered.map(sp => sweetPickCard(sp)).join('');
+  } else {
+    $('picksTitle').textContent = `${title} — No picks`;
+    $('edgePicks').style.display = 'block';
+    $('edgeList').innerHTML = '<div style="color:#64748b;padding:12px">No qualifying picks in this category</div>';
+  }
+}
+
+// Pro sub tabs
+let currentProSubTab = 'top';
+let currentTTLine = 1.5;
+let cachedProData = null;
+
+function switchProSubTab(sub) {
+  currentProSubTab = sub;
+  document.querySelectorAll('#proSubTabs .sub-tab').forEach(t => t.classList.remove('active'));
+  const idx = sub === 'top' ? 1 : 2;
+  document.querySelector(`#proSubTabs .sub-tab:nth-child(${idx})`).classList.add('active');
+  $('ttControls').style.display = sub === 'tt' ? 'flex' : 'none';
+  if (sub === 'tt') renderProTT();
+  else renderProMain();
+}
+
+function switchTTLine(line) {
+  currentTTLine = line;
+  document.querySelectorAll('.tt-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tt-btn').forEach(b => {
+    if (parseFloat(b.textContent) === line) b.classList.add('active');
+  });
+  renderProTT();
+}
+
+function renderProTT() {
+  if (!cachedProData) return;
+  const allGames = cachedProData.all_games || [];
+  const line = currentTTLine;
+
+  // 각 팀별 expected vs line 갭 계산
+  let ttEntries = [];
+  allGames.forEach(g => {
+    if (!g.away_team_total || !g.home_team_total) return;
+    const att = g.away_team_total;
+    const htt = g.home_team_total;
+    const awGap = att.expected - line;
+    const hmGap = htt.expected - line;
+    if (Math.abs(awGap) >= 0.1) {
+      ttEntries.push({
+        team: g.away_team, opponent: g.home_team, pitcher: (g.home_pitcher||{}).name||'TBD',
+        expected: att.expected, line: line, gap: awGap,
+        pick: awGap > 0 ? 'OVER' : 'UNDER',
+        conf: Math.round(Math.min(Math.abs(awGap) / 2.0 + 0.5, 0.95) * 100),
+        matchup: `${g.away_team} @ ${g.home_team}`,
+        game_time: g.game_time_kst || ''
+      });
+    }
+    if (Math.abs(hmGap) >= 0.1) {
+      ttEntries.push({
+        team: g.home_team, opponent: g.away_team, pitcher: (g.away_pitcher||{}).name||'TBD',
+        expected: htt.expected, line: line, gap: hmGap,
+        pick: hmGap > 0 ? 'OVER' : 'UNDER',
+        conf: Math.round(Math.min(Math.abs(hmGap) / 2.0 + 0.5, 0.95) * 100),
+        matchup: `${g.away_team} @ ${g.home_team}`,
+        game_time: g.game_time_kst || ''
+      });
+    }
+  });
+
+  ttEntries.sort((a, b) => Math.abs(b.gap) - Math.abs(a.gap));
+  const top5 = ttEntries.slice(0, 5);
+
+  $('picksTitle').textContent = `TT TOP 5 (Line ${line})`;
+  $('edgePicks').style.display = 'block';
+  if (top5.length) {
+    $('edgeList').innerHTML = top5.map(t => {
+      const cls = t.pick === 'OVER' ? 'tt-strong-o' : 'tt-strong-u';
+      return `<div class="edge g-C">
+        <div class="edge-top"><strong>${t.matchup}</strong>
+          <span class="edge-sp">vs ${t.pitcher}</span>
+          <span class="badge g-C">TEAM TOTAL</span></div>
+        <div class="edge-det"><strong>${t.team} ${t.pick} ${t.line}</strong> (${t.conf}%) | Expected ${t.expected}R | Gap ${t.gap>0?'+':''}${t.gap.toFixed(1)}</div></div>`;
+    }).join('');
+  } else {
+    $('edgeList').innerHTML = '<div style="color:#64748b;padding:12px">No qualifying picks</div>';
+  }
+
+  // 하단에 전체 리스트
+  $('gamesTitle').style.display = 'block';
+  $('gamesTitle').textContent = `All Teams vs ${line} Line (${ttEntries.length})`;
+  $('games').innerHTML = ttEntries.map(t => {
+    const cls = t.pick === 'OVER' ? 'tt-strong-o' : 'tt-strong-u';
+    const gapAbs = Math.abs(t.gap).toFixed(1);
+    return `<div class="game tt-compact">
+      <div class="game-top"><span class="matchup">${t.team}</span>
+        <span class="tt-pick ${cls}">${t.pick} ${t.line}</span>
+        <span class="game-time">${t.game_time}</span></div>
+      <div class="pred">Expected <strong>${t.expected}R</strong> vs ${t.opponent} (${t.pitcher}) | Gap ${t.gap>0?'+':''}${t.gap.toFixed(1)}</div>
+    </div>`;
+  }).join('');
+}
+
+async function loadData(mode) {
+  const d = $('datePicker').value; // KST 날짜 그대로
+  $('status').textContent = 'Loading...';
+  ['summary','edgePicks'].forEach(id => $(id).style.display = 'none');
+  $('games').innerHTML = '';
+
+  try {
+    if (currentTab === 'v3') {
+      const force = mode === 'predict_force' ? '?force=1' : '';
+      const url = `/api/v3/predictions/${d}${force}`;
+      const r = await (await fetch(url)).json();
+      if (r.error) { $('status').textContent = r.error; return; }
+      renderV3(r.predictions);
+      $('status').textContent = `${r.predictions.length} games (V3 F5)`;
+    } else if (currentTab === 'pro') {
+      const force = mode === 'predict_force' ? 'force=1&' : '';
+      const url = `/api/v3/consensus/${d}?${force}kst=1`;
+      const r = await (await fetch(url)).json();
+      if (r.error) { $('status').textContent = r.error; return; }
+      renderPro(r);
+      $('status').textContent = `${r.stats.sweet_spot_count} sweet spot | ${r.stats.consensus_count} consensus | ${r.stats.total_games} total`;
+    }
+  } catch(e) { $('status').textContent = e.message; }
+}
+
+// ============ V3 Free rendering ============
+function renderV3(preds) {
+  $('gamesTitle').style.display = 'block';
+  $('gamesTitle').textContent = 'All Games';
+
+  // Sweet picks 수집 (TT 제외)
+  cachedSweet = [];
+  preds.forEach(p => {
+    (p.sweet_picks || []).forEach(sp => {
+      if (sp.type !== 'TT') {
+        cachedSweet.push({...sp, away_team: p.away_team, home_team: p.home_team,
+          away_pitcher: (p.away_pitcher||{}).name, home_pitcher: (p.home_pitcher||{}).name});
+      }
+    });
+  });
+  cachedSweet.sort((a,b) => b.conf - a.conf);
+
+  // 서브탭 표시 (TT 제거됨)
+  $('subTabs').style.display = 'flex';
+  $('proSubTabs').style.display = 'none';
+  $('ttControls').style.display = 'none';
+  currentSubTab = 'all';
+  document.querySelectorAll('#subTabs .sub-tab').forEach(t => t.classList.remove('active'));
+  document.querySelector('#subTabs .sub-tab:nth-child(1)').classList.add('active');
+  renderSubTabPicks();
+
+  const gradeOrder = {sweet_spot:0, good:1, lean:2, overconf:3, pass:4};
+  const sorted = [...preds].sort((a,b) => (gradeOrder[a.grade]||9) - (gradeOrder[b.grade]||9));
+
+  // Free: 좁은 카드만 (analysis 없음)
+  $('games').innerHTML = sorted.map(p => v3FreeCard(p)).join('');
+}
+
+function sweetPickCard(sp) {
+  const typeColor = {ML: 'A', OU: 'B', TT: 'C'}[sp.type] || 'C';
+  const typeLabel = {ML: 'ML', OU: 'GAME O/U', TT: 'TEAM TOTAL'}[sp.type] || sp.type;
+  const lu = sp.lineup || 'roster';
+  const luCls = lu === 'confirmed' ? 'lu-api' : lu === 'partial' ? 'lu-partial' : 'lu-default';
+  const luLabel = lu === 'confirmed' ? 'Lineup' : lu === 'partial' ? 'Partial' : `Roster (${sp.n_batters||'?'})`;
+  return `<div class="edge g-${typeColor}">
+    <div class="edge-top"><strong>${sp.away_team}@${sp.home_team}</strong>
+      <span class="edge-sp">${sp.away_pitcher||'?'} vs ${sp.home_pitcher||'?'}</span>
+      <span class="badge g-${typeColor}">${typeLabel}</span>
+      <span class="lineup-tag ${luCls}">${luLabel}</span></div>
+    <div class="edge-det"><strong>${sp.pick}</strong> (${(sp.conf*100).toFixed(0)}%) | ${sp.detail}</div></div>`;
+}
+
+function v3PickCard(p) {
+  if (!p.pick) return '';
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+  const badgeClass = p.grade === 'sweet_spot' ? 'A' : 'B';
+  return `<div class="edge g-${badgeClass}">
+    <div class="edge-top"><strong>${p.away_team}@${p.home_team}</strong>
+      <span class="edge-sp">${ap.name||'TBD'} vs ${hp.name||'TBD'}</span>
+      <span class="badge g-${badgeClass}">${p.grade_label}</span></div>
+    <div class="edge-det"><strong>${p.pick}</strong> (${(p.pick_prob*100).toFixed(0)}%) |
+      Score: ${ap.total_score||'?'} vs ${hp.total_score||'?'} |
+      F5 Total ${p.expected_total||'?'}</div></div>`;
+}
+
+// V3 Free: 좁은 카드 (analysis 없음)
+function v3FreeCard(p) {
+  if (!p.pick) {
+    return `<div class="game compact"><div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span></div>
+      <div class="sp">TBD vs TBD</div></div>`;
+  }
+
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+  let gradeBadge = '';
+  if (p.grade === 'sweet_spot') gradeBadge = '<span class="badge g-A">SWEET SPOT</span>';
+  else if (p.grade === 'good') gradeBadge = '<span class="badge g-B">GOOD</span>';
+  else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
+  else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
+
+  const timeStr = p.game_date_kst && p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
+
+  return `<div class="game compact">
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
+    <div class="sp">${ap.name||'TBD'} (${ap.throws||'?'}) vs ${hp.name||'TBD'} (${hp.throws||'?'})</div>
+    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob*100).toFixed(0)}%) | F5 Total: ${p.expected_total}
+      ${v3LineupTag(p)}</div>
+  </div>`;
+}
+
+// V3 Pro: 상세 카드 (analysis 포함)
+function v3GameCard(p) {
+  if (!p.pick) {
+    return `<div class="game"><div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span></div>
+      <div class="sp">TBD vs TBD</div></div>`;
+  }
+
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+  let gradeBadge = '';
+  if (p.grade === 'sweet_spot') gradeBadge = '<span class="badge g-A">SWEET SPOT</span>';
+  else if (p.grade === 'good') gradeBadge = '<span class="badge g-B">GOOD</span>';
+  else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
+  else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
+
+  const aw = Math.min(ap.total_score||50, 100);
+  const hw = Math.min(hp.total_score||50, 100);
+
+  const timeStr = p.game_date_kst && p.game_time_kst ? `<span class="game-time">${p.game_date_kst} ${p.game_time_kst} KST</span>` : '';
+
+  return `<div class="game">
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
+    <div class="sp">${ap.name||'TBD'} (${ap.throws||'?'}) vs ${hp.name||'TBD'} (${hp.throws||'?'})</div>
+    <div class="v3-scores">
+      <div class="v3-pitcher">
+        <div class="v3-name">${ap.name||'TBD'}${ap.no_data?' <span class="no-data-tag">NO DATA</span>':''} <span class="v3-total">${ap.total_score||'?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar away" style="width:${aw}%"></div></div>
+        <div class="v3-sub">Season ${ap.season_score||'?'} | Arsenal ${ap.arsenal_score||'?'} | Form ${ap.recent_form_score||'N/A'}${ap.home_away_adj ? ' | H/A '+(ap.home_away_adj>0?'+':'')+ap.home_away_adj : ''}</div>
+      </div>
+      <div class="v3-pitcher">
+        <div class="v3-name">${hp.name||'TBD'}${hp.no_data?' <span class="no-data-tag">NO DATA</span>':''} <span class="v3-total">${hp.total_score||'?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar home" style="width:${hw}%"></div></div>
+        <div class="v3-sub">Season ${hp.season_score||'?'} | Arsenal ${hp.arsenal_score||'?'} | Form ${hp.recent_form_score||'N/A'}${hp.home_away_adj ? ' | H/A '+(hp.home_away_adj>0?'+':'')+hp.home_away_adj : ''}</div>
+      </div>
+    </div>
+    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob*100).toFixed(0)}%) | F5 Total: ${p.expected_total}
+      ${v3LineupTag(p)}</div>
+    ${v3TeamTotals(p)}
+    ${v3PitchTable(p)}
+  </div>`;
+}
+
+function v3LineupTag(p) {
+  const am = p.away_matchup || {};
+  const hm = p.home_matchup || {};
+  const aSrc = am.lineup_source || 'roster';
+  const hSrc = hm.lineup_source || 'roster';
+  const aN = am.n_batters || '?';
+  const hN = hm.n_batters || '?';
+
+  if (aSrc === 'lineup' && hSrc === 'lineup') {
+    return '<span class="lineup-tag lu-api">Lineup Confirmed</span>';
+  } else if (aSrc === 'lineup' || hSrc === 'lineup') {
+    return '<span class="lineup-tag lu-partial">Partial Lineup</span>';
+  } else {
+    return `<span class="lineup-tag lu-default">Roster (${aN}+${hN})</span>`;
+  }
+}
+
+function v3TeamTotals(p) {
+  const att = p.away_team_total;
+  const htt = p.home_team_total;
+  if (!att || !htt) return '';
+
+  const awCls = att.gap >= 0.3 ? (att.pick === 'UNDER' ? 'tt-strong-u' : 'tt-strong-o') : '';
+  const hmCls = htt.gap >= 0.3 ? (htt.pick === 'UNDER' ? 'tt-strong-u' : 'tt-strong-o') : '';
+
+  // 바 형태로 예상 득점 시각화
+  const awBar = Math.min(att.expected / 5 * 100, 100);
+  const hmBar = Math.min(htt.expected / 5 * 100, 100);
+
+  return `<div class="team-totals">
+    <div class="tt-row">
+      <span class="tt-team">${p.away_team}</span>
+      <div class="tt-bar-wrap"><div class="tt-bar" style="width:${awBar}%"></div></div>
+      <span class="tt-exp">${att.expected}R</span>
+      <span class="tt-pick ${awCls}">${att.pick} ${att.line}</span>
+    </div>
+    <div class="tt-row">
+      <span class="tt-team">${p.home_team}</span>
+      <div class="tt-bar-wrap"><div class="tt-bar" style="width:${hmBar}%"></div></div>
+      <span class="tt-exp">${htt.expected}R</span>
+      <span class="tt-pick ${hmCls}">${htt.pick} ${htt.line}</span>
+    </div>
+  </div>`;
+}
+
+function v3PitchTable(p) {
+  const awayDetail = p.away_pitch_detail || [];
+  const homeDetail = p.home_pitch_detail || [];
+  if (!awayDetail.length && !homeDetail.length) return '';
+
+  let html = '<div class="v3-pitch-tables">';
+
+  if (awayDetail.length) {
+    html += `<div class="v3-pitch-tbl"><div class="v3-tbl-title">${(p.away_pitcher||{}).name||''} vs ${p.home_team}</div>
+    <table><tr><th>Pitch</th><th>Usage</th><th>P.xwOBA</th><th>Team</th><th>Lg</th><th>Adv</th></tr>`;
+    awayDetail.forEach(d => {
+      const cls = d.advantage > 0.005 ? 'adv-good' : d.advantage < -0.005 ? 'adv-bad' : '';
+      html += `<tr class="${cls}"><td>${d.pitch_type}</td><td>${(d.usage*100).toFixed(0)}%</td><td>${d.pitcher_xwoba.toFixed(3)}</td><td>${d.team_xwoba.toFixed(3)}</td><td>${d.league_xwoba.toFixed(3)}</td><td>${d.advantage>0?'+':''}${(d.advantage*1000).toFixed(0)}</td></tr>`;
+    });
+    html += '</table></div>';
+  }
+
+  if (homeDetail.length) {
+    html += `<div class="v3-pitch-tbl"><div class="v3-tbl-title">${(p.home_pitcher||{}).name||''} vs ${p.away_team}</div>
+    <table><tr><th>Pitch</th><th>Usage</th><th>P.xwOBA</th><th>Team</th><th>Lg</th><th>Adv</th></tr>`;
+    homeDetail.forEach(d => {
+      const cls = d.advantage > 0.005 ? 'adv-good' : d.advantage < -0.005 ? 'adv-bad' : '';
+      html += `<tr class="${cls}"><td>${d.pitch_type}</td><td>${(d.usage*100).toFixed(0)}%</td><td>${d.pitcher_xwoba.toFixed(3)}</td><td>${d.team_xwoba.toFixed(3)}</td><td>${d.league_xwoba.toFixed(3)}</td><td>${d.advantage>0?'+':''}${(d.advantage*1000).toFixed(0)}</td></tr>`;
+    });
+    html += '</table></div>';
+  }
+
+  html += '</div>';
+  return html;
+}
+
+// ============ V3 Pro (Consensus) rendering ============
+function renderPro(data) {
+  cachedProData = data;
+  const stats = data.stats || {};
+
+  // Summary
+  $('summary').style.display = 'flex';
+  $('summary').innerHTML = `
+    <div class="stat"><div class="stat-label">Sweet Spot</div><div class="stat-val">${stats.sweet_spot_count||0}<br><span class="stat-sub">ML 65-75%</span></div></div>
+    <div class="stat"><div class="stat-label">Consensus</div><div class="stat-val">${stats.consensus_count||0}<br><span class="stat-sub">V2+V3 agree</span></div></div>
+    <div class="stat"><div class="stat-label">O/U Agree</div><div class="stat-val">${stats.ou_consensus_count||0}<br><span class="stat-sub">V2+V3 O/U</span></div></div>`;
+
+  // Pro 서브탭 표시
+  $('subTabs').style.display = 'none';
+  $('proSubTabs').style.display = 'flex';
+  currentProSubTab = 'top';
+  $('ttControls').style.display = 'none';
+  document.querySelectorAll('#proSubTabs .sub-tab').forEach(t => t.classList.remove('active'));
+  document.querySelector('#proSubTabs .sub-tab:nth-child(1)').classList.add('active');
+
+  renderProMain();
+}
+
+function renderProMain() {
+  const topPicks = cachedProData.top_picks || [];
+  const allGames = cachedProData.all_games || [];
+
+  if (topPicks.length) {
+    $('picksTitle').textContent = `TOP ${topPicks.length} Picks (V2+V3)`;
+    $('edgePicks').style.display = 'block';
+    $('edgeList').innerHTML = topPicks.map(p => proPickCard(p)).join('');
+  }
+
+  const consensusGames = allGames.filter(p => p.tier !== 'disagree' && p.tier !== 'no_v2');
+  const disagreeGames = allGames.filter(p => p.tier === 'disagree' || p.tier === 'no_v2');
+
+  $('gamesTitle').style.display = 'block';
+  $('gamesTitle').textContent = `Consensus Games (${consensusGames.length})`;
+  let html = consensusGames.map(p => proGameCard(p)).join('');
+
+  if (disagreeGames.length) {
+    html += `<h2 style="color:#64748b;margin-top:20px">Disagree / Skip (${disagreeGames.length})</h2>`;
+    html += disagreeGames.map(p => proGameCard(p)).join('');
+  }
+  $('games').innerHTML = html;
+}
+
+function proPickCard(p) {
+  const typeColor = {ML: 'A', OU: 'B', TT: 'C'}[p.type] || 'C';
+  const typeLabel = {ML: 'ML', OU: 'GAME O/U', TT: 'TEAM TOTAL'}[p.type] || p.type;
+
+  let consensusTag = '';
+  if (p.type === 'ML' && p.ml_consensus) consensusTag = '<span class="badge g-A" style="font-size:0.6rem">V2 AGREE</span>';
+  else if (p.type === 'OU' && p.ou_consensus) consensusTag = '<span class="badge g-B" style="font-size:0.6rem">V2 AGREE</span>';
+
+  const v2Info = p.v2_conf ? ` | V2 ${(p.v2_conf*100).toFixed(0)}%` : '';
+  const lu = p.lineup || 'roster';
+  const luCls = lu === 'confirmed' ? 'lu-api' : lu === 'partial' ? 'lu-partial' : 'lu-default';
+  const luLabel = lu === 'confirmed' ? 'Lineup' : lu === 'partial' ? 'Partial' : `Roster (${p.n_batters||'?'})`;
+
+  return `<div class="edge g-${typeColor}">
+    <div class="edge-top"><strong>${p.away_team}@${p.home_team}</strong>
+      <span class="edge-sp">${p.away_pitcher||'?'} vs ${p.home_pitcher||'?'}</span>
+      <span class="badge g-${typeColor}">${typeLabel}</span>
+      ${consensusTag}
+      <span class="lineup-tag ${luCls}">${luLabel}</span></div>
+    <div class="edge-det"><strong>${p.pick}</strong> (${(p.conf*100).toFixed(0)}%)${v2Info} | ${p.detail}</div></div>`;
+}
+
+function proGameCard(p) {
+  if (!p.pick) {
+    return `<div class="game"><div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span></div>
+      <div class="sp">TBD</div></div>`;
+  }
+
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+
+  let badge = '';
+  if (p.tier === 'sweet_spot') badge = '<span class="badge g-A">SWEET SPOT</span>';
+  else if (p.tier === 'good') badge = '<span class="badge g-B">GOOD</span>';
+  else if (p.tier === 'consensus') badge = '<span class="badge g-C">CONSENSUS</span>';
+  else if (p.tier === 'disagree') badge = '<span class="badge g-FLAG">DISAGREE</span>';
+
+  const v2Info = p.v2_pick ? ` | V2: ${p.v2_pick} (${(p.v2_conf*100).toFixed(0)}%)` : '';
+  const ouTag = p.ou_consensus ? ' <span class="badge g-B" style="font-size:0.55rem">O/U AGREE</span>' : '';
+
+  const timeStr = p.game_date_kst && p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
+
+  const aw = Math.min(ap.total_score||50, 100);
+  const hw = Math.min(hp.total_score||50, 100);
+
+  return `<div class="game ${p.tier === 'disagree' ? 'disagree' : ''}">
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${badge}${ouTag}${timeStr}</div>
+    <div class="sp">${ap.name||'TBD'} (${ap.throws||'?'}) vs ${hp.name||'TBD'} (${hp.throws||'?'})</div>
+    <div class="v3-scores">
+      <div class="v3-pitcher">
+        <div class="v3-name">${ap.name||'TBD'}${ap.no_data?' <span class="no-data-tag">NO DATA</span>':''} <span class="v3-total">${ap.total_score||'?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar away" style="width:${aw}%"></div></div>
+        <div class="v3-sub">Season ${ap.season_score||'?'} | Arsenal ${ap.arsenal_score||'?'} | Form ${ap.recent_form_score||'N/A'}${ap.home_away_adj ? ' | H/A '+(ap.home_away_adj>0?'+':'')+ap.home_away_adj : ''}</div>
+      </div>
+      <div class="v3-pitcher">
+        <div class="v3-name">${hp.name||'TBD'}${hp.no_data?' <span class="no-data-tag">NO DATA</span>':''} <span class="v3-total">${hp.total_score||'?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar home" style="width:${hw}%"></div></div>
+        <div class="v3-sub">Season ${hp.season_score||'?'} | Arsenal ${hp.arsenal_score||'?'} | Form ${hp.recent_form_score||'N/A'}${hp.home_away_adj ? ' | H/A '+(hp.home_away_adj>0?'+':'')+hp.home_away_adj : ''}</div>
+      </div>
+    </div>
+    <div class="pred">V3: <strong>${p.pick}</strong> (${(p.pick_prob*100).toFixed(0)}%)${v2Info} | F5 Total: ${p.expected_total||'?'}
+      ${v3LineupTag(p)}</div>
+    ${v3TeamTotals(p)}
+    ${v3PitchTable(p)}
+  </div>`;
+}
+</script>
+</body>
+</html>

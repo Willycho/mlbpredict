@@ -1,0 +1,139 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#0f172a; color:#e2e8f0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+.container { max-width:800px; margin:0 auto; padding:16px; }
+header { text-align:center; padding:24px 0 16px; }
+h1 { font-size:1.8rem; color:#f8fafc; }
+.subtitle { color:#94a3b8; font-size:0.9rem; margin-top:4px; }
+h2 { font-size:1.2rem; color:#f8fafc; margin:20px 0 10px; }
+
+/* Tabs */
+.tabs { display:flex; gap:4px; margin-bottom:12px; }
+.tab { background:#1e293b; border:1px solid #334155; color:#94a3b8; padding:8px 20px; border-radius:6px 6px 0 0; cursor:pointer; font-weight:600; font-size:0.9rem; }
+.tab.active { background:#3b82f6; color:white; border-color:#3b82f6; }
+.tab.pro-tab { border-color:#eab308; color:#eab308; }
+.tab.pro-tab.active { background:linear-gradient(135deg, #eab308, #f59e0b); color:#000; border-color:#eab308; }
+.tab:hover:not(.active) { background:#334155; }
+
+/* Sub tabs */
+.sub-tabs { display:flex; gap:4px; margin-bottom:12px; }
+.sub-tab { background:#0f172a; border:1px solid #334155; color:#64748b; padding:5px 14px; border-radius:4px; cursor:pointer; font-weight:600; font-size:0.8rem; }
+.sub-tab.active { background:#334155; color:#e2e8f0; border-color:#475569; }
+.sub-tab:hover:not(.active) { background:#1e293b; }
+
+/* Controls */
+.controls { display:flex; gap:8px; align-items:center; margin-bottom:16px; flex-wrap:wrap; }
+.controls input { background:#1e293b; border:1px solid #334155; color:#e2e8f0; padding:8px 12px; border-radius:6px; font-size:0.9rem; }
+.controls button { background:#3b82f6; color:white; border:none; padding:8px 16px; border-radius:6px; cursor:pointer; font-weight:600; }
+.controls button:hover { background:#2563eb; }
+.controls button:nth-of-type(2) { background:#475569; }
+.controls button:nth-of-type(2):hover { background:#64748b; }
+#status { color:#94a3b8; font-size:0.85rem; margin-left:8px; }
+
+/* Summary */
+.summary { display:flex; gap:12px; margin-bottom:16px; }
+.stat { background:#1e293b; border-radius:8px; padding:12px 20px; flex:1; text-align:center; }
+.stat-label { color:#94a3b8; font-size:0.8rem; margin-bottom:4px; }
+.stat-val { font-size:1.3rem; font-weight:700; color:#f8fafc; }
+
+/* Legend */
+.legend { display:flex; gap:16px; margin-bottom:16px; font-size:0.8rem; color:#64748b; flex-wrap:wrap; }
+.legend span { cursor:help; border-bottom:1px dotted #475569; padding-bottom:1px; }
+
+/* Game cards */
+.game { background:#1e293b; border-radius:8px; padding:12px 16px; margin-bottom:8px; border-left:3px solid #334155; }
+.game.w { border-left-color:#22c55e; }
+.game.l { border-left-color:#ef4444; }
+.game-top { display:flex; align-items:center; gap:8px; margin-bottom:4px; }
+.matchup { font-weight:700; font-size:1rem; color:#f8fafc; }
+.sp { color:#94a3b8; font-size:0.85rem; margin-bottom:4px; }
+.pred { color:#cbd5e1; font-size:0.9rem; }
+.pred strong { color:#f8fafc; }
+.ml { color:#64748b; font-size:0.8rem; margin-left:auto; }
+.game-time { color:#64748b; font-size:0.75rem; margin-left:auto; }
+.res { margin-top:6px; font-weight:600; font-size:0.9rem; }
+.res.hit { color:#22c55e; }
+.res.miss { color:#ef4444; }
+.res.push { color:#eab308; }
+
+/* Badge */
+.badge { font-size:0.7rem; font-weight:700; padding:2px 6px; border-radius:4px; }
+.g-A { background:#22c55e; color:#000; }
+.g-B { background:#3b82f6; color:#fff; }
+.g-C { background:#eab308; color:#000; }
+.g-FLAG { background:#ef4444; color:#fff; }
+
+/* Edge cards */
+.edge { background:#1e293b; border-radius:8px; padding:12px 16px; margin-bottom:8px; border-left:3px solid #3b82f6; }
+.edge.g-A { border-left-color:#22c55e; }
+.edge.g-B { border-left-color:#3b82f6; }
+.edge.g-C { border-left-color:#eab308; }
+.edge-top { display:flex; align-items:center; gap:8px; margin-bottom:4px; }
+.edge-sp { color:#64748b; font-size:0.8rem; margin-left:4px; }
+.edge-det { color:#94a3b8; font-size:0.85rem; }
+.edge-det span { cursor:help; }
+.eres { font-weight:700; font-size:0.85rem; margin-left:auto; }
+.eres.hit { color:#22c55e; }
+.eres.miss { color:#ef4444; }
+
+/* Flag */
+.flag { background:#1e293b; border-left:3px solid #ef4444; border-radius:8px; padding:10px 16px; margin-bottom:8px; color:#f87171; font-size:0.85rem; }
+
+/* Underdog warning */
+.dog-warn { font-size:0.65rem; font-weight:700; padding:1px 5px; border-radius:3px; background:#f9731622; color:#f97316; border:1px solid #f9731644; cursor:help; }
+
+/* Lineup tag */
+.meta-line { margin-top:4px; }
+.lineup-tag { font-size:0.7rem; font-weight:600; padding:1px 6px; border-radius:3px; }
+.lu-api { background:#22c55e22; color:#22c55e; border:1px solid #22c55e44; }
+.lu-default { background:#ef444422; color:#ef4444; border:1px solid #ef444444; }
+.lu-partial { background:#eab30822; color:#eab308; border:1px solid #eab30844; }
+
+/* V3 Pitcher Model */
+.v3-scores { display:flex; flex-direction:column; gap:8px; margin:8px 0; }
+.v3-pitcher { background:#0f172a; border-radius:6px; padding:8px 12px; }
+.v3-name { font-weight:600; font-size:0.9rem; color:#e2e8f0; display:flex; justify-content:space-between; align-items:center; margin-bottom:4px; }
+.v3-total { font-size:1.1rem; font-weight:700; color:#f8fafc; }
+.v3-bar-wrap { background:#334155; border-radius:4px; height:8px; overflow:hidden; }
+.v3-bar { height:100%; border-radius:4px; transition:width 0.3s; }
+.v3-bar.away { background:linear-gradient(90deg, #3b82f6, #60a5fa); }
+.v3-bar.home { background:linear-gradient(90deg, #ef4444, #f87171); }
+.v3-sub { color:#64748b; font-size:0.75rem; margin-top:4px; }
+.no-data-tag { font-size:0.65rem; font-weight:700; padding:1px 5px; border-radius:3px; background:#ef444422; color:#ef4444; border:1px solid #ef444444; }
+.game.disagree { opacity:0.5; }
+.team-totals { display:flex; flex-direction:column; gap:4px; margin:6px 0; font-size:0.8rem; }
+.tt-row { display:flex; align-items:center; gap:6px; }
+.tt-team { width:32px; font-weight:600; color:#94a3b8; text-align:right; }
+.tt-bar-wrap { flex:1; background:#334155; border-radius:3px; height:6px; max-width:120px; }
+.tt-bar { height:100%; border-radius:3px; background:#60a5fa; }
+.tt-exp { color:#cbd5e1; font-weight:600; min-width:35px; }
+.tt-pick { color:#64748b; padding:1px 6px; border-radius:3px; font-size:0.75rem; }
+.tt-strong-u { color:#22c55e; background:#22c55e18; border:1px solid #22c55e44; font-weight:600; }
+.tt-strong-o { color:#f97316; background:#f9731618; border:1px solid #f9731644; font-weight:600; }
+.stat-sub { font-size:0.7rem; color:#94a3b8; font-weight:400; }
+
+.v3-pitch-tables { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
+.v3-pitch-tbl { flex:1; min-width:280px; }
+.v3-tbl-title { font-size:0.75rem; color:#94a3b8; margin-bottom:4px; font-weight:600; }
+.v3-pitch-tbl table { width:100%; border-collapse:collapse; font-size:0.75rem; }
+.v3-pitch-tbl th { background:#334155; color:#94a3b8; padding:3px 6px; text-align:left; font-weight:600; }
+.v3-pitch-tbl td { padding:3px 6px; border-bottom:1px solid #1e293b; color:#cbd5e1; }
+.v3-pitch-tbl tr.adv-good td { color:#22c55e; }
+.v3-pitch-tbl tr.adv-bad td { color:#f87171; }
+
+/* TT Controls */
+.tt-controls { display:flex; gap:8px; align-items:center; margin-bottom:12px; }
+.tt-label { color:#94a3b8; font-size:0.85rem; font-weight:600; }
+.tt-btn { background:#1e293b; border:1px solid #334155; color:#94a3b8; padding:5px 16px; border-radius:4px; cursor:pointer; font-weight:600; font-size:0.85rem; }
+.tt-btn.active { background:#eab308; color:#000; border-color:#eab308; }
+.tt-btn:hover:not(.active) { background:#334155; }
+
+/* Compact card */
+.game.compact { padding:10px 14px; }
+.game.tt-compact { padding:8px 14px; }
+
+/* Mobile */
+@media (max-width:600px) {
+  .container { padding:8px; }
+  h1 { font-size:1.3rem; }
+  .game { padding:10px 12px; }
+}

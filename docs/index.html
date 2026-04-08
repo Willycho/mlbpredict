@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MLB Predict — RSL Baseball V3</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>MLB Predict</h1>
+    <p class="subtitle">V3 Pitcher-Matchup Engine (GitHub Actions)</p>
+  </header>
+
+  <div class="controls">
+    <input type="date" id="datePicker" />
+    <button onclick="loadData()">Load</button>
+    <span id="status"></span>
+  </div>
+
+  <div id="subTabs" class="sub-tabs" style="display:none">
+    <button class="sub-tab active" onclick="switchSubTab('all')">ALL TOP 5</button>
+    <button class="sub-tab" onclick="switchSubTab('ml')">ML TOP 5</button>
+    <button class="sub-tab" onclick="switchSubTab('ou')">OU TOP 5</button>
+  </div>
+
+  <div id="edgePicks" style="display:none"><h2 id="picksTitle">Top Picks</h2><div id="edgeList"></div></div>
+  <h2 id="gamesTitle" style="display:none">All Games</h2>
+  <div id="games"></div>
+</div>
+
+<script>
+// GitHub raw URL base — replace with your repo
+const REPO_OWNER = 'Willycho';
+const REPO_NAME = 'mlbpredict';
+const BRANCH = 'main';
+const DATA_BASE = `https://cdn.jsdelivr.net/gh/${REPO_OWNER}/${REPO_NAME}@${BRANCH}/data/storage/predictions`;
+
+const $ = id => document.getElementById(id);
+let currentSubTab = 'all';
+let cachedSweet = [];
+let cachedGames = [];
+
+// KST 오늘
+const now = new Date();
+const kst = new Date(now.getTime() + 9 * 3600000);
+$('datePicker').value = kst.toISOString().slice(0, 10);
+
+async function loadData() {
+  const d = $('datePicker').value;
+  $('status').textContent = 'Loading...';
+  ['edgePicks','gamesTitle','subTabs'].forEach(id => $(id).style.display = 'none');
+  $('games').innerHTML = '';
+
+  try {
+    const manifestUrl = `${DATA_BASE}/${d}/manifest.json?_=${Date.now()}`;
+    const manifest = await (await fetch(manifestUrl)).json();
+    if (!manifest.games) { $('status').textContent = 'No data'; return; }
+
+    // 개별 경기 파일 병렬 fetch
+    const gameDataPromises = manifest.games.map(m =>
+      fetch(`${DATA_BASE}/${d}/${m.game_id}.json?_=${Date.now()}`).then(r => r.json()).catch(() => null)
+    );
+    const gameFiles = await Promise.all(gameDataPromises);
+
+    cachedGames = gameFiles.filter(g => g).map(gf => ({
+      ...gf.prediction,
+      _file: gf,
+    }));
+
+    // Sweet picks 수집
+    cachedSweet = [];
+    cachedGames.forEach(p => {
+      (p.sweet_picks || []).forEach(sp => {
+        if (sp.type !== 'TT') {
+          cachedSweet.push({
+            ...sp,
+            away_team: p.away_team,
+            home_team: p.home_team,
+            away_pitcher: (p.away_pitcher || {}).name,
+            home_pitcher: (p.home_pitcher || {}).name,
+          });
+        }
+      });
+    });
+    cachedSweet.sort((a, b) => b.conf - a.conf);
+
+    $('subTabs').style.display = 'flex';
+    currentSubTab = 'all';
+    document.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('.sub-tab:nth-child(1)').classList.add('active');
+    renderSubTabPicks();
+
+    // 경기 카드
+    const gradeOrder = { sweet_spot: 0, good: 1, lean: 2, overconf: 3, pass: 4 };
+    const sorted = [...cachedGames].sort((a, b) => (gradeOrder[a.grade] || 9) - (gradeOrder[b.grade] || 9));
+    $('gamesTitle').style.display = 'block';
+    $('gamesTitle').textContent = `All Games (${sorted.length})`;
+    $('games').innerHTML = sorted.map(p => gameCard(p)).join('');
+
+    const lastRefresh = manifest.last_modified_at || manifest.generated_at || '';
+    $('status').textContent = `${sorted.length} games | updated ${lastRefresh.slice(0, 16).replace('T', ' ')} UTC`;
+  } catch (e) {
+    $('status').textContent = `Error: ${e.message}`;
+  }
+}
+
+function switchSubTab(sub) {
+  currentSubTab = sub;
+  document.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+  const idx = { all: 1, ml: 2, ou: 3 }[sub] || 1;
+  document.querySelector(`.sub-tab:nth-child(${idx})`).classList.add('active');
+  renderSubTabPicks();
+}
+
+function renderSubTabPicks() {
+  let filtered, title;
+  if (currentSubTab === 'all') {
+    filtered = cachedSweet.slice(0, 5);
+    title = 'ALL TOP 5';
+  } else if (currentSubTab === 'ml') {
+    filtered = cachedSweet.filter(s => s.type === 'ML').slice(0, 5);
+    title = 'ML TOP 5';
+  } else {
+    filtered = cachedSweet.filter(s => s.type === 'OU').slice(0, 5);
+    title = 'OU TOP 5';
+  }
+
+  $('edgePicks').style.display = 'block';
+  if (filtered.length) {
+    $('picksTitle').textContent = `${title} (${filtered.length})`;
+    $('edgeList').innerHTML = filtered.map(sp => sweetPickCard(sp)).join('');
+  } else {
+    $('picksTitle').textContent = `${title} — No picks`;
+    $('edgeList').innerHTML = '<div style="color:#64748b;padding:12px">No qualifying picks</div>';
+  }
+}
+
+function sweetPickCard(sp) {
+  const typeColor = { ML: 'A', OU: 'B' }[sp.type] || 'C';
+  const typeLabel = { ML: 'ML', OU: 'GAME O/U' }[sp.type] || sp.type;
+  const lu = sp.lineup || 'roster';
+  const luCls = lu === 'confirmed' ? 'lu-api' : lu === 'partial' ? 'lu-partial' : 'lu-default';
+  const luLabel = lu === 'confirmed' ? 'Lineup' : lu === 'partial' ? 'Partial' : `Roster`;
+  return `<div class="edge g-${typeColor}">
+    <div class="edge-top"><strong>${sp.away_team}@${sp.home_team}</strong>
+      <span class="edge-sp">${sp.away_pitcher || '?'} vs ${sp.home_pitcher || '?'}</span>
+      <span class="badge g-${typeColor}">${typeLabel}</span>
+      <span class="lineup-tag ${luCls}">${luLabel}</span></div>
+    <div class="edge-det"><strong>${sp.pick}</strong> (${(sp.conf * 100).toFixed(0)}%) | ${sp.detail}</div></div>`;
+}
+
+function gameCard(p) {
+  if (!p.pick) {
+    return `<div class="game compact"><div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span></div>
+      <div class="sp">TBD</div></div>`;
+  }
+
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+  let gradeBadge = '';
+  if (p.grade === 'sweet_spot') gradeBadge = '<span class="badge g-A">SWEET SPOT</span>';
+  else if (p.grade === 'good') gradeBadge = '<span class="badge g-B">GOOD</span>';
+  else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
+  else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
+
+  const timeStr = p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
+  const refreshTag = p._file && p._file.refresh_type === 'per_game'
+    ? '<span class="lineup-tag lu-api">Refreshed</span>'
+    : '<span class="lineup-tag lu-default">Bulk</span>';
+
+  return `<div class="game compact">
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
+    <div class="sp">${ap.name || 'TBD'} (${ap.throws || '?'}) vs ${hp.name || 'TBD'} (${hp.throws || '?'})</div>
+    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}
+      ${refreshTag}</div>
+  </div>`;
+}
+
+loadData();
+</script>
+</body>
+</html>
