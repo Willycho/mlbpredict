@@ -306,17 +306,17 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "bailey ober",
       "pick": "DET",
-      "pick_prob": 0.678,
-      "expected_total": 4.1,
+      "pick_prob": 0.672,
+      "expected_total": 4.4,
       "v2_pick": "DET",
-      "v2_conf": 0.571,
+      "v2_conf": 0.562,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T23:22:59.389071+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-08T22:23:17.179841+00:00"
+  "last_modified_at": "2026-04-08T23:22:59.390148+00:00"
 }
