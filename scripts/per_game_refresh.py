@@ -30,8 +30,8 @@ STORAGE_ROOT = os.path.join(
 )
 
 # 경기 시작 몇 분 전부터 refresh 할지
-REFRESH_WINDOW_MIN_BEFORE = 60  # 60분 전부터
-REFRESH_WINDOW_MAX_BEFORE = 5   # 5분 전까지
+REFRESH_WINDOW_MIN_BEFORE = 180  # 180분 전부터 (Actions cron skip 대응)
+REFRESH_WINDOW_MAX_BEFORE = 5    # 5분 전까지
 
 
 def get_current_kst_date() -> str:
