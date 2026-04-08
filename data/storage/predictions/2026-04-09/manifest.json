@@ -1,40 +1,8 @@
 {
   "kst_date": "2026-04-09",
-  "generated_at": "2026-04-08T01:39:21.806617+00:00",
+  "generated_at": "2026-04-08T13:19:31.850038+00:00",
   "total_games": 15,
   "games": [
-    {
-      "game_id": 824779,
-      "away_team": "MIL",
-      "home_team": "BOS",
-      "game_time_kst": "",
-      "game_date_kst": "2026-04-09",
-      "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
-      "pick": null,
-      "pick_prob": null,
-      "expected_total": null,
-      "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
-      "refresh_type": "bulk_initial"
-    },
-    {
-      "game_id": 824374,
-      "away_team": "HOU",
-      "home_team": "COL",
-      "game_time_kst": "",
-      "game_date_kst": "2026-04-09",
-      "away_pitcher": "TBD",
-      "home_pitcher": "TBD",
-      "pick": null,
-      "pick_prob": null,
-      "expected_total": null,
-      "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
-      "refresh_type": "bulk_initial"
-    },
     {
       "game_id": 823403,
       "away_team": "SD",
@@ -45,10 +13,10 @@
       "home_pitcher": "mitch keller",
       "pick": "SD",
       "pick_prob": 0.624,
-      "expected_total": 4.4,
-      "f5_book_line": 4.5,
+      "expected_total": 3.8,
+      "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -61,10 +29,26 @@
       "home_pitcher": "joey cantillo",
       "pick": "KC",
       "pick_prob": 0.659,
-      "expected_total": 2.9,
+      "expected_total": 3.6,
       "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
+      "refresh_type": "bulk_initial"
+    },
+    {
+      "game_id": 824779,
+      "away_team": "MIL",
+      "home_team": "BOS",
+      "game_time_kst": "02:35",
+      "game_date_kst": "2026-04-09",
+      "away_pitcher": "Shane Drohan",
+      "home_pitcher": "sonny gray",
+      "pick": "BOS",
+      "pick_prob": 0.607,
+      "expected_total": 4.0,
+      "f5_book_line": 3.5,
+      "lineup_source": "roster",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -77,10 +61,10 @@
       "home_pitcher": "sean burke",
       "pick": "BAL",
       "pick_prob": 0.867,
-      "expected_total": 3.7,
-      "f5_book_line": null,
+      "expected_total": 3.4,
+      "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -93,10 +77,10 @@
       "home_pitcher": "mackenzie gore",
       "pick": "SEA",
       "pick_prob": 0.737,
-      "expected_total": 3.8,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -109,10 +93,26 @@
       "home_pitcher": "dylan cease",
       "pick": "LAD",
       "pick_prob": 0.675,
-      "expected_total": 2.9,
-      "f5_book_line": 3.5,
+      "expected_total": 3.1,
+      "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
+      "refresh_type": "bulk_initial"
+    },
+    {
+      "game_id": 824374,
+      "away_team": "HOU",
+      "home_team": "COL",
+      "game_time_kst": "04:10",
+      "game_date_kst": "2026-04-09",
+      "away_pitcher": "cristian javier",
+      "home_pitcher": "michael lorenzen",
+      "pick": "HOU",
+      "pick_prob": 0.63,
+      "expected_total": 5.3,
+      "f5_book_line": 6.5,
+      "lineup_source": "roster",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.6,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "miles mikolas",
       "pick": "STL",
       "pick_prob": 0.56,
-      "expected_total": 4.7,
+      "expected_total": 4.9,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "reid detmers",
       "pick": "LAA",
       "pick_prob": 0.669,
-      "expected_total": 3.7,
+      "expected_total": 4.0,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "david peterson",
       "pick": "AZ",
       "pick_prob": 0.508,
-      "expected_total": 4.2,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -190,9 +190,9 @@
       "pick": "TB",
       "pick_prob": 0.504,
       "expected_total": 4.2,
-      "f5_book_line": null,
+      "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -206,9 +206,9 @@
       "pick": "MIA",
       "pick_prob": 0.717,
       "expected_total": 3.4,
-      "f5_book_line": null,
+      "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.728,
-      "expected_total": 5.0,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     },
     {
@@ -237,10 +237,10 @@
       "home_pitcher": "bailey ober",
       "pick": "DET",
       "pick_prob": 0.678,
-      "expected_total": 3.6,
-      "f5_book_line": null,
+      "expected_total": 4.1,
+      "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     }
   ]

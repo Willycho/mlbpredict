@@ -1,8 +1,8 @@
 {
   "game_id": 824050,
   "kst_date": "2026-04-09",
-  "bulk_fetched_at": "2026-04-08T01:39:21.806617+00:00",
-  "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+  "bulk_fetched_at": "2026-04-08T13:19:31.850038+00:00",
+  "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
   "refresh_type": "bulk_initial",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,28 +55,20 @@
     "win_prob_home": 0.669,
     "pick": "LAA",
     "pick_prob": 0.669,
-    "expected_total": 3.7,
+    "expected_total": 4.0,
     "away_team_total": {
-      "expected": 1.52,
+      "expected": 1.64,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.02
+      "gap": 0.14
     },
     "home_team_total": {
-      "expected": 2.18,
+      "expected": 2.36,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.32
+      "gap": 0.14
     },
     "sweet_picks": [
-      {
-        "lineup": "roster",
-        "n_batters": "18+18",
-        "type": "OU",
-        "pick": "F5 UNDER 4.5",
-        "conf": 0.767,
-        "detail": "Expected 3.7 vs line 4.5"
-      },
       {
         "lineup": "roster",
         "n_batters": "18+18",
@@ -88,15 +80,19 @@
       {
         "lineup": "roster",
         "n_batters": "18+18",
-        "type": "TT",
-        "pick": "LAA UNDER 2.5",
-        "conf": 0.66,
-        "detail": "Expected 2.18"
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.667,
+        "detail": "Expected 4.0 vs line 4.5"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 6.7,
+      "direction": "out",
+      "adj": 0.2
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SL",

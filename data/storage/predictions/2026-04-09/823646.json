@@ -1,8 +1,8 @@
 {
   "game_id": 823646,
   "kst_date": "2026-04-09",
-  "bulk_fetched_at": "2026-04-08T01:39:21.806617+00:00",
-  "last_refreshed_at": "2026-04-08T01:39:21.806617+00:00",
+  "bulk_fetched_at": "2026-04-08T13:19:31.850038+00:00",
+  "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
   "refresh_type": "bulk_initial",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.492,
     "pick": "AZ",
     "pick_prob": 0.508,
-    "expected_total": 4.2,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.15,
+      "expected": 2.3,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.35
+      "gap": 0.2
     },
     "home_team_total": {
-      "expected": 2.05,
+      "expected": 2.2,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.45
+      "gap": 0.3
     },
     "sweet_picks": [
       {
@@ -74,21 +74,17 @@
         "n_batters": "15+21",
         "type": "TT",
         "pick": "NYM UNDER 2.5",
-        "conf": 0.725,
-        "detail": "Expected 2.05"
-      },
-      {
-        "lineup": "roster",
-        "n_batters": "15+21",
-        "type": "TT",
-        "pick": "AZ UNDER 2.5",
-        "conf": 0.675,
-        "detail": "Expected 2.15"
+        "conf": 0.65,
+        "detail": "Expected 2.2"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
-    "wind": null,
+    "wind": {
+      "speed_mph": 9.9,
+      "direction": "out",
+      "adj": 0.21
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
