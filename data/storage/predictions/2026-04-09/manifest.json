@@ -140,12 +140,12 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "miles mikolas",
       "pick": "STL",
-      "pick_prob": 0.56,
+      "pick_prob": 0.531,
       "expected_total": 4.9,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:40:56.792435+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824050,
@@ -156,12 +156,12 @@
       "away_pitcher": "grant holmes",
       "home_pitcher": "reid detmers",
       "pick": "LAA",
-      "pick_prob": 0.669,
-      "expected_total": 4.0,
+      "pick_prob": 0.697,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:40:57.674316+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823646,
@@ -172,12 +172,12 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "david peterson",
       "pick": "AZ",
-      "pick_prob": 0.508,
+      "pick_prob": 0.609,
       "expected_total": 4.5,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:40:58.553574+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823000,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-08T18:05:26.886588+00:00"
+  "last_modified_at": "2026-04-08T19:40:58.554145+00:00"
 }
