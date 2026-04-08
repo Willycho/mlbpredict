@@ -28,12 +28,12 @@
       "away_pitcher": "cole ragans",
       "home_pitcher": "joey cantillo",
       "pick": "KC",
-      "pick_prob": 0.659,
+      "pick_prob": 0.703,
       "expected_total": 3.6,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T16:46:45.986423+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824779,
@@ -44,12 +44,12 @@
       "away_pitcher": "Shane Drohan",
       "home_pitcher": "sonny gray",
       "pick": "BOS",
-      "pick_prob": 0.607,
+      "pick_prob": 0.643,
       "expected_total": 4.0,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T16:46:46.766523+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824617,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-08T15:44:06.625776+00:00"
+  "last_modified_at": "2026-04-08T16:46:46.767056+00:00"
 }
