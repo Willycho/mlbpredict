@@ -180,17 +180,17 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "miles mikolas",
       "pick": "STL",
-      "pick_prob": 0.56,
+      "pick_prob": 0.531,
       "expected_total": 4.9,
       "v2_pick": "STL",
-      "v2_conf": 0.501,
+      "v2_conf": 0.534,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:52:17.345574+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824050,
@@ -201,17 +201,17 @@
       "away_pitcher": "grant holmes",
       "home_pitcher": "reid detmers",
       "pick": "LAA",
-      "pick_prob": 0.669,
-      "expected_total": 3.7,
+      "pick_prob": 0.697,
+      "expected_total": 4.1,
       "v2_pick": "ATL",
-      "v2_conf": 0.528,
+      "v2_conf": 0.552,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:52:19.821504+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823646,
@@ -222,17 +222,17 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "david peterson",
       "pick": "AZ",
-      "pick_prob": 0.508,
-      "expected_total": 4.2,
-      "v2_pick": "AZ",
-      "v2_conf": 0.521,
-      "consensus": true,
+      "pick_prob": 0.609,
+      "expected_total": 4.5,
+      "v2_pick": "NYM",
+      "v2_conf": 0.514,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T19:52:22.312463+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823000,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-08T18:46:21.046186+00:00"
+  "last_modified_at": "2026-04-08T19:52:22.312996+00:00"
 }
