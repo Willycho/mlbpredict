@@ -12,12 +12,12 @@
       "away_pitcher": "mike king",
       "home_pitcher": "mitch keller",
       "pick": "SD",
-      "pick_prob": 0.624,
+      "pick_prob": 0.608,
       "expected_total": 3.8,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T15:44:06.625147+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824455,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-08T15:44:06.625776+00:00"
 }
