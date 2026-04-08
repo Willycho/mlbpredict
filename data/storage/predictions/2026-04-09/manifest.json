@@ -76,12 +76,12 @@
       "away_pitcher": "bryan woo",
       "home_pitcher": "mackenzie gore",
       "pick": "SEA",
-      "pick_prob": 0.737,
-      "expected_total": 4.1,
+      "pick_prob": 0.726,
+      "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T18:05:26.885959+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822833,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-08T16:46:46.767056+00:00"
+  "last_modified_at": "2026-04-08T18:05:26.886588+00:00"
 }
