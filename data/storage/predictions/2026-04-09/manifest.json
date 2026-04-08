@@ -188,12 +188,12 @@
       "away_pitcher": "colin rea",
       "home_pitcher": "joe boyle",
       "pick": "TB",
-      "pick_prob": 0.504,
+      "pick_prob": 0.572,
       "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T22:00:18.529748+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823885,
@@ -204,12 +204,12 @@
       "away_pitcher": "brady singer",
       "home_pitcher": "eury pérez",
       "pick": "MIA",
-      "pick_prob": 0.717,
-      "expected_total": 3.4,
+      "pick_prob": 0.712,
+      "expected_total": 3.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T22:00:20.459181+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823564,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-08T19:40:58.554145+00:00"
+  "last_modified_at": "2026-04-08T22:00:20.459763+00:00"
 }
