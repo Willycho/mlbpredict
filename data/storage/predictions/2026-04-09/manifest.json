@@ -220,12 +220,12 @@
       "away_pitcher": "luis severino",
       "home_pitcher": "will warren",
       "pick": "NYY",
-      "pick_prob": 0.728,
+      "pick_prob": 0.743,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T22:54:25.317142+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823726,
@@ -236,13 +236,13 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "bailey ober",
       "pick": "DET",
-      "pick_prob": 0.678,
-      "expected_total": 4.1,
+      "pick_prob": 0.672,
+      "expected_total": 4.4,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:19:31.850038+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T22:54:26.175286+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-08T22:00:20.459763+00:00"
+  "last_modified_at": "2026-04-08T22:54:26.175911+00:00"
 }
