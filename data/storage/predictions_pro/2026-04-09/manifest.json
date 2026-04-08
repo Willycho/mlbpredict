@@ -54,17 +54,17 @@
       "away_pitcher": "Shane Drohan",
       "home_pitcher": "sonny gray",
       "pick": "BOS",
-      "pick_prob": 0.607,
+      "pick_prob": 0.643,
       "expected_total": 4.0,
       "v2_pick": "BOS",
-      "v2_conf": 0.533,
+      "v2_conf": 0.522,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-08T17:19:21.201746+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824617,
@@ -75,17 +75,17 @@
       "away_pitcher": "kyle bradish",
       "home_pitcher": "sean burke",
       "pick": "BAL",
-      "pick_prob": 0.867,
+      "pick_prob": 0.877,
       "expected_total": 3.5,
       "v2_pick": "BAL",
-      "v2_conf": 0.584,
+      "v2_conf": 0.561,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-08T13:57:18.776148+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-08T17:19:24.393104+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822915,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-08T16:03:04.144317+00:00"
+  "last_modified_at": "2026-04-08T17:19:24.393618+00:00"
 }
