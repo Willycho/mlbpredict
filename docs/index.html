@@ -176,12 +176,18 @@ function sweetPickCard(sp) {
     <div class="edge-det"><strong>${sp.pick}</strong> (${(sp.conf * 100).toFixed(0)}%) | ${sp.detail}</div></div>`;
 }
 
+// Free = 좁은 카드, Pro = 상세 (투수 바 + 구종 테이블 + 팀토탈)
 function gameCard(p) {
   if (!p.pick) {
     return `<div class="game compact"><div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span></div>
       <div class="sp">TBD</div></div>`;
   }
 
+  if (currentTab === 'pro') return proGameCard(p);
+  return freeGameCard(p);
+}
+
+function freeGameCard(p) {
   const ap = p.away_pitcher || {};
   const hp = p.home_pitcher || {};
   let gradeBadge = '';
@@ -190,26 +196,130 @@ function gameCard(p) {
   else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
   else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
 
-  // Pro에서만 V2 컨센서스 뱃지 표시
-  let consensusBadge = '';
-  if (currentTab === 'pro') {
-    if (p.consensus === true) consensusBadge = '<span class="badge g-A" style="font-size:0.6rem">V2 AGREE</span>';
-    else if (p.consensus === false) consensusBadge = '<span class="badge g-FLAG" style="font-size:0.6rem">DISAGREE</span>';
-  }
-
   const timeStr = p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
   const refreshTag = p._file && p._file.refresh_type === 'per_game'
     ? '<span class="lineup-tag lu-api">Refreshed</span>'
     : '<span class="lineup-tag lu-default">Bulk</span>';
 
-  const v2Info = (currentTab === 'pro' && p.v2_pick) ? ` | V2: ${p.v2_pick} (${(p.v2_conf * 100).toFixed(0)}%)` : '';
-
   return `<div class="game compact">
-    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${consensusBadge}${timeStr}</div>
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
     <div class="sp">${ap.name || 'TBD'} (${ap.throws || '?'}) vs ${hp.name || 'TBD'} (${hp.throws || '?'})</div>
-    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}${v2Info}
+    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}
       ${refreshTag}</div>
   </div>`;
+}
+
+function proGameCard(p) {
+  const ap = p.away_pitcher || {};
+  const hp = p.home_pitcher || {};
+
+  let gradeBadge = '';
+  if (p.grade === 'sweet_spot') gradeBadge = '<span class="badge g-A">SWEET SPOT</span>';
+  else if (p.grade === 'good') gradeBadge = '<span class="badge g-B">GOOD</span>';
+  else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
+  else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
+
+  let consensusBadge = '';
+  if (p.consensus === true) consensusBadge = '<span class="badge g-A" style="font-size:0.6rem">V2 AGREE</span>';
+  else if (p.consensus === false) consensusBadge = '<span class="badge g-FLAG" style="font-size:0.6rem">DISAGREE</span>';
+
+  const ouBadge = p.ou_consensus ? '<span class="badge g-B" style="font-size:0.55rem">O/U AGREE</span>' : '';
+
+  const timeStr = p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
+
+  const aw = Math.min(ap.total_score || 50, 100);
+  const hw = Math.min(hp.total_score || 50, 100);
+
+  const v2Info = p.v2_pick ? ` | V2: <strong>${p.v2_pick}</strong> (${(p.v2_conf * 100).toFixed(0)}%)` : '';
+
+  return `<div class="game">
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${consensusBadge}${ouBadge}${timeStr}</div>
+    <div class="sp">${ap.name || 'TBD'} (${ap.throws || '?'}) vs ${hp.name || 'TBD'} (${hp.throws || '?'})</div>
+    <div class="v3-scores">
+      <div class="v3-pitcher">
+        <div class="v3-name">${ap.name || 'TBD'}${ap.no_data ? ' <span class="no-data-tag">NO DATA</span>' : ''} <span class="v3-total">${ap.total_score || '?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar away" style="width:${aw}%"></div></div>
+        <div class="v3-sub">Season ${ap.season_score || '?'} | Arsenal ${ap.arsenal_score || '?'} | Form ${ap.recent_form_score || 'N/A'}${ap.home_away_adj ? ' | H/A ' + (ap.home_away_adj > 0 ? '+' : '') + ap.home_away_adj : ''}</div>
+      </div>
+      <div class="v3-pitcher">
+        <div class="v3-name">${hp.name || 'TBD'}${hp.no_data ? ' <span class="no-data-tag">NO DATA</span>' : ''} <span class="v3-total">${hp.total_score || '?'}</span></div>
+        <div class="v3-bar-wrap"><div class="v3-bar home" style="width:${hw}%"></div></div>
+        <div class="v3-sub">Season ${hp.season_score || '?'} | Arsenal ${hp.arsenal_score || '?'} | Form ${hp.recent_form_score || 'N/A'}${hp.home_away_adj ? ' | H/A ' + (hp.home_away_adj > 0 ? '+' : '') + hp.home_away_adj : ''}</div>
+      </div>
+    </div>
+    <div class="pred">V3: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%)${v2Info} | F5 Total: ${p.expected_total}
+      ${proLineupTag(p)}</div>
+    ${proTeamTotals(p)}
+    ${proPitchTable(p)}
+  </div>`;
+}
+
+function proLineupTag(p) {
+  const am = p.away_matchup || {};
+  const hm = p.home_matchup || {};
+  const aSrc = am.lineup_source || 'roster';
+  const hSrc = hm.lineup_source || 'roster';
+  const aN = am.n_batters || '?';
+  const hN = hm.n_batters || '?';
+
+  if (aSrc === 'lineup' && hSrc === 'lineup') return '<span class="lineup-tag lu-api">Lineup Confirmed</span>';
+  if (aSrc === 'lineup' || hSrc === 'lineup') return '<span class="lineup-tag lu-partial">Partial Lineup</span>';
+  return `<span class="lineup-tag lu-default">Roster (${aN}+${hN})</span>`;
+}
+
+function proTeamTotals(p) {
+  const att = p.away_team_total;
+  const htt = p.home_team_total;
+  if (!att || !htt) return '';
+  const awCls = att.gap >= 0.3 ? (att.pick === 'UNDER' ? 'tt-strong-u' : 'tt-strong-o') : '';
+  const hmCls = htt.gap >= 0.3 ? (htt.pick === 'UNDER' ? 'tt-strong-u' : 'tt-strong-o') : '';
+  const awBar = Math.min(att.expected / 5 * 100, 100);
+  const hmBar = Math.min(htt.expected / 5 * 100, 100);
+  return `<div class="team-totals">
+    <div class="tt-row">
+      <span class="tt-team">${p.away_team}</span>
+      <div class="tt-bar-wrap"><div class="tt-bar" style="width:${awBar}%"></div></div>
+      <span class="tt-exp">${att.expected}R</span>
+      <span class="tt-pick ${awCls}">${att.pick} ${att.line}</span>
+    </div>
+    <div class="tt-row">
+      <span class="tt-team">${p.home_team}</span>
+      <div class="tt-bar-wrap"><div class="tt-bar" style="width:${hmBar}%"></div></div>
+      <span class="tt-exp">${htt.expected}R</span>
+      <span class="tt-pick ${hmCls}">${htt.pick} ${htt.line}</span>
+    </div>
+  </div>`;
+}
+
+function proPitchTable(p) {
+  const awayDetail = p.away_pitch_detail || [];
+  const homeDetail = p.home_pitch_detail || [];
+  if (!awayDetail.length && !homeDetail.length) return '';
+
+  let html = '<div class="v3-pitch-tables">';
+
+  if (awayDetail.length) {
+    html += `<div class="v3-pitch-tbl"><div class="v3-tbl-title">${(p.away_pitcher || {}).name || ''} vs ${p.home_team}</div>
+      <table><tr><th>Pitch</th><th>Usage</th><th>P.xwOBA</th><th>Team</th><th>Lg</th><th>Adv</th></tr>`;
+    awayDetail.forEach(d => {
+      const cls = d.advantage > 0.005 ? 'adv-good' : d.advantage < -0.005 ? 'adv-bad' : '';
+      html += `<tr class="${cls}"><td>${d.pitch_type}</td><td>${(d.usage * 100).toFixed(0)}%</td><td>${d.pitcher_xwoba.toFixed(3)}</td><td>${d.team_xwoba.toFixed(3)}</td><td>${d.league_xwoba.toFixed(3)}</td><td>${d.advantage > 0 ? '+' : ''}${(d.advantage * 1000).toFixed(0)}</td></tr>`;
+    });
+    html += '</table></div>';
+  }
+
+  if (homeDetail.length) {
+    html += `<div class="v3-pitch-tbl"><div class="v3-tbl-title">${(p.home_pitcher || {}).name || ''} vs ${p.away_team}</div>
+      <table><tr><th>Pitch</th><th>Usage</th><th>P.xwOBA</th><th>Team</th><th>Lg</th><th>Adv</th></tr>`;
+    homeDetail.forEach(d => {
+      const cls = d.advantage > 0.005 ? 'adv-good' : d.advantage < -0.005 ? 'adv-bad' : '';
+      html += `<tr class="${cls}"><td>${d.pitch_type}</td><td>${(d.usage * 100).toFixed(0)}%</td><td>${d.pitcher_xwoba.toFixed(3)}</td><td>${d.team_xwoba.toFixed(3)}</td><td>${d.league_xwoba.toFixed(3)}</td><td>${d.advantage > 0 ? '+' : ''}${(d.advantage * 1000).toFixed(0)}</td></tr>`;
+    });
+    html += '</table></div>';
+  }
+
+  html += '</div>';
+  return html;
 }
 
 loadData();
