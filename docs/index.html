@@ -10,8 +10,13 @@
 <div class="container">
   <header>
     <h1>MLB Predict</h1>
-    <p class="subtitle">V3 Pitcher-Matchup Engine (GitHub Actions)</p>
+    <p class="subtitle">V3 Pitcher-Matchup + V2 Monte Carlo (GitHub Actions)</p>
   </header>
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('free')">V3 Free</button>
+    <button class="tab pro-tab" onclick="switchTab('pro')">V2+V3 Pro</button>
+  </div>
 
   <div class="controls">
     <input type="date" id="datePicker" />
@@ -35,12 +40,24 @@
 const REPO_OWNER = 'Willycho';
 const REPO_NAME = 'mlbpredict';
 const BRANCH = 'main';
-const DATA_BASE = `https://cdn.jsdelivr.net/gh/${REPO_OWNER}/${REPO_NAME}@${BRANCH}/data/storage/predictions`;
+const DATA_BASES = {
+  free: `https://cdn.jsdelivr.net/gh/${REPO_OWNER}/${REPO_NAME}@${BRANCH}/data/storage/predictions`,
+  pro: `https://cdn.jsdelivr.net/gh/${REPO_OWNER}/${REPO_NAME}@${BRANCH}/data/storage/predictions_pro`,
+};
 
 const $ = id => document.getElementById(id);
+let currentTab = 'free';
 let currentSubTab = 'all';
 let cachedSweet = [];
 let cachedGames = [];
+let cachedManifest = null;
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelector(`.tab:nth-child(${tab === 'free' ? 1 : 2})`).classList.add('active');
+  loadData();
+}
 
 // KST 오늘
 const now = new Date();
@@ -49,18 +66,20 @@ $('datePicker').value = kst.toISOString().slice(0, 10);
 
 async function loadData() {
   const d = $('datePicker').value;
-  $('status').textContent = 'Loading...';
+  const base = DATA_BASES[currentTab];
+  $('status').textContent = `Loading ${currentTab.toUpperCase()}...`;
   ['edgePicks','gamesTitle','subTabs'].forEach(id => $(id).style.display = 'none');
   $('games').innerHTML = '';
 
   try {
-    const manifestUrl = `${DATA_BASE}/${d}/manifest.json?_=${Date.now()}`;
+    const manifestUrl = `${base}/${d}/manifest.json?_=${Date.now()}`;
     const manifest = await (await fetch(manifestUrl)).json();
     if (!manifest.games) { $('status').textContent = 'No data'; return; }
+    cachedManifest = manifest;
 
     // 개별 경기 파일 병렬 fetch
     const gameDataPromises = manifest.games.map(m =>
-      fetch(`${DATA_BASE}/${d}/${m.game_id}.json?_=${Date.now()}`).then(r => r.json()).catch(() => null)
+      fetch(`${base}/${d}/${m.game_id}.json?_=${Date.now()}`).then(r => r.json()).catch(() => null)
     );
     const gameFiles = await Promise.all(gameDataPromises);
 
@@ -70,21 +89,27 @@ async function loadData() {
     }));
 
     // Sweet picks 수집
-    cachedSweet = [];
-    cachedGames.forEach(p => {
-      (p.sweet_picks || []).forEach(sp => {
-        if (sp.type !== 'TT') {
-          cachedSweet.push({
-            ...sp,
-            away_team: p.away_team,
-            home_team: p.home_team,
-            away_pitcher: (p.away_pitcher || {}).name,
-            home_pitcher: (p.home_pitcher || {}).name,
-          });
-        }
+    // - Free: V3 sweet_picks 전부
+    // - Pro: manifest.top_picks 사용 (이미 V2 컨센서스 필터링됨)
+    if (currentTab === 'pro' && manifest.top_picks) {
+      cachedSweet = manifest.top_picks;
+    } else {
+      cachedSweet = [];
+      cachedGames.forEach(p => {
+        (p.sweet_picks || []).forEach(sp => {
+          if (sp.type !== 'TT') {
+            cachedSweet.push({
+              ...sp,
+              away_team: p.away_team,
+              home_team: p.home_team,
+              away_pitcher: (p.away_pitcher || {}).name,
+              home_pitcher: (p.home_pitcher || {}).name,
+            });
+          }
+        });
       });
-    });
-    cachedSweet.sort((a, b) => b.conf - a.conf);
+      cachedSweet.sort((a, b) => b.conf - a.conf);
+    }
 
     $('subTabs').style.display = 'flex';
     currentSubTab = 'all';
@@ -165,15 +190,24 @@ function gameCard(p) {
   else if (p.grade === 'lean') gradeBadge = '<span class="badge g-C">LEAN</span>';
   else if (p.grade === 'overconf') gradeBadge = '<span class="badge g-FLAG">HIGH CONF</span>';
 
+  // Pro에서만 V2 컨센서스 뱃지 표시
+  let consensusBadge = '';
+  if (currentTab === 'pro') {
+    if (p.consensus === true) consensusBadge = '<span class="badge g-A" style="font-size:0.6rem">V2 AGREE</span>';
+    else if (p.consensus === false) consensusBadge = '<span class="badge g-FLAG" style="font-size:0.6rem">DISAGREE</span>';
+  }
+
   const timeStr = p.game_time_kst ? `<span class="game-time">${p.game_time_kst} KST</span>` : '';
   const refreshTag = p._file && p._file.refresh_type === 'per_game'
     ? '<span class="lineup-tag lu-api">Refreshed</span>'
     : '<span class="lineup-tag lu-default">Bulk</span>';
 
+  const v2Info = (currentTab === 'pro' && p.v2_pick) ? ` | V2: ${p.v2_pick} (${(p.v2_conf * 100).toFixed(0)}%)` : '';
+
   return `<div class="game compact">
-    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
+    <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${consensusBadge}${timeStr}</div>
     <div class="sp">${ap.name || 'TBD'} (${ap.throws || '?'}) vs ${hp.name || 'TBD'} (${hp.throws || '?'})</div>
-    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}
+    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}${v2Info}
       ${refreshTag}</div>
   </div>`;
 }

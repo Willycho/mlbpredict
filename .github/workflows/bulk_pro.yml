@@ -1,0 +1,70 @@
+name: Daily Bulk Predict (Pro)
+
+on:
+  schedule:
+    # KST 21:05 = UTC 12:05 (free와 5분 차이로 동시 충돌 방지)
+    - cron: '5 12 * * *'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target KST date (YYYY-MM-DD). Empty = auto'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  bulk-pro:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pybind11
+
+      - name: Cache C++ build
+        uses: actions/cache@v4
+        with:
+          path: |
+            engine/cpp/*.so
+            engine/cpp/*.pyd
+          key: cpp-${{ runner.os }}-${{ hashFiles('engine/cpp/sim_core.cpp', 'engine/cpp/sim_core.h') }}
+
+      - name: Build C++ extension
+        run: |
+          if ! ls engine/cpp/*.so 1> /dev/null 2>&1; then
+            python setup.py build_ext --inplace
+          else
+            echo "C++ build cached, skipping"
+          fi
+
+      - name: Run daily bulk pro predict
+        env:
+          ODDS_API_KEY_PRIMARY: ${{ secrets.ODDS_API_KEY_PRIMARY }}
+          ODDS_API_KEY_BACKUP1: ${{ secrets.ODDS_API_KEY_BACKUP1 }}
+          ODDS_API_KEY_BACKUP2: ${{ secrets.ODDS_API_KEY_BACKUP2 }}
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            python scripts/daily_bulk_pro.py --date "${{ github.event.inputs.target_date }}"
+          else
+            python scripts/daily_bulk_pro.py
+          fi
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add data/storage/predictions_pro/
+          git diff --cached --quiet || git commit -m "chore: daily bulk pro $(date -u +%Y-%m-%d)"
+          git push || echo "nothing to push"

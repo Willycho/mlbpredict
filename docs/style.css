@@ -6,6 +6,13 @@ h1 { font-size:1.8rem; color:#f8fafc; }
 .subtitle { color:#94a3b8; font-size:0.9rem; margin-top:4px; }
 h2 { font-size:1.2rem; color:#f8fafc; margin:20px 0 10px; }
 
+.tabs { display:flex; gap:4px; margin-bottom:12px; }
+.tab { background:#1e293b; border:1px solid #334155; color:#94a3b8; padding:8px 20px; border-radius:6px 6px 0 0; cursor:pointer; font-weight:600; font-size:0.9rem; }
+.tab.active { background:#3b82f6; color:white; border-color:#3b82f6; }
+.tab.pro-tab { border-color:#eab308; color:#eab308; }
+.tab.pro-tab.active { background:linear-gradient(135deg, #eab308, #f59e0b); color:#000; border-color:#eab308; }
+.tab:hover:not(.active) { background:#334155; }
+
 .sub-tabs { display:flex; gap:4px; margin-bottom:12px; }
 .sub-tab { background:#0f172a; border:1px solid #334155; color:#64748b; padding:5px 14px; border-radius:4px; cursor:pointer; font-weight:600; font-size:0.8rem; }
 .sub-tab.active { background:#334155; color:#e2e8f0; border-color:#475569; }
