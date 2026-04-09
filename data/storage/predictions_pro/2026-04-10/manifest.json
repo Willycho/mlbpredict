@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T14:18:10.503211+00:00",
+      "last_refreshed_at": "2026-04-09T15:59:29.595800+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -33,17 +33,17 @@
       "away_pitcher": "jeffrey springs",
       "home_pitcher": "ryan weathers",
       "pick": "NYY",
-      "pick_prob": 0.708,
-      "expected_total": 4.3,
+      "pick_prob": 0.702,
+      "expected_total": 4.4,
       "v2_pick": "NYY",
-      "v2_conf": 0.51,
+      "v2_conf": 0.528,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:54:32.570566+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T15:59:32.739904+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823724,
@@ -54,17 +54,17 @@
       "away_pitcher": "jack flaherty",
       "home_pitcher": "mick abel",
       "pick": "DET",
-      "pick_prob": 0.701,
-      "expected_total": 4.8,
+      "pick_prob": 0.708,
+      "expected_total": 4.4,
       "v2_pick": "DET",
-      "v2_conf": 0.545,
+      "v2_conf": 0.574,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:54:32.570566+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T15:59:45.343413+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823645,
@@ -149,23 +149,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823565,
-      "away_team": "ATH",
-      "home_team": "NYY",
-      "away_pitcher": "jeffrey springs",
-      "home_pitcher": "ryan weathers",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.51,
-      "lineup": "roster",
-      "n_batters": "15+22",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.708,
-      "detail": "F5 NYY ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 823724,
       "away_team": "DET",
       "home_team": "MIN",
@@ -173,13 +156,30 @@
       "home_pitcher": "mick abel",
       "tier": "sweet_spot",
       "v2_pick": "DET",
-      "v2_conf": 0.545,
-      "lineup": "roster",
-      "n_batters": "20+17",
+      "v2_conf": 0.574,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 DET",
-      "conf": 0.701,
+      "conf": 0.708,
       "detail": "F5 DET ML",
+      "ml_consensus": true
+    },
+    {
+      "game_id": 823565,
+      "away_team": "ATH",
+      "home_team": "NYY",
+      "away_pitcher": "jeffrey springs",
+      "home_pitcher": "ryan weathers",
+      "tier": "sweet_spot",
+      "v2_pick": "NYY",
+      "v2_conf": 0.528,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 NYY",
+      "conf": 0.702,
+      "detail": "F5 NYY ML",
       "ml_consensus": true
     },
     {
@@ -223,5 +223,5 @@
     "sweet_spot_count": 4,
     "total_games": 6
   },
-  "last_modified_at": "2026-04-09T14:18:10.503763+00:00"
+  "last_modified_at": "2026-04-09T15:59:45.343947+00:00"
 }
