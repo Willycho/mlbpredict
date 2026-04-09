@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T21:32:27.205681+00:00",
+      "last_refreshed_at": "2026-04-09T22:23:40.046973+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "seth lugo",
       "pick": "KC",
       "pick_prob": 0.708,
-      "expected_total": 5.7,
+      "expected_total": 5.8,
       "v2_pick": "KC",
       "v2_conf": 0.539,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T21:32:29.544393+00:00",
+      "last_refreshed_at": "2026-04-09T22:23:42.708841+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,8 +144,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 5.7 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 5.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -223,5 +223,5 @@
     "sweet_spot_count": 4,
     "total_games": 6
   },
-  "last_modified_at": "2026-04-09T21:32:29.544976+00:00"
+  "last_modified_at": "2026-04-09T22:23:42.709429+00:00"
 }
