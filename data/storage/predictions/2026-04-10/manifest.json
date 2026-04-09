@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T21:03:30.428121+00:00",
+      "last_refreshed_at": "2026-04-09T21:58:27.855154+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,12 +93,12 @@
       "home_pitcher": "seth lugo",
       "pick": "KC",
       "pick_prob": 0.708,
-      "expected_total": 5.7,
+      "expected_total": 5.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T21:03:31.055167+00:00",
+      "last_refreshed_at": "2026-04-09T21:58:28.451308+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-09T21:03:31.055741+00:00"
+  "last_modified_at": "2026-04-09T21:58:28.451847+00:00"
 }
