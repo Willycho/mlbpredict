@@ -76,12 +76,12 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.671,
-      "expected_total": 4.2,
+      "pick_prob": 0.595,
+      "expected_total": 4.1,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:53:13.277180+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T21:03:30.428121+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824130,
@@ -92,13 +92,13 @@
       "away_pitcher": "anthony kay",
       "home_pitcher": "seth lugo",
       "pick": "KC",
-      "pick_prob": 0.682,
+      "pick_prob": 0.708,
       "expected_total": 5.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:53:13.277180+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T21:03:31.055167+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-09T16:42:47.130692+00:00"
+  "last_modified_at": "2026-04-09T21:03:31.055741+00:00"
 }
