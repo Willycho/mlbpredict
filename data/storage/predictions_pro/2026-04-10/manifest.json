@@ -34,7 +34,7 @@
       "home_pitcher": "ryan weathers",
       "pick": "NYY",
       "pick_prob": 0.702,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "v2_pick": "NYY",
       "v2_conf": 0.528,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T15:59:32.739904+00:00",
+      "last_refreshed_at": "2026-04-09T17:20:25.165487+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,15 +55,15 @@
       "home_pitcher": "mick abel",
       "pick": "DET",
       "pick_prob": 0.708,
-      "expected_total": 4.4,
+      "expected_total": 4.6,
       "v2_pick": "DET",
       "v2_conf": 0.574,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-09T15:59:45.343413+00:00",
+      "last_refreshed_at": "2026-04-09T17:20:27.933078+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,5 +223,5 @@
     "sweet_spot_count": 4,
     "total_games": 6
   },
-  "last_modified_at": "2026-04-09T15:59:45.343947+00:00"
+  "last_modified_at": "2026-04-09T17:20:27.933604+00:00"
 }
