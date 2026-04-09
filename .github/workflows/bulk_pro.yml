@@ -2,8 +2,8 @@ name: Daily Bulk Predict (Pro)
 
 on:
   schedule:
-    # KST 21:05 = UTC 12:05 (free와 5분 차이로 동시 충돌 방지)
-    - cron: '5 12 * * *'
+    # KST 21:11 = UTC 12:11 (free와 offset + 정시 회피)
+    - cron: '11 12 * * *'
   workflow_dispatch:
     inputs:
       target_date:

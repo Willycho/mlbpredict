@@ -2,8 +2,8 @@ name: Daily Bulk Predict
 
 on:
   schedule:
-    # KST 21:00 = UTC 12:00
-    - cron: '0 12 * * *'
+    # KST 21:03 = UTC 12:03 (정시 회피, Actions 부하 분산)
+    - cron: '3 12 * * *'
   workflow_dispatch:
     inputs:
       target_date:
