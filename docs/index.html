@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MLB Predict — RSL Baseball V3</title>
-<link rel="stylesheet" href="style.css?v=2">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <div class="container">
@@ -187,6 +187,21 @@ function gameCard(p) {
   return freeGameCard(p);
 }
 
+// OU 픽 추출 — sweet_picks 우선, 없으면 expected vs line으로 fallback
+function getOUPick(p) {
+  const sp = (p.sweet_picks || []).find(s => s.type === 'OU');
+  if (sp) {
+    return { pick: sp.pick, conf: sp.conf, sweet: true };
+  }
+  // Fallback: expected_total vs f5 line
+  const line = (p._file && p._file.f5_book_line) || 4.5;
+  const exp = p.expected_total;
+  if (exp == null) return null;
+  const dir = exp > line ? 'OVER' : 'UNDER';
+  const gap = Math.abs(exp - line);
+  return { pick: `F5 ${dir} ${line}`, conf: Math.min(gap / 3.0 + 0.5, 0.95), sweet: false };
+}
+
 function freeGameCard(p) {
   const ap = p.away_pitcher || {};
   const hp = p.home_pitcher || {};
@@ -201,11 +216,16 @@ function freeGameCard(p) {
     ? '<span class="lineup-tag lu-api">Refreshed</span>'
     : '<span class="lineup-tag lu-default">Bulk</span>';
 
+  const ou = getOUPick(p);
+  const ouHtml = ou
+    ? `<div class="pred-ou"><strong>${ou.pick}</strong> (${(ou.conf * 100).toFixed(0)}%)${ou.sweet ? ' <span class="ou-sweet">★</span>' : ''} | Expected ${p.expected_total}</div>`
+    : '';
+
   return `<div class="game compact">
     <div class="game-top"><span class="matchup">${p.away_team} @ ${p.home_team}</span>${gradeBadge}${timeStr}</div>
     <div class="sp">${ap.name || 'TBD'} (${ap.throws || '?'}) vs ${hp.name || 'TBD'} (${hp.throws || '?'})</div>
-    <div class="pred">PICK: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) | F5 Total: ${p.expected_total}
-      ${refreshTag}</div>
+    <div class="pred">ML: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%) ${refreshTag}</div>
+    ${ouHtml}
   </div>`;
 }
 
@@ -247,11 +267,19 @@ function proGameCard(p) {
         <div class="v3-sub">Season ${hp.season_score || '?'} | Arsenal ${hp.arsenal_score || '?'} | Form ${hp.recent_form_score || 'N/A'}${hp.home_away_adj ? ' | H/A ' + (hp.home_away_adj > 0 ? '+' : '') + hp.home_away_adj : ''}</div>
       </div>
     </div>
-    <div class="pred">V3: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%)${v2Info} | F5 Total: ${p.expected_total}
+    <div class="pred">ML V3: <strong>${p.pick}</strong> (${(p.pick_prob * 100).toFixed(0)}%)${v2Info}
       ${proLineupTag(p)}</div>
+    ${proOUBlock(p)}
     ${proTeamTotals(p)}
     ${proPitchTable(p)}
   </div>`;
+}
+
+function proOUBlock(p) {
+  const ou = getOUPick(p);
+  if (!ou) return '';
+  const star = ou.sweet ? ' <span class="ou-sweet">★ V2+V3 consensus</span>' : '';
+  return `<div class="pred-ou"><strong>${ou.pick}</strong> (${(ou.conf * 100).toFixed(0)}%)${star} | Expected ${p.expected_total}</div>`;
 }
 
 function proLineupTag(p) {
