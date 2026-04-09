@@ -12,17 +12,17 @@
       "away_pitcher": "rhett lowder",
       "home_pitcher": "max meyer",
       "pick": "CIN",
-      "pick_prob": 0.503,
+      "pick_prob": 0.553,
       "expected_total": 4.1,
       "v2_pick": "CIN",
-      "v2_conf": 0.595,
+      "v2_conf": 0.601,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:54:32.570566+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T14:18:10.503211+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823565,
@@ -222,5 +222,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 4,
     "total_games": 6
-  }
+  },
+  "last_modified_at": "2026-04-09T14:18:10.503763+00:00"
 }
