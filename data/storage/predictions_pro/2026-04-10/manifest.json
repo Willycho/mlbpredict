@@ -75,17 +75,17 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.671,
-      "expected_total": 4.2,
+      "pick_prob": 0.595,
+      "expected_total": 4.1,
       "v2_pick": "NYM",
-      "v2_conf": 0.587,
+      "v2_conf": 0.575,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "ou_consensus": true,
+      "tier": "consensus",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:54:32.570566+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T20:37:39.773907+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824130,
@@ -183,6 +183,23 @@
       "ml_consensus": true
     },
     {
+      "game_id": 823645,
+      "away_team": "AZ",
+      "home_team": "NYM",
+      "away_pitcher": "eduardo rodríguez",
+      "home_pitcher": "nolan mclean",
+      "tier": "consensus",
+      "v2_pick": "NYM",
+      "v2_conf": 0.575,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 3.5",
+      "conf": 0.7,
+      "detail": "Expected 4.1 vs line 3.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824130,
       "away_team": "CWS",
       "home_team": "KC",
@@ -198,23 +215,6 @@
       "conf": 0.682,
       "detail": "F5 KC ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823645,
-      "away_team": "AZ",
-      "home_team": "NYM",
-      "away_pitcher": "eduardo rodríguez",
-      "home_pitcher": "nolan mclean",
-      "tier": "sweet_spot",
-      "v2_pick": "NYM",
-      "v2_conf": 0.587,
-      "lineup": "roster",
-      "n_batters": "15+21",
-      "type": "ML",
-      "pick": "F5 NYM",
-      "conf": 0.671,
-      "detail": "F5 NYM ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -223,5 +223,5 @@
     "sweet_spot_count": 4,
     "total_games": 6
   },
-  "last_modified_at": "2026-04-09T17:20:27.933604+00:00"
+  "last_modified_at": "2026-04-09T20:37:39.774437+00:00"
 }
