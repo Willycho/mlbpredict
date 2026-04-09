@@ -28,11 +28,11 @@
       "away_pitcher": "rhett lowder",
       "home_pitcher": "max meyer",
       "pick": "CIN",
-      "pick_prob": 0.536,
-      "expected_total": 4.1,
+      "pick_prob": 0.553,
+      "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T13:26:51.136771+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T15:08:10.526315+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "jeffrey springs",
       "home_pitcher": "ryan weathers",
       "pick": "NYY",
-      "pick_prob": 0.708,
-      "expected_total": 4.3,
+      "pick_prob": 0.702,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:53:13.277180+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T15:08:11.207512+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823724,
@@ -60,12 +60,12 @@
       "away_pitcher": "jack flaherty",
       "home_pitcher": "mick abel",
       "pick": "DET",
-      "pick_prob": 0.701,
-      "expected_total": 4.8,
+      "pick_prob": 0.708,
+      "expected_total": 4.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-09T12:53:13.277180+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-09T15:08:11.884877+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823645,
@@ -100,5 +100,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-09T13:26:51.137339+00:00"
+  "last_modified_at": "2026-04-09T15:08:11.885512+00:00"
 }
