@@ -12,16 +12,16 @@
       "away_pitcher": "carmen mlodzinski",
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
-      "pick_prob": 0.526,
-      "expected_total": 3.8,
-      "v2_pick": "PIT",
-      "v2_conf": 0.501,
-      "consensus": false,
+      "pick_prob": 0.529,
+      "expected_total": 3.7,
+      "v2_pick": "CHC",
+      "v2_conf": 0.504,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T16:38:18.023752+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T17:38:55.481962+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-10T16:38:18.037828+00:00"
+  "last_modified_at": "2026-04-10T17:38:55.482554+00:00"
 }
