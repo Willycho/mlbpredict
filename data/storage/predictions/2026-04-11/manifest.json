@@ -189,10 +189,10 @@
       "home_pitcher": "dustin may",
       "pick": "BOS",
       "pick_prob": 0.822,
-      "expected_total": 3.5,
+      "expected_total": 3.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:56:55.960330+00:00",
+      "last_refreshed_at": "2026-04-10T23:36:42.728571+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 5.1,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:56:56.781818+00:00",
+      "last_refreshed_at": "2026-04-10T23:36:43.586986+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "emerson hancock",
       "pick": "HOU",
       "pick_prob": 0.629,
-      "expected_total": 4.8,
+      "expected_total": 4.6,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:57:07.131054+00:00",
+      "last_refreshed_at": "2026-04-10T23:36:44.379470+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -237,12 +237,12 @@
       "home_pitcher": "tyler glasnow",
       "pick": "LAD",
       "pick_prob": 0.838,
-      "expected_total": 4.0,
+      "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T23:36:45.297656+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-10T22:57:07.131660+00:00"
+  "last_modified_at": "2026-04-10T23:36:45.298221+00:00"
 }
