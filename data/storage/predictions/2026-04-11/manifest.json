@@ -77,10 +77,10 @@
       "home_pitcher": "patrick corbin",
       "pick": "TOR",
       "pick_prob": 0.586,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:12.173780+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:50.691322+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:12.920323+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:51.534093+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:13.232345+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:51.715371+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:14.010146+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:52.565685+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:14.806771+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:53.390523+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 3.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:15.584659+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:54.247251+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "aaron ashby",
       "pick": "MIL",
       "pick_prob": 0.86,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:26.023606+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:55.090118+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "dustin may",
       "pick": "BOS",
       "pick_prob": 0.822,
-      "expected_total": 3.7,
+      "expected_total": 3.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T22:03:36.453276+00:00",
+      "last_refreshed_at": "2026-04-10T22:56:55.960330+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "walker buehler",
       "pick": "SD",
-      "pick_prob": 0.559,
-      "expected_total": 4.9,
+      "pick_prob": 0.509,
+      "expected_total": 5.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T22:56:56.781818+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823156,
@@ -220,12 +220,12 @@
       "away_pitcher": "Tatsuya Imai",
       "home_pitcher": "emerson hancock",
       "pick": "HOU",
-      "pick_prob": 0.616,
+      "pick_prob": 0.629,
       "expected_total": 4.8,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T22:57:07.131054+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823968,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-10T22:03:36.453989+00:00"
+  "last_modified_at": "2026-04-10T22:57:07.131660+00:00"
 }

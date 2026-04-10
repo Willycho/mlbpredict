@@ -2,7 +2,7 @@
   "game_id": 822829,
   "kst_date": "2026-04-11",
   "bulk_fetched_at": "2026-04-10T13:43:08.508010+00:00",
-  "last_refreshed_at": "2026-04-10T22:03:12.173780+00:00",
+  "last_refreshed_at": "2026-04-10T22:56:50.691322+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.586,
     "pick": "TOR",
     "pick_prob": 0.586,
-    "expected_total": 4.3,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.07,
+      "expected": 2.17,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.43
+      "gap": 0.33
     },
     "home_team_total": {
-      "expected": 2.23,
+      "expected": 2.33,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.27
+      "gap": 0.17
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "MIN UNDER 2.5",
-        "conf": 0.715,
-        "detail": "Expected 2.07"
+        "conf": 0.665,
+        "detail": "Expected 2.17"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 4.3,
-      "direction": "in",
-      "adj": -0.12
+      "speed_mph": 1.9,
+      "direction": "calm",
+      "adj": 0.0
     },
     "away_pitch_detail": [
       {
