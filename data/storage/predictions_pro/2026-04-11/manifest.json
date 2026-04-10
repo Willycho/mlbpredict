@@ -34,7 +34,7 @@
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
       "pick_prob": 0.566,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "PHI",
       "v2_conf": 0.527,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:06:49.752730+00:00",
+      "last_refreshed_at": "2026-04-10T20:56:22.673034+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "keider montero",
       "pick": "DET",
       "pick_prob": 0.62,
-      "expected_total": 5.3,
+      "expected_total": 5.4,
       "v2_pick": "DET",
       "v2_conf": 0.501,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:06:52.977132+00:00",
+      "last_refreshed_at": "2026-04-10T20:56:25.667861+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:07:06.135355+00:00",
+      "last_refreshed_at": "2026-04-10T20:56:38.190780+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,17 +96,17 @@
       "away_pitcher": "simeon woods richardson",
       "home_pitcher": "patrick corbin",
       "pick": "TOR",
-      "pick_prob": 0.581,
-      "expected_total": 4.1,
+      "pick_prob": 0.586,
+      "expected_total": 4.5,
       "v2_pick": "TOR",
-      "v2_conf": 0.529,
+      "v2_conf": 0.523,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:56:50.833934+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823643,
@@ -117,17 +117,17 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "clay holmes",
       "pick": "ATH",
-      "pick_prob": 0.575,
-      "expected_total": 4.4,
+      "pick_prob": 0.581,
+      "expected_total": 4.3,
       "v2_pick": "NYM",
-      "v2_conf": 0.567,
+      "v2_conf": 0.563,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:56:53.488991+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822997,
@@ -138,7 +138,7 @@
       "away_pitcher": "luis gil",
       "home_pitcher": "steven matz",
       "pick": "TB",
-      "pick_prob": 0.564,
+      "pick_prob": 0.571,
       "expected_total": 4.4,
       "v2_pick": "NYY",
       "v2_conf": 0.521,
@@ -146,9 +146,9 @@
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:56:55.773717+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824858,
@@ -159,17 +159,17 @@
       "away_pitcher": "landen roupp",
       "home_pitcher": "shane baz",
       "pick": "BAL",
-      "pick_prob": 0.525,
-      "expected_total": 4.4,
-      "v2_pick": "BAL",
-      "v2_conf": 0.5,
-      "consensus": true,
+      "pick_prob": 0.564,
+      "expected_total": 4.3,
+      "v2_pick": "SF",
+      "v2_conf": 0.51,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:56:58.530851+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824941,
@@ -180,17 +180,17 @@
       "away_pitcher": "slade cecconi",
       "home_pitcher": "bryce elder",
       "pick": "ATL",
-      "pick_prob": 0.628,
-      "expected_total": 4.8,
+      "pick_prob": 0.594,
+      "expected_total": 4.9,
       "v2_pick": "ATL",
-      "v2_conf": 0.517,
+      "v2_conf": 0.509,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:57:01.094196+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824128,
@@ -201,17 +201,17 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "kris bubic",
       "pick": "KC",
-      "pick_prob": 0.763,
-      "expected_total": 3.8,
+      "pick_prob": 0.786,
+      "expected_total": 4.2,
       "v2_pick": "KC",
-      "v2_conf": 0.579,
+      "v2_conf": 0.559,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:57:13.459081+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823808,
@@ -220,19 +220,19 @@
       "game_time_kst": "08:40",
       "game_date_kst": "2026-04-11",
       "away_pitcher": "jake irvin",
-      "home_pitcher": "chad patrick",
+      "home_pitcher": "aaron ashby",
       "pick": "MIL",
-      "pick_prob": 0.791,
-      "expected_total": 4.4,
+      "pick_prob": 0.852,
+      "expected_total": 4.1,
       "v2_pick": "MIL",
-      "v2_conf": 0.555,
+      "v2_conf": 0.578,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-10T20:57:16.735049+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823076,
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 5.3 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 5.4 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824128,
-      "away_team": "CWS",
-      "home_team": "KC",
-      "away_pitcher": "davis martin",
-      "home_pitcher": "kris bubic",
-      "tier": "consensus",
-      "v2_pick": "KC",
-      "v2_conf": 0.579,
-      "lineup": "roster",
-      "n_batters": "19+20",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 3.8 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823318,
       "away_team": "COL",
       "home_team": "SD",
@@ -387,6 +370,23 @@
       "conf": 0.667,
       "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824941,
+      "away_team": "CLE",
+      "home_team": "ATL",
+      "away_pitcher": "slade cecconi",
+      "home_pitcher": "bryce elder",
+      "tier": "consensus",
+      "v2_pick": "ATL",
+      "v2_conf": 0.509,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -395,5 +395,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-10T20:07:06.135975+00:00"
+  "last_modified_at": "2026-04-10T20:57:16.735607+00:00"
 }
