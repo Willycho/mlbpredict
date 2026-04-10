@@ -13,10 +13,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
       "pick_prob": 0.529,
-      "expected_total": 3.8,
+      "expected_total": 3.7,
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T17:07:31.702063+00:00",
+      "last_refreshed_at": "2026-04-10T18:00:55.289975+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-10T17:07:31.702719+00:00"
+  "last_modified_at": "2026-04-10T18:00:55.290593+00:00"
 }
