@@ -2,7 +2,7 @@
   "game_id": 824941,
   "kst_date": "2026-04-11",
   "bulk_fetched_at": "2026-04-10T13:49:26.304520+00:00",
-  "last_refreshed_at": "2026-04-10T21:54:10.120510+00:00",
+  "last_refreshed_at": "2026-04-10T22:54:36.246785+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,36 +55,23 @@
     "win_prob_home": 0.594,
     "pick": "ATL",
     "pick_prob": 0.594,
-    "expected_total": 4.9,
+    "expected_total": 4.8,
     "away_team_total": {
-      "expected": 2.44,
+      "expected": 2.39,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.06
+      "gap": 0.11
     },
     "home_team_total": {
-      "expected": 2.46,
+      "expected": 2.41,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.04
+      "gap": 0.09
     },
-    "sweet_picks": [
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 OVER 4.5",
-        "conf": 0.633,
-        "detail": "Expected 4.9 vs line 4.5"
-      }
-    ],
+    "sweet_picks": [],
     "grade": "lean",
     "grade_label": "LEAN",
-    "wind": {
-      "speed_mph": 3.3,
-      "direction": "out",
-      "adj": 0.08
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",

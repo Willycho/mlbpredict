@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:53:46.949127+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:04.823974+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:53:50.449306+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:08.001095+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:53:53.453158+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:10.798272+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:54:06.590203+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:23.568112+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "bryce elder",
       "pick": "ATL",
       "pick_prob": 0.594,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "v2_pick": "ATL",
       "v2_conf": 0.509,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:54:10.120510+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:36.246785+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:54:13.624815+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:39.225192+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "aaron ashby",
       "pick": "MIL",
       "pick_prob": 0.86,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "v2_pick": "MIL",
       "v2_conf": 0.595,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:54:26.788354+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:42.259890+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "dustin may",
       "pick": "BOS",
       "pick_prob": 0.822,
-      "expected_total": 3.7,
+      "expected_total": 3.5,
       "v2_pick": "BOS",
       "v2_conf": 0.58,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T21:54:39.897669+00:00",
+      "last_refreshed_at": "2026-04-10T22:54:45.292604+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "walker buehler",
       "pick": "SD",
-      "pick_prob": 0.559,
+      "pick_prob": 0.509,
       "expected_total": 5.0,
       "v2_pick": "SD",
-      "v2_conf": 0.531,
+      "v2_conf": 0.503,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T22:54:58.014000+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823156,
@@ -285,17 +285,17 @@
       "away_pitcher": "Tatsuya Imai",
       "home_pitcher": "emerson hancock",
       "pick": "HOU",
-      "pick_prob": 0.616,
+      "pick_prob": 0.629,
       "expected_total": 4.8,
       "v2_pick": "SEA",
-      "v2_conf": 0.505,
+      "v2_conf": 0.5,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T22:55:10.934875+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823968,
@@ -321,6 +321,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 823076,
+      "away_team": "BOS",
+      "home_team": "STL",
+      "away_pitcher": "connelly early",
+      "home_pitcher": "dustin may",
+      "tier": "consensus",
+      "v2_pick": "BOS",
+      "v2_conf": 0.58,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824297,
       "away_team": "MIA",
       "home_team": "DET",
@@ -335,23 +352,6 @@
       "pick": "F5 OVER 4.5",
       "conf": 0.767,
       "detail": "Expected 5.3 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823076,
-      "away_team": "BOS",
-      "home_team": "STL",
-      "away_pitcher": "connelly early",
-      "home_pitcher": "dustin may",
-      "tier": "consensus",
-      "v2_pick": "BOS",
-      "v2_conf": 0.58,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -379,30 +379,13 @@
       "home_pitcher": "walker buehler",
       "tier": "consensus",
       "v2_pick": "SD",
-      "v2_conf": 0.531,
-      "lineup": "roster",
-      "n_batters": "15+22",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824941,
-      "away_team": "CLE",
-      "home_team": "ATL",
-      "away_pitcher": "slade cecconi",
-      "home_pitcher": "bryce elder",
-      "tier": "consensus",
-      "v2_pick": "ATL",
-      "v2_conf": 0.509,
+      "v2_conf": 0.503,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -412,5 +395,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-10T21:54:39.898240+00:00"
+  "last_modified_at": "2026-04-10T22:55:10.935352+00:00"
 }
