@@ -33,17 +33,17 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.593,
+      "pick_prob": 0.566,
       "expected_total": 4.1,
       "v2_pick": "PHI",
-      "v2_conf": 0.53,
+      "v2_conf": 0.527,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:06:49.752730+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824297,
@@ -54,17 +54,17 @@
       "away_pitcher": "chris paddack",
       "home_pitcher": "keider montero",
       "pick": "DET",
-      "pick_prob": 0.586,
+      "pick_prob": 0.62,
       "expected_total": 5.3,
       "v2_pick": "DET",
-      "v2_conf": 0.511,
+      "v2_conf": 0.501,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "good",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:06:52.977132+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824534,
@@ -75,17 +75,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "chase burns",
       "pick": "CIN",
-      "pick_prob": 0.808,
-      "expected_total": 5.0,
+      "pick_prob": 0.812,
+      "expected_total": 4.5,
       "v2_pick": "CIN",
-      "v2_conf": 0.635,
+      "v2_conf": 0.633,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T20:07:06.135355+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822829,
@@ -326,11 +326,11 @@
       "home_team": "DET",
       "away_pitcher": "chris paddack",
       "home_pitcher": "keider montero",
-      "tier": "consensus",
+      "tier": "good",
       "v2_pick": "DET",
-      "v2_conf": 0.511,
-      "lineup": "roster",
-      "n_batters": "17+21",
+      "v2_conf": 0.501,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.767,
@@ -372,23 +372,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824534,
-      "away_team": "LAA",
-      "home_team": "CIN",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "chase burns",
-      "tier": "consensus",
-      "v2_pick": "CIN",
-      "v2_conf": 0.635,
-      "lineup": "roster",
-      "n_batters": "17+18",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823318,
       "away_team": "COL",
       "home_team": "SD",
@@ -412,5 +395,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-10T17:38:55.482554+00:00"
+  "last_modified_at": "2026-04-10T20:07:06.135975+00:00"
 }
