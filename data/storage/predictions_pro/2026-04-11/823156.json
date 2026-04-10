@@ -1,0 +1,147 @@
+{
+  "game_id": 823156,
+  "kst_date": "2026-04-11",
+  "bulk_fetched_at": "2026-04-10T13:49:26.304520+00:00",
+  "last_refreshed_at": "2026-04-10T13:49:26.304520+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": 4.5,
+  "prediction": {
+    "game_id": 823156,
+    "away_team": "HOU",
+    "home_team": "SEA",
+    "game_time_kst": "10:40",
+    "game_date_kst": "2026-04-11",
+    "away_pitcher": {
+      "id": 837227,
+      "name": "Tatsuya Imai",
+      "team": "HOU",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "home_pitcher": {
+      "id": 676106,
+      "name": "emerson hancock",
+      "team": "SEA",
+      "throws": "R",
+      "total_score": 27.8,
+      "season_score": 29.0,
+      "arsenal_score": 29.8,
+      "recent_form_score": null,
+      "home_away_adj": -1.5,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "home_matchup": {
+      "matchup_score": 40.7,
+      "arsenal_matchup": 35.1,
+      "h2h_bonus": -0.1,
+      "lineup_source": "roster",
+      "n_batters": 18
+    },
+    "effective_away": 54.3,
+    "effective_home": 44.1,
+    "win_prob_away": 0.616,
+    "win_prob_home": 0.384,
+    "pick": "HOU",
+    "pick_prob": 0.616,
+    "expected_total": 4.8,
+    "away_team_total": {
+      "expected": 2.7,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.2
+    },
+    "home_team_total": {
+      "expected": 2.1,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.4
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "17+18",
+        "type": "TT",
+        "pick": "SEA UNDER 2.5",
+        "conf": 0.7,
+        "detail": "Expected 2.1"
+      }
+    ],
+    "grade": "good",
+    "grade_label": "GOOD",
+    "wind": null,
+    "away_pitch_detail": [],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "SI",
+        "usage": 0.38,
+        "pitcher_xwoba": 0.381,
+        "team_xwoba": 0.359,
+        "league_xwoba": 0.351,
+        "advantage": -0.0192
+      },
+      {
+        "pitch_type": "FF",
+        "usage": 0.269,
+        "pitcher_xwoba": 0.327,
+        "team_xwoba": 0.356,
+        "league_xwoba": 0.345,
+        "advantage": 0.0033
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.205,
+        "pitcher_xwoba": 0.38,
+        "team_xwoba": 0.261,
+        "league_xwoba": 0.29,
+        "advantage": -0.0303
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.114,
+        "pitcher_xwoba": 0.322,
+        "team_xwoba": 0.289,
+        "league_xwoba": 0.288,
+        "advantage": -0.0178
+      },
+      {
+        "pitch_type": "ST",
+        "usage": 0.032,
+        "pitcher_xwoba": 0.282,
+        "team_xwoba": 0.269,
+        "league_xwoba": 0.267,
+        "advantage": -0.0086
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "total_pa": 38,
+      "n_batters": 12,
+      "w_k_rate": 0.132,
+      "w_bb_rate": 0.0,
+      "w_hr_rate": 0.026,
+      "confidence": 0.76
+    },
+    "v2_pick": "SEA",
+    "v2_conf": 0.505,
+    "consensus": false,
+    "tier": "disagree",
+    "ou_consensus": true,
+    "v2_f5_total": 5.0
+  },
+  "locked_away_pitcher_id": 837227,
+  "locked_home_pitcher_id": 676106
+}
