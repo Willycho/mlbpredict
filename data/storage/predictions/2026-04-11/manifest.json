@@ -12,12 +12,12 @@
       "away_pitcher": "carmen mlodzinski",
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
-      "pick_prob": 0.585,
-      "expected_total": 4.0,
+      "pick_prob": 0.526,
+      "expected_total": 3.9,
       "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-10T16:07:37.490679+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823482,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-10T16:07:37.491316+00:00"
 }
