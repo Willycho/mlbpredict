@@ -32,7 +32,7 @@
       "expected_total": 4.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:03.765362+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:55.287898+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 5.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:04.409448+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:55.879259+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:05.107089+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:56.477424+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:05.746858+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:57.068050+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:06.395480+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:57.651104+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:06.580275+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:57.846756+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:07.221691+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:58.585902+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-10T20:34:07.884471+00:00",
+      "last_refreshed_at": "2026-04-10T21:20:59.194666+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "kris bubic",
       "pick": "KC",
-      "pick_prob": 0.763,
-      "expected_total": 3.8,
+      "pick_prob": 0.786,
+      "expected_total": 4.0,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T21:20:59.787569+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823808,
@@ -170,14 +170,14 @@
       "game_time_kst": "08:40",
       "game_date_kst": "2026-04-11",
       "away_pitcher": "jake irvin",
-      "home_pitcher": "chad patrick",
+      "home_pitcher": "aaron ashby",
       "pick": "MIL",
-      "pick_prob": 0.791,
-      "expected_total": 4.4,
+      "pick_prob": 0.86,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T21:21:00.824445+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823076,
@@ -188,12 +188,12 @@
       "away_pitcher": "connelly early",
       "home_pitcher": "dustin may",
       "pick": "BOS",
-      "pick_prob": 0.806,
-      "expected_total": 3.4,
+      "pick_prob": 0.822,
+      "expected_total": 3.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-10T13:43:08.508010+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-10T21:21:11.144679+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823318,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-10T20:34:07.885000+00:00"
+  "last_modified_at": "2026-04-10T21:21:11.145457+00:00"
 }
