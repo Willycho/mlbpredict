@@ -2,7 +2,7 @@
   "game_id": 823482,
   "kst_date": "2026-04-11",
   "bulk_fetched_at": "2026-04-10T13:43:08.508010+00:00",
-  "last_refreshed_at": "2026-04-10T19:55:24.723297+00:00",
+  "last_refreshed_at": "2026-04-10T20:34:03.765362+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,35 +55,26 @@
     "win_prob_home": 0.566,
     "pick": "PHI",
     "pick_prob": 0.566,
-    "expected_total": 4.1,
+    "expected_total": 4.2,
     "away_team_total": {
-      "expected": 1.75,
+      "expected": 1.79,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.25
+      "gap": 0.29
     },
     "home_team_total": {
-      "expected": 2.35,
+      "expected": 2.41,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.15
+      "gap": 0.09
     },
-    "sweet_picks": [
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 UNDER 4.5",
-        "conf": 0.633,
-        "detail": "Expected 4.1 vs line 4.5"
-      }
-    ],
+    "sweet_picks": [],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
       "speed_mph": 9.6,
       "direction": "out",
-      "adj": 0.28
+      "adj": 0.29
     },
     "away_pitch_detail": [
       {
