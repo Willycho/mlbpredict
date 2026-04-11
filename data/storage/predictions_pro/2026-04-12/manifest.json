@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:00:38.312712+00:00",
+      "last_refreshed_at": "2026-04-11T22:50:12.708974+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:00:42.082340+00:00",
+      "last_refreshed_at": "2026-04-11T22:50:16.055324+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:00:55.721448+00:00",
+      "last_refreshed_at": "2026-04-11T22:50:28.811516+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "martín pérez",
       "pick": "CLE",
       "pick_prob": 0.714,
-      "expected_total": 4.4,
+      "expected_total": 4.2,
       "v2_pick": "ATL",
       "v2_conf": 0.55,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:00:59.803033+00:00",
+      "last_refreshed_at": "2026-04-11T22:50:41.504061+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,15 +265,15 @@
       "home_pitcher": "germán márquez",
       "pick": "COL",
       "pick_prob": 0.703,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "v2_pick": "SD",
       "v2_conf": 0.507,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:01:03.494106+00:00",
+      "last_refreshed_at": "2026-04-11T22:50:44.521584+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.814,
-      "expected_total": 3.6,
+      "pick_prob": 0.821,
+      "expected_total": 3.8,
       "v2_pick": "LAD",
-      "v2_conf": 0.541,
+      "v2_conf": 0.569,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T22:50:47.456931+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823155,
@@ -306,17 +306,17 @@
       "away_pitcher": "lance mccullers",
       "home_pitcher": "luis castillo",
       "pick": "SEA",
-      "pick_prob": 0.803,
+      "pick_prob": 0.796,
       "expected_total": 4.4,
       "v2_pick": "SEA",
-      "v2_conf": 0.618,
+      "v2_conf": 0.601,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T22:50:50.334402+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823967,
-      "away_team": "TEX",
-      "home_team": "LAD",
-      "away_pitcher": "jack leiter",
-      "home_pitcher": "emmet sheehan",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.541,
-      "lineup": "roster",
-      "n_batters": "14+16",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 822996,
       "away_team": "NYY",
       "home_team": "TB",
@@ -387,6 +370,23 @@
       "conf": 0.738,
       "detail": "F5 NYY ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 823967,
+      "away_team": "TEX",
+      "home_team": "LAD",
+      "away_pitcher": "jack leiter",
+      "home_pitcher": "emmet sheehan",
+      "tier": "consensus",
+      "v2_pick": "LAD",
+      "v2_conf": 0.569,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
+      "ou_consensus": true
     },
     {
       "game_id": 824129,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T22:01:03.494716+00:00"
+  "last_modified_at": "2026-04-11T22:50:50.334948+00:00"
 }
