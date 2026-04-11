@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T16:20:57.083577+00:00",
+      "last_refreshed_at": "2026-04-11T17:03:16.254638+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,16 +54,16 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "edward cabrera",
       "pick": "PIT",
-      "pick_prob": 0.515,
-      "expected_total": 3.5,
+      "pick_prob": 0.573,
+      "expected_total": 3.3,
       "v2_pick": "PIT",
-      "v2_conf": 0.553,
+      "v2_conf": 0.541,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T16:21:10.420253+00:00",
+      "last_refreshed_at": "2026-04-11T17:03:20.122936+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "eric lauer",
       "pick": "MIN",
       "pick_prob": 0.567,
-      "expected_total": 4.0,
+      "expected_total": 3.8,
       "v2_pick": "TOR",
       "v2_conf": 0.51,
       "consensus": false,
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T16:21:13.829126+00:00",
+      "last_refreshed_at": "2026-04-11T17:03:33.556799+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -328,13 +328,13 @@
       "home_pitcher": "edward cabrera",
       "tier": "consensus",
       "v2_pick": "PIT",
-      "v2_conf": 0.553,
-      "lineup": "partial",
-      "n_batters": "9+18",
+      "v2_conf": 0.541,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T16:21:13.829736+00:00"
+  "last_modified_at": "2026-04-11T17:03:33.557487+00:00"
 }
