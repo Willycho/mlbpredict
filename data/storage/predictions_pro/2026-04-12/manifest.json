@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:48:11.364731+00:00",
+      "last_refreshed_at": "2026-04-11T18:24:25.742190+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "brandon williamson",
       "pick": "LAA",
       "pick_prob": 0.549,
-      "expected_total": 4.8,
+      "expected_total": 4.6,
       "v2_pick": "CIN",
       "v2_conf": 0.521,
       "consensus": false,
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:48:24.260901+00:00",
+      "last_refreshed_at": "2026-04-11T18:24:28.747739+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:48:37.035959+00:00",
+      "last_refreshed_at": "2026-04-11T18:24:41.643380+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "michael wacha",
       "pick": "KC",
       "pick_prob": 0.688,
-      "expected_total": 5.0,
+      "expected_total": 4.7,
       "v2_pick": "KC",
       "v2_conf": 0.536,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:48:40.120496+00:00",
+      "last_refreshed_at": "2026-04-11T18:24:54.495785+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T17:48:40.121098+00:00"
+  "last_modified_at": "2026-04-11T18:24:54.496341+00:00"
 }
