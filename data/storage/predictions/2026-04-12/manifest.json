@@ -144,7 +144,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:02:08.786513+00:00",
+      "last_refreshed_at": "2026-04-11T22:52:03.379003+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:02:09.704098+00:00",
+      "last_refreshed_at": "2026-04-11T22:52:03.970160+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:02:10.604016+00:00",
+      "last_refreshed_at": "2026-04-11T22:52:04.571353+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:02:11.484663+00:00",
+      "last_refreshed_at": "2026-04-11T22:52:05.148747+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "germán márquez",
       "pick": "COL",
       "pick_prob": 0.703,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T22:02:12.480715+00:00",
+      "last_refreshed_at": "2026-04-11T22:52:05.735918+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.814,
-      "expected_total": 3.6,
+      "pick_prob": 0.821,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T22:52:06.391429+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823155,
@@ -236,13 +236,13 @@
       "away_pitcher": "lance mccullers",
       "home_pitcher": "luis castillo",
       "pick": "SEA",
-      "pick_prob": 0.803,
-      "expected_total": 4.3,
+      "pick_prob": 0.796,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T22:52:06.979540+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-11T22:02:12.481294+00:00"
+  "last_modified_at": "2026-04-11T22:52:06.980228+00:00"
 }

@@ -2,7 +2,7 @@
   "game_id": 824939,
   "kst_date": "2026-04-12",
   "bulk_fetched_at": "2026-04-11T13:19:18.892439+00:00",
-  "last_refreshed_at": "2026-04-11T22:02:11.484663+00:00",
+  "last_refreshed_at": "2026-04-11T22:52:05.148747+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -89,9 +89,9 @@
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
     "wind": {
-      "speed_mph": 5.5,
+      "speed_mph": 5.2,
       "direction": "out",
-      "adj": 0.16
+      "adj": 0.15
     },
     "away_pitch_detail": [
       {
