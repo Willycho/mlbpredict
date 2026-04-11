@@ -12,12 +12,12 @@
       "away_pitcher": "brandon pfaadt",
       "home_pitcher": "taijuan walker",
       "pick": "AZ",
-      "pick_prob": 0.522,
+      "pick_prob": 0.503,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T14:35:17.624451+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824294,
@@ -28,12 +28,12 @@
       "away_pitcher": "janson junk",
       "home_pitcher": "casey mize",
       "pick": "DET",
-      "pick_prob": 0.652,
+      "pick_prob": 0.686,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T14:35:18.536547+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824697,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-11T14:35:18.537180+00:00"
 }
