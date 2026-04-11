@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:03:20.122936+00:00",
+      "last_refreshed_at": "2026-04-11T17:48:08.038018+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "eric lauer",
       "pick": "MIN",
       "pick_prob": 0.567,
-      "expected_total": 3.8,
+      "expected_total": 4.0,
       "v2_pick": "TOR",
       "v2_conf": 0.51,
       "consensus": false,
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:03:33.556799+00:00",
+      "last_refreshed_at": "2026-04-11T17:48:11.364731+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -95,18 +95,18 @@
       "game_date_kst": "2026-04-12",
       "away_pitcher": "George Klassen",
       "home_pitcher": "brandon williamson",
-      "pick": "CIN",
-      "pick_prob": 0.528,
-      "expected_total": 4.7,
-      "v2_pick": "LAA",
-      "v2_conf": 0.502,
+      "pick": "LAA",
+      "pick_prob": 0.549,
+      "expected_total": 4.8,
+      "v2_pick": "CIN",
+      "v2_conf": 0.521,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:48:24.260901+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823644,
@@ -117,17 +117,17 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "kodai senga",
       "pick": "ATH",
-      "pick_prob": 0.521,
-      "expected_total": 3.5,
+      "pick_prob": 0.553,
+      "expected_total": 3.8,
       "v2_pick": "NYM",
-      "v2_conf": 0.524,
+      "v2_conf": 0.525,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:48:37.035959+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824129,
@@ -138,17 +138,17 @@
       "away_pitcher": "erick fedde",
       "home_pitcher": "michael wacha",
       "pick": "KC",
-      "pick_prob": 0.677,
-      "expected_total": 5.1,
+      "pick_prob": 0.688,
+      "expected_total": 5.0,
       "v2_pick": "KC",
-      "v2_conf": 0.563,
+      "v2_conf": 0.536,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:48:40.120496+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822996,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T17:03:33.557487+00:00"
+  "last_modified_at": "2026-04-11T17:48:40.121098+00:00"
 }
