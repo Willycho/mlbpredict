@@ -16,7 +16,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:18:12.780019+00:00",
+      "last_refreshed_at": "2026-04-11T15:55:21.399567+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:18:13.447599+00:00",
+      "last_refreshed_at": "2026-04-11T15:55:22.348843+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -45,11 +45,11 @@
       "home_pitcher": "edward cabrera",
       "pick": "PIT",
       "pick_prob": 0.52,
-      "expected_total": 3.2,
+      "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-11T15:55:23.202249+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822830,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-11T15:18:13.468901+00:00"
+  "last_modified_at": "2026-04-11T15:55:23.202775+00:00"
 }
