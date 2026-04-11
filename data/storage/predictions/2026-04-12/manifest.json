@@ -80,7 +80,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:49:23.619013+00:00",
+      "last_refreshed_at": "2026-04-11T19:33:58.653603+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:49:24.509304+00:00",
+      "last_refreshed_at": "2026-04-11T19:33:59.584393+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:49:25.349101+00:00",
+      "last_refreshed_at": "2026-04-11T19:34:00.378655+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,12 +124,12 @@
       "away_pitcher": "max fried",
       "home_pitcher": "nick martínez",
       "pick": "NYY",
-      "pick_prob": 0.739,
+      "pick_prob": 0.738,
       "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T19:34:00.669570+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823805,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-11T18:49:25.349719+00:00"
+  "last_modified_at": "2026-04-11T19:34:00.670267+00:00"
 }
