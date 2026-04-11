@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:06:53.672963+00:00",
+      "last_refreshed_at": "2026-04-11T15:48:22.094431+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:06:56.748036+00:00",
+      "last_refreshed_at": "2026-04-11T15:48:25.397326+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "edward cabrera",
       "pick": "PIT",
       "pick_prob": 0.52,
-      "expected_total": 3.2,
+      "expected_total": 3.5,
       "v2_pick": "PIT",
       "v2_conf": 0.513,
       "consensus": true,
@@ -63,8 +63,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-11T15:48:38.151426+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822830,
@@ -333,8 +333,8 @@
       "n_batters": "14+18",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 3.2 vs line 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T15:06:56.748623+00:00"
+  "last_modified_at": "2026-04-11T15:48:38.152003+00:00"
 }
