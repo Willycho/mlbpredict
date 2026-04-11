@@ -64,7 +64,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:57:09.590813+00:00",
+      "last_refreshed_at": "2026-04-11T18:49:22.757132+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:57:10.261607+00:00",
+      "last_refreshed_at": "2026-04-11T18:49:23.619013+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "kodai senga",
       "pick": "ATH",
       "pick_prob": 0.553,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:57:10.915824+00:00",
+      "last_refreshed_at": "2026-04-11T18:49:24.509304+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T17:57:11.599455+00:00",
+      "last_refreshed_at": "2026-04-11T18:49:25.349101+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-11T17:57:11.600103+00:00"
+  "last_modified_at": "2026-04-11T18:49:25.349719+00:00"
 }
