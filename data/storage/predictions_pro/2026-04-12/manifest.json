@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T19:23:22.840932+00:00",
+      "last_refreshed_at": "2026-04-11T20:50:42.396097+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -180,17 +180,17 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "kyle harrison",
       "pick": "MIL",
-      "pick_prob": 0.605,
+      "pick_prob": 0.583,
       "expected_total": 4.0,
       "v2_pick": "MIL",
-      "v2_conf": 0.525,
+      "v2_conf": 0.535,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T20:50:44.961854+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824857,
@@ -201,17 +201,17 @@
       "away_pitcher": "logan webb",
       "home_pitcher": "chris bassitt",
       "pick": "SF",
-      "pick_prob": 0.584,
+      "pick_prob": 0.567,
       "expected_total": 3.6,
       "v2_pick": "SF",
-      "v2_conf": 0.567,
+      "v2_conf": 0.6,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T20:50:47.625953+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823074,
@@ -222,17 +222,17 @@
       "away_pitcher": "ranger suárez",
       "home_pitcher": "kyle leahy",
       "pick": "BOS",
-      "pick_prob": 0.732,
-      "expected_total": 3.9,
+      "pick_prob": 0.772,
+      "expected_total": 4.0,
       "v2_pick": "BOS",
-      "v2_conf": 0.503,
+      "v2_conf": 0.518,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "ou_consensus": true,
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T20:50:50.405467+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824939,
@@ -243,17 +243,17 @@
       "away_pitcher": "parker messick",
       "home_pitcher": "martín pérez",
       "pick": "CLE",
-      "pick_prob": 0.707,
+      "pick_prob": 0.714,
       "expected_total": 4.2,
       "v2_pick": "ATL",
-      "v2_conf": 0.536,
+      "v2_conf": 0.55,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T20:51:02.698342+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823316,
@@ -389,20 +389,20 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823074,
-      "away_team": "BOS",
-      "home_team": "STL",
-      "away_pitcher": "ranger suárez",
-      "home_pitcher": "kyle leahy",
+      "game_id": 823316,
+      "away_team": "COL",
+      "home_team": "SD",
+      "away_pitcher": "ryan feltner",
+      "home_pitcher": "germán márquez",
       "tier": "sweet_spot",
-      "v2_pick": "BOS",
-      "v2_conf": 0.503,
+      "v2_pick": "COL",
+      "v2_conf": 0.502,
       "lineup": "roster",
-      "n_batters": "15+18",
+      "n_batters": "15+22",
       "type": "ML",
-      "pick": "F5 BOS",
-      "conf": 0.732,
-      "detail": "F5 BOS ML",
+      "pick": "F5 COL",
+      "conf": 0.719,
+      "detail": "F5 COL ML",
       "ml_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T19:23:22.841610+00:00"
+  "last_modified_at": "2026-04-11T20:51:02.698931+00:00"
 }
