@@ -16,7 +16,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:55:21.399567+00:00",
+      "last_refreshed_at": "2026-04-11T16:35:09.087373+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T15:55:22.348843+00:00",
+      "last_refreshed_at": "2026-04-11T16:35:09.980394+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,11 +44,11 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "edward cabrera",
       "pick": "PIT",
-      "pick_prob": 0.52,
+      "pick_prob": 0.573,
       "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T15:55:23.202249+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T16:35:10.809559+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "joe ryan",
       "home_pitcher": "eric lauer",
       "pick": "MIN",
-      "pick_prob": 0.519,
-      "expected_total": 4.0,
+      "pick_prob": 0.567,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T16:35:11.671622+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824535,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-11T15:55:23.202775+00:00"
+  "last_modified_at": "2026-04-11T16:35:11.672273+00:00"
 }
