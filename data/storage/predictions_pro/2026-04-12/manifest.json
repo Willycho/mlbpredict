@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T21:26:03.885502+00:00",
+      "last_refreshed_at": "2026-04-11T22:00:33.778570+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T21:26:07.859304+00:00",
+      "last_refreshed_at": "2026-04-11T22:00:38.312712+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T21:26:11.595607+00:00",
+      "last_refreshed_at": "2026-04-11T22:00:42.082340+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T21:26:24.921839+00:00",
+      "last_refreshed_at": "2026-04-11T22:00:55.721448+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "martín pérez",
       "pick": "CLE",
       "pick_prob": 0.714,
-      "expected_total": 4.2,
+      "expected_total": 4.4,
       "v2_pick": "ATL",
       "v2_conf": 0.55,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T21:26:38.180165+00:00",
+      "last_refreshed_at": "2026-04-11T22:00:59.803033+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "ryan feltner",
       "home_pitcher": "germán márquez",
       "pick": "COL",
-      "pick_prob": 0.719,
-      "expected_total": 4.7,
-      "v2_pick": "COL",
-      "v2_conf": 0.502,
-      "consensus": true,
-      "ou_consensus": true,
-      "tier": "sweet_spot",
+      "pick_prob": 0.703,
+      "expected_total": 4.5,
+      "v2_pick": "SD",
+      "v2_conf": 0.507,
+      "consensus": false,
+      "ou_consensus": false,
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T22:01:03.494106+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823967,
@@ -389,20 +389,20 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823316,
-      "away_team": "COL",
-      "home_team": "SD",
-      "away_pitcher": "ryan feltner",
-      "home_pitcher": "germán márquez",
+      "game_id": 824129,
+      "away_team": "CWS",
+      "home_team": "KC",
+      "away_pitcher": "erick fedde",
+      "home_pitcher": "michael wacha",
       "tier": "sweet_spot",
-      "v2_pick": "COL",
-      "v2_conf": 0.502,
-      "lineup": "roster",
-      "n_batters": "15+22",
+      "v2_pick": "KC",
+      "v2_conf": 0.536,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
-      "pick": "F5 COL",
-      "conf": 0.719,
-      "detail": "F5 COL ML",
+      "pick": "F5 KC",
+      "conf": 0.688,
+      "detail": "F5 KC ML",
       "ml_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T21:26:38.180754+00:00"
+  "last_modified_at": "2026-04-11T22:01:03.494716+00:00"
 }
