@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T14:25:37.226798+00:00",
+      "last_refreshed_at": "2026-04-11T15:06:53.672963+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -33,16 +33,16 @@
       "away_pitcher": "janson junk",
       "home_pitcher": "casey mize",
       "pick": "DET",
-      "pick_prob": 0.686,
+      "pick_prob": 0.662,
       "expected_total": 3.9,
       "v2_pick": "MIA",
-      "v2_conf": 0.521,
+      "v2_conf": 0.506,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T14:25:39.957396+00:00",
+      "last_refreshed_at": "2026-04-11T15:06:56.748036+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T14:25:39.957971+00:00"
+  "last_modified_at": "2026-04-11T15:06:56.748623+00:00"
 }
