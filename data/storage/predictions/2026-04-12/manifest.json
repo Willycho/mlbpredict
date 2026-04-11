@@ -48,7 +48,7 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T16:35:10.809559+00:00",
+      "last_refreshed_at": "2026-04-11T17:17:54.003587+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T16:35:11.671622+00:00",
+      "last_refreshed_at": "2026-04-11T17:17:54.776082+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,13 +75,13 @@
       "game_date_kst": "2026-04-12",
       "away_pitcher": "George Klassen",
       "home_pitcher": "brandon williamson",
-      "pick": "CIN",
-      "pick_prob": 0.528,
-      "expected_total": 4.7,
+      "pick": "LAA",
+      "pick_prob": 0.549,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:17:55.505022+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823644,
@@ -92,12 +92,12 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "kodai senga",
       "pick": "ATH",
-      "pick_prob": 0.521,
-      "expected_total": 3.5,
+      "pick_prob": 0.545,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:17:56.197553+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824129,
@@ -108,12 +108,12 @@
       "away_pitcher": "erick fedde",
       "home_pitcher": "michael wacha",
       "pick": "KC",
-      "pick_prob": 0.677,
-      "expected_total": 5.1,
+      "pick_prob": 0.688,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:19:18.892439+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T17:17:56.918435+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822996,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-11T16:35:11.672273+00:00"
+  "last_modified_at": "2026-04-11T17:17:56.919022+00:00"
 }
