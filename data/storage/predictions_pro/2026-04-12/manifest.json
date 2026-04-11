@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T20:50:42.396097+00:00",
+      "last_refreshed_at": "2026-04-11T21:26:03.885502+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T20:50:44.961854+00:00",
+      "last_refreshed_at": "2026-04-11T21:26:07.859304+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "logan webb",
       "home_pitcher": "chris bassitt",
       "pick": "SF",
-      "pick_prob": 0.567,
+      "pick_prob": 0.561,
       "expected_total": 3.6,
       "v2_pick": "SF",
-      "v2_conf": 0.6,
+      "v2_conf": 0.589,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T20:50:47.625953+00:00",
+      "last_refreshed_at": "2026-04-11T21:26:11.595607+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T20:50:50.405467+00:00",
+      "last_refreshed_at": "2026-04-11T21:26:24.921839+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T20:51:02.698342+00:00",
+      "last_refreshed_at": "2026-04-11T21:26:38.180165+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T20:51:02.698931+00:00"
+  "last_modified_at": "2026-04-11T21:26:38.180754+00:00"
 }
