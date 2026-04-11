@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:24:28.747739+00:00",
+      "last_refreshed_at": "2026-04-11T19:23:04.258328+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "kodai senga",
       "pick": "ATH",
       "pick_prob": 0.553,
-      "expected_total": 3.8,
+      "expected_total": 3.6,
       "v2_pick": "NYM",
       "v2_conf": 0.525,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:24:41.643380+00:00",
+      "last_refreshed_at": "2026-04-11T19:23:07.455489+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-11T18:24:54.495785+00:00",
+      "last_refreshed_at": "2026-04-11T19:23:20.251474+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "max fried",
       "home_pitcher": "nick martínez",
       "pick": "NYY",
-      "pick_prob": 0.739,
+      "pick_prob": 0.738,
       "expected_total": 3.6,
       "v2_pick": "NYY",
-      "v2_conf": 0.566,
+      "v2_conf": 0.543,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-11T13:23:02.010550+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-11T19:23:22.840932+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823805,
@@ -345,9 +345,9 @@
       "home_pitcher": "nick martínez",
       "tier": "sweet_spot",
       "v2_pick": "NYY",
-      "v2_conf": 0.566,
-      "lineup": "roster",
-      "n_batters": "21+15",
+      "v2_conf": 0.543,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.8,
@@ -379,12 +379,12 @@
       "home_pitcher": "nick martínez",
       "tier": "sweet_spot",
       "v2_pick": "NYY",
-      "v2_conf": 0.566,
-      "lineup": "roster",
-      "n_batters": "21+15",
+      "v2_conf": 0.543,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 NYY",
-      "conf": 0.739,
+      "conf": 0.738,
       "detail": "F5 NYY ML",
       "ml_consensus": true
     },
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-11T18:24:54.496341+00:00"
+  "last_modified_at": "2026-04-11T19:23:22.841610+00:00"
 }
