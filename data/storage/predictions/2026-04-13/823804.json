@@ -2,7 +2,7 @@
   "game_id": 823804,
   "kst_date": "2026-04-13",
   "bulk_fetched_at": "2026-04-12T13:20:50.951430+00:00",
-  "last_refreshed_at": "2026-04-12T16:36:35.646727+00:00",
+  "last_refreshed_at": "2026-04-12T17:20:35.380985+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,52 +55,48 @@
     "win_prob_home": 0.849,
     "pick": "MIL",
     "pick_prob": 0.849,
-    "expected_total": 4.0,
+    "expected_total": 3.9,
     "away_team_total": {
-      "expected": 0.95,
+      "expected": 0.93,
       "line": 0.5,
       "pick": "OVER",
-      "gap": 0.45
+      "gap": 0.43
     },
     "home_team_total": {
-      "expected": 3.05,
-      "line": 3.5,
-      "pick": "UNDER",
-      "gap": 0.45
+      "expected": 2.97,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.47
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
-        "pick": "WSH OVER 0.5",
-        "conf": 0.725,
-        "detail": "Expected 0.95"
+        "pick": "MIL OVER 2.5",
+        "conf": 0.735,
+        "detail": "Expected 2.97"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
-        "pick": "MIL UNDER 3.5",
-        "conf": 0.725,
-        "detail": "Expected 3.05"
+        "pick": "WSH OVER 0.5",
+        "conf": 0.715,
+        "detail": "Expected 0.93"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 4.0 vs line 4.5"
+        "conf": 0.7,
+        "detail": "Expected 3.9 vs line 4.5"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": {
-      "speed_mph": 15.2,
-      "direction": "cross",
-      "adj": 0.02
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "SL",
