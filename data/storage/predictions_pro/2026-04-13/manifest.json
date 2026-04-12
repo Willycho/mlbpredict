@@ -244,7 +244,7 @@
       "home_pitcher": "nick pivetta",
       "pick": "SD",
       "pick_prob": 0.703,
-      "expected_total": 4.1,
+      "expected_total": 3.9,
       "v2_pick": "SD",
       "v2_conf": 0.606,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:50:53.962104+00:00",
+      "last_refreshed_at": "2026-04-12T18:36:06.174450+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "roki sasaki",
       "pick": "TEX",
       "pick_prob": 0.737,
-      "expected_total": 4.2,
+      "expected_total": 4.5,
       "v2_pick": "TEX",
       "v2_conf": 0.57,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:51:06.159994+00:00",
+      "last_refreshed_at": "2026-04-12T18:36:09.166831+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-12T17:51:06.160516+00:00"
+  "last_modified_at": "2026-04-12T18:36:09.167405+00:00"
 }
