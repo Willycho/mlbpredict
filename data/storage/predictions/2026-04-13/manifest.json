@@ -205,10 +205,10 @@
       "home_pitcher": "nick pivetta",
       "pick": "SD",
       "pick_prob": 0.703,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T19:03:13.799446+00:00",
+      "last_refreshed_at": "2026-04-12T19:52:46.837781+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T19:03:14.422359+00:00",
+      "last_refreshed_at": "2026-04-12T19:52:47.750445+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-12T19:03:14.422884+00:00"
+  "last_modified_at": "2026-04-12T19:52:47.750962+00:00"
 }
