@@ -141,10 +141,10 @@
       "home_pitcher": "noah cameron",
       "pick": "CWS",
       "pick_prob": 0.696,
-      "expected_total": 3.5,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:20:25.039726+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:36.545392+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
       "pick_prob": 0.849,
-      "expected_total": 3.9,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:20:35.380985+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:37.802093+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "andre pallante",
       "pick": "BOS",
       "pick_prob": 0.547,
-      "expected_total": 4.7,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:20:45.725836+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:38.912250+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,11 +188,11 @@
       "away_pitcher": "bubba chandler",
       "home_pitcher": "jameson taillon",
       "pick": "PIT",
-      "pick_prob": 0.681,
-      "expected_total": 3.6,
+      "pick_prob": 0.678,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:20:56.064933+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:40.055049+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "nick pivetta",
       "pick": "SD",
       "pick_prob": 0.703,
-      "expected_total": 4.1,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:21:06.415937+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:41.132316+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "roki sasaki",
       "pick": "TEX",
       "pick_prob": 0.737,
-      "expected_total": 4.2,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T17:21:16.906940+00:00",
+      "last_refreshed_at": "2026-04-12T18:00:42.198260+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-12T17:21:16.907567+00:00"
+  "last_modified_at": "2026-04-12T18:00:42.198843+00:00"
 }
