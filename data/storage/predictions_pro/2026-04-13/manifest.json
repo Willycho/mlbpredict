@@ -285,17 +285,17 @@
       "away_pitcher": "tanner bibee",
       "home_pitcher": "chris sale",
       "pick": "ATL",
-      "pick_prob": 0.756,
-      "expected_total": 3.5,
+      "pick_prob": 0.752,
+      "expected_total": 3.1,
       "v2_pick": "ATL",
-      "v2_conf": 0.569,
+      "v2_conf": 0.54,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-12T13:35:04.354414+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-12T20:51:51.189707+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823154,
@@ -328,13 +328,13 @@
       "home_pitcher": "chris sale",
       "tier": "consensus",
       "v2_pick": "ATL",
-      "v2_conf": 0.569,
-      "lineup": "roster",
-      "n_batters": "18+17",
+      "v2_conf": 0.54,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.95,
+      "detail": "Expected 3.1 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-12T20:03:47.640661+00:00"
+  "last_modified_at": "2026-04-12T20:51:51.190293+00:00"
 }
