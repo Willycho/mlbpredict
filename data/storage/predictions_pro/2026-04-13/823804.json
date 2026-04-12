@@ -2,7 +2,7 @@
   "game_id": 823804,
   "kst_date": "2026-04-13",
   "bulk_fetched_at": "2026-04-12T13:35:04.354414+00:00",
-  "last_refreshed_at": "2026-04-12T16:56:30.004392+00:00",
+  "last_refreshed_at": "2026-04-12T17:50:27.100249+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,51 +55,51 @@
     "win_prob_home": 0.849,
     "pick": "MIL",
     "pick_prob": 0.849,
-    "expected_total": 4.0,
+    "expected_total": 3.7,
     "away_team_total": {
-      "expected": 0.95,
+      "expected": 0.88,
       "line": 0.5,
       "pick": "OVER",
-      "gap": 0.45
+      "gap": 0.38
     },
     "home_team_total": {
-      "expected": 3.05,
-      "line": 3.5,
-      "pick": "UNDER",
-      "gap": 0.45
+      "expected": 2.82,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.32
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "TT",
-        "pick": "WSH OVER 0.5",
-        "conf": 0.725,
-        "detail": "Expected 0.95"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "MIL UNDER 3.5",
-        "conf": 0.725,
-        "detail": "Expected 3.05"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 4.0 vs line 4.5"
+        "conf": 0.767,
+        "detail": "Expected 3.7 vs line 4.5"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "WSH OVER 0.5",
+        "conf": 0.69,
+        "detail": "Expected 0.88"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "MIL OVER 2.5",
+        "conf": 0.66,
+        "detail": "Expected 2.82"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 15.2,
-      "direction": "cross",
-      "adj": 0.02
+      "speed_mph": 13.8,
+      "direction": "in",
+      "adj": -0.17
     },
     "away_pitch_detail": [
       {

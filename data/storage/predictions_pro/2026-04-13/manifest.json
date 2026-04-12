@@ -160,7 +160,7 @@
       "home_pitcher": "noah cameron",
       "pick": "CWS",
       "pick_prob": 0.696,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "KC",
       "v2_conf": 0.511,
       "consensus": false,
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T16:56:26.920161+00:00",
+      "last_refreshed_at": "2026-04-12T17:50:24.596271+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
       "pick_prob": 0.849,
-      "expected_total": 4.0,
+      "expected_total": 3.7,
       "v2_pick": "MIL",
       "v2_conf": 0.583,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T16:56:30.004392+00:00",
+      "last_refreshed_at": "2026-04-12T17:50:27.100249+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "andre pallante",
       "pick": "BOS",
       "pick_prob": 0.547,
-      "expected_total": 5.0,
+      "expected_total": 5.1,
       "v2_pick": "BOS",
       "v2_conf": 0.521,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T16:56:32.901947+00:00",
+      "last_refreshed_at": "2026-04-12T17:50:29.546955+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,16 +222,16 @@
       "away_pitcher": "bubba chandler",
       "home_pitcher": "jameson taillon",
       "pick": "PIT",
-      "pick_prob": 0.681,
+      "pick_prob": 0.678,
       "expected_total": 3.6,
       "v2_pick": "PIT",
-      "v2_conf": 0.567,
+      "v2_conf": 0.583,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T16:56:45.378958+00:00",
+      "last_refreshed_at": "2026-04-12T17:50:41.774885+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "nick pivetta",
       "pick": "SD",
-      "pick_prob": 0.713,
+      "pick_prob": 0.703,
       "expected_total": 4.1,
       "v2_pick": "SD",
-      "v2_conf": 0.602,
+      "v2_conf": 0.606,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-12T13:35:04.354414+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-12T17:50:53.962104+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823966,
@@ -264,17 +264,17 @@
       "away_pitcher": "jacob degrom",
       "home_pitcher": "roki sasaki",
       "pick": "TEX",
-      "pick_prob": 0.734,
+      "pick_prob": 0.737,
       "expected_total": 4.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.576,
+      "v2_conf": 0.57,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-12T13:35:04.354414+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-12T17:51:06.159994+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824938,
@@ -362,9 +362,9 @@
       "home_pitcher": "jameson taillon",
       "tier": "sweet_spot",
       "v2_pick": "PIT",
-      "v2_conf": 0.567,
+      "v2_conf": 0.583,
       "lineup": "confirmed",
-      "n_batters": "9+8",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.8,
@@ -389,21 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823966,
-      "away_team": "TEX",
-      "home_team": "LAD",
-      "away_pitcher": "jacob degrom",
-      "home_pitcher": "roki sasaki",
-      "tier": "sweet_spot",
-      "v2_pick": "TEX",
-      "v2_conf": 0.576,
-      "lineup": "roster",
-      "n_batters": "14+16",
-      "type": "ML",
-      "pick": "F5 TEX",
-      "conf": 0.734,
-      "detail": "F5 TEX ML",
-      "ml_consensus": true
+      "game_id": 823804,
+      "away_team": "WSH",
+      "home_team": "MIL",
+      "away_pitcher": "zack littell",
+      "home_pitcher": "brandon woodruff",
+      "tier": "consensus",
+      "v2_pick": "MIL",
+      "v2_conf": 0.583,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-12T16:56:45.379540+00:00"
+  "last_modified_at": "2026-04-12T17:51:06.160516+00:00"
 }
