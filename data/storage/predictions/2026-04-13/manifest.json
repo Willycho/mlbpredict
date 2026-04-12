@@ -28,11 +28,11 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "cade povich",
       "pick": "SF",
-      "pick_prob": 0.679,
+      "pick_prob": 0.632,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-12T15:52:11.851376+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-12T16:36:31.069519+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:12.651035+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:31.660365+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "max scherzer",
       "pick": "TOR",
       "pick_prob": 0.531,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:13.576774+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:32.281757+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:14.510589+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:32.917362+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:15.346664+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:33.555831+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:16.145149+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:34.182690+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:16.434240+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:34.399753+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:17.286650+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:35.025136+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,11 +156,11 @@
       "away_pitcher": "zack littell",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.865,
-      "expected_total": 3.9,
+      "pick_prob": 0.849,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:27.775350+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:35.646727+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "andre pallante",
       "pick": "BOS",
       "pick_prob": 0.547,
-      "expected_total": 4.7,
+      "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:38.199241+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:36.253382+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:52:48.661110+00:00",
+      "last_refreshed_at": "2026-04-12T16:36:46.646231+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-12T15:52:48.661809+00:00"
+  "last_modified_at": "2026-04-12T16:36:46.646925+00:00"
 }
