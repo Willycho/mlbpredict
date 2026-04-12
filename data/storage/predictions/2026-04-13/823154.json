@@ -1,0 +1,30 @@
+{
+  "game_id": 823154,
+  "kst_date": "2026-04-13",
+  "bulk_fetched_at": "2026-04-12T13:20:50.951430+00:00",
+  "last_refreshed_at": "2026-04-12T13:20:50.951430+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 823154,
+    "away_team": "HOU",
+    "home_team": "SEA",
+    "away_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "home_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "win_prob_away": null,
+    "win_prob_home": null,
+    "pick": null,
+    "pick_prob": null,
+    "expected_total": null,
+    "grade": "pass",
+    "grade_label": "TBD"
+  },
+  "locked_away_pitcher_id": null,
+  "locked_home_pitcher_id": null
+}
