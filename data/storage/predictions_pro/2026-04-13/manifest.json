@@ -286,7 +286,7 @@
       "home_pitcher": "chris sale",
       "pick": "ATL",
       "pick_prob": 0.752,
-      "expected_total": 3.1,
+      "expected_total": 3.0,
       "v2_pick": "ATL",
       "v2_conf": 0.54,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T21:30:23.558141+00:00",
+      "last_refreshed_at": "2026-04-12T22:02:37.764219+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -334,7 +334,7 @@
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "detail": "Expected 3.0 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-12T21:30:23.558821+00:00"
+  "last_modified_at": "2026-04-12T22:02:37.764812+00:00"
 }
