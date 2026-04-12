@@ -21,7 +21,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-12T15:21:15.031945+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:13.845742+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -34,7 +34,7 @@
       "home_pitcher": "Andrew Painter",
       "pick": "PHI",
       "pick_prob": 0.557,
-      "expected_total": 5.0,
+      "expected_total": 5.1,
       "v2_pick": "PHI",
       "v2_conf": 0.505,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:21:18.020304+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:16.799877+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "max scherzer",
       "pick": "TOR",
       "pick_prob": 0.531,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "v2_pick": "TOR",
       "v2_conf": 0.51,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:21:21.047790+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:19.778510+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:21:33.534064+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:32.270432+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:21:46.186845+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:44.945467+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:21:58.700998+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:57.443728+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:22:01.147966+00:00",
+      "last_refreshed_at": "2026-04-12T15:58:59.919897+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:22:04.077315+00:00",
+      "last_refreshed_at": "2026-04-12T15:59:02.857582+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
       "pick_prob": 0.865,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "MIL",
       "v2_conf": 0.581,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:22:07.076490+00:00",
+      "last_refreshed_at": "2026-04-12T15:59:05.818393+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "andre pallante",
       "pick": "BOS",
       "pick_prob": 0.547,
-      "expected_total": 5.1,
+      "expected_total": 4.9,
       "v2_pick": "BOS",
       "v2_conf": 0.521,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:22:10.124600+00:00",
+      "last_refreshed_at": "2026-04-12T15:59:08.822446+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "jameson taillon",
       "pick": "PIT",
       "pick_prob": 0.6,
-      "expected_total": 4.3,
+      "expected_total": 3.6,
       "v2_pick": "PIT",
       "v2_conf": 0.567,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-12T15:22:13.060487+00:00",
+      "last_refreshed_at": "2026-04-12T15:59:21.300975+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824696,
+      "away_team": "PIT",
+      "home_team": "CHC",
+      "away_pitcher": "bubba chandler",
+      "home_pitcher": "jameson taillon",
+      "tier": "good",
+      "v2_pick": "PIT",
+      "v2_conf": 0.567,
+      "lineup": "partial",
+      "n_batters": "9+18",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 822998,
       "away_team": "NYY",
       "home_team": "TB",
@@ -387,23 +404,6 @@
       "conf": 0.734,
       "detail": "F5 TEX ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823642,
-      "away_team": "ATH",
-      "home_team": "NYM",
-      "away_pitcher": "aaron civale",
-      "home_pitcher": "freddy peralta",
-      "tier": "good",
-      "v2_pick": "NYM",
-      "v2_conf": 0.544,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 3.8 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-12T15:22:13.061072+00:00"
+  "last_modified_at": "2026-04-12T15:59:21.301514+00:00"
 }
