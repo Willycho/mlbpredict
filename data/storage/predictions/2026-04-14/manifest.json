@@ -29,10 +29,10 @@
       "home_pitcher": "george kirby",
       "pick": "SEA",
       "pick_prob": 0.687,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T18:45:23.869256+00:00",
+      "last_refreshed_at": "2026-04-13T19:54:50.163114+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "paul skenes",
       "pick": "PIT",
-      "pick_prob": 0.637,
-      "expected_total": 4.0,
+      "pick_prob": 0.656,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:03:33.858138+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T19:54:50.984985+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823481,
@@ -60,12 +60,12 @@
       "away_pitcher": "javier assad",
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
-      "pick_prob": 0.785,
-      "expected_total": 3.6,
+      "pick_prob": 0.797,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:03:33.858138+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T19:54:51.917209+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823563,
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-13T18:45:23.869835+00:00"
+  "last_modified_at": "2026-04-13T19:54:51.917785+00:00"
 }
