@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T22:29:43.746104+00:00",
+      "last_refreshed_at": "2026-04-13T23:27:35.242656+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T22:29:47.195265+00:00",
+      "last_refreshed_at": "2026-04-13T23:27:37.847147+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "luis severino",
       "pick": "TEX",
-      "pick_prob": 0.772,
+      "pick_prob": 0.746,
       "expected_total": 3.9,
       "v2_pick": "TEX",
-      "v2_conf": 0.616,
+      "v2_conf": 0.623,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T23:27:40.365953+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823964,
@@ -180,17 +180,17 @@
       "away_pitcher": "david peterson",
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
-      "pick_prob": 0.678,
-      "expected_total": 3.9,
+      "pick_prob": 0.734,
+      "expected_total": 4.1,
       "v2_pick": "LAD",
-      "v2_conf": 0.522,
+      "v2_conf": 0.536,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T23:27:43.124660+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824856,
@@ -250,6 +250,40 @@
       "ml_consensus": true
     },
     {
+      "game_id": 825024,
+      "away_team": "TEX",
+      "home_team": "ATH",
+      "away_pitcher": "nathan eovaldi",
+      "home_pitcher": "luis severino",
+      "tier": "sweet_spot",
+      "v2_pick": "TEX",
+      "v2_conf": 0.623,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 TEX",
+      "conf": 0.746,
+      "detail": "F5 TEX ML",
+      "ml_consensus": true
+    },
+    {
+      "game_id": 823964,
+      "away_team": "NYM",
+      "home_team": "LAD",
+      "away_pitcher": "david peterson",
+      "home_pitcher": "justin wrobleski",
+      "tier": "sweet_spot",
+      "v2_pick": "LAD",
+      "v2_conf": 0.536,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 LAD",
+      "conf": 0.734,
+      "detail": "F5 LAD ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 824937,
       "away_team": "MIA",
       "home_team": "ATL",
@@ -265,40 +299,6 @@
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823400,
-      "away_team": "WSH",
-      "home_team": "PIT",
-      "away_pitcher": "cade cavalli",
-      "home_pitcher": "paul skenes",
-      "tier": "sweet_spot",
-      "v2_pick": "PIT",
-      "v2_conf": 0.642,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 825024,
-      "away_team": "TEX",
-      "home_team": "ATH",
-      "away_pitcher": "nathan eovaldi",
-      "home_pitcher": "luis severino",
-      "tier": "consensus",
-      "v2_pick": "TEX",
-      "v2_conf": 0.616,
-      "lineup": "roster",
-      "n_batters": "22+16",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -307,5 +307,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-13T22:29:47.195802+00:00"
+  "last_modified_at": "2026-04-13T23:27:43.125244+00:00"
 }
