@@ -13,7 +13,7 @@
       "home_pitcher": "george kirby",
       "pick": "SEA",
       "pick_prob": 0.687,
-      "expected_total": 4.0,
+      "expected_total": 3.7,
       "v2_pick": "SEA",
       "v2_conf": 0.569,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T18:15:30.582722+00:00",
+      "last_refreshed_at": "2026-04-13T19:45:15.384129+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -33,17 +33,17 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "paul skenes",
       "pick": "PIT",
-      "pick_prob": 0.637,
-      "expected_total": 4.0,
+      "pick_prob": 0.682,
+      "expected_total": 3.9,
       "v2_pick": "PIT",
-      "v2_conf": 0.647,
+      "v2_conf": 0.638,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T19:45:18.080708+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823481,
@@ -54,17 +54,17 @@
       "away_pitcher": "javier assad",
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
-      "pick_prob": 0.785,
-      "expected_total": 3.6,
+      "pick_prob": 0.797,
+      "expected_total": 4.4,
       "v2_pick": "PHI",
-      "v2_conf": 0.523,
+      "v2_conf": 0.524,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T19:45:20.792630+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823563,
@@ -216,6 +216,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 823153,
+      "away_team": "HOU",
+      "home_team": "SEA",
+      "away_pitcher": "mike burrows",
+      "home_pitcher": "george kirby",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.569,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824937,
       "away_team": "MIA",
       "home_team": "ATL",
@@ -230,6 +247,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.767,
       "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823400,
+      "away_team": "WSH",
+      "home_team": "PIT",
+      "away_pitcher": "cade cavalli",
+      "home_pitcher": "paul skenes",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.638,
+      "lineup": "partial",
+      "n_batters": "9+19",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -265,40 +299,6 @@
       "conf": 0.687,
       "detail": "F5 SEA ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823964,
-      "away_team": "NYM",
-      "home_team": "LAD",
-      "away_pitcher": "david peterson",
-      "home_pitcher": "justin wrobleski",
-      "tier": "sweet_spot",
-      "v2_pick": "LAD",
-      "v2_conf": 0.522,
-      "lineup": "roster",
-      "n_batters": "14+15",
-      "type": "ML",
-      "pick": "F5 LAD",
-      "conf": 0.678,
-      "detail": "F5 LAD ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 823153,
-      "away_team": "HOU",
-      "home_team": "SEA",
-      "away_pitcher": "mike burrows",
-      "home_pitcher": "george kirby",
-      "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.569,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 4.0 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -307,5 +307,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-13T18:15:30.583325+00:00"
+  "last_modified_at": "2026-04-13T19:45:20.793164+00:00"
 }
