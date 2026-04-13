@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:15.067472+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:09.610713+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.8,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "v2_pick": "PHI",
       "v2_conf": 0.51,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:18.924520+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:13.390099+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:32.305805+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:26.645703+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:45.649988+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:40.139496+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "bailey ober",
       "pick": "BOS",
       "pick_prob": 0.748,
-      "expected_total": 3.9,
+      "expected_total": 3.7,
       "v2_pick": "BOS",
       "v2_conf": 0.568,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:49.392658+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:43.746104+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,15 +139,15 @@
       "home_pitcher": "matthew liberatore",
       "pick": "STL",
       "pick_prob": 0.522,
-      "expected_total": 4.5,
+      "expected_total": 4.7,
       "v2_pick": "STL",
       "v2_conf": 0.517,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T21:36:53.079882+00:00",
+      "last_refreshed_at": "2026-04-13T22:29:47.195265+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -307,5 +307,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-13T21:36:53.080443+00:00"
+  "last_modified_at": "2026-04-13T22:29:47.195802+00:00"
 }

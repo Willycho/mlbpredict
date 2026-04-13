@@ -2,7 +2,7 @@
   "game_id": 823073,
   "kst_date": "2026-04-14",
   "bulk_fetched_at": "2026-04-13T14:07:20.809857+00:00",
-  "last_refreshed_at": "2026-04-13T21:36:53.079882+00:00",
+  "last_refreshed_at": "2026-04-13T22:29:47.195265+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,35 +55,26 @@
     "win_prob_home": 0.522,
     "pick": "STL",
     "pick_prob": 0.522,
-    "expected_total": 4.5,
+    "expected_total": 4.7,
     "away_team_total": {
+      "expected": 2.4,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.1
+    },
+    "home_team_total": {
       "expected": 2.3,
       "line": 2.5,
       "pick": "UNDER",
       "gap": 0.2
     },
-    "home_team_total": {
-      "expected": 2.2,
-      "line": 2.5,
-      "pick": "UNDER",
-      "gap": 0.3
-    },
-    "sweet_picks": [
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "STL UNDER 2.5",
-        "conf": 0.65,
-        "detail": "Expected 2.2"
-      }
-    ],
+    "sweet_picks": [],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 12.6,
+      "speed_mph": 13.7,
       "direction": "out",
-      "adj": 0.15
+      "adj": 0.26
     },
     "away_pitch_detail": [
       {
@@ -197,7 +188,7 @@
     "v2_conf": 0.517,
     "consensus": true,
     "tier": "consensus",
-    "ou_consensus": true,
+    "ou_consensus": false,
     "v2_f5_total": 4.5
   },
   "locked_away_pitcher_id": 668909,
