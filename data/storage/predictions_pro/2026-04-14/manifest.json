@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:40:40.301507+00:00",
+      "last_refreshed_at": "2026-04-13T21:36:15.067472+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:40:42.974920+00:00",
+      "last_refreshed_at": "2026-04-13T21:36:18.924520+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,15 +76,15 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.633,
-      "expected_total": 5.0,
+      "expected_total": 4.5,
       "v2_pick": "NYY",
       "v2_conf": 0.544,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:40:45.690540+00:00",
+      "last_refreshed_at": "2026-04-13T21:36:32.305805+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:40:58.111595+00:00",
+      "last_refreshed_at": "2026-04-13T21:36:45.649988+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "bailey ober",
       "pick": "BOS",
       "pick_prob": 0.748,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "BOS",
       "v2_conf": 0.568,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:41:10.625926+00:00",
+      "last_refreshed_at": "2026-04-13T21:36:49.392658+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "gavin williams",
       "home_pitcher": "matthew liberatore",
       "pick": "STL",
-      "pick_prob": 0.562,
-      "expected_total": 4.6,
+      "pick_prob": 0.522,
+      "expected_total": 4.5,
       "v2_pick": "STL",
-      "v2_conf": 0.505,
+      "v2_conf": 0.517,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T21:36:53.079882+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825024,
@@ -307,5 +307,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-13T20:41:10.626453+00:00"
+  "last_modified_at": "2026-04-13T21:36:53.080443+00:00"
 }
