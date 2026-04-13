@@ -48,7 +48,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:50.552208+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:45.070079+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.8,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:51.439222+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:45.659234+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:52.306060+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:46.319004+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "grant holmes",
       "pick": "MIA",
       "pick_prob": 0.628,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:53.145068+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:46.905571+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "bailey ober",
       "pick": "BOS",
       "pick_prob": 0.748,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:54.039387+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:47.524801+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "matthew liberatore",
       "pick": "STL",
       "pick_prob": 0.522,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T20:52:54.880901+00:00",
+      "last_refreshed_at": "2026-04-13T21:45:48.177677+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-13T20:52:54.881503+00:00"
+  "last_modified_at": "2026-04-13T21:45:48.178239+00:00"
 }
