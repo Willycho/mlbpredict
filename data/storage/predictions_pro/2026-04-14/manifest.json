@@ -12,17 +12,17 @@
       "away_pitcher": "mike burrows",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.649,
-      "expected_total": 3.8,
+      "pick_prob": 0.687,
+      "expected_total": 4.0,
       "v2_pick": "SEA",
       "v2_conf": 0.569,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:07:20.809857+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T18:15:30.582722+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823400,
@@ -233,23 +233,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823153,
-      "away_team": "HOU",
-      "home_team": "SEA",
-      "away_pitcher": "mike burrows",
-      "home_pitcher": "george kirby",
-      "tier": "good",
-      "v2_pick": "SEA",
-      "v2_conf": 0.569,
-      "lineup": "roster",
-      "n_batters": "17+18",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 3.8 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 825024,
       "away_team": "TEX",
       "home_team": "ATH",
@@ -265,6 +248,23 @@
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823153,
+      "away_team": "HOU",
+      "home_team": "SEA",
+      "away_pitcher": "mike burrows",
+      "home_pitcher": "george kirby",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.569,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 SEA",
+      "conf": 0.687,
+      "detail": "F5 SEA ML",
+      "ml_consensus": true
     },
     {
       "game_id": 823964,
@@ -284,16 +284,16 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823400,
-      "away_team": "WSH",
-      "home_team": "PIT",
-      "away_pitcher": "cade cavalli",
-      "home_pitcher": "paul skenes",
-      "tier": "good",
-      "v2_pick": "PIT",
-      "v2_conf": 0.647,
-      "lineup": "roster",
-      "n_batters": "18+19",
+      "game_id": 823153,
+      "away_team": "HOU",
+      "home_team": "SEA",
+      "away_pitcher": "mike burrows",
+      "home_pitcher": "george kirby",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.569,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.667,
@@ -306,5 +306,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 1,
     "total_games": 10
-  }
+  },
+  "last_modified_at": "2026-04-13T18:15:30.583325+00:00"
 }
