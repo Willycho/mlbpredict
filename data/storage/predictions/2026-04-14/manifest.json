@@ -28,12 +28,12 @@
       "away_pitcher": "mike burrows",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.649,
+      "pick_prob": 0.689,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:03:33.858138+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T17:19:41.917202+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823400,
@@ -163,5 +163,6 @@
       "last_refreshed_at": "2026-04-13T14:03:33.858138+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-13T17:19:41.917761+00:00"
 }
