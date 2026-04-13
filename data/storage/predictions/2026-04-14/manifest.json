@@ -109,10 +109,10 @@
       "home_pitcher": "bailey ober",
       "pick": "BOS",
       "pick_prob": 0.748,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T22:41:40.738365+00:00",
+      "last_refreshed_at": "2026-04-13T23:29:06.209159+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "matthew liberatore",
       "pick": "STL",
       "pick_prob": 0.522,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T22:41:41.623237+00:00",
+      "last_refreshed_at": "2026-04-13T23:29:07.078154+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-13T22:41:42.487741+00:00",
+      "last_refreshed_at": "2026-04-13T23:29:07.956633+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,13 +156,13 @@
       "away_pitcher": "david peterson",
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
-      "pick_prob": 0.678,
+      "pick_prob": 0.734,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-13T14:03:33.858138+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-13T23:29:08.777512+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-13T22:41:42.488383+00:00"
+  "last_modified_at": "2026-04-13T23:29:08.778089+00:00"
 }
