@@ -13,7 +13,7 @@
       "home_pitcher": "trevor rogers",
       "pick": "BAL",
       "pick_prob": 0.577,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "BAL",
       "v2_conf": 0.505,
       "consensus": true,
@@ -21,8 +21,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-14T19:46:50.552015+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824292,
@@ -33,17 +33,17 @@
       "away_pitcher": "cole ragans",
       "home_pitcher": "framber valdez",
       "pick": "KC",
-      "pick_prob": 0.535,
-      "expected_total": 3.1,
+      "pick_prob": 0.6,
+      "expected_total": 3.0,
       "v2_pick": "DET",
-      "v2_conf": 0.508,
+      "v2_conf": 0.525,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T19:46:53.379254+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823398,
@@ -54,17 +54,17 @@
       "away_pitcher": "miles mikolas",
       "home_pitcher": "mitch keller",
       "pick": "PIT",
-      "pick_prob": 0.563,
+      "pick_prob": 0.543,
       "expected_total": 4.6,
       "v2_pick": "PIT",
-      "v2_conf": 0.586,
+      "v2_conf": 0.571,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-14T19:47:06.143888+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824531,
@@ -75,17 +75,17 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "brady singer",
       "pick": "SF",
-      "pick_prob": 0.631,
-      "expected_total": 3.9,
+      "pick_prob": 0.618,
+      "expected_total": 4.2,
       "v2_pick": "CIN",
-      "v2_conf": 0.508,
+      "v2_conf": 0.505,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T19:47:18.573615+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823478,
@@ -99,14 +99,14 @@
       "pick_prob": 0.579,
       "expected_total": 4.8,
       "v2_pick": "CHC",
-      "v2_conf": 0.539,
+      "v2_conf": 0.546,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T19:47:21.305541+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823562,
@@ -328,13 +328,13 @@
       "home_pitcher": "framber valdez",
       "tier": "disagree",
       "v2_pick": "DET",
-      "v2_conf": 0.508,
-      "lineup": "roster",
-      "n_batters": "17+19",
+      "v2_conf": 0.525,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "detail": "Expected 3.0 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 1,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-04-14T19:47:21.306055+00:00"
 }
