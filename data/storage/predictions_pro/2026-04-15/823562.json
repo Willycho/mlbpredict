@@ -1,0 +1,189 @@
+{
+  "game_id": 823562,
+  "kst_date": "2026-04-15",
+  "bulk_fetched_at": "2026-04-14T14:10:59.277319+00:00",
+  "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 823562,
+    "away_team": "LAA",
+    "home_team": "NYY",
+    "game_time_kst": "08:05",
+    "game_date_kst": "2026-04-15",
+    "away_pitcher": {
+      "id": 672282,
+      "name": "reid detmers",
+      "team": "LAA",
+      "throws": "L",
+      "total_score": 69.3,
+      "season_score": 66.6,
+      "arsenal_score": 84.5,
+      "recent_form_score": null,
+      "home_away_adj": -5.0,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 677960,
+      "name": "ryan weathers",
+      "team": "MIA",
+      "throws": "L",
+      "total_score": 68.7,
+      "season_score": 54.2,
+      "arsenal_score": 76.3,
+      "recent_form_score": null,
+      "home_away_adj": 5.0,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 50.2,
+      "arsenal_matchup": 47.6,
+      "h2h_bonus": 3.2,
+      "lineup_source": "roster",
+      "n_batters": 15
+    },
+    "home_matchup": {
+      "matchup_score": 54.6,
+      "arsenal_matchup": 57.7,
+      "h2h_bonus": -0.0,
+      "lineup_source": "roster",
+      "n_batters": 18
+    },
+    "effective_away": 59.8,
+    "effective_home": 67.6,
+    "win_prob_away": 0.411,
+    "win_prob_home": 0.589,
+    "pick": "NYY",
+    "pick_prob": 0.589,
+    "expected_total": 4.4,
+    "away_team_total": {
+      "expected": 2.14,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.36
+    },
+    "home_team_total": {
+      "expected": 2.26,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.24
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "15+18",
+        "type": "TT",
+        "pick": "LAA UNDER 2.5",
+        "conf": 0.68,
+        "detail": "Expected 2.14"
+      }
+    ],
+    "grade": "lean",
+    "grade_label": "LEAN",
+    "wind": {
+      "speed_mph": 12.1,
+      "direction": "out",
+      "adj": 0.33
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.455,
+        "pitcher_xwoba": 0.3,
+        "team_xwoba": 0.373,
+        "league_xwoba": 0.345,
+        "advantage": 0.0088
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.312,
+        "pitcher_xwoba": 0.294,
+        "team_xwoba": 0.302,
+        "league_xwoba": 0.288,
+        "advantage": -0.0107
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.212,
+        "pitcher_xwoba": 0.286,
+        "team_xwoba": 0.307,
+        "league_xwoba": 0.283,
+        "advantage": -0.0137
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.021,
+        "pitcher_xwoba": 0.325,
+        "team_xwoba": 0.393,
+        "league_xwoba": 0.351,
+        "advantage": -0.0082
+      }
+    ],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.453,
+        "pitcher_xwoba": 0.335,
+        "team_xwoba": 0.348,
+        "league_xwoba": 0.345,
+        "advantage": 0.0031
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.293,
+        "pitcher_xwoba": 0.287,
+        "team_xwoba": 0.266,
+        "league_xwoba": 0.29,
+        "advantage": 0.0138
+      },
+      {
+        "pitch_type": "ST",
+        "usage": 0.187,
+        "pitcher_xwoba": 0.256,
+        "team_xwoba": 0.25,
+        "league_xwoba": 0.267,
+        "advantage": 0.0143
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.036,
+        "pitcher_xwoba": 0.169,
+        "team_xwoba": 0.298,
+        "league_xwoba": 0.288,
+        "advantage": 0.0542
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.031,
+        "pitcher_xwoba": 0.501,
+        "team_xwoba": 0.353,
+        "league_xwoba": 0.351,
+        "advantage": -0.0759
+      }
+    ],
+    "away_h2h_detail": {
+      "total_pa": 18,
+      "n_batters": 8,
+      "w_k_rate": 0.444,
+      "w_bb_rate": 0.056,
+      "w_hr_rate": 0.0,
+      "confidence": 0.36
+    },
+    "home_h2h_detail": {
+      "total_pa": 15,
+      "n_batters": 4,
+      "w_k_rate": 0.333,
+      "w_bb_rate": 0.133,
+      "w_hr_rate": 0.067,
+      "confidence": 0.3
+    },
+    "v2_pick": "NYY",
+    "v2_conf": 0.544,
+    "consensus": true,
+    "tier": "consensus",
+    "ou_consensus": false,
+    "v2_f5_total": 5.6
+  },
+  "locked_away_pitcher_id": 672282,
+  "locked_home_pitcher_id": 677960
+}
