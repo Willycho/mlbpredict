@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T22:35:05.064837+00:00",
+      "last_refreshed_at": "2026-04-14T23:28:34.644435+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T22:35:07.571132+00:00",
+      "last_refreshed_at": "2026-04-14T23:28:38.368788+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
       "pick_prob": 0.537,
-      "expected_total": 3.4,
+      "expected_total": 3.6,
       "v2_pick": "TOR",
       "v2_conf": 0.561,
       "consensus": false,
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T22:35:10.116780+00:00",
+      "last_refreshed_at": "2026-04-14T23:28:51.659686+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T22:35:22.466427+00:00",
+      "last_refreshed_at": "2026-04-14T23:29:05.046913+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "bryan woo",
       "home_pitcher": "mike king",
       "pick": "SEA",
-      "pick_prob": 0.724,
-      "expected_total": 3.1,
+      "pick_prob": 0.721,
+      "expected_total": 3.2,
       "v2_pick": "SEA",
-      "v2_conf": 0.54,
+      "v2_conf": 0.541,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T23:29:08.798310+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825022,
@@ -263,18 +263,18 @@
       "game_date_kst": "2026-04-15",
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "jeffrey springs",
-      "pick": "ATH",
-      "pick_prob": 0.506,
-      "expected_total": 3.8,
+      "pick": "TEX",
+      "pick_prob": 0.526,
+      "expected_total": 4.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.507,
-      "consensus": false,
+      "v2_conf": 0.531,
+      "consensus": true,
       "ou_consensus": false,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T23:29:12.608463+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823965,
@@ -285,17 +285,17 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.583,
+      "pick_prob": 0.66,
       "expected_total": 3.1,
       "v2_pick": "LAD",
-      "v2_conf": 0.566,
+      "v2_conf": 0.568,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T23:29:25.980942+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824210,
@@ -338,16 +338,16 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823315,
-      "away_team": "SEA",
-      "home_team": "SD",
-      "away_pitcher": "bryan woo",
-      "home_pitcher": "mike king",
+      "game_id": 823965,
+      "away_team": "NYM",
+      "home_team": "LAD",
+      "away_pitcher": "nolan mclean",
+      "home_pitcher": "yoshinobu yamamoto",
       "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.54,
-      "lineup": "roster",
-      "n_batters": "15+17",
+      "v2_pick": "LAD",
+      "v2_conf": 0.568,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
@@ -355,20 +355,20 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823965,
-      "away_team": "NYM",
-      "home_team": "LAD",
-      "away_pitcher": "nolan mclean",
-      "home_pitcher": "yoshinobu yamamoto",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.566,
-      "lineup": "roster",
-      "n_batters": "14+15",
+      "game_id": 823315,
+      "away_team": "SEA",
+      "home_team": "SD",
+      "away_pitcher": "bryan woo",
+      "home_pitcher": "mike king",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.541,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -384,8 +384,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 3.4 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -396,12 +396,12 @@
       "home_pitcher": "mike king",
       "tier": "sweet_spot",
       "v2_pick": "SEA",
-      "v2_conf": 0.54,
-      "lineup": "roster",
-      "n_batters": "15+17",
+      "v2_conf": 0.541,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 SEA",
-      "conf": 0.724,
+      "conf": 0.721,
       "detail": "F5 SEA ML",
       "ml_consensus": true
     }
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-14T22:35:22.466989+00:00"
+  "last_modified_at": "2026-04-14T23:29:25.981529+00:00"
 }
