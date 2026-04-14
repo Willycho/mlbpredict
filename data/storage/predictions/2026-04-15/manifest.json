@@ -29,10 +29,10 @@
       "home_pitcher": "trevor rogers",
       "pick": "BAL",
       "pick_prob": 0.625,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:35.030526+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:36.274102+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 3.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:35.936394+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:37.125703+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -57,14 +57,14 @@
       "home_team": "PIT",
       "game_time_kst": "07:40",
       "game_date_kst": "2026-04-15",
-      "away_pitcher": "miles mikolas",
+      "away_pitcher": "pj poulin",
       "home_pitcher": "mitch keller",
-      "pick": "PIT",
-      "pick_prob": 0.598,
-      "expected_total": 4.9,
+      "pick": "WSH",
+      "pick_prob": 0.507,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:36.825812+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:38.777169+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:37.674269+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:39.600633+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:38.488145+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:40.555715+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:39.347760+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:41.495736+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "reynaldo lópez",
       "pick": "MIA",
       "pick_prob": 0.599,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:40.190750+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:42.317719+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "mick abel",
       "pick": "BOS",
       "pick_prob": 0.594,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:41.048000+00:00",
+      "last_refreshed_at": "2026-04-14T22:05:52.772776+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:07:51.506329+00:00",
+      "last_refreshed_at": "2026-04-14T22:06:03.251847+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:08:01.977104+00:00",
+      "last_refreshed_at": "2026-04-14T22:06:13.723577+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T21:08:12.511167+00:00",
+      "last_refreshed_at": "2026-04-14T22:06:24.214740+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-14T21:08:12.511799+00:00"
+  "last_modified_at": "2026-04-14T22:06:24.215398+00:00"
 }

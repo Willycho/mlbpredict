@@ -2,7 +2,7 @@
   "game_id": 824853,
   "kst_date": "2026-04-15",
   "bulk_fetched_at": "2026-04-14T14:06:28.481699+00:00",
-  "last_refreshed_at": "2026-04-14T21:07:35.030526+00:00",
+  "last_refreshed_at": "2026-04-14T22:05:36.274102+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,35 +55,26 @@
     "win_prob_home": 0.625,
     "pick": "BAL",
     "pick_prob": 0.625,
-    "expected_total": 4.3,
+    "expected_total": 4.2,
     "away_team_total": {
-      "expected": 1.82,
+      "expected": 1.78,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.32
+      "gap": 0.28
     },
     "home_team_total": {
-      "expected": 2.48,
+      "expected": 2.42,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.02
+      "gap": 0.08
     },
-    "sweet_picks": [
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "AZ OVER 1.5",
-        "conf": 0.66,
-        "detail": "Expected 1.82"
-      }
-    ],
+    "sweet_picks": [],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 8.9,
+      "speed_mph": 8.3,
       "direction": "out",
-      "adj": 0.27
+      "adj": 0.25
     },
     "away_pitch_detail": [
       {

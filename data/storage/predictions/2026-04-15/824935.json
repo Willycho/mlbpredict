@@ -2,7 +2,7 @@
   "game_id": 824935,
   "kst_date": "2026-04-15",
   "bulk_fetched_at": "2026-04-14T14:06:28.481699+00:00",
-  "last_refreshed_at": "2026-04-14T21:07:40.190750+00:00",
+  "last_refreshed_at": "2026-04-14T22:05:42.317719+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.401,
     "pick": "MIA",
     "pick_prob": 0.599,
-    "expected_total": 4.5,
+    "expected_total": 4.4,
     "away_team_total": {
-      "expected": 2.38,
+      "expected": 2.32,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.12
+      "gap": 0.18
     },
     "home_team_total": {
-      "expected": 2.12,
+      "expected": 2.08,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.38
+      "gap": 0.42
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "ATL UNDER 2.5",
-        "conf": 0.69,
-        "detail": "Expected 2.12"
+        "conf": 0.71,
+        "detail": "Expected 2.08"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 6.3,
-      "direction": "cross",
-      "adj": -0.03
+      "speed_mph": 6.6,
+      "direction": "in",
+      "adj": -0.07
     },
     "away_pitch_detail": [
       {
