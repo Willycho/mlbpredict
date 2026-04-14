@@ -12,16 +12,16 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "trevor rogers",
       "pick": "BAL",
-      "pick_prob": 0.577,
+      "pick_prob": 0.558,
       "expected_total": 4.2,
-      "v2_pick": "BAL",
-      "v2_conf": 0.505,
-      "consensus": true,
+      "v2_pick": "AZ",
+      "v2_conf": 0.516,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T19:46:50.552015+00:00",
+      "last_refreshed_at": "2026-04-14T20:39:35.222668+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T19:46:53.379254+00:00",
+      "last_refreshed_at": "2026-04-14T20:39:37.968740+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "mitch keller",
       "pick": "PIT",
       "pick_prob": 0.543,
-      "expected_total": 4.6,
+      "expected_total": 4.9,
       "v2_pick": "PIT",
       "v2_conf": 0.571,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T19:47:06.143888+00:00",
+      "last_refreshed_at": "2026-04-14T20:39:40.661152+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T19:47:18.573615+00:00",
+      "last_refreshed_at": "2026-04-14T20:39:53.052273+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,16 +96,16 @@
       "away_pitcher": "Riley Martin",
       "home_pitcher": "aaron nola",
       "pick": "CHC",
-      "pick_prob": 0.579,
-      "expected_total": 4.8,
+      "pick_prob": 0.598,
+      "expected_total": 4.4,
       "v2_pick": "CHC",
-      "v2_conf": 0.546,
+      "v2_conf": 0.549,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T19:47:21.305541+00:00",
+      "last_refreshed_at": "2026-04-14T20:40:06.267654+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,17 +117,17 @@
       "away_pitcher": "reid detmers",
       "home_pitcher": "ryan weathers",
       "pick": "NYY",
-      "pick_prob": 0.589,
+      "pick_prob": 0.606,
       "expected_total": 4.4,
       "v2_pick": "NYY",
-      "v2_conf": 0.544,
+      "v2_conf": 0.567,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T20:40:10.142660+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824935,
@@ -138,17 +138,17 @@
       "away_pitcher": "max meyer",
       "home_pitcher": "reynaldo lópez",
       "pick": "MIA",
-      "pick_prob": 0.626,
+      "pick_prob": 0.599,
       "expected_total": 4.6,
       "v2_pick": "ATL",
-      "v2_conf": 0.593,
+      "v2_conf": 0.589,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:10:59.277319+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T20:40:13.999326+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823723,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-14T19:47:21.306055+00:00"
+  "last_modified_at": "2026-04-14T20:40:13.999917+00:00"
 }
