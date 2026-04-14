@@ -29,11 +29,11 @@
       "home_pitcher": "trevor rogers",
       "pick": "BAL",
       "pick_prob": 0.577,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-14T20:04:24.145713+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824292,
@@ -44,12 +44,12 @@
       "away_pitcher": "cole ragans",
       "home_pitcher": "framber valdez",
       "pick": "KC",
-      "pick_prob": 0.535,
-      "expected_total": 3.1,
+      "pick_prob": 0.6,
+      "expected_total": 3.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T20:04:24.723747+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823398,
@@ -60,12 +60,12 @@
       "away_pitcher": "miles mikolas",
       "home_pitcher": "mitch keller",
       "pick": "PIT",
-      "pick_prob": 0.563,
-      "expected_total": 4.6,
+      "pick_prob": 0.543,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-14T20:04:25.353972+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824531,
@@ -76,12 +76,12 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "brady singer",
       "pick": "SF",
-      "pick_prob": 0.631,
-      "expected_total": 3.9,
+      "pick_prob": 0.618,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T20:04:26.014941+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823478,
@@ -92,12 +92,12 @@
       "away_pitcher": "Riley Martin",
       "home_pitcher": "aaron nola",
       "pick": "CHC",
-      "pick_prob": 0.579,
+      "pick_prob": 0.598,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T20:04:26.581089+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823562,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-14T20:04:26.581598+00:00"
 }
