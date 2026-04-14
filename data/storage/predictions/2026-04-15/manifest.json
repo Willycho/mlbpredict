@@ -208,7 +208,7 @@
       "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T23:04:51.518372+00:00",
+      "last_refreshed_at": "2026-04-14T23:59:22.534269+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T23:04:52.267088+00:00",
+      "last_refreshed_at": "2026-04-14T23:59:23.122391+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.583,
-      "expected_total": 3.1,
+      "pick_prob": 0.66,
+      "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-14T14:06:28.481699+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-14T23:59:23.702696+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-14T23:04:52.267577+00:00"
+  "last_modified_at": "2026-04-14T23:59:23.703358+00:00"
 }
