@@ -202,15 +202,15 @@
       "home_pitcher": "sean burke",
       "pick": "TB",
       "pick_prob": 0.657,
-      "expected_total": 4.7,
+      "expected_total": 4.5,
       "v2_pick": "TB",
       "v2_conf": 0.52,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:27:46.719903+00:00",
+      "last_refreshed_at": "2026-04-15T23:27:44.510062+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:27:59.544718+00:00",
+      "last_refreshed_at": "2026-04-15T23:27:46.931394+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "HOU",
       "pick_prob": 0.555,
-      "expected_total": 5.2,
+      "expected_total": 5.1,
       "v2_pick": "HOU",
       "v2_conf": 0.521,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:28:02.643311+00:00",
+      "last_refreshed_at": "2026-04-15T23:27:49.292540+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "emerson hancock",
       "home_pitcher": "randy vásquez",
       "pick": "SEA",
-      "pick_prob": 0.54,
+      "pick_prob": 0.561,
       "expected_total": 5.0,
       "v2_pick": "SD",
-      "v2_conf": 0.521,
+      "v2_conf": 0.527,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:28:01.379045+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825021,
@@ -285,7 +285,7 @@
       "away_pitcher": "kumar rocker",
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
-      "pick_prob": 0.743,
+      "pick_prob": 0.747,
       "expected_total": 4.4,
       "v2_pick": "TEX",
       "v2_conf": 0.51,
@@ -293,9 +293,9 @@
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:28:13.360937+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823963,
@@ -306,17 +306,17 @@
       "away_pitcher": "clay holmes",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.789,
-      "expected_total": 3.6,
+      "pick_prob": 0.816,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.567,
+      "v2_conf": 0.556,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:28:15.546017+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -345,13 +345,13 @@
       "home_pitcher": "shohei ohtani",
       "tier": "consensus",
       "v2_pick": "LAD",
-      "v2_conf": 0.567,
-      "lineup": "roster",
-      "n_batters": "14+15",
+      "v2_conf": 0.556,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -384,8 +384,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T22:28:02.643933+00:00"
+  "last_modified_at": "2026-04-15T23:28:15.546611+00:00"
 }
