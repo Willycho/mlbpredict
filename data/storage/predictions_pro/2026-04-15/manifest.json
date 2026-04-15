@@ -244,7 +244,7 @@
       "home_pitcher": "mike king",
       "pick": "SEA",
       "pick_prob": 0.721,
-      "expected_total": 3.2,
+      "expected_total": 3.1,
       "v2_pick": "SEA",
       "v2_conf": 0.541,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T23:29:08.798310+00:00",
+      "last_refreshed_at": "2026-04-15T01:08:47.297096+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T23:29:12.608463+00:00",
+      "last_refreshed_at": "2026-04-15T01:08:51.248879+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-14T23:29:25.980942+00:00",
+      "last_refreshed_at": "2026-04-15T01:09:04.956704+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823315,
+      "away_team": "SEA",
+      "home_team": "SD",
+      "away_pitcher": "bryan woo",
+      "home_pitcher": "mike king",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.541,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.95,
+      "detail": "Expected 3.1 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823965,
       "away_team": "NYM",
       "home_team": "LAD",
@@ -352,23 +369,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
       "detail": "Expected 3.1 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823315,
-      "away_team": "SEA",
-      "home_team": "SD",
-      "away_pitcher": "bryan woo",
-      "home_pitcher": "mike king",
-      "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.541,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-14T23:29:25.981529+00:00"
+  "last_modified_at": "2026-04-15T01:09:04.957410+00:00"
 }
