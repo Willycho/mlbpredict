@@ -75,17 +75,17 @@
       "away_pitcher": "seth lugo",
       "home_pitcher": "jack flaherty",
       "pick": "DET",
-      "pick_prob": 0.689,
-      "expected_total": 3.8,
-      "v2_pick": "DET",
-      "v2_conf": 0.557,
-      "consensus": true,
+      "pick_prob": 0.682,
+      "expected_total": 3.9,
+      "v2_pick": "KC",
+      "v2_conf": 0.505,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T19:42:04.930671+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823399,
@@ -96,17 +96,17 @@
       "away_pitcher": "jake irvin",
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
-      "pick_prob": 0.597,
-      "expected_total": 4.6,
+      "pick_prob": 0.657,
+      "expected_total": 4.7,
       "v2_pick": "PIT",
-      "v2_conf": 0.552,
+      "v2_conf": 0.536,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T19:42:07.886231+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824532,
@@ -117,17 +117,17 @@
       "away_pitcher": "tyler mahle",
       "home_pitcher": "rhett lowder",
       "pick": "SF",
-      "pick_prob": 0.543,
-      "expected_total": 5.0,
+      "pick_prob": 0.525,
+      "expected_total": 4.9,
       "v2_pick": "CIN",
-      "v2_conf": 0.565,
+      "v2_conf": 0.524,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T19:42:20.650344+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823477,
@@ -138,17 +138,17 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.676,
-      "expected_total": 4.0,
+      "pick_prob": 0.687,
+      "expected_total": 3.8,
       "v2_pick": "PHI",
-      "v2_conf": 0.518,
+      "v2_conf": 0.513,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T19:42:33.196921+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823561,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T16:47:59.056254+00:00"
+  "last_modified_at": "2026-04-15T19:42:33.197549+00:00"
 }
