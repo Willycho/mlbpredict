@@ -2,7 +2,7 @@
   "game_id": 823561,
   "kst_date": "2026-04-16",
   "bulk_fetched_at": "2026-04-15T14:05:06.113648+00:00",
-  "last_refreshed_at": "2026-04-15T20:34:46.695360+00:00",
+  "last_refreshed_at": "2026-04-15T21:35:24.538230+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.753,
     "pick": "NYY",
     "pick_prob": 0.753,
-    "expected_total": 5.6,
+    "expected_total": 5.3,
     "away_team_total": {
-      "expected": 2.35,
+      "expected": 2.23,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.15
+      "gap": 0.27
     },
     "home_team_total": {
-      "expected": 3.25,
+      "expected": 3.07,
       "line": 3.5,
       "pick": "UNDER",
-      "gap": 0.25
+      "gap": 0.43
     },
     "sweet_picks": [
       {
@@ -74,17 +74,21 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 OVER 4.5",
-        "conf": 0.867,
-        "detail": "Expected 5.6 vs line 4.5"
+        "conf": 0.767,
+        "detail": "Expected 5.3 vs line 4.5"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "NYY UNDER 3.5",
+        "conf": 0.715,
+        "detail": "Expected 3.07"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": {
-      "speed_mph": 7.9,
-      "direction": "out",
-      "adj": 0.23
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
