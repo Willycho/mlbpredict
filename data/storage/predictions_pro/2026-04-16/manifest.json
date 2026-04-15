@@ -12,16 +12,16 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
-      "pick_prob": 0.709,
+      "pick_prob": 0.733,
       "expected_total": 4.1,
       "v2_pick": "BAL",
-      "v2_conf": 0.567,
+      "v2_conf": 0.547,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:08:49.255252+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T15:43:05.391412+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,18 +32,18 @@
       "game_date_kst": "2026-04-16",
       "away_pitcher": "slade cecconi",
       "home_pitcher": "dustin may",
-      "pick": "STL",
-      "pick_prob": 0.544,
-      "expected_total": 4.8,
-      "v2_pick": "STL",
-      "v2_conf": 0.521,
+      "pick": "CLE",
+      "pick_prob": 0.507,
+      "expected_total": 4.7,
+      "v2_pick": "CLE",
+      "v2_conf": 0.51,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-15T15:43:07.980753+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823722,
@@ -54,17 +54,17 @@
       "away_pitcher": "connelly early",
       "home_pitcher": "simeon woods richardson",
       "pick": "BOS",
-      "pick_prob": 0.759,
+      "pick_prob": 0.697,
       "expected_total": 3.3,
       "v2_pick": "BOS",
-      "v2_conf": 0.552,
+      "v2_conf": 0.543,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T15:43:10.509668+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824291,
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824855,
+      "away_team": "AZ",
+      "home_team": "BAL",
+      "away_pitcher": "eduardo rodríguez",
+      "home_pitcher": "kyle bradish",
+      "tier": "sweet_spot",
+      "v2_pick": "BAL",
+      "v2_conf": 0.547,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 BAL",
+      "conf": 0.733,
+      "detail": "F5 BAL ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 824209,
       "away_team": "COL",
       "home_team": "HOU",
@@ -387,23 +404,6 @@
       "conf": 0.721,
       "detail": "F5 NYY ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824855,
-      "away_team": "AZ",
-      "home_team": "BAL",
-      "away_pitcher": "eduardo rodríguez",
-      "home_pitcher": "kyle bradish",
-      "tier": "sweet_spot",
-      "v2_pick": "BAL",
-      "v2_conf": 0.567,
-      "lineup": "roster",
-      "n_batters": "22+21",
-      "type": "ML",
-      "pick": "F5 BAL",
-      "conf": 0.709,
-      "detail": "F5 BAL ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T14:08:49.255879+00:00"
+  "last_modified_at": "2026-04-15T15:43:10.510239+00:00"
 }
