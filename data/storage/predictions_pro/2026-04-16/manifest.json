@@ -34,7 +34,7 @@
       "home_pitcher": "dustin may",
       "pick": "CLE",
       "pick_prob": 0.507,
-      "expected_total": 4.7,
+      "expected_total": 4.9,
       "v2_pick": "CLE",
       "v2_conf": 0.51,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T15:43:07.980753+00:00",
+      "last_refreshed_at": "2026-04-15T16:47:55.680561+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "simeon woods richardson",
       "pick": "BOS",
       "pick_prob": 0.697,
-      "expected_total": 3.3,
+      "expected_total": 3.4,
       "v2_pick": "BOS",
       "v2_conf": 0.543,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T15:43:10.509668+00:00",
+      "last_refreshed_at": "2026-04-15T16:47:59.055665+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T15:43:10.510239+00:00"
+  "last_modified_at": "2026-04-15T16:47:59.056254+00:00"
 }
