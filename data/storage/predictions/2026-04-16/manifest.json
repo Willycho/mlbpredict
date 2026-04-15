@@ -192,7 +192,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:03:20.346977+00:00",
+      "last_refreshed_at": "2026-04-15T23:59:38.758859+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:03:21.250997+00:00",
+      "last_refreshed_at": "2026-04-15T23:59:39.393338+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:03:22.162293+00:00",
+      "last_refreshed_at": "2026-04-15T23:59:40.071405+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "clay holmes",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.789,
-      "expected_total": 3.6,
+      "pick_prob": 0.816,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:59:40.812866+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-15T23:03:22.162920+00:00"
+  "last_modified_at": "2026-04-15T23:59:40.813495+00:00"
 }
