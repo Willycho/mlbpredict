@@ -60,12 +60,12 @@
       "away_pitcher": "seth lugo",
       "home_pitcher": "jack flaherty",
       "pick": "DET",
-      "pick_prob": 0.689,
-      "expected_total": 3.8,
+      "pick_prob": 0.682,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:11:12.234338+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823399,
@@ -76,12 +76,12 @@
       "away_pitcher": "jake irvin",
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
-      "pick_prob": 0.597,
-      "expected_total": 4.6,
+      "pick_prob": 0.657,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:11:12.919213+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824532,
@@ -92,12 +92,12 @@
       "away_pitcher": "tyler mahle",
       "home_pitcher": "rhett lowder",
       "pick": "SF",
-      "pick_prob": 0.543,
+      "pick_prob": 0.525,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:11:13.609285+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823477,
@@ -108,12 +108,12 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.676,
-      "expected_total": 4.0,
+      "pick_prob": 0.687,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:11:14.249483+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823561,
@@ -124,12 +124,12 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "luis gil",
       "pick": "NYY",
-      "pick_prob": 0.721,
-      "expected_total": 5.7,
+      "pick_prob": 0.753,
+      "expected_total": 5.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:11:14.894867+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824936,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-15T16:42:59.381880+00:00"
+  "last_modified_at": "2026-04-15T20:11:14.895487+00:00"
 }
