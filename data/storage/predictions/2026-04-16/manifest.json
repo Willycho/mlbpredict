@@ -64,7 +64,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:11.107876+00:00",
+      "last_refreshed_at": "2026-04-15T22:04:59.085938+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:11.875528+00:00",
+      "last_refreshed_at": "2026-04-15T22:04:59.938466+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:12.535648+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:00.795995+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:13.225997+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:01.586096+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 5.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:13.977471+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:02.428925+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "bryce elder",
       "pick": "ATL",
       "pick_prob": 0.588,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:14.642857+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:03.230814+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "sean burke",
       "pick": "TB",
       "pick_prob": 0.657,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:15.279914+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:04.115727+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:07:16.009872+00:00",
+      "last_refreshed_at": "2026-04-15T22:05:04.943290+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,12 +188,12 @@
       "away_pitcher": "jose quintana",
       "home_pitcher": "spencer arrighetti",
       "pick": "HOU",
-      "pick_prob": 0.613,
+      "pick_prob": 0.555,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T22:05:15.314883+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823314,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-15T21:07:16.010494+00:00"
+  "last_modified_at": "2026-04-15T22:05:15.315533+00:00"
 }
