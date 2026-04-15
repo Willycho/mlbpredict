@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T19:42:04.930671+00:00",
+      "last_refreshed_at": "2026-04-15T20:34:16.169835+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T19:42:07.886231+00:00",
+      "last_refreshed_at": "2026-04-15T20:34:19.069212+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T19:42:20.650344+00:00",
+      "last_refreshed_at": "2026-04-15T20:34:31.443003+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,16 +138,16 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.687,
+      "pick_prob": 0.679,
       "expected_total": 3.8,
       "v2_pick": "PHI",
-      "v2_conf": 0.513,
+      "v2_conf": 0.508,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T19:42:33.196921+00:00",
+      "last_refreshed_at": "2026-04-15T20:34:43.904237+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "luis gil",
       "pick": "NYY",
-      "pick_prob": 0.721,
-      "expected_total": 5.7,
+      "pick_prob": 0.753,
+      "expected_total": 5.6,
       "v2_pick": "NYY",
-      "v2_conf": 0.63,
+      "v2_conf": 0.625,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:34:46.695360+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824936,
@@ -180,17 +180,17 @@
       "away_pitcher": "chris paddack",
       "home_pitcher": "bryce elder",
       "pick": "ATL",
-      "pick_prob": 0.572,
-      "expected_total": 4.9,
+      "pick_prob": 0.588,
+      "expected_total": 5.0,
       "v2_pick": "MIA",
-      "v2_conf": 0.511,
+      "v2_conf": 0.533,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T14:05:06.113648+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T20:34:49.432606+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824615,
@@ -326,15 +326,15 @@
       "home_team": "NYY",
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "luis gil",
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "v2_pick": "NYY",
-      "v2_conf": 0.63,
-      "lineup": "roster",
-      "n_batters": "15+18",
+      "v2_conf": 0.625,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 5.7 vs line 4.5",
+      "conf": 0.867,
+      "detail": "Expected 5.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -389,20 +389,20 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823561,
-      "away_team": "LAA",
-      "home_team": "NYY",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "luis gil",
+      "game_id": 823722,
+      "away_team": "BOS",
+      "home_team": "MIN",
+      "away_pitcher": "connelly early",
+      "home_pitcher": "simeon woods richardson",
       "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.63,
-      "lineup": "roster",
-      "n_batters": "15+18",
+      "v2_pick": "BOS",
+      "v2_conf": 0.543,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.721,
-      "detail": "F5 NYY ML",
+      "pick": "F5 BOS",
+      "conf": 0.697,
+      "detail": "F5 BOS ML",
       "ml_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T19:42:33.197549+00:00"
+  "last_modified_at": "2026-04-15T20:34:49.433041+00:00"
 }
