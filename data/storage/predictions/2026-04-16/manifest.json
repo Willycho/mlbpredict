@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:05:03.230814+00:00",
+      "last_refreshed_at": "2026-04-15T23:03:17.686145+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "sean burke",
       "pick": "TB",
       "pick_prob": 0.657,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:05:04.115727+00:00",
+      "last_refreshed_at": "2026-04-15T23:03:18.587250+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "chad patrick",
       "pick": "TOR",
       "pick_prob": 0.56,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:05:04.943290+00:00",
+      "last_refreshed_at": "2026-04-15T23:03:19.471876+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "HOU",
       "pick_prob": 0.555,
-      "expected_total": 4.7,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T22:05:15.314883+00:00",
+      "last_refreshed_at": "2026-04-15T23:03:20.346977+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "emerson hancock",
       "home_pitcher": "randy vásquez",
       "pick": "SEA",
-      "pick_prob": 0.54,
-      "expected_total": 5.0,
+      "pick_prob": 0.561,
+      "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:03:21.250997+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825021,
@@ -220,12 +220,12 @@
       "away_pitcher": "kumar rocker",
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
-      "pick_prob": 0.743,
-      "expected_total": 4.4,
+      "pick_prob": 0.747,
+      "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-15T13:59:52.872821+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-15T23:03:22.162293+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823963,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-15T22:05:15.315533+00:00"
+  "last_modified_at": "2026-04-15T23:03:22.162920+00:00"
 }
