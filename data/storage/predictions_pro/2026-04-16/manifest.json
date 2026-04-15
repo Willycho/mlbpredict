@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:34:54.716782+00:00",
+      "last_refreshed_at": "2026-04-15T22:26:58.629473+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:34:57.253552+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:01.908654+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "rhett lowder",
       "pick": "SF",
       "pick_prob": 0.525,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "CIN",
       "v2_conf": 0.524,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:34:59.748171+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:14.715401+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:12.201136+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:27.596045+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "home_pitcher": "luis gil",
       "pick": "NYY",
       "pick_prob": 0.753,
-      "expected_total": 5.3,
+      "expected_total": 5.7,
       "v2_pick": "NYY",
       "v2_conf": 0.625,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:24.538230+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:30.744193+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "bryce elder",
       "pick": "ATL",
       "pick_prob": 0.588,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "MIA",
       "v2_conf": 0.533,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:36.871190+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:33.898946+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,15 +202,15 @@
       "home_pitcher": "sean burke",
       "pick": "TB",
       "pick_prob": 0.657,
-      "expected_total": 4.5,
+      "expected_total": 4.7,
       "v2_pick": "TB",
       "v2_conf": 0.52,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:39.381140+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:46.719903+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "chad patrick",
       "pick": "TOR",
       "pick_prob": 0.56,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "v2_pick": "TOR",
       "v2_conf": 0.56,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:41.875405+00:00",
+      "last_refreshed_at": "2026-04-15T22:27:59.544718+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "HOU",
       "pick_prob": 0.555,
-      "expected_total": 5.3,
+      "expected_total": 5.2,
       "v2_pick": "HOU",
       "v2_conf": 0.521,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T21:35:44.367294+00:00",
+      "last_refreshed_at": "2026-04-15T22:28:02.643311+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -321,6 +321,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 823561,
+      "away_team": "LAA",
+      "home_team": "NYY",
+      "away_pitcher": "jack kochanowicz",
+      "home_pitcher": "luis gil",
+      "tier": "consensus",
+      "v2_pick": "NYY",
+      "v2_conf": 0.625,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 5.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823963,
       "away_team": "NYM",
       "home_team": "LAD",
@@ -335,40 +352,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.8,
       "detail": "Expected 3.6 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823561,
-      "away_team": "LAA",
-      "home_team": "NYY",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "luis gil",
-      "tier": "consensus",
-      "v2_pick": "NYY",
-      "v2_conf": 0.625,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 5.3 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824209,
-      "away_team": "COL",
-      "home_team": "HOU",
-      "away_pitcher": "jose quintana",
-      "home_pitcher": "spencer arrighetti",
-      "tier": "consensus",
-      "v2_pick": "HOU",
-      "v2_conf": 0.521,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,6 +370,23 @@
       "conf": 0.733,
       "detail": "F5 BAL ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824209,
+      "away_team": "COL",
+      "home_team": "HOU",
+      "away_pitcher": "jose quintana",
+      "home_pitcher": "spencer arrighetti",
+      "tier": "consensus",
+      "v2_pick": "HOU",
+      "v2_conf": 0.521,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 5.2 vs line 4.5",
+      "ou_consensus": true
     },
     {
       "game_id": 823722,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T21:35:44.367899+00:00"
+  "last_modified_at": "2026-04-15T22:28:02.643933+00:00"
 }
