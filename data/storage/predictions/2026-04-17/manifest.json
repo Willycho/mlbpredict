@@ -128,7 +128,7 @@
       "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T21:03:44.767241+00:00",
+      "last_refreshed_at": "2026-04-16T21:59:28.863730+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "juan mejia",
       "home_pitcher": "Ryan Weiss",
       "pick": "COL",
-      "pick_prob": 0.661,
+      "pick_prob": 0.644,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T21:59:29.698594+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823313,
@@ -156,13 +156,13 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "walker buehler",
       "pick": "SEA",
-      "pick_prob": 0.784,
-      "expected_total": 4.5,
+      "pick_prob": 0.756,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T21:59:30.539949+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-16T21:03:44.767797+00:00"
+  "last_modified_at": "2026-04-16T21:59:30.540481+00:00"
 }
