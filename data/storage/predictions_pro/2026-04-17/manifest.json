@@ -15,14 +15,14 @@
       "pick_prob": 0.652,
       "expected_total": 4.4,
       "v2_pick": "PIT",
-      "v2_conf": 0.623,
+      "v2_conf": 0.622,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T14:19:06.625144+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824530,
@@ -42,8 +42,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-16T14:19:09.684428+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824289,
@@ -63,8 +63,8 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-16T14:19:12.537438+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823801,
@@ -240,9 +240,9 @@
       "home_pitcher": "braxton ashcraft",
       "tier": "sweet_spot",
       "v2_pick": "PIT",
-      "v2_conf": 0.623,
-      "lineup": "roster",
-      "n_batters": "18+19",
+      "v2_conf": 0.622,
+      "lineup": "partial",
+      "n_batters": "9+19",
       "type": "ML",
       "pick": "F5 PIT",
       "conf": 0.652,
@@ -272,5 +272,6 @@
     "ou_consensus_count": 5,
     "sweet_spot_count": 2,
     "total_games": 10
-  }
+  },
+  "last_modified_at": "2026-04-16T14:19:12.537972+00:00"
 }
