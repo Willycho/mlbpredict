@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T21:02:26.976872+00:00",
+      "last_refreshed_at": "2026-04-16T21:57:34.181229+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "juan mejia",
       "home_pitcher": "Ryan Weiss",
       "pick": "COL",
-      "pick_prob": 0.661,
+      "pick_prob": 0.644,
       "expected_total": 4.6,
       "v2_pick": "HOU",
-      "v2_conf": 0.514,
+      "v2_conf": 0.502,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T21:57:37.000507+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823313,
@@ -180,17 +180,17 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "walker buehler",
       "pick": "SEA",
-      "pick_prob": 0.784,
+      "pick_prob": 0.756,
       "expected_total": 4.7,
       "v2_pick": "SEA",
-      "v2_conf": 0.592,
+      "v2_conf": 0.578,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T21:57:39.651515+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823560,
@@ -239,5 +239,5 @@
     "sweet_spot_count": 2,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-16T21:02:26.977476+00:00"
+  "last_modified_at": "2026-04-16T21:57:39.652049+00:00"
 }
