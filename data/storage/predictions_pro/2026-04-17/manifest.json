@@ -97,7 +97,7 @@
       "home_pitcher": "jordan leasure",
       "pick": "TB",
       "pick_prob": 0.533,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "TB",
       "v2_conf": 0.553,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T16:01:33.373845+00:00",
+      "last_refreshed_at": "2026-04-16T17:41:34.454926+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,17 +117,17 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "jacob lopez",
       "pick": "ATH",
-      "pick_prob": 0.697,
+      "pick_prob": 0.718,
       "expected_total": 3.5,
       "v2_pick": "TEX",
-      "v2_conf": 0.513,
+      "v2_conf": 0.526,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:11:48.519309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T17:41:37.182629+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824453,
@@ -231,23 +231,6 @@
       "conf": 0.72,
       "detail": "F5 KC ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824614,
-      "away_team": "TB",
-      "home_team": "CWS",
-      "away_pitcher": "steven matz",
-      "home_pitcher": "jordan leasure",
-      "tier": "consensus",
-      "v2_pick": "TB",
-      "v2_conf": 0.553,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.1 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -256,5 +239,5 @@
     "sweet_spot_count": 2,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-16T16:01:33.374309+00:00"
+  "last_modified_at": "2026-04-16T17:41:37.183058+00:00"
 }
