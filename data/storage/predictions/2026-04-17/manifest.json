@@ -28,12 +28,12 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "braxton ashcraft",
       "pick": "PIT",
-      "pick_prob": 0.652,
+      "pick_prob": 0.621,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T14:54:06.468938+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824530,
@@ -48,8 +48,8 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-16T14:54:07.319435+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824289,
@@ -60,12 +60,12 @@
       "away_pitcher": "kris bubic",
       "home_pitcher": "keider montero",
       "pick": "KC",
-      "pick_prob": 0.691,
-      "expected_total": 4.3,
+      "pick_prob": 0.72,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-16T14:54:08.141003+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823801,
@@ -80,8 +80,8 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-16T14:54:09.026889+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824614,
@@ -163,5 +163,6 @@
       "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-16T14:54:09.027559+00:00"
 }
