@@ -2,7 +2,7 @@
   "game_id": 824530,
   "kst_date": "2026-04-17",
   "bulk_fetched_at": "2026-04-16T14:11:48.519309+00:00",
-  "last_refreshed_at": "2026-04-16T14:19:09.684428+00:00",
+  "last_refreshed_at": "2026-04-16T16:01:06.206864+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -72,7 +72,7 @@
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 12.2,
+      "speed_mph": 12.7,
       "direction": "out",
       "adj": 0.28
     },
