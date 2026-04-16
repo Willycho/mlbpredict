@@ -124,12 +124,12 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "parker messick",
       "pick": "CLE",
-      "pick_prob": 0.586,
-      "expected_total": 3.6,
+      "pick_prob": 0.611,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-16T14:07:56.501582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-16T20:06:49.091796+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824208,
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-16T17:51:35.831049+00:00"
+  "last_modified_at": "2026-04-16T20:06:49.092348+00:00"
 }
