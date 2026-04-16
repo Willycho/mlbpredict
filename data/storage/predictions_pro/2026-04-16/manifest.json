@@ -265,7 +265,7 @@
       "home_pitcher": "randy vásquez",
       "pick": "SEA",
       "pick_prob": 0.561,
-      "expected_total": 5.0,
+      "expected_total": 4.8,
       "v2_pick": "SD",
       "v2_conf": 0.527,
       "consensus": false,
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:28:01.379045+00:00",
+      "last_refreshed_at": "2026-04-16T01:11:18.955040+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,15 +286,15 @@
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
       "pick_prob": 0.747,
-      "expected_total": 4.4,
+      "expected_total": 4.9,
       "v2_pick": "TEX",
       "v2_conf": 0.51,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:28:13.360937+00:00",
+      "last_refreshed_at": "2026-04-16T01:11:22.497103+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -307,7 +307,7 @@
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
       "pick_prob": 0.816,
-      "expected_total": 3.7,
+      "expected_total": 3.6,
       "v2_pick": "LAD",
       "v2_conf": 0.556,
       "consensus": true,
@@ -315,7 +315,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-15T23:28:15.546017+00:00",
+      "last_refreshed_at": "2026-04-16T01:11:35.667754+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -350,8 +350,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-15T23:28:15.546611+00:00"
+  "last_modified_at": "2026-04-16T01:11:35.668344+00:00"
 }
