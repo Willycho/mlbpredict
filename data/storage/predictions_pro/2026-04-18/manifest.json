@@ -12,17 +12,17 @@
       "away_pitcher": "kodai senga",
       "home_pitcher": "edward cabrera",
       "pick": "CHC",
-      "pick_prob": 0.541,
-      "expected_total": 4.3,
-      "v2_pick": "NYM",
-      "v2_conf": 0.523,
-      "consensus": false,
+      "pick_prob": 0.576,
+      "expected_total": 4.4,
+      "v2_pick": "CHC",
+      "v2_conf": 0.544,
+      "consensus": true,
       "ou_consensus": false,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T15:33:33.937045+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824454,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 2,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-04-17T15:33:33.937615+00:00"
 }
