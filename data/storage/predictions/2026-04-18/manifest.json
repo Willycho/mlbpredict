@@ -32,7 +32,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T16:37:36.465590+00:00",
+      "last_refreshed_at": "2026-04-17T17:33:31.361066+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-17T16:37:36.466242+00:00"
+  "last_modified_at": "2026-04-17T17:33:31.361674+00:00"
 }
