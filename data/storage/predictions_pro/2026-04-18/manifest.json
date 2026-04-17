@@ -32,18 +32,18 @@
       "game_date_kst": "2026-04-18",
       "away_pitcher": "chris bassitt",
       "home_pitcher": "tanner bibee",
-      "pick": "CLE",
-      "pick_prob": 0.519,
+      "pick": "BAL",
+      "pick_prob": 0.502,
       "expected_total": 3.8,
       "v2_pick": "CLE",
-      "v2_conf": 0.54,
-      "consensus": true,
+      "v2_conf": 0.523,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T19:42:59.315098+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823476,
@@ -54,17 +54,17 @@
       "away_pitcher": "martín pérez",
       "home_pitcher": "taijuan walker",
       "pick": "PHI",
-      "pick_prob": 0.585,
+      "pick_prob": 0.58,
       "expected_total": 5.1,
       "v2_pick": "ATL",
-      "v2_conf": 0.557,
+      "v2_conf": 0.535,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T19:43:02.810837+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822752,
@@ -362,9 +362,9 @@
       "home_pitcher": "taijuan walker",
       "tier": "disagree",
       "v2_pick": "ATL",
-      "v2_conf": 0.557,
-      "lineup": "roster",
-      "n_batters": "14+18",
+      "v2_conf": 0.535,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.7,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-17T17:30:29.812593+00:00"
+  "last_modified_at": "2026-04-17T19:43:02.811951+00:00"
 }
