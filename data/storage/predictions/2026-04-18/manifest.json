@@ -64,7 +64,7 @@
       "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:27:56.500550+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:17.566163+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:27:57.395377+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:18.306181+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:27:58.270784+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:19.040298+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
       "pick_prob": 0.695,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:27:59.156636+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:19.700687+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "ranger suárez",
       "pick": "BOS",
       "pick_prob": 0.54,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:28:00.065506+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:20.335195+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:28:00.923012+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:20.970161+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "joe ryan",
       "pick": "MIN",
       "pick_prob": 0.692,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:28:01.796237+00:00",
+      "last_refreshed_at": "2026-04-17T22:07:21.598773+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "tomoyuki sugano",
       "pick": "LAD",
-      "pick_prob": 0.908,
-      "expected_total": 4.8,
+      "pick_prob": 0.9,
+      "expected_total": 5.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:52:16.709291+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T22:07:22.358480+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824048,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-17T21:28:01.796863+00:00"
+  "last_modified_at": "2026-04-17T22:07:22.359036+00:00"
 }
