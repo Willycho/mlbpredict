@@ -48,7 +48,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:34.275339+00:00",
+      "last_refreshed_at": "2026-04-17T21:27:55.579637+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:35.165380+00:00",
+      "last_refreshed_at": "2026-04-17T21:27:56.500550+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:36.058134+00:00",
+      "last_refreshed_at": "2026-04-17T21:27:57.395377+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:36.974333+00:00",
+      "last_refreshed_at": "2026-04-17T21:27:58.270784+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:37.814056+00:00",
+      "last_refreshed_at": "2026-04-17T21:27:59.156636+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T20:41:38.719369+00:00",
+      "last_refreshed_at": "2026-04-17T21:28:00.065506+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "peter lambert",
       "pick": "STL",
-      "pick_prob": 0.56,
-      "expected_total": 5.0,
+      "pick_prob": 0.554,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:52:16.709291+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T21:28:00.923012+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823720,
@@ -156,12 +156,12 @@
       "away_pitcher": "brandon williamson",
       "home_pitcher": "joe ryan",
       "pick": "MIN",
-      "pick_prob": 0.689,
-      "expected_total": 4.5,
+      "pick_prob": 0.692,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:52:16.709291+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T21:28:01.796237+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824373,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-17T20:41:38.719977+00:00"
+  "last_modified_at": "2026-04-17T21:28:01.796863+00:00"
 }
