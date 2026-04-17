@@ -2,7 +2,7 @@
   "game_id": 824048,
   "kst_date": "2026-04-18",
   "bulk_fetched_at": "2026-04-17T13:52:16.709291+00:00",
-  "last_refreshed_at": "2026-04-17T23:01:16.106502+00:00",
+  "last_refreshed_at": "2026-04-17T23:56:01.251818+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,23 +55,44 @@
     "win_prob_home": 0.786,
     "pick": "LAA",
     "pick_prob": 0.786,
-    "expected_total": 4.5,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 1.76,
+      "expected": 1.8,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.26
+      "gap": 0.3
     },
     "home_team_total": {
-      "expected": 2.74,
+      "expected": 2.8,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.24
+      "gap": 0.3
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "SD OVER 1.5",
+        "conf": 0.65,
+        "detail": "Expected 1.8"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "LAA OVER 2.5",
+        "conf": 0.65,
+        "detail": "Expected 2.8"
+      }
+    ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": null,
+    "wind": {
+      "speed_mph": 6.3,
+      "direction": "cross",
+      "adj": 0.06
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "KN",

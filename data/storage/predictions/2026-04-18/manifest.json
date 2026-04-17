@@ -141,10 +141,10 @@
       "home_pitcher": "peter lambert",
       "pick": "STL",
       "pick_prob": 0.554,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:00:59.997200+00:00",
+      "last_refreshed_at": "2026-04-17T23:55:59.364021+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "joe ryan",
       "pick": "MIN",
       "pick_prob": 0.692,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:01:04.833680+00:00",
+      "last_refreshed_at": "2026-04-17T23:55:59.983465+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "tomoyuki sugano",
       "pick": "LAD",
       "pick_prob": 0.9,
-      "expected_total": 5.2,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:01:05.644847+00:00",
+      "last_refreshed_at": "2026-04-17T23:56:00.603488+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "josé soriano",
       "pick": "LAA",
       "pick_prob": 0.786,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:01:16.106502+00:00",
+      "last_refreshed_at": "2026-04-17T23:56:01.251818+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
       "pick_prob": 0.584,
-      "expected_total": 2.9,
+      "expected_total": 2.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:01:26.573520+00:00",
+      "last_refreshed_at": "2026-04-17T23:56:01.882755+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,11 +220,11 @@
       "away_pitcher": "braydon fisher",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.508,
-      "expected_total": 3.6,
+      "pick_prob": 0.623,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T23:01:38.050919+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T23:56:02.488311+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -237,12 +237,12 @@
       "home_pitcher": "aaron civale",
       "pick": "ATH",
       "pick_prob": 0.732,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T23:01:38.910544+00:00",
+      "last_refreshed_at": "2026-04-17T23:56:03.120909+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-17T23:01:38.911079+00:00"
+  "last_modified_at": "2026-04-17T23:56:03.121543+00:00"
 }
