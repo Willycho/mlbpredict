@@ -139,7 +139,7 @@
       "home_pitcher": "ranger suárez",
       "pick": "BOS",
       "pick_prob": 0.54,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "BOS",
       "v2_conf": 0.506,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T22:21:44.647289+00:00",
+      "last_refreshed_at": "2026-04-17T23:07:21.223447+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T22:21:48.902432+00:00",
+      "last_refreshed_at": "2026-04-17T23:07:24.494642+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T22:22:02.796984+00:00",
+      "last_refreshed_at": "2026-04-17T23:07:37.258290+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T22:22:16.514879+00:00",
+      "last_refreshed_at": "2026-04-17T23:07:49.896199+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,17 +222,17 @@
       "away_pitcher": "matt waldron",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.813,
-      "expected_total": 4.5,
+      "pick_prob": 0.786,
+      "expected_total": 4.6,
       "v2_pick": "SD",
-      "v2_conf": 0.539,
+      "v2_conf": 0.55,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T23:07:52.946128+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823152,
@@ -243,17 +243,17 @@
       "away_pitcher": "jacob degrom",
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
-      "pick_prob": 0.572,
-      "expected_total": 2.9,
+      "pick_prob": 0.584,
+      "expected_total": 2.8,
       "v2_pick": "TEX",
-      "v2_conf": 0.526,
+      "v2_conf": 0.513,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T23:07:55.819969+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825101,
@@ -261,20 +261,20 @@
       "home_team": "AZ",
       "game_time_kst": "10:40",
       "game_date_kst": "2026-04-18",
-      "away_pitcher": "eric lauer",
+      "away_pitcher": "braydon fisher",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.57,
-      "expected_total": 4.1,
-      "v2_pick": "AZ",
-      "v2_conf": 0.524,
-      "consensus": true,
-      "ou_consensus": false,
-      "tier": "consensus",
+      "pick_prob": 0.623,
+      "expected_total": 3.6,
+      "v2_pick": "TOR",
+      "v2_conf": 0.603,
+      "consensus": false,
+      "ou_consensus": true,
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T23:08:08.835130+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825019,
@@ -285,17 +285,17 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "aaron civale",
       "pick": "ATH",
-      "pick_prob": 0.707,
+      "pick_prob": 0.732,
       "expected_total": 4.4,
       "v2_pick": "CWS",
-      "v2_conf": 0.516,
+      "v2_conf": 0.509,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T23:08:21.493004+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823883,
@@ -328,13 +328,30 @@
       "home_pitcher": "logan gilbert",
       "tier": "disagree",
       "v2_pick": "TEX",
-      "v2_conf": 0.526,
-      "lineup": "roster",
-      "n_batters": "17+16",
+      "v2_conf": 0.513,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 2.9 vs line 4.5",
+      "detail": "Expected 2.8 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 825101,
+      "away_team": "TOR",
+      "home_team": "AZ",
+      "away_pitcher": "braydon fisher",
+      "home_pitcher": "michael soroka",
+      "tier": "disagree",
+      "v2_pick": "TOR",
+      "v2_conf": 0.603,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,23 +404,6 @@
       "conf": 0.7,
       "detail": "Expected 5.1 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823559,
-      "away_team": "KC",
-      "home_team": "NYY",
-      "away_pitcher": "michael wacha",
-      "home_pitcher": "cam schlittler",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.52,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.695,
-      "detail": "F5 NYY ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-17T22:22:16.515454+00:00"
+  "last_modified_at": "2026-04-17T23:08:21.493661+00:00"
 }
