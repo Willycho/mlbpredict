@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:25:26.063509+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:08.555623+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "zack littell",
       "pick": "SF",
       "pick_prob": 0.68,
-      "expected_total": 4.0,
+      "expected_total": 3.8,
       "v2_pick": "WSH",
       "v2_conf": 0.52,
       "consensus": false,
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:25:38.906987+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:12.781136+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:25:42.203059+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:26.593328+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
       "pick_prob": 0.695,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "NYY",
       "v2_conf": 0.52,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:25:45.423049+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:40.436422+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "ranger suárez",
       "pick": "BOS",
       "pick_prob": 0.54,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "BOS",
       "v2_conf": 0.506,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:25:48.630581+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:44.647289+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,15 +160,15 @@
       "home_pitcher": "peter lambert",
       "pick": "STL",
       "pick_prob": 0.554,
-      "expected_total": 4.4,
+      "expected_total": 4.9,
       "v2_pick": "STL",
       "v2_conf": 0.537,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:26:01.372997+00:00",
+      "last_refreshed_at": "2026-04-17T22:21:48.902432+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,15 +181,15 @@
       "home_pitcher": "joe ryan",
       "pick": "MIN",
       "pick_prob": 0.692,
-      "expected_total": 4.7,
+      "expected_total": 4.1,
       "v2_pick": "CIN",
       "v2_conf": 0.512,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-17T21:26:04.702802+00:00",
+      "last_refreshed_at": "2026-04-17T22:22:02.796984+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "tomoyuki sugano",
       "pick": "LAD",
-      "pick_prob": 0.908,
+      "pick_prob": 0.9,
       "expected_total": 5.1,
       "v2_pick": "LAD",
-      "v2_conf": 0.649,
+      "v2_conf": 0.634,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-17T13:59:23.347629+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-17T22:22:16.514879+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824048,
@@ -379,9 +379,9 @@
       "home_pitcher": "tomoyuki sugano",
       "tier": "consensus",
       "v2_pick": "LAD",
-      "v2_conf": 0.649,
-      "lineup": "roster",
-      "n_batters": "22+14",
+      "v2_conf": 0.634,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.7,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-17T21:26:04.703298+00:00"
+  "last_modified_at": "2026-04-17T22:22:16.515454+00:00"
 }
