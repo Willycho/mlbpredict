@@ -139,7 +139,7 @@
       "home_pitcher": "brayan bello",
       "pick": "DET",
       "pick_prob": 0.827,
-      "expected_total": 4.0,
+      "expected_total": 3.7,
       "v2_pick": "DET",
       "v2_conf": 0.619,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T19:33:13.498836+00:00",
+      "last_refreshed_at": "2026-04-18T20:04:48.662209+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T19:33:17.373488+00:00",
+      "last_refreshed_at": "2026-04-18T20:04:52.101490+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -180,16 +180,16 @@
       "away_pitcher": "dean kremer",
       "home_pitcher": "gavin williams",
       "pick": "BAL",
-      "pick_prob": 0.506,
-      "expected_total": 3.9,
+      "pick_prob": 0.541,
+      "expected_total": 4.0,
       "v2_pick": "CLE",
-      "v2_conf": 0.512,
+      "v2_conf": 0.507,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T19:33:21.268946+00:00",
+      "last_refreshed_at": "2026-04-18T20:05:05.588707+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -401,8 +401,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 4.0 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T19:33:21.269521+00:00"
+  "last_modified_at": "2026-04-18T20:05:05.589307+00:00"
 }
