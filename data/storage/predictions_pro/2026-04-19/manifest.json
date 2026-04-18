@@ -181,7 +181,7 @@
       "home_pitcher": "gavin williams",
       "pick": "BAL",
       "pick_prob": 0.541,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "v2_pick": "CLE",
       "v2_conf": 0.507,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:52:20.277754+00:00",
+      "last_refreshed_at": "2026-04-18T21:31:49.377127+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "lance mccullers",
       "pick": "STL",
       "pick_prob": 0.668,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "STL",
       "v2_conf": 0.509,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:52:24.244667+00:00",
+      "last_refreshed_at": "2026-04-18T21:31:52.342224+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:52:37.802997+00:00",
+      "last_refreshed_at": "2026-04-18T21:32:05.167745+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:52:51.360033+00:00",
+      "last_refreshed_at": "2026-04-18T21:32:17.899884+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "ryan feltner",
       "pick": "LAD",
-      "pick_prob": 0.778,
-      "expected_total": 4.3,
+      "pick_prob": 0.762,
+      "expected_total": 4.2,
       "v2_pick": "LAD",
-      "v2_conf": 0.633,
+      "v2_conf": 0.63,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T21:32:20.935299+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825098,
@@ -284,18 +284,18 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "max scherzer",
       "home_pitcher": "zac gallen",
-      "pick": "TOR",
-      "pick_prob": 0.505,
+      "pick": "AZ",
+      "pick_prob": 0.56,
       "expected_total": 4.4,
-      "v2_pick": "TOR",
-      "v2_conf": 0.505,
+      "v2_pick": "AZ",
+      "v2_conf": 0.516,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T21:32:23.913703+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824049,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T20:52:51.360580+00:00"
+  "last_modified_at": "2026-04-18T21:32:23.914286+00:00"
 }
