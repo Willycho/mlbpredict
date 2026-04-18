@@ -2,8 +2,8 @@
   "game_id": 824694,
   "kst_date": "2026-04-19",
   "bulk_fetched_at": "2026-04-18T13:36:33.984256+00:00",
-  "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-18T15:22:36.414815+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824694,
@@ -55,27 +55,32 @@
     "win_prob_home": 0.381,
     "pick": "NYM",
     "pick_prob": 0.619,
-    "expected_total": 4.2,
+    "expected_total": 4.0,
     "away_team_total": {
-      "expected": 2.42,
+      "expected": 2.3,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.08
+      "gap": 0.2
     },
     "home_team_total": {
-      "expected": 1.78,
+      "expected": 1.7,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.28
+      "gap": 0.2
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "14+15",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.667,
+        "detail": "Expected 4.0 vs line 4.5"
+      }
+    ],
     "grade": "good",
     "grade_label": "GOOD",
-    "wind": {
-      "speed_mph": 13.9,
-      "direction": "out",
-      "adj": 0.13
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -184,5 +189,6 @@
     "v2_f5_total": 4.4
   },
   "locked_away_pitcher_id": 642547,
-  "locked_home_pitcher_id": 592791
+  "locked_home_pitcher_id": 592791,
+  "pitcher_changed_at_refresh": false
 }

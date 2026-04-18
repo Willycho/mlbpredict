@@ -12,17 +12,17 @@
       "away_pitcher": "noah cameron",
       "home_pitcher": "will warren",
       "pick": "NYY",
-      "pick_prob": 0.634,
+      "pick_prob": 0.649,
       "expected_total": 4.1,
       "v2_pick": "NYY",
-      "v2_conf": 0.51,
+      "v2_conf": 0.5,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T15:22:18.940193+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823721,
@@ -33,17 +33,17 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "taj bradley",
       "pick": "MIN",
-      "pick_prob": 0.525,
+      "pick_prob": 0.561,
       "expected_total": 4.7,
       "v2_pick": "CIN",
-      "v2_conf": 0.542,
+      "v2_conf": 0.554,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T15:22:22.818229+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824694,
@@ -55,7 +55,7 @@
       "home_pitcher": "jameson taillon",
       "pick": "NYM",
       "pick_prob": 0.619,
-      "expected_total": 4.2,
+      "expected_total": 4.0,
       "v2_pick": "NYM",
       "v2_conf": 0.527,
       "consensus": true,
@@ -63,8 +63,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-18T15:22:36.414815+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822751,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 10,
     "sweet_spot_count": 0,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-04-18T15:22:36.415389+00:00"
 }
