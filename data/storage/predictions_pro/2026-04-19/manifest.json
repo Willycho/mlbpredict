@@ -265,7 +265,7 @@
       "home_pitcher": "ryan feltner",
       "pick": "LAD",
       "pick_prob": 0.762,
-      "expected_total": 4.3,
+      "expected_total": 4.1,
       "v2_pick": "LAD",
       "v2_conf": 0.63,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:54:29.841852+00:00",
+      "last_refreshed_at": "2026-04-18T23:50:00.560194+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "zac gallen",
       "pick": "AZ",
       "pick_prob": 0.56,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "v2_pick": "AZ",
       "v2_conf": 0.516,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:54:33.764871+00:00",
+      "last_refreshed_at": "2026-04-18T23:50:06.312352+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -307,7 +307,7 @@
       "home_pitcher": "yusei kikuchi",
       "pick": "LAA",
       "pick_prob": 0.612,
-      "expected_total": 5.0,
+      "expected_total": 4.6,
       "v2_pick": "LAA",
       "v2_conf": 0.501,
       "consensus": true,
@@ -315,7 +315,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:54:37.626763+00:00",
+      "last_refreshed_at": "2026-04-18T23:50:19.296281+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T22:54:37.627362+00:00"
+  "last_modified_at": "2026-04-18T23:50:19.296866+00:00"
 }

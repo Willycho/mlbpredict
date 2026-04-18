@@ -2,7 +2,7 @@
   "game_id": 824372,
   "kst_date": "2026-04-19",
   "bulk_fetched_at": "2026-04-18T13:36:33.984256+00:00",
-  "last_refreshed_at": "2026-04-18T22:54:29.841852+00:00",
+  "last_refreshed_at": "2026-04-18T23:50:00.560194+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,23 +55,36 @@
     "win_prob_home": 0.238,
     "pick": "LAD",
     "pick_prob": 0.762,
-    "expected_total": 4.3,
+    "expected_total": 4.1,
     "away_team_total": {
-      "expected": 2.71,
+      "expected": 2.58,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.21
+      "gap": 0.08
     },
     "home_team_total": {
-      "expected": 1.59,
+      "expected": 1.52,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.09
+      "gap": 0.02
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
+      }
+    ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": null,
+    "wind": {
+      "speed_mph": 5.3,
+      "direction": "in",
+      "adj": -0.1
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
