@@ -181,7 +181,7 @@
       "home_pitcher": "gavin williams",
       "pick": "BAL",
       "pick_prob": 0.541,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "v2_pick": "CLE",
       "v2_conf": 0.507,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:05:05.588707+00:00",
+      "last_refreshed_at": "2026-04-18T20:52:20.277754+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "lance mccullers",
       "pick": "STL",
-      "pick_prob": 0.622,
-      "expected_total": 4.9,
+      "pick_prob": 0.668,
+      "expected_total": 4.3,
       "v2_pick": "STL",
-      "v2_conf": 0.504,
+      "v2_conf": 0.509,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "good",
+      "ou_consensus": false,
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:52:24.244667+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823151,
@@ -222,17 +222,17 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.523,
+      "pick_prob": 0.558,
       "expected_total": 3.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.529,
+      "v2_conf": 0.506,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:52:37.802997+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823474,
@@ -242,18 +242,18 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "chris sale",
       "home_pitcher": "cristopher sánchez",
-      "pick": "PHI",
+      "pick": "ATL",
       "pick_prob": 0.515,
       "expected_total": 3.0,
       "v2_pick": "ATL",
-      "v2_conf": 0.54,
-      "consensus": false,
-      "ou_consensus": true,
-      "tier": "disagree",
+      "v2_conf": 0.523,
+      "consensus": true,
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:52:51.360033+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824372,
@@ -321,23 +321,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 823474,
-      "away_team": "ATL",
-      "home_team": "PHI",
-      "away_pitcher": "chris sale",
-      "home_pitcher": "cristopher sánchez",
-      "tier": "disagree",
-      "v2_pick": "ATL",
-      "v2_conf": 0.54,
-      "lineup": "roster",
-      "n_batters": "14+18",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823151,
       "away_team": "TEX",
       "home_team": "SEA",
@@ -345,9 +328,9 @@
       "home_pitcher": "george kirby",
       "tier": "disagree",
       "v2_pick": "TEX",
-      "v2_conf": 0.529,
-      "lineup": "roster",
-      "n_batters": "17+16",
+      "v2_conf": 0.506,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.933,
@@ -404,6 +387,23 @@
       "conf": 0.767,
       "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824206,
+      "away_team": "STL",
+      "home_team": "HOU",
+      "away_pitcher": "andre pallante",
+      "home_pitcher": "lance mccullers",
+      "tier": "sweet_spot",
+      "v2_pick": "STL",
+      "v2_conf": 0.509,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 STL",
+      "conf": 0.668,
+      "detail": "F5 STL ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T20:05:05.589307+00:00"
+  "last_modified_at": "2026-04-18T20:52:51.360580+00:00"
 }
