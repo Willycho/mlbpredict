@@ -64,7 +64,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:54:12.866858+00:00",
+      "last_refreshed_at": "2026-04-18T18:45:09.700289+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "paul skenes",
       "pick": "PIT",
       "pick_prob": 0.57,
-      "expected_total": 3.4,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:54:13.703182+00:00",
+      "last_refreshed_at": "2026-04-18T18:45:10.360769+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:54:14.514380+00:00",
+      "last_refreshed_at": "2026-04-18T18:45:11.019961+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:54:15.351059+00:00",
+      "last_refreshed_at": "2026-04-18T18:45:11.770683+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:54:16.193267+00:00",
+      "last_refreshed_at": "2026-04-18T18:45:12.493233+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T17:54:16.194057+00:00"
+  "last_modified_at": "2026-04-18T18:45:12.493832+00:00"
 }
