@@ -76,7 +76,7 @@
       "home_pitcher": "cade cavalli",
       "pick": "WSH",
       "pick_prob": 0.506,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "v2_pick": "SF",
       "v2_conf": 0.55,
       "consensus": false,
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:52:03.884753+00:00",
+      "last_refreshed_at": "2026-04-18T18:41:19.106621+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "paul skenes",
       "pick": "PIT",
       "pick_prob": 0.57,
-      "expected_total": 3.2,
+      "expected_total": 3.6,
       "v2_pick": "PIT",
       "v2_conf": 0.559,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:52:16.343716+00:00",
+      "last_refreshed_at": "2026-04-18T18:41:23.062282+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "luis severino",
       "pick": "ATH",
       "pick_prob": 0.581,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "ATH",
       "v2_conf": 0.501,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:52:19.033937+00:00",
+      "last_refreshed_at": "2026-04-18T18:41:36.551127+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "brayan bello",
       "pick": "DET",
       "pick_prob": 0.827,
-      "expected_total": 3.7,
+      "expected_total": 4.0,
       "v2_pick": "DET",
       "v2_conf": 0.619,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:52:21.870921+00:00",
+      "last_refreshed_at": "2026-04-18T18:41:49.907793+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T17:52:24.627663+00:00",
+      "last_refreshed_at": "2026-04-18T18:41:53.659835+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -338,23 +338,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823394,
-      "away_team": "TB",
-      "home_team": "PIT",
-      "away_pitcher": "drew rasmussen",
-      "home_pitcher": "paul skenes",
-      "tier": "consensus",
-      "v2_pick": "PIT",
-      "v2_conf": 0.559,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 3.2 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823151,
       "away_team": "TEX",
       "home_team": "SEA",
@@ -389,6 +372,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823394,
+      "away_team": "TB",
+      "home_team": "PIT",
+      "away_pitcher": "drew rasmussen",
+      "home_pitcher": "paul skenes",
+      "tier": "consensus",
+      "v2_pick": "PIT",
+      "v2_conf": 0.559,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824775,
       "away_team": "DET",
       "home_team": "BOS",
@@ -401,8 +401,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
+      "conf": 0.667,
+      "detail": "Expected 4.0 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T17:52:24.628261+00:00"
+  "last_modified_at": "2026-04-18T18:41:53.660454+00:00"
 }
