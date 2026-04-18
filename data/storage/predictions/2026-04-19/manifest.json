@@ -64,7 +64,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T18:45:09.700289+00:00",
+      "last_refreshed_at": "2026-04-18T19:31:24.873086+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T18:45:10.360769+00:00",
+      "last_refreshed_at": "2026-04-18T19:31:25.826989+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T18:45:11.019961+00:00",
+      "last_refreshed_at": "2026-04-18T19:31:26.692909+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T18:45:11.770683+00:00",
+      "last_refreshed_at": "2026-04-18T19:31:27.540847+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T18:45:12.493233+00:00",
+      "last_refreshed_at": "2026-04-18T19:31:28.413990+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "dean kremer",
       "home_pitcher": "gavin williams",
       "pick": "BAL",
-      "pick_prob": 0.577,
-      "expected_total": 4.0,
+      "pick_prob": 0.506,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T19:31:29.295735+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824206,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T18:45:12.493832+00:00"
+  "last_modified_at": "2026-04-18T19:31:29.296298+00:00"
 }
