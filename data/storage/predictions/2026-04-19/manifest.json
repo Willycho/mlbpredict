@@ -13,10 +13,10 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.649,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:21:21.680272+00:00",
+      "last_refreshed_at": "2026-04-18T17:05:07.931068+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:21:22.572792+00:00",
+      "last_refreshed_at": "2026-04-18T17:05:08.543453+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:21:23.432160+00:00",
+      "last_refreshed_at": "2026-04-18T17:05:09.148407+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -59,13 +59,13 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "adrian houser",
       "home_pitcher": "cade cavalli",
-      "pick": "SF",
-      "pick_prob": 0.501,
+      "pick": "WSH",
+      "pick_prob": 0.526,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T17:05:09.783581+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823394,
@@ -75,13 +75,13 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "paul skenes",
-      "pick": "PIT",
-      "pick_prob": 0.528,
-      "expected_total": 3.8,
+      "pick": "TB",
+      "pick_prob": 0.522,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-18T17:05:10.415072+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825020,
@@ -92,12 +92,12 @@
       "away_pitcher": "erick fedde",
       "home_pitcher": "luis severino",
       "pick": "ATH",
-      "pick_prob": 0.566,
+      "pick_prob": 0.581,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T17:05:11.031105+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824775,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T16:21:23.432796+00:00"
+  "last_modified_at": "2026-04-18T17:05:11.031665+00:00"
 }
