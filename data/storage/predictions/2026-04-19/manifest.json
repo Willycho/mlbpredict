@@ -160,7 +160,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:53:38.700192+00:00",
+      "last_refreshed_at": "2026-04-18T22:55:26.236595+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:53:39.376192+00:00",
+      "last_refreshed_at": "2026-04-18T22:55:27.131730+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:53:39.973684+00:00",
+      "last_refreshed_at": "2026-04-18T22:55:27.983093+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "ryan feltner",
       "pick": "LAD",
-      "pick_prob": 0.778,
-      "expected_total": 4.3,
+      "pick_prob": 0.762,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T22:55:28.836921+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825098,
@@ -219,13 +219,13 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "max scherzer",
       "home_pitcher": "zac gallen",
-      "pick": "TOR",
-      "pick_prob": 0.505,
-      "expected_total": 4.5,
+      "pick": "AZ",
+      "pick_prob": 0.56,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T22:55:29.667125+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824049,
@@ -236,13 +236,13 @@
       "away_pitcher": "germán márquez",
       "home_pitcher": "yusei kikuchi",
       "pick": "LAA",
-      "pick_prob": 0.642,
-      "expected_total": 4.6,
+      "pick_prob": 0.612,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T22:55:30.500508+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-18T20:53:39.974256+00:00"
+  "last_modified_at": "2026-04-18T22:55:30.501126+00:00"
 }
