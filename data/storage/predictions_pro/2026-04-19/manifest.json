@@ -13,7 +13,7 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.649,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "NYY",
       "v2_conf": 0.5,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:00:12.929093+00:00",
+      "last_refreshed_at": "2026-04-18T16:57:20.375132+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:00:17.348162+00:00",
+      "last_refreshed_at": "2026-04-18T16:57:23.672322+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "jameson taillon",
       "pick": "NYM",
       "pick_prob": 0.55,
-      "expected_total": 4.2,
+      "expected_total": 4.0,
       "v2_pick": "NYM",
       "v2_conf": 0.532,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T16:00:22.092059+00:00",
+      "last_refreshed_at": "2026-04-18T16:57:36.518700+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T16:00:22.092613+00:00"
+  "last_modified_at": "2026-04-18T16:57:36.519286+00:00"
 }
