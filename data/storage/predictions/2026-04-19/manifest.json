@@ -144,7 +144,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T20:05:50.831361+00:00",
+      "last_refreshed_at": "2026-04-18T20:53:38.113529+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "lance mccullers",
       "pick": "STL",
-      "pick_prob": 0.622,
-      "expected_total": 4.9,
+      "pick_prob": 0.668,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:53:38.700192+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823151,
@@ -172,12 +172,12 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.523,
+      "pick_prob": 0.558,
       "expected_total": 3.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:53:39.376192+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823474,
@@ -187,13 +187,13 @@
       "game_date_kst": "2026-04-19",
       "away_pitcher": "chris sale",
       "home_pitcher": "cristopher sánchez",
-      "pick": "PHI",
+      "pick": "ATL",
       "pick_prob": 0.515,
-      "expected_total": 3.0,
+      "expected_total": 3.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T20:53:39.973684+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824372,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T20:05:50.831965+00:00"
+  "last_modified_at": "2026-04-18T20:53:39.974256+00:00"
 }
