@@ -140,11 +140,11 @@
       "away_pitcher": "dean kremer",
       "home_pitcher": "gavin williams",
       "pick": "BAL",
-      "pick_prob": 0.506,
+      "pick_prob": 0.541,
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T19:31:29.295735+00:00",
+      "last_refreshed_at": "2026-04-18T20:05:50.831361+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T19:31:29.296298+00:00"
+  "last_modified_at": "2026-04-18T20:05:50.831965+00:00"
 }
