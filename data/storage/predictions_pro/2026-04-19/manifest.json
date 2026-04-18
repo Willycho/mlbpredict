@@ -13,7 +13,7 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.649,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "NYY",
       "v2_conf": 0.5,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T15:22:18.940193+00:00",
+      "last_refreshed_at": "2026-04-18T16:00:12.929093+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T15:22:22.818229+00:00",
+      "last_refreshed_at": "2026-04-18T16:00:17.348162+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,16 +54,16 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "jameson taillon",
       "pick": "NYM",
-      "pick_prob": 0.619,
-      "expected_total": 4.0,
+      "pick_prob": 0.55,
+      "expected_total": 4.2,
       "v2_pick": "NYM",
-      "v2_conf": 0.527,
+      "v2_conf": 0.532,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T15:22:36.414815+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T16:00:22.092059+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T15:22:36.415389+00:00"
+  "last_modified_at": "2026-04-18T16:00:22.092613+00:00"
 }
