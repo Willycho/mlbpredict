@@ -13,10 +13,10 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.649,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T14:58:00.711404+00:00",
+      "last_refreshed_at": "2026-04-18T15:41:09.531956+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,12 +28,12 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "taj bradley",
       "pick": "MIN",
-      "pick_prob": 0.525,
+      "pick_prob": 0.561,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T15:41:10.232662+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824694,
@@ -44,12 +44,12 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "jameson taillon",
       "pick": "NYM",
-      "pick_prob": 0.619,
+      "pick_prob": 0.55,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:22:41.909072+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T15:41:10.891822+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822751,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-18T14:58:00.712000+00:00"
+  "last_modified_at": "2026-04-18T15:41:10.892405+00:00"
 }
