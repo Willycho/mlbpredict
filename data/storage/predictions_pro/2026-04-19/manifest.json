@@ -202,7 +202,7 @@
       "home_pitcher": "lance mccullers",
       "pick": "STL",
       "pick_prob": 0.668,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "STL",
       "v2_conf": 0.509,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:03:30.884164+00:00",
+      "last_refreshed_at": "2026-04-18T22:53:58.738943+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:03:43.948201+00:00",
+      "last_refreshed_at": "2026-04-18T22:54:02.697423+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:03:56.907174+00:00",
+      "last_refreshed_at": "2026-04-18T22:54:16.166520+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "ryan feltner",
       "pick": "LAD",
       "pick_prob": 0.762,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "LAD",
       "v2_conf": 0.63,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:04:00.145421+00:00",
+      "last_refreshed_at": "2026-04-18T22:54:29.841852+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-18T22:04:03.242511+00:00",
+      "last_refreshed_at": "2026-04-18T22:54:33.764871+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -306,17 +306,17 @@
       "away_pitcher": "germán márquez",
       "home_pitcher": "yusei kikuchi",
       "pick": "LAA",
-      "pick_prob": 0.642,
+      "pick_prob": 0.612,
       "expected_total": 5.0,
       "v2_pick": "LAA",
-      "v2_conf": 0.509,
+      "v2_conf": 0.501,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-18T13:36:33.984256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-18T22:54:37.626763+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-18T22:04:03.243123+00:00"
+  "last_modified_at": "2026-04-18T22:54:37.627362+00:00"
 }
