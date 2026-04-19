@@ -13,10 +13,10 @@
       "home_pitcher": "pj poulin",
       "pick": "SF",
       "pick_prob": 0.535,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:24.162725+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:00.602214+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -29,10 +29,10 @@
       "home_pitcher": "mitch keller",
       "pick": "TB",
       "pick_prob": 0.63,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:24.808662+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:01.468673+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -45,10 +45,10 @@
       "home_pitcher": "ryan weathers",
       "pick": "KC",
       "pick_prob": 0.562,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:25.427729+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:02.307958+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:26.054707+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:03.149404+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:26.658507+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:04.067782+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:27.302047+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:04.956331+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:27.989102+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:05.821015+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "javier assad",
       "pick": "NYM",
       "pick_prob": 0.577,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:28.603578+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:06.667642+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "michael lorenzen",
       "pick": "LAD",
       "pick_prob": 0.554,
-      "expected_total": 5.5,
+      "expected_total": 5.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T16:21:29.210499+00:00",
+      "last_refreshed_at": "2026-04-19T17:05:17.093953+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-19T16:21:29.211107+00:00"
+  "last_modified_at": "2026-04-19T17:05:17.094650+00:00"
 }
