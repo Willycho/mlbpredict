@@ -13,10 +13,10 @@
       "home_pitcher": "pj poulin",
       "pick": "SF",
       "pick_prob": 0.535,
-      "expected_total": 3.8,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T14:58:35.514764+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T15:42:36.917788+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,11 +28,11 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "mitch keller",
       "pick": "TB",
-      "pick_prob": 0.624,
-      "expected_total": 4.3,
+      "pick_prob": 0.63,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T14:58:36.356383+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T15:42:37.585237+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -45,10 +45,10 @@
       "home_pitcher": "ryan weathers",
       "pick": "KC",
       "pick_prob": 0.562,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T14:58:37.192573+00:00",
+      "last_refreshed_at": "2026-04-19T15:42:38.205401+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,11 +60,11 @@
       "away_pitcher": "trevor rogers",
       "home_pitcher": "joey cantillo",
       "pick": "BAL",
-      "pick_prob": 0.547,
-      "expected_total": 3.7,
+      "pick_prob": 0.606,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T14:58:38.038428+00:00",
+      "last_refreshed_at": "2026-04-19T15:42:38.835605+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "eury pérez",
       "pick": "MIA",
       "pick_prob": 0.593,
-      "expected_total": 3.3,
+      "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T14:58:38.885904+00:00",
+      "last_refreshed_at": "2026-04-19T15:42:39.458185+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,12 +92,12 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "mike burrows",
       "pick": "HOU",
-      "pick_prob": 0.585,
-      "expected_total": 4.4,
+      "pick_prob": 0.624,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T13:22:17.632381+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T15:42:40.099670+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823718,
@@ -107,13 +107,13 @@
       "game_date_kst": "2026-04-20",
       "away_pitcher": "brady singer",
       "home_pitcher": "bailey ober",
-      "pick": "CIN",
-      "pick_prob": 0.518,
+      "pick": "MIN",
+      "pick_prob": 0.512,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T13:22:17.632381+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T15:42:40.728359+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824691,
@@ -124,12 +124,12 @@
       "away_pitcher": "tobias myers",
       "home_pitcher": "javier assad",
       "pick": "NYM",
-      "pick_prob": 0.615,
-      "expected_total": 4.7,
+      "pick_prob": 0.586,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T13:22:17.632381+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-19T15:42:41.364470+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824371,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-19T14:58:38.886499+00:00"
+  "last_modified_at": "2026-04-19T15:42:41.365053+00:00"
 }
