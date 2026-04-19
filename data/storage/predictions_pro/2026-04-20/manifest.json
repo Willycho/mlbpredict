@@ -286,7 +286,7 @@
       "home_pitcher": "garrett crochet",
       "pick": "BOS",
       "pick_prob": 0.57,
-      "expected_total": 3.5,
+      "expected_total": 3.7,
       "v2_pick": "BOS",
       "v2_conf": 0.505,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T19:33:13.311077+00:00",
+      "last_refreshed_at": "2026-04-19T20:05:11.899906+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824777,
-      "away_team": "DET",
-      "home_team": "BOS",
-      "away_pitcher": "framber valdez",
-      "home_pitcher": "garrett crochet",
-      "tier": "consensus",
-      "v2_pick": "BOS",
-      "v2_conf": 0.505,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824452,
       "away_team": "BAL",
       "home_team": "CLE",
@@ -404,6 +387,23 @@
       "conf": 0.767,
       "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824777,
+      "away_team": "DET",
+      "home_team": "BOS",
+      "away_pitcher": "framber valdez",
+      "home_pitcher": "garrett crochet",
+      "tier": "consensus",
+      "v2_pick": "BOS",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-19T19:33:13.311695+00:00"
+  "last_modified_at": "2026-04-19T20:05:11.900504+00:00"
 }
