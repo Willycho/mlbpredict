@@ -202,7 +202,7 @@
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
       "pick_prob": 0.555,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "v2_pick": "ATH",
       "v2_conf": 0.513,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:40:30.037760+00:00",
+      "last_refreshed_at": "2026-04-19T19:32:43.557921+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,15 +223,15 @@
       "home_pitcher": "Walbert Urena",
       "pick": "LAA",
       "pick_prob": 0.524,
-      "expected_total": 4.6,
+      "expected_total": 4.5,
       "v2_pick": "SD",
       "v2_conf": 0.575,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:40:32.635603+00:00",
+      "last_refreshed_at": "2026-04-19T19:32:46.207521+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "bryan woo",
       "pick": "SEA",
       "pick_prob": 0.74,
-      "expected_total": 3.3,
+      "expected_total": 3.2,
       "v2_pick": "SEA",
       "v2_conf": 0.542,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:40:44.836598+00:00",
+      "last_refreshed_at": "2026-04-19T19:32:48.758247+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:40:56.966678+00:00",
+      "last_refreshed_at": "2026-04-19T19:33:01.052604+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "garrett crochet",
       "pick": "BOS",
       "pick_prob": 0.57,
-      "expected_total": 3.7,
+      "expected_total": 3.5,
       "v2_pick": "BOS",
       "v2_conf": 0.505,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:40:59.449726+00:00",
+      "last_refreshed_at": "2026-04-19T19:33:13.311077+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -350,8 +350,25 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 3.3 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 824777,
+      "away_team": "DET",
+      "home_team": "BOS",
+      "away_pitcher": "framber valdez",
+      "home_pitcher": "garrett crochet",
+      "tier": "consensus",
+      "v2_pick": "BOS",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,23 +404,6 @@
       "conf": 0.767,
       "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824777,
-      "away_team": "DET",
-      "home_team": "BOS",
-      "away_pitcher": "framber valdez",
-      "home_pitcher": "garrett crochet",
-      "tier": "consensus",
-      "v2_pick": "BOS",
-      "v2_conf": 0.505,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-19T18:40:59.450330+00:00"
+  "last_modified_at": "2026-04-19T19:33:13.311695+00:00"
 }
