@@ -307,7 +307,7 @@
       "home_pitcher": "Andrew Painter",
       "pick": "PHI",
       "pick_prob": 0.617,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "PHI",
       "v2_conf": 0.5,
       "consensus": true,
@@ -315,7 +315,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T22:27:24.925323+00:00",
+      "last_refreshed_at": "2026-04-19T23:08:28.296510+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-19T22:27:24.925879+00:00"
+  "last_modified_at": "2026-04-19T23:08:28.297090+00:00"
 }
