@@ -306,17 +306,17 @@
       "away_pitcher": "grant holmes",
       "home_pitcher": "Andrew Painter",
       "pick": "PHI",
-      "pick_prob": 0.603,
-      "expected_total": 4.5,
+      "pick_prob": 0.617,
+      "expected_total": 4.2,
       "v2_pick": "PHI",
-      "v2_conf": 0.513,
+      "v2_conf": 0.5,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T13:35:51.929716+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T20:53:27.213902+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-19T20:05:11.900504+00:00"
+  "last_modified_at": "2026-04-19T20:53:27.214330+00:00"
 }
