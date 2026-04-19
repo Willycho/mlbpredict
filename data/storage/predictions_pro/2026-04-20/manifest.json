@@ -12,16 +12,16 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "pj poulin",
       "pick": "SF",
-      "pick_prob": 0.529,
-      "expected_total": 3.8,
+      "pick_prob": 0.535,
+      "expected_total": 3.7,
       "v2_pick": "SF",
-      "v2_conf": 0.558,
+      "v2_conf": 0.547,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:22:41.324394+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:09.024860+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -34,7 +34,7 @@
       "home_pitcher": "mitch keller",
       "pick": "TB",
       "pick_prob": 0.63,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "v2_pick": "TB",
       "v2_conf": 0.507,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:22:44.565594+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:11.818482+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:22:57.525068+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:23.865917+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:23:10.433133+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:35.874228+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "eury pérez",
       "pick": "MIA",
       "pick_prob": 0.593,
-      "expected_total": 3.3,
+      "expected_total": 3.1,
       "v2_pick": "MIA",
       "v2_conf": 0.562,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:23:13.477985+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:38.153583+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:23:16.518737+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:40.417051+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,16 +138,16 @@
       "away_pitcher": "brady singer",
       "home_pitcher": "bailey ober",
       "pick": "MIN",
-      "pick_prob": 0.512,
+      "pick_prob": 0.519,
       "expected_total": 4.8,
       "v2_pick": "CIN",
-      "v2_conf": 0.515,
+      "v2_conf": 0.525,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:23:19.591064+00:00",
+      "last_refreshed_at": "2026-04-19T16:01:42.651978+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,16 +159,16 @@
       "away_pitcher": "tobias myers",
       "home_pitcher": "javier assad",
       "pick": "NYM",
-      "pick_prob": 0.615,
+      "pick_prob": 0.577,
       "expected_total": 4.9,
       "v2_pick": "CHC",
-      "v2_conf": 0.515,
+      "v2_conf": 0.511,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T15:23:32.341203+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T16:01:54.614735+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 3.3 vs line 4.5",
+      "conf": 0.95,
+      "detail": "Expected 3.1 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-19T15:23:32.341811+00:00"
+  "last_modified_at": "2026-04-19T16:01:54.615452+00:00"
 }
