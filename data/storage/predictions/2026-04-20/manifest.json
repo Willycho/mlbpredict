@@ -16,7 +16,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:36.917788+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:24.162725+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:37.585237+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:24.808662+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:38.205401+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:25.427729+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:38.835605+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:26.054707+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:39.458185+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:26.658507+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:40.099670+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:27.302047+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,11 +108,11 @@
       "away_pitcher": "brady singer",
       "home_pitcher": "bailey ober",
       "pick": "MIN",
-      "pick_prob": 0.512,
+      "pick_prob": 0.519,
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T15:42:40.728359+00:00",
+      "last_refreshed_at": "2026-04-19T16:21:27.989102+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,11 +124,11 @@
       "away_pitcher": "tobias myers",
       "home_pitcher": "javier assad",
       "pick": "NYM",
-      "pick_prob": 0.586,
+      "pick_prob": 0.577,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T15:42:41.364470+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T16:21:28.603578+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "michael lorenzen",
       "pick": "LAD",
-      "pick_prob": 0.551,
+      "pick_prob": 0.554,
       "expected_total": 5.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-19T13:22:17.632381+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-19T16:21:29.210499+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825018,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-19T15:42:41.365053+00:00"
+  "last_modified_at": "2026-04-19T16:21:29.211107+00:00"
 }
