@@ -144,7 +144,7 @@
       "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:53:40.382926+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:04.389963+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
       "pick_prob": 0.555,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:53:41.218131+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:04.966440+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:53:43.132065+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:05.511176+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "bryan woo",
       "pick": "SEA",
       "pick_prob": 0.74,
-      "expected_total": 3.3,
+      "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:53:53.567283+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:06.128513+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:54:03.995922+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:06.749139+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "garrett crochet",
       "pick": "BOS",
       "pick_prob": 0.57,
-      "expected_total": 3.5,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T17:54:14.423405+00:00",
+      "last_refreshed_at": "2026-04-19T18:45:07.321404+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-19T17:54:14.423989+00:00"
+  "last_modified_at": "2026-04-19T18:45:07.322013+00:00"
 }
