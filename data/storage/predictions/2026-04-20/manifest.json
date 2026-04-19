@@ -157,10 +157,10 @@
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
       "pick_prob": 0.555,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:45:04.966440+00:00",
+      "last_refreshed_at": "2026-04-19T19:31:34.394883+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "Walbert Urena",
       "pick": "LAA",
       "pick_prob": 0.524,
-      "expected_total": 4.6,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:45:05.511176+00:00",
+      "last_refreshed_at": "2026-04-19T19:31:35.064771+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:45:06.128513+00:00",
+      "last_refreshed_at": "2026-04-19T19:31:35.682067+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
       "pick_prob": 0.542,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:45:06.749139+00:00",
+      "last_refreshed_at": "2026-04-19T19:31:36.285229+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-19T18:45:07.321404+00:00",
+      "last_refreshed_at": "2026-04-19T19:31:36.894396+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-19T18:45:07.322013+00:00"
+  "last_modified_at": "2026-04-19T19:31:36.895002+00:00"
 }
