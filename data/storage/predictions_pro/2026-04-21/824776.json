@@ -2,8 +2,8 @@
   "game_id": 824776,
   "kst_date": "2026-04-21",
   "bulk_fetched_at": "2026-04-20T14:10:25.357053+00:00",
-  "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-20T15:00:17.802752+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824776,
@@ -55,18 +55,18 @@
     "win_prob_home": 0.468,
     "pick": "DET",
     "pick_prob": 0.532,
-    "expected_total": 3.6,
+    "expected_total": 3.7,
     "away_team_total": {
-      "expected": 1.85,
+      "expected": 1.9,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.35
+      "gap": 0.4
     },
     "home_team_total": {
-      "expected": 1.75,
+      "expected": 1.8,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.25
+      "gap": 0.3
     },
     "sweet_picks": [
       {
@@ -74,24 +74,32 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.8,
-        "detail": "Expected 3.6 vs line 4.5"
+        "conf": 0.767,
+        "detail": "Expected 3.7 vs line 4.5"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
         "pick": "DET OVER 1.5",
-        "conf": 0.675,
-        "detail": "Expected 1.85"
+        "conf": 0.7,
+        "detail": "Expected 1.9"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "BOS OVER 1.5",
+        "conf": 0.65,
+        "detail": "Expected 1.8"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 4.7,
+      "speed_mph": 6.3,
       "direction": "in",
-      "adj": -0.13
+      "adj": -0.07
     },
     "away_pitch_detail": [
       {
@@ -217,5 +225,6 @@
     "v2_f5_total": 5.0
   },
   "locked_away_pitcher_id": 656427,
-  "locked_home_pitcher_id": 543243
+  "locked_home_pitcher_id": 543243,
+  "pitcher_changed_at_refresh": false
 }

@@ -13,7 +13,7 @@
       "home_pitcher": "sonny gray",
       "pick": "DET",
       "pick_prob": 0.532,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "v2_pick": "BOS",
       "v2_conf": 0.516,
       "consensus": false,
@@ -21,8 +21,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-20T15:00:17.802752+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824450,
@@ -272,5 +272,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 1,
     "total_games": 10
-  }
+  },
+  "last_modified_at": "2026-04-20T15:00:17.803336+00:00"
 }
