@@ -44,12 +44,12 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "slade cecconi",
       "pick": "HOU",
-      "pick_prob": 0.576,
+      "pick_prob": 0.517,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T20:07:31.310399+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823879,
@@ -60,12 +60,12 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "max meyer",
       "pick": "MIA",
-      "pick_prob": 0.554,
-      "expected_total": 4.3,
+      "pick_prob": 0.599,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T20:07:32.106768+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822749,
@@ -76,12 +76,12 @@
       "away_pitcher": "bryce elder",
       "home_pitcher": "jake irvin",
       "pick": "ATL",
-      "pick_prob": 0.699,
+      "pick_prob": 0.691,
       "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T20:07:32.920496+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824125,
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-20T14:11:43.032799+00:00"
+  "last_modified_at": "2026-04-20T20:07:32.921091+00:00"
 }
