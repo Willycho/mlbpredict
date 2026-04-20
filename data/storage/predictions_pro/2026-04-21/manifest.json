@@ -97,7 +97,7 @@
       "home_pitcher": "seth lugo",
       "pick": "BAL",
       "pick_prob": 0.875,
-      "expected_total": 3.8,
+      "expected_total": 4.3,
       "v2_pick": "BAL",
       "v2_conf": 0.522,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T22:28:15.771751+00:00",
+      "last_refreshed_at": "2026-04-20T23:25:56.037287+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T22:28:28.779604+00:00",
+      "last_refreshed_at": "2026-04-20T23:25:59.344601+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T22:28:32.139044+00:00",
+      "last_refreshed_at": "2026-04-20T23:26:12.063614+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "dylan cease",
       "home_pitcher": "reid detmers",
       "pick": "TOR",
-      "pick_prob": 0.565,
-      "expected_total": 3.6,
+      "pick_prob": 0.555,
+      "expected_total": 3.3,
       "v2_pick": "TOR",
-      "v2_conf": 0.569,
+      "v2_conf": 0.557,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T23:26:24.889064+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823149,
@@ -180,17 +180,17 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "emerson hancock",
       "pick": "ATH",
-      "pick_prob": 0.775,
-      "expected_total": 4.2,
+      "pick_prob": 0.761,
+      "expected_total": 4.4,
       "v2_pick": "SEA",
-      "v2_conf": 0.535,
+      "v2_conf": 0.548,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T23:26:28.010188+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822994,
@@ -215,23 +215,6 @@
     }
   ],
   "top_picks": [
-    {
-      "game_id": 824125,
-      "away_team": "BAL",
-      "home_team": "KC",
-      "away_pitcher": "kyle bradish",
-      "home_pitcher": "seth lugo",
-      "tier": "consensus",
-      "v2_pick": "BAL",
-      "v2_conf": 0.522,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 3.8 vs line 4.5",
-      "ou_consensus": true
-    },
     {
       "game_id": 824370,
       "away_team": "LAD",
@@ -290,5 +273,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-20T22:28:32.139540+00:00"
+  "last_modified_at": "2026-04-20T23:26:28.010655+00:00"
 }
