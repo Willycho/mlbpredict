@@ -1,0 +1,30 @@
+{
+  "game_id": 822994,
+  "kst_date": "2026-04-21",
+  "bulk_fetched_at": "2026-04-20T14:06:44.109888+00:00",
+  "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 822994,
+    "away_team": "CIN",
+    "home_team": "TB",
+    "away_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "home_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "win_prob_away": null,
+    "win_prob_home": null,
+    "pick": null,
+    "pick_prob": null,
+    "expected_total": null,
+    "grade": "pass",
+    "grade_label": "TBD"
+  },
+  "locked_away_pitcher_id": null,
+  "locked_home_pitcher_id": null
+}
