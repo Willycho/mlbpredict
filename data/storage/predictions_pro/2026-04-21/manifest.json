@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T19:51:09.410837+00:00",
+      "last_refreshed_at": "2026-04-20T20:39:54.352684+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T19:51:12.565182+00:00",
+      "last_refreshed_at": "2026-04-20T20:39:57.151343+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "jake irvin",
       "pick": "ATL",
       "pick_prob": 0.691,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "ATL",
       "v2_conf": 0.521,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T19:51:24.985921+00:00",
+      "last_refreshed_at": "2026-04-20T20:39:59.780145+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -262,8 +262,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.9 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -273,5 +273,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-20T19:51:24.986460+00:00"
+  "last_modified_at": "2026-04-20T20:39:59.780678+00:00"
 }
