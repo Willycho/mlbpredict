@@ -33,17 +33,17 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "slade cecconi",
       "pick": "HOU",
-      "pick_prob": 0.576,
+      "pick_prob": 0.517,
       "expected_total": 4.5,
       "v2_pick": "HOU",
-      "v2_conf": 0.558,
+      "v2_conf": 0.542,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T19:51:09.410837+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823879,
@@ -54,17 +54,17 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "max meyer",
       "pick": "MIA",
-      "pick_prob": 0.554,
-      "expected_total": 4.3,
+      "pick_prob": 0.599,
+      "expected_total": 4.4,
       "v2_pick": "STL",
-      "v2_conf": 0.532,
+      "v2_conf": 0.522,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T19:51:12.565182+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822749,
@@ -75,17 +75,17 @@
       "away_pitcher": "bryce elder",
       "home_pitcher": "jake irvin",
       "pick": "ATL",
-      "pick_prob": 0.699,
-      "expected_total": 4.9,
+      "pick_prob": 0.691,
+      "expected_total": 5.0,
       "v2_pick": "ATL",
-      "v2_conf": 0.544,
+      "v2_conf": 0.521,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:10:25.357053+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T19:51:24.985921+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824125,
@@ -240,12 +240,12 @@
       "home_pitcher": "jake irvin",
       "tier": "sweet_spot",
       "v2_pick": "ATL",
-      "v2_conf": 0.544,
-      "lineup": "roster",
-      "n_batters": "19+18",
+      "v2_conf": 0.521,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 ATL",
-      "conf": 0.699,
+      "conf": 0.691,
       "detail": "F5 ATL ML",
       "ml_consensus": true
     },
@@ -257,13 +257,13 @@
       "home_pitcher": "jake irvin",
       "tier": "sweet_spot",
       "v2_pick": "ATL",
-      "v2_conf": 0.544,
-      "lineup": "roster",
-      "n_batters": "19+18",
+      "v2_conf": 0.521,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -273,5 +273,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-20T15:00:17.803336+00:00"
+  "last_modified_at": "2026-04-20T19:51:24.986460+00:00"
 }
