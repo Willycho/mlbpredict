@@ -48,7 +48,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T20:07:31.310399+00:00",
+      "last_refreshed_at": "2026-04-20T21:01:43.115063+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T20:07:32.106768+00:00",
+      "last_refreshed_at": "2026-04-20T21:01:44.160395+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T20:07:32.920496+00:00",
+      "last_refreshed_at": "2026-04-20T21:01:45.007953+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,12 +92,12 @@
       "away_pitcher": "kyle bradish",
       "home_pitcher": "seth lugo",
       "pick": "BAL",
-      "pick_prob": 0.871,
+      "pick_prob": 0.875,
       "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-20T21:01:45.893695+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824692,
@@ -108,12 +108,12 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "colin rea",
       "pick": "CHC",
-      "pick_prob": 0.567,
+      "pick_prob": 0.549,
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-20T14:06:44.109888+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-20T21:01:46.825228+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824370,
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-20T20:07:32.921091+00:00"
+  "last_modified_at": "2026-04-20T21:01:46.825812+00:00"
 }
