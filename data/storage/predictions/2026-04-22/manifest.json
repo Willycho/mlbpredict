@@ -45,10 +45,10 @@
       "home_pitcher": "parker messick",
       "pick": "CLE",
       "pick_prob": 0.678,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:50.937227+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:30.626352+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:51.123493+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:30.935295+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "chris paddack",
       "pick": "MIA",
       "pick_prob": 0.671,
-      "expected_total": 4.6,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:51.968223+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:31.765465+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:52.784228+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:32.546511+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:53.557222+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:33.383536+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "connelly early",
       "pick": "BOS",
       "pick_prob": 0.754,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:54.406530+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:34.357502+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:55.292474+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:35.279853+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:56.177672+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:36.042337+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "PHI",
       "pick_prob": 0.617,
-      "expected_total": 3.9,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T20:50:57.015641+00:00",
+      "last_refreshed_at": "2026-04-21T21:43:46.503085+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-21T20:50:57.016211+00:00"
+  "last_modified_at": "2026-04-21T21:43:46.503803+00:00"
 }
