@@ -44,12 +44,12 @@
       "away_pitcher": "Ryan Weiss",
       "home_pitcher": "parker messick",
       "pick": "CLE",
-      "pick_prob": 0.694,
-      "expected_total": 4.1,
+      "pick_prob": 0.678,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:20.688924+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822995,
@@ -60,12 +60,12 @@
       "away_pitcher": "chase burns",
       "home_pitcher": "steven matz",
       "pick": "CIN",
-      "pick_prob": 0.546,
+      "pick_prob": 0.521,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:20.871785+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823880,
@@ -76,12 +76,12 @@
       "away_pitcher": "dustin may",
       "home_pitcher": "chris paddack",
       "pick": "MIA",
-      "pick_prob": 0.582,
+      "pick_prob": 0.671,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:21.460864+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824290,
@@ -92,12 +92,12 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "keider montero",
       "pick": "MIL",
-      "pick_prob": 0.635,
-      "expected_total": 4.5,
+      "pick_prob": 0.624,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:22.147508+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822747,
@@ -108,12 +108,12 @@
       "away_pitcher": "reynaldo lópez",
       "home_pitcher": "Foster Griffin",
       "pick": "WSH",
-      "pick_prob": 0.707,
+      "pick_prob": 0.71,
       "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:22.817651+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824773,
@@ -124,12 +124,12 @@
       "away_pitcher": "luis gil",
       "home_pitcher": "connelly early",
       "pick": "BOS",
-      "pick_prob": 0.752,
+      "pick_prob": 0.779,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T19:50:23.385779+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823640,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-21T19:50:23.386385+00:00"
 }
