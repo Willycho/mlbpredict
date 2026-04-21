@@ -147,7 +147,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:57:32.368486+00:00",
+      "last_refreshed_at": "2026-04-21T22:56:44.835930+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "home_pitcher": "kris bubic",
       "pick": "KC",
       "pick_prob": 0.64,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "v2_pick": "KC",
       "v2_conf": 0.586,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:57:35.011380+00:00",
+      "last_refreshed_at": "2026-04-21T22:56:47.439935+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:57:47.395354+00:00",
+      "last_refreshed_at": "2026-04-21T22:56:50.046990+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "patrick corbin",
       "home_pitcher": "jack kochanowicz",
       "pick": "TOR",
-      "pick_prob": 0.708,
-      "expected_total": 5.3,
+      "pick_prob": 0.631,
+      "expected_total": 5.0,
       "v2_pick": "TOR",
-      "v2_conf": 0.574,
+      "v2_conf": 0.595,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:08:25.182195+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T22:57:02.259706+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823148,
@@ -222,17 +222,17 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "luis castillo",
       "pick": "SEA",
-      "pick_prob": 0.531,
-      "expected_total": 3.3,
+      "pick_prob": 0.53,
+      "expected_total": 3.6,
       "v2_pick": "SEA",
-      "v2_conf": 0.534,
+      "v2_conf": 0.567,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:08:25.182195+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T22:57:14.513326+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825099,
@@ -243,17 +243,17 @@
       "away_pitcher": "sean burke",
       "home_pitcher": "merrill kelly",
       "pick": "AZ",
-      "pick_prob": 0.701,
+      "pick_prob": 0.721,
       "expected_total": 4.5,
       "v2_pick": "AZ",
-      "v2_conf": 0.543,
+      "v2_conf": 0.547,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:08:25.182195+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T22:57:17.164584+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823236,
@@ -264,17 +264,17 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "landen roupp",
       "pick": "LAD",
-      "pick_prob": 0.729,
-      "expected_total": 3.6,
+      "pick_prob": 0.726,
+      "expected_total": 4.0,
       "v2_pick": "LAD",
-      "v2_conf": 0.627,
+      "v2_conf": 0.595,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-21T14:08:25.182195+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-21T22:57:19.628278+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822914,
@@ -321,23 +321,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 823236,
-      "away_team": "LAD",
-      "home_team": "SF",
-      "away_pitcher": "yoshinobu yamamoto",
-      "home_pitcher": "landen roupp",
-      "tier": "sweet_spot",
-      "v2_pick": "LAD",
-      "v2_conf": 0.627,
-      "lineup": "roster",
-      "n_batters": "20+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 822995,
       "away_team": "CIN",
       "home_team": "TB",
@@ -352,23 +335,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.767,
       "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824045,
-      "away_team": "TOR",
-      "home_team": "LAA",
-      "away_pitcher": "patrick corbin",
-      "home_pitcher": "jack kochanowicz",
-      "tier": "sweet_spot",
-      "v2_pick": "TOR",
-      "v2_conf": 0.574,
-      "lineup": "roster",
-      "n_batters": "18+17",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -396,13 +362,47 @@
       "home_pitcher": "landen roupp",
       "tier": "sweet_spot",
       "v2_pick": "LAD",
-      "v2_conf": 0.627,
-      "lineup": "roster",
-      "n_batters": "20+14",
+      "v2_conf": 0.595,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 LAD",
-      "conf": 0.729,
+      "conf": 0.726,
       "detail": "F5 LAD ML",
+      "ml_consensus": true
+    },
+    {
+      "game_id": 825099,
+      "away_team": "CWS",
+      "home_team": "AZ",
+      "away_pitcher": "sean burke",
+      "home_pitcher": "merrill kelly",
+      "tier": "sweet_spot",
+      "v2_pick": "AZ",
+      "v2_conf": 0.547,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 AZ",
+      "conf": 0.721,
+      "detail": "F5 AZ ML",
+      "ml_consensus": true
+    },
+    {
+      "game_id": 823880,
+      "away_team": "STL",
+      "home_team": "MIA",
+      "away_pitcher": "dustin may",
+      "home_pitcher": "chris paddack",
+      "tier": "sweet_spot",
+      "v2_pick": "MIA",
+      "v2_conf": 0.504,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 MIA",
+      "conf": 0.671,
+      "detail": "F5 MIA ML",
       "ml_consensus": true
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-21T21:57:47.395902+00:00"
+  "last_modified_at": "2026-04-21T22:57:19.628875+00:00"
 }
