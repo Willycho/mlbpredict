@@ -2,7 +2,7 @@
   "game_id": 825099,
   "kst_date": "2026-04-22",
   "bulk_fetched_at": "2026-04-21T14:04:02.733315+00:00",
-  "last_refreshed_at": "2026-04-21T23:07:15.106870+00:00",
+  "last_refreshed_at": "2026-04-21T23:51:43.493125+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.721,
     "pick": "AZ",
     "pick_prob": 0.721,
-    "expected_total": 4.5,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 1.88,
+      "expected": 1.92,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.38
+      "gap": 0.42
     },
     "home_team_total": {
-      "expected": 2.62,
+      "expected": 2.68,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.12
+      "gap": 0.18
     },
     "sweet_picks": [
       {
@@ -82,16 +82,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "CWS OVER 1.5",
-        "conf": 0.69,
-        "detail": "Expected 1.88"
+        "conf": 0.71,
+        "detail": "Expected 1.92"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
     "wind": {
-      "speed_mph": 11.1,
+      "speed_mph": 11.2,
       "direction": "cross",
-      "adj": 0.05
+      "adj": 0.07
     },
     "away_pitch_detail": [
       {
