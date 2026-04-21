@@ -1,0 +1,148 @@
+{
+  "game_id": 824448,
+  "kst_date": "2026-04-22",
+  "bulk_fetched_at": "2026-04-21T14:04:02.733315+00:00",
+  "last_refreshed_at": "2026-04-21T14:04:02.733315+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 824448,
+    "away_team": "HOU",
+    "home_team": "CLE",
+    "game_time_kst": "07:10",
+    "game_date_kst": "2026-04-22",
+    "away_pitcher": {
+      "id": 680802,
+      "name": "Ryan Weiss",
+      "team": "HOU",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "home_pitcher": {
+      "id": 800048,
+      "name": "parker messick",
+      "team": "CLE",
+      "throws": "L",
+      "total_score": 84.7,
+      "season_score": 84.4,
+      "arsenal_score": 78.0,
+      "recent_form_score": null,
+      "home_away_adj": 3.0,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "home_matchup": {
+      "matchup_score": 65.7,
+      "arsenal_matchup": 76.1,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 18
+    },
+    "effective_away": 54.3,
+    "effective_home": 72.2,
+    "win_prob_away": 0.306,
+    "win_prob_home": 0.694,
+    "pick": "CLE",
+    "pick_prob": 0.694,
+    "expected_total": 4.1,
+    "away_team_total": {
+      "expected": 1.43,
+      "line": 1.5,
+      "pick": "UNDER",
+      "gap": 0.07
+    },
+    "home_team_total": {
+      "expected": 2.67,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.17
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "17+18",
+        "type": "ML",
+        "pick": "F5 CLE",
+        "conf": 0.694,
+        "detail": "F5 CLE ML"
+      },
+      {
+        "lineup": "roster",
+        "n_batters": "17+18",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
+      }
+    ],
+    "grade": "sweet_spot",
+    "grade_label": "SWEET SPOT",
+    "wind": {
+      "speed_mph": 10.3,
+      "direction": "out",
+      "adj": 0.23
+    },
+    "away_pitch_detail": [],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.36,
+        "pitcher_xwoba": 0.255,
+        "team_xwoba": 0.356,
+        "league_xwoba": 0.345,
+        "advantage": 0.0392
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.234,
+        "pitcher_xwoba": 0.223,
+        "team_xwoba": 0.261,
+        "league_xwoba": 0.29,
+        "advantage": 0.0483
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.146,
+        "pitcher_xwoba": 0.23,
+        "team_xwoba": 0.289,
+        "league_xwoba": 0.288,
+        "advantage": 0.0285
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.134,
+        "pitcher_xwoba": 0.449,
+        "team_xwoba": 0.359,
+        "league_xwoba": 0.351,
+        "advantage": -0.0531
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.126,
+        "pitcher_xwoba": 0.25,
+        "team_xwoba": 0.258,
+        "league_xwoba": 0.283,
+        "advantage": 0.0287
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    }
+  },
+  "locked_away_pitcher_id": 680802,
+  "locked_home_pitcher_id": 800048
+}
