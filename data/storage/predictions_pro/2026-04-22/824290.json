@@ -2,7 +2,7 @@
   "game_id": 824290,
   "kst_date": "2026-04-22",
   "bulk_fetched_at": "2026-04-21T14:08:25.182195+00:00",
-  "last_refreshed_at": "2026-04-21T20:01:37.241035+00:00",
+  "last_refreshed_at": "2026-04-21T21:03:36.264451+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.388,
     "pick": "MIL",
     "pick_prob": 0.612,
-    "expected_total": 4.4,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.45,
+      "expected": 2.51,
       "line": 2.5,
-      "pick": "UNDER",
-      "gap": 0.05
+      "pick": "OVER",
+      "gap": 0.01
     },
     "home_team_total": {
-      "expected": 1.95,
+      "expected": 1.99,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.45
+      "gap": 0.49
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "DET OVER 1.5",
-        "conf": 0.725,
-        "detail": "Expected 1.95"
+        "conf": 0.745,
+        "detail": "Expected 1.99"
       }
     ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 6.0,
+      "speed_mph": 7.1,
       "direction": "in",
-      "adj": -0.1
+      "adj": -0.07
     },
     "away_pitch_detail": [
       {
