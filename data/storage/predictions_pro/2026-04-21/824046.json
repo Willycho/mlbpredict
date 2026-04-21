@@ -2,7 +2,7 @@
   "game_id": 824046,
   "kst_date": "2026-04-21",
   "bulk_fetched_at": "2026-04-20T14:10:25.357053+00:00",
-  "last_refreshed_at": "2026-04-20T23:26:24.889064+00:00",
+  "last_refreshed_at": "2026-04-21T01:09:04.697155+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.445,
     "pick": "TOR",
     "pick_prob": 0.555,
-    "expected_total": 3.3,
+    "expected_total": 3.6,
     "away_team_total": {
-      "expected": 1.71,
+      "expected": 1.87,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.21
+      "gap": 0.37
     },
     "home_team_total": {
-      "expected": 1.59,
+      "expected": 1.73,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.09
+      "gap": 0.23
     },
     "sweet_picks": [
       {
@@ -74,13 +74,25 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.9,
-        "detail": "Expected 3.3 vs line 4.5"
+        "conf": 0.8,
+        "detail": "Expected 3.6 vs line 4.5"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "TOR OVER 1.5",
+        "conf": 0.685,
+        "detail": "Expected 1.87"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
-    "wind": null,
+    "wind": {
+      "speed_mph": 7.2,
+      "direction": "out",
+      "adj": 0.21
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",

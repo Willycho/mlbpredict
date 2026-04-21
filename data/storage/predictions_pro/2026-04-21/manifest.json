@@ -160,7 +160,7 @@
       "home_pitcher": "reid detmers",
       "pick": "TOR",
       "pick_prob": 0.555,
-      "expected_total": 3.3,
+      "expected_total": 3.6,
       "v2_pick": "TOR",
       "v2_conf": 0.557,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T23:26:24.889064+00:00",
+      "last_refreshed_at": "2026-04-21T01:09:04.697155+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-20T23:26:28.010188+00:00",
+      "last_refreshed_at": "2026-04-21T01:09:07.487780+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,5 +273,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-04-20T23:26:28.010655+00:00"
+  "last_modified_at": "2026-04-21T01:09:07.488280+00:00"
 }
