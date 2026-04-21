@@ -2,7 +2,7 @@
   "game_id": 824127,
   "kst_date": "2026-04-22",
   "bulk_fetched_at": "2026-04-21T14:04:02.733315+00:00",
-  "last_refreshed_at": "2026-04-21T22:26:28.571417+00:00",
+  "last_refreshed_at": "2026-04-21T23:07:11.856526+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,26 +55,35 @@
     "win_prob_home": 0.64,
     "pick": "KC",
     "pick_prob": 0.64,
-    "expected_total": 4.4,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 1.76,
+      "expected": 1.8,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.26
+      "gap": 0.3
     },
     "home_team_total": {
-      "expected": 2.64,
+      "expected": 2.7,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.14
+      "gap": 0.2
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "BAL OVER 1.5",
+        "conf": 0.65,
+        "detail": "Expected 1.8"
+      }
+    ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 14.3,
+      "speed_mph": 15.4,
       "direction": "out",
-      "adj": 0.42
+      "adj": 0.45
     },
     "away_pitch_detail": [
       {
