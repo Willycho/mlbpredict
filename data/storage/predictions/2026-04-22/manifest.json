@@ -64,7 +64,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:30.935295+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:23.379325+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:31.765465+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:24.323009+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:32.546511+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:25.186991+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:33.383536+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:25.994378+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:34.357502+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:26.842210+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:35.279853+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:27.668474+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:36.042337+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:28.571417+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "PHI",
       "pick_prob": 0.617,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-21T21:43:46.503085+00:00",
+      "last_refreshed_at": "2026-04-21T22:26:29.432692+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-21T21:43:46.503803+00:00"
+  "last_modified_at": "2026-04-21T22:26:29.433280+00:00"
 }
