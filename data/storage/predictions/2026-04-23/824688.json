@@ -2,8 +2,8 @@
   "game_id": 824688,
   "kst_date": "2026-04-23",
   "bulk_fetched_at": "2026-04-22T14:05:05.280244+00:00",
-  "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-22T21:36:39.061591+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824688,
@@ -43,52 +43,56 @@
       "n_batters": 14
     },
     "home_matchup": {
-      "matchup_score": 49.1,
-      "arsenal_matchup": 50.6,
-      "h2h_bonus": -2.6,
-      "lineup_source": "roster",
-      "n_batters": 14
+      "matchup_score": 46.6,
+      "arsenal_matchup": 45.2,
+      "h2h_bonus": -1.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "effective_away": 42.2,
-    "effective_home": 59.8,
-    "win_prob_away": 0.308,
-    "win_prob_home": 0.692,
+    "effective_home": 58.0,
+    "win_prob_away": 0.326,
+    "win_prob_home": 0.674,
     "pick": "CHC",
-    "pick_prob": 0.692,
-    "expected_total": 4.4,
+    "pick_prob": 0.674,
+    "expected_total": 4.1,
     "away_team_total": {
-      "expected": 1.81,
+      "expected": 1.72,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.31
+      "gap": 0.22
     },
     "home_team_total": {
-      "expected": 2.59,
+      "expected": 2.38,
       "line": 2.5,
-      "pick": "OVER",
-      "gap": 0.09
+      "pick": "UNDER",
+      "gap": 0.12
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "14+14",
+        "lineup": "partial",
+        "n_batters": "14+9",
         "type": "ML",
         "pick": "F5 CHC",
-        "conf": 0.692,
+        "conf": 0.674,
         "detail": "F5 CHC ML"
       },
       {
-        "lineup": "roster",
-        "n_batters": "14+14",
-        "type": "TT",
-        "pick": "PHI OVER 1.5",
-        "conf": 0.655,
-        "detail": "Expected 1.81"
+        "lineup": "partial",
+        "n_batters": "14+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 6.6,
+      "direction": "in",
+      "adj": -0.18
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
@@ -120,55 +124,56 @@
         "pitch_type": "FF",
         "usage": 0.471,
         "pitcher_xwoba": 0.336,
-        "team_xwoba": 0.36,
+        "team_xwoba": 0.378,
         "league_xwoba": 0.345,
-        "advantage": -0.0027
+        "advantage": -0.012
       },
       {
         "pitch_type": "CH",
         "usage": 0.237,
         "pitcher_xwoba": 0.269,
-        "team_xwoba": 0.315,
+        "team_xwoba": 0.328,
         "league_xwoba": 0.29,
-        "advantage": -0.002
+        "advantage": -0.0086
       },
       {
         "pitch_type": "SL",
         "usage": 0.149,
         "pitcher_xwoba": 0.253,
-        "team_xwoba": 0.295,
+        "team_xwoba": 0.28,
         "league_xwoba": 0.288,
-        "advantage": 0.0139
+        "advantage": 0.0213
       },
       {
         "pitch_type": "CU",
         "usage": 0.113,
         "pitcher_xwoba": 0.289,
-        "team_xwoba": 0.266,
+        "team_xwoba": 0.274,
         "league_xwoba": 0.283,
-        "advantage": 0.0048
+        "advantage": 0.0008
       },
       {
         "pitch_type": "SI",
         "usage": 0.03,
         "pitcher_xwoba": 0.345,
-        "team_xwoba": 0.373,
+        "team_xwoba": 0.384,
         "league_xwoba": 0.351,
-        "advantage": -0.0084
+        "advantage": -0.0142
       }
     ],
     "away_h2h_detail": {
       "note": "insufficient h2h PA (0 < 10)"
     },
     "home_h2h_detail": {
-      "total_pa": 25,
-      "n_batters": 9,
-      "w_k_rate": 0.0,
-      "w_bb_rate": 0.08,
+      "total_pa": 18,
+      "n_batters": 5,
+      "w_k_rate": 0.111,
+      "w_bb_rate": 0.111,
       "w_hr_rate": 0.0,
-      "confidence": 0.5
+      "confidence": 0.36
     }
   },
   "locked_away_pitcher_id": 679775,
-  "locked_home_pitcher_id": 571510
+  "locked_home_pitcher_id": 571510,
+  "pitcher_changed_at_refresh": false
 }
