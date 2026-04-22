@@ -231,7 +231,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T22:09:13.131961+00:00",
+      "last_refreshed_at": "2026-04-22T23:09:46.435131+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T22:09:16.460842+00:00",
+      "last_refreshed_at": "2026-04-22T23:09:49.281845+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "tomoyuki sugano",
       "pick": "SD",
       "pick_prob": 0.51,
-      "expected_total": 6.3,
+      "expected_total": 6.5,
       "v2_pick": "SD",
       "v2_conf": 0.531,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T22:09:29.429846+00:00",
+      "last_refreshed_at": "2026-04-22T23:09:52.122526+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "anthony kay",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.816,
+      "pick_prob": 0.836,
       "expected_total": 5.4,
       "v2_pick": "AZ",
-      "v2_conf": 0.502,
+      "v2_conf": 0.505,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T23:10:04.859527+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823231,
@@ -306,17 +306,17 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "tyler mahle",
       "pick": "LAD",
-      "pick_prob": 0.856,
+      "pick_prob": 0.847,
       "expected_total": 3.3,
       "v2_pick": "LAD",
-      "v2_conf": 0.545,
+      "v2_conf": 0.509,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T23:10:17.340870+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -334,7 +334,7 @@
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.95,
-      "detail": "Expected 6.3 vs line 4.5",
+      "detail": "Expected 6.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -345,9 +345,9 @@
       "home_pitcher": "tyler mahle",
       "tier": "consensus",
       "v2_pick": "LAD",
-      "v2_conf": 0.545,
-      "lineup": "roster",
-      "n_batters": "20+14",
+      "v2_conf": 0.509,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.9,
@@ -396,9 +396,9 @@
       "home_pitcher": "eduardo rodríguez",
       "tier": "consensus",
       "v2_pick": "AZ",
-      "v2_conf": 0.502,
-      "lineup": "roster",
-      "n_batters": "21+20",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.8,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-22T22:09:29.430453+00:00"
+  "last_modified_at": "2026-04-22T23:10:17.341497+00:00"
 }

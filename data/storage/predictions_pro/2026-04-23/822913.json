@@ -2,7 +2,7 @@
   "game_id": 822913,
   "kst_date": "2026-04-23",
   "bulk_fetched_at": "2026-04-22T14:08:15.972744+00:00",
-  "last_refreshed_at": "2026-04-22T22:09:16.460842+00:00",
+  "last_refreshed_at": "2026-04-22T23:09:49.281845+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -89,7 +89,7 @@
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
     "wind": {
-      "speed_mph": 6.3,
+      "speed_mph": 5.8,
       "direction": "out",
       "adj": 0.08
     },
