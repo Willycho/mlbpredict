@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:13:53.621627+00:00",
+      "last_refreshed_at": "2026-04-22T15:46:43.918790+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -33,16 +33,16 @@
       "away_pitcher": "peter lambert",
       "home_pitcher": "tanner bibee",
       "pick": "CLE",
-      "pick_prob": 0.627,
-      "expected_total": 4.1,
+      "pick_prob": 0.654,
+      "expected_total": 4.2,
       "v2_pick": "CLE",
-      "v2_conf": 0.524,
+      "v2_conf": 0.521,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:13:56.052814+00:00",
+      "last_refreshed_at": "2026-04-22T15:46:47.364465+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:13:58.164645+00:00",
+      "last_refreshed_at": "2026-04-22T15:46:50.138159+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -74,18 +74,18 @@
       "game_date_kst": "2026-04-23",
       "away_pitcher": "chris bassitt",
       "home_pitcher": "michael wacha",
-      "pick": "BAL",
-      "pick_prob": 0.502,
-      "expected_total": 4.6,
+      "pick": "KC",
+      "pick_prob": 0.531,
+      "expected_total": 4.2,
       "v2_pick": "KC",
-      "v2_conf": 0.534,
-      "consensus": false,
-      "ou_consensus": true,
-      "tier": "disagree",
+      "v2_conf": 0.527,
+      "consensus": true,
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T15:47:03.121061+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824044,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-22T14:13:58.165232+00:00"
+  "last_modified_at": "2026-04-22T15:47:03.121617+00:00"
 }
