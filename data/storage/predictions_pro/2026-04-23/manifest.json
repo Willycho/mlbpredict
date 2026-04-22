@@ -74,17 +74,17 @@
       "game_date_kst": "2026-04-23",
       "away_pitcher": "chris bassitt",
       "home_pitcher": "michael wacha",
-      "pick": "KC",
-      "pick_prob": 0.531,
+      "pick": "BAL",
+      "pick_prob": 0.523,
       "expected_total": 4.7,
       "v2_pick": "KC",
-      "v2_conf": 0.527,
-      "consensus": true,
+      "v2_conf": 0.553,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T16:46:32.127532+00:00",
+      "last_refreshed_at": "2026-04-22T17:47:54.908125+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "josé soriano",
       "pick": "LAA",
       "pick_prob": 0.521,
-      "expected_total": 3.9,
+      "expected_total": 4.1,
       "v2_pick": "TOR",
       "v2_conf": 0.528,
       "consensus": false,
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T16:46:44.349554+00:00",
+      "last_refreshed_at": "2026-04-22T17:47:57.405621+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,17 +117,17 @@
       "away_pitcher": "aaron civale",
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
-      "pick_prob": 0.676,
-      "expected_total": 4.1,
+      "pick_prob": 0.656,
+      "expected_total": 4.0,
       "v2_pick": "SEA",
-      "v2_conf": 0.603,
+      "v2_conf": 0.559,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T17:47:59.761458+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824286,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-22T16:46:44.350191+00:00"
+  "last_modified_at": "2026-04-22T17:47:59.762055+00:00"
 }
