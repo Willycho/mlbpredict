@@ -34,7 +34,7 @@
       "home_pitcher": "tanner bibee",
       "pick": "CLE",
       "pick_prob": 0.654,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "v2_pick": "CLE",
       "v2_conf": 0.521,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T15:46:47.364465+00:00",
+      "last_refreshed_at": "2026-04-22T16:46:27.337688+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T15:46:50.138159+00:00",
+      "last_refreshed_at": "2026-04-22T16:46:29.500616+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,15 +76,15 @@
       "home_pitcher": "michael wacha",
       "pick": "KC",
       "pick_prob": 0.531,
-      "expected_total": 4.2,
+      "expected_total": 4.7,
       "v2_pick": "KC",
       "v2_conf": 0.527,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T15:47:03.121061+00:00",
+      "last_refreshed_at": "2026-04-22T16:46:32.127532+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -95,18 +95,18 @@
       "game_date_kst": "2026-04-23",
       "away_pitcher": "eric lauer",
       "home_pitcher": "josé soriano",
-      "pick": "TOR",
-      "pick_prob": 0.527,
-      "expected_total": 4.2,
+      "pick": "LAA",
+      "pick_prob": 0.521,
+      "expected_total": 3.9,
       "v2_pick": "TOR",
-      "v2_conf": 0.504,
-      "consensus": true,
+      "v2_conf": 0.528,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T16:46:44.349554+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823147,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-22T15:47:03.121617+00:00"
+  "last_modified_at": "2026-04-22T16:46:44.350191+00:00"
 }
