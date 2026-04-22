@@ -112,7 +112,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T21:36:36.532308+00:00",
+      "last_refreshed_at": "2026-04-22T22:31:44.807404+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T21:36:37.167843+00:00",
+      "last_refreshed_at": "2026-04-22T22:31:45.431646+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T21:36:37.814281+00:00",
+      "last_refreshed_at": "2026-04-22T22:31:46.115655+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "clay holmes",
       "pick": "NYM",
       "pick_prob": 0.513,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T21:36:38.421608+00:00",
+      "last_refreshed_at": "2026-04-22T22:31:46.704073+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,11 +172,11 @@
       "away_pitcher": "kyle backhus",
       "home_pitcher": "matt boyd",
       "pick": "CHC",
-      "pick_prob": 0.674,
+      "pick_prob": 0.686,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T21:36:39.061591+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T22:31:47.300788+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,11 +188,11 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "jack leiter",
       "pick": "PIT",
-      "pick_prob": 0.682,
+      "pick_prob": 0.723,
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T21:36:39.710567+00:00",
+      "last_refreshed_at": "2026-04-22T22:31:47.888697+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "walker buehler",
       "home_pitcher": "tomoyuki sugano",
       "pick": "SD",
-      "pick_prob": 0.536,
-      "expected_total": 6.3,
+      "pick_prob": 0.51,
+      "expected_total": 6.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T22:31:48.485577+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825097,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-22T21:36:39.711168+00:00"
+  "last_modified_at": "2026-04-22T22:31:48.486201+00:00"
 }
