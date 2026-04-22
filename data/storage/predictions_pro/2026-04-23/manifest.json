@@ -21,8 +21,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-22T14:13:53.621627+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824449,
@@ -42,8 +42,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-22T14:13:56.052814+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822993,
@@ -54,17 +54,17 @@
       "away_pitcher": "brandon williamson",
       "home_pitcher": "nick martínez",
       "pick": "TB",
-      "pick_prob": 0.58,
+      "pick_prob": 0.558,
       "expected_total": 4.4,
       "v2_pick": "TB",
-      "v2_conf": 0.514,
+      "v2_conf": 0.512,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T14:08:15.972744+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-22T14:13:58.164645+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824123,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 9,
     "sweet_spot_count": 4,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-04-22T14:13:58.165232+00:00"
 }
