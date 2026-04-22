@@ -105,15 +105,15 @@
       "home_team": "DET",
       "game_time_kst": "07:40",
       "game_date_kst": "2026-04-23",
-      "away_pitcher": "chad patrick",
+      "away_pitcher": "dl hall",
       "home_pitcher": "casey mize",
       "pick": "DET",
-      "pick_prob": 0.507,
-      "expected_total": 3.8,
+      "pick_prob": 0.641,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T20:35:44.858036+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822748,
@@ -124,12 +124,12 @@
       "away_pitcher": "didier fuentes",
       "home_pitcher": "zack littell",
       "pick": "WSH",
-      "pick_prob": 0.672,
-      "expected_total": 4.9,
+      "pick_prob": 0.673,
+      "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T20:35:45.533377+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824774,
@@ -140,12 +140,12 @@
       "away_pitcher": "max fried",
       "home_pitcher": "ranger suárez",
       "pick": "NYY",
-      "pick_prob": 0.604,
+      "pick_prob": 0.642,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T20:35:46.186425+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823641,
@@ -156,12 +156,12 @@
       "away_pitcher": "Connor Prielipp",
       "home_pitcher": "clay holmes",
       "pick": "NYM",
-      "pick_prob": 0.572,
-      "expected_total": 4.1,
+      "pick_prob": 0.513,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-22T14:05:05.280244+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-22T20:35:46.794537+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824688,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-22T19:38:36.216008+00:00"
+  "last_modified_at": "2026-04-22T20:35:46.795053+00:00"
 }
