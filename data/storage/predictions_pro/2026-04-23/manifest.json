@@ -265,7 +265,7 @@
       "home_pitcher": "tomoyuki sugano",
       "pick": "SD",
       "pick_prob": 0.51,
-      "expected_total": 6.5,
+      "expected_total": 6.8,
       "v2_pick": "SD",
       "v2_conf": 0.531,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T23:09:52.122526+00:00",
+      "last_refreshed_at": "2026-04-23T00:06:06.193093+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T23:10:04.859527+00:00",
+      "last_refreshed_at": "2026-04-23T00:06:09.556583+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -315,7 +315,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-22T23:10:17.340870+00:00",
+      "last_refreshed_at": "2026-04-23T00:06:22.537055+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -334,7 +334,7 @@
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.95,
-      "detail": "Expected 6.5 vs line 4.5",
+      "detail": "Expected 6.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-22T23:10:17.341497+00:00"
+  "last_modified_at": "2026-04-23T00:06:22.537601+00:00"
 }
