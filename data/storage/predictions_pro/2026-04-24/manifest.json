@@ -138,17 +138,17 @@
       "away_pitcher": "cam schlittler",
       "home_pitcher": "payton tolle",
       "pick": "NYY",
-      "pick_prob": 0.708,
-      "expected_total": 4.2,
+      "pick_prob": 0.744,
+      "expected_total": 3.9,
       "v2_pick": "NYY",
-      "v2_conf": 0.65,
+      "v2_conf": 0.646,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:10:37.820609+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T20:16:51.467001+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823639,
@@ -159,17 +159,17 @@
       "away_pitcher": "joe ryan",
       "home_pitcher": "christian scott",
       "pick": "MIN",
-      "pick_prob": 0.556,
-      "expected_total": 3.8,
+      "pick_prob": 0.607,
+      "expected_total": 3.7,
       "v2_pick": "MIN",
-      "v2_conf": 0.525,
+      "v2_conf": 0.521,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:10:37.820609+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T20:16:53.892772+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822912,
@@ -229,6 +229,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824770,
+      "away_team": "NYY",
+      "home_team": "BOS",
+      "away_pitcher": "cam schlittler",
+      "home_pitcher": "payton tolle",
+      "tier": "sweet_spot",
+      "v2_pick": "NYY",
+      "v2_conf": 0.646,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 NYY",
+      "conf": 0.744,
+      "detail": "F5 NYY ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 824368,
       "away_team": "SD",
       "home_team": "COL",
@@ -261,23 +278,6 @@
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824770,
-      "away_team": "NYY",
-      "home_team": "BOS",
-      "away_pitcher": "cam schlittler",
-      "home_pitcher": "payton tolle",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.65,
-      "lineup": "roster",
-      "n_batters": "18+15",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.708,
-      "detail": "F5 NYY ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -286,5 +286,5 @@
     "sweet_spot_count": 1,
     "total_games": 9
   },
-  "last_modified_at": "2026-04-23T19:02:18.636232+00:00"
+  "last_modified_at": "2026-04-23T20:16:53.893354+00:00"
 }
