@@ -139,7 +139,7 @@
       "home_pitcher": "payton tolle",
       "pick": "NYY",
       "pick_prob": 0.744,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "NYY",
       "v2_conf": 0.646,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T20:16:51.467001+00:00",
+      "last_refreshed_at": "2026-04-23T21:11:46.515807+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T20:16:53.892772+00:00",
+      "last_refreshed_at": "2026-04-23T21:11:49.352043+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -179,38 +179,21 @@
       "game_date_kst": "2026-04-24",
       "away_pitcher": "bubba chandler",
       "home_pitcher": "jacob degrom",
-      "pick": "PIT",
-      "pick_prob": 0.545,
-      "expected_total": 3.1,
+      "pick": "TEX",
+      "pick_prob": 0.504,
+      "expected_total": 3.7,
       "v2_pick": "PIT",
-      "v2_conf": 0.52,
-      "consensus": true,
+      "v2_conf": 0.518,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:10:37.820609+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T21:11:52.139723+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
-    {
-      "game_id": 822912,
-      "away_team": "PIT",
-      "home_team": "TEX",
-      "away_pitcher": "bubba chandler",
-      "home_pitcher": "jacob degrom",
-      "tier": "consensus",
-      "v2_pick": "PIT",
-      "v2_conf": 0.52,
-      "lineup": "roster",
-      "n_batters": "16+18",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
-      "ou_consensus": true
-    },
     {
       "game_id": 824288,
       "away_team": "MIL",
@@ -226,6 +209,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.9,
       "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 822912,
+      "away_team": "PIT",
+      "home_team": "TEX",
+      "away_pitcher": "bubba chandler",
+      "home_pitcher": "jacob degrom",
+      "tier": "disagree",
+      "v2_pick": "PIT",
+      "v2_conf": 0.518,
+      "lineup": "partial",
+      "n_batters": "9+18",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -286,5 +286,5 @@
     "sweet_spot_count": 1,
     "total_games": 9
   },
-  "last_modified_at": "2026-04-23T20:16:53.893354+00:00"
+  "last_modified_at": "2026-04-23T21:11:52.140265+00:00"
 }
