@@ -112,7 +112,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T20:39:08.765433+00:00",
+      "last_refreshed_at": "2026-04-23T21:30:16.136697+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T20:39:09.629227+00:00",
+      "last_refreshed_at": "2026-04-23T21:30:17.714344+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,14 +139,14 @@
       "game_date_kst": "2026-04-24",
       "away_pitcher": "bubba chandler",
       "home_pitcher": "jacob degrom",
-      "pick": "PIT",
-      "pick_prob": 0.545,
+      "pick": "TEX",
+      "pick_prob": 0.504,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T21:30:19.180047+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-23T20:39:09.629861+00:00"
+  "last_modified_at": "2026-04-23T21:30:19.180592+00:00"
 }
