@@ -181,7 +181,7 @@
       "home_pitcher": "jacob degrom",
       "pick": "PIT",
       "pick_prob": 0.549,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "v2_pick": "PIT",
       "v2_conf": 0.525,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T22:05:27.359358+00:00",
+      "last_refreshed_at": "2026-04-23T23:05:27.386956+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -224,8 +224,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -286,5 +286,5 @@
     "sweet_spot_count": 1,
     "total_games": 9
   },
-  "last_modified_at": "2026-04-23T22:05:27.359877+00:00"
+  "last_modified_at": "2026-04-23T23:05:27.387476+00:00"
 }
