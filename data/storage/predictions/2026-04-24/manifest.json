@@ -11,13 +11,13 @@
       "game_date_kst": "2026-04-24",
       "away_pitcher": "JR Ritchie",
       "home_pitcher": "cade cavalli",
-      "pick": "WSH",
-      "pick_prob": 0.512,
-      "expected_total": 4.2,
+      "pick": "ATL",
+      "pick_prob": 0.511,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T14:59:03.273908+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824288,
@@ -32,8 +32,8 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-23T14:59:03.995940+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824689,
@@ -147,5 +147,6 @@
       "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-23T14:59:03.996543+00:00"
 }
