@@ -48,7 +48,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T16:47:19.918819+00:00",
+      "last_refreshed_at": "2026-04-23T18:04:39.917977+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "ryan feltner",
       "pick": "COL",
       "pick_prob": 0.79,
-      "expected_total": 5.0,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T16:47:20.756889+00:00",
+      "last_refreshed_at": "2026-04-23T18:04:40.821334+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,11 +76,11 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.794,
+      "pick_prob": 0.807,
       "expected_total": 4.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T16:47:21.599260+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T18:04:41.653780+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,11 +92,11 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "logan webb",
       "pick": "LAD",
-      "pick_prob": 0.581,
+      "pick_prob": 0.616,
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T16:47:22.390835+00:00",
+      "last_refreshed_at": "2026-04-23T18:04:42.486353+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -148,5 +148,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-23T16:47:22.391385+00:00"
+  "last_modified_at": "2026-04-23T18:04:42.486956+00:00"
 }
