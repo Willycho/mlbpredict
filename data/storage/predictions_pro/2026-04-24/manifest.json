@@ -63,7 +63,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T16:14:32.067116+00:00",
+      "last_refreshed_at": "2026-04-23T17:51:49.772481+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,16 +75,16 @@
       "away_pitcher": "matt waldron",
       "home_pitcher": "ryan feltner",
       "pick": "COL",
-      "pick_prob": 0.81,
+      "pick_prob": 0.79,
       "expected_total": 5.1,
       "v2_pick": "SD",
-      "v2_conf": 0.551,
+      "v2_conf": 0.534,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T16:14:34.153410+00:00",
+      "last_refreshed_at": "2026-04-23T17:51:52.349814+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,17 +96,17 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.794,
+      "pick_prob": 0.807,
       "expected_total": 4.7,
       "v2_pick": "AZ",
-      "v2_conf": 0.533,
+      "v2_conf": 0.509,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:10:37.820609+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T17:51:54.859670+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823233,
@@ -117,17 +117,17 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "logan webb",
       "pick": "LAD",
-      "pick_prob": 0.609,
-      "expected_total": 3.9,
+      "pick_prob": 0.616,
+      "expected_total": 3.4,
       "v2_pick": "LAD",
-      "v2_conf": 0.573,
+      "v2_conf": 0.577,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:10:37.820609+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T17:52:07.134324+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824770,
@@ -229,6 +229,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823233,
+      "away_team": "LAD",
+      "home_team": "SF",
+      "away_pitcher": "tyler glasnow",
+      "home_pitcher": "logan webb",
+      "tier": "good",
+      "v2_pick": "LAD",
+      "v2_conf": 0.577,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.867,
+      "detail": "Expected 3.4 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824770,
       "away_team": "NYY",
       "home_team": "BOS",
@@ -253,30 +270,13 @@
       "home_pitcher": "ryan feltner",
       "tier": "disagree",
       "v2_pick": "SD",
-      "v2_conf": 0.551,
-      "lineup": "partial",
-      "n_batters": "9+15",
+      "v2_conf": 0.534,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.7,
       "detail": "Expected 5.1 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823233,
-      "away_team": "LAD",
-      "home_team": "SF",
-      "away_pitcher": "tyler glasnow",
-      "home_pitcher": "logan webb",
-      "tier": "good",
-      "v2_pick": "LAD",
-      "v2_conf": 0.573,
-      "lineup": "roster",
-      "n_batters": "20+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -286,5 +286,5 @@
     "sweet_spot_count": 1,
     "total_games": 9
   },
-  "last_modified_at": "2026-04-23T16:14:34.153998+00:00"
+  "last_modified_at": "2026-04-23T17:52:07.134861+00:00"
 }
