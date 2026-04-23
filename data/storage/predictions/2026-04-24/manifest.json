@@ -16,7 +16,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T14:59:03.273908+00:00",
+      "last_refreshed_at": "2026-04-23T16:47:18.348672+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,11 +28,11 @@
       "away_pitcher": "brandon sproat",
       "home_pitcher": "tarik skubal",
       "pick": "DET",
-      "pick_prob": 0.855,
+      "pick_prob": 0.862,
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-23T14:59:03.995940+00:00",
+      "last_refreshed_at": "2026-04-23T16:47:19.139318+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "cristopher sánchez",
       "home_pitcher": "edward cabrera",
       "pick": "PHI",
-      "pick_prob": 0.596,
-      "expected_total": 4.0,
+      "pick_prob": 0.622,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T16:47:19.918819+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824368,
@@ -60,12 +60,12 @@
       "away_pitcher": "matt waldron",
       "home_pitcher": "ryan feltner",
       "pick": "COL",
-      "pick_prob": 0.806,
+      "pick_prob": 0.79,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T16:47:20.756889+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825096,
@@ -80,8 +80,8 @@
       "expected_total": 4.7,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-23T16:47:21.599260+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823233,
@@ -92,12 +92,12 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "logan webb",
       "pick": "LAD",
-      "pick_prob": 0.609,
+      "pick_prob": 0.581,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T16:47:22.390835+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824770,
@@ -148,5 +148,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-23T14:59:03.996543+00:00"
+  "last_modified_at": "2026-04-23T16:47:22.391385+00:00"
 }
