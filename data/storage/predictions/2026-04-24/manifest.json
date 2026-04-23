@@ -108,12 +108,12 @@
       "away_pitcher": "cam schlittler",
       "home_pitcher": "payton tolle",
       "pick": "NYY",
-      "pick_prob": 0.708,
-      "expected_total": 4.2,
+      "pick_prob": 0.744,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-23T14:05:41.869501+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-23T19:41:09.965535+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823639,
@@ -148,5 +148,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-23T18:04:42.486956+00:00"
+  "last_modified_at": "2026-04-23T19:41:09.966214+00:00"
 }
