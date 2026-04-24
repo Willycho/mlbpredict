@@ -16,7 +16,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:40.221165+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:26.616818+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:41.044272+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:27.482179+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:41.873222+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:28.322310+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:42.704219+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:29.136001+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:42.879634+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:29.433135+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:43.690166+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:30.201066+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:44.533229+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:31.138756+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -121,14 +121,14 @@
       "home_team": "CWS",
       "game_time_kst": "08:40",
       "game_date_kst": "2026-04-25",
-      "away_pitcher": "miles mikolas",
+      "away_pitcher": "pj poulin",
       "home_pitcher": "bryan hudson",
-      "pick": "CWS",
-      "pick_prob": 0.515,
-      "expected_total": 4.7,
+      "pick": "WSH",
+      "pick_prob": 0.618,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T20:43:45.384210+00:00",
+      "last_refreshed_at": "2026-04-24T21:34:32.514673+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.633,
-      "expected_total": 3.3,
+      "pick_prob": 0.58,
+      "expected_total": 2.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T20:43:46.241967+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T21:34:42.973842+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "luis severino",
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
-      "pick_prob": 0.779,
+      "pick_prob": 0.758,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T21:34:53.405522+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824204,
@@ -172,12 +172,12 @@
       "away_pitcher": "will warren",
       "home_pitcher": "lance mccullers",
       "pick": "NYY",
-      "pick_prob": 0.717,
+      "pick_prob": 0.755,
       "expected_total": 4.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T21:35:03.912107+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823069,
@@ -188,12 +188,12 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "andre pallante",
       "pick": "SEA",
-      "pick_prob": 0.619,
+      "pick_prob": 0.659,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T21:35:14.362826+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823962,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-24T20:43:46.242615+00:00"
+  "last_modified_at": "2026-04-24T21:35:14.363466+00:00"
 }
