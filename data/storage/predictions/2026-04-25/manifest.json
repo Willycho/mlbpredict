@@ -160,7 +160,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:08:44.189315+00:00",
+      "last_refreshed_at": "2026-04-24T23:55:42.617669+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "lance mccullers",
       "pick": "NYY",
       "pick_prob": 0.755,
-      "expected_total": 4.7,
+      "expected_total": 4.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:08:44.809372+00:00",
+      "last_refreshed_at": "2026-04-24T23:55:43.274041+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:08:45.482396+00:00",
+      "last_refreshed_at": "2026-04-24T23:55:43.917562+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "jameson taillon",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.727,
-      "expected_total": 3.6,
+      "pick_prob": 0.77,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T23:55:44.591409+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823232,
@@ -220,13 +220,13 @@
       "away_pitcher": "sandy alcántara",
       "home_pitcher": "adrian houser",
       "pick": "SF",
-      "pick_prob": 0.621,
+      "pick_prob": 0.629,
       "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T23:55:45.227962+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-24T23:08:45.482994+00:00"
+  "last_modified_at": "2026-04-24T23:55:45.228553+00:00"
 }
