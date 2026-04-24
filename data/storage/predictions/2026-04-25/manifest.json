@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:34:30.201066+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:41.724927+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:34:31.138756+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:42.327249+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "bryan hudson",
       "pick": "WSH",
       "pick_prob": 0.618,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:34:32.514673+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:42.951771+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
       "pick_prob": 0.58,
-      "expected_total": 2.9,
+      "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:34:42.973842+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:43.566070+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
       "pick_prob": 0.758,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:34:53.405522+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:44.189315+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.7,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:35:03.912107+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:44.809372+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "andre pallante",
       "pick": "SEA",
       "pick_prob": 0.659,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:35:14.362826+00:00",
+      "last_refreshed_at": "2026-04-24T23:08:45.482396+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-24T21:35:14.363466+00:00"
+  "last_modified_at": "2026-04-24T23:08:45.482994+00:00"
 }
