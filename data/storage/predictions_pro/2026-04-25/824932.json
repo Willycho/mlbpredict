@@ -2,7 +2,7 @@
   "game_id": 824932,
   "kst_date": "2026-04-25",
   "bulk_fetched_at": "2026-04-24T14:07:04.894122+00:00",
-  "last_refreshed_at": "2026-04-24T20:30:17.116369+00:00",
+  "last_refreshed_at": "2026-04-24T21:31:20.905098+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -88,7 +88,11 @@
     ],
     "grade": "lean",
     "grade_label": "LEAN",
-    "wind": null,
+    "wind": {
+      "speed_mph": 4.7,
+      "direction": "in",
+      "adj": -0.05
+    },
     "away_pitch_detail": [],
     "home_pitch_detail": [
       {
@@ -144,7 +148,7 @@
       "confidence": 0.42
     },
     "v2_pick": "ATL",
-    "v2_conf": 0.502,
+    "v2_conf": 0.509,
     "consensus": false,
     "tier": "disagree",
     "ou_consensus": false,
