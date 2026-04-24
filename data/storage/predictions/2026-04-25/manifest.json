@@ -12,12 +12,12 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "andrew abbott",
       "pick": "DET",
-      "pick_prob": 0.627,
-      "expected_total": 4.6,
+      "pick_prob": 0.661,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-24T19:51:03.317162+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824854,
@@ -227,5 +227,6 @@
       "last_refreshed_at": "2026-04-24T14:01:47.433518+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-24T19:51:03.317706+00:00"
 }
