@@ -12,8 +12,8 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "andrew abbott",
       "pick": "DET",
-      "pick_prob": 0.661,
-      "expected_total": 4.3,
+      "pick_prob": 0.652,
+      "expected_total": 4.0,
       "v2_pick": "DET",
       "v2_conf": 0.526,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:30:55.091333+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:12.365868+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:30:58.458934+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:16.663082+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:11.558018+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:29.806952+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "freddy peralta",
       "pick": "NYM",
       "pick_prob": 0.804,
-      "expected_total": 4.1,
+      "expected_total": 3.8,
       "v2_pick": "NYM",
       "v2_conf": 0.595,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:14.895942+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:42.781247+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:17.659721+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:45.438994+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "grant holmes",
       "pick": "PHI",
       "pick_prob": 0.579,
-      "expected_total": 4.2,
+      "expected_total": 4.4,
       "v2_pick": "ATL",
       "v2_conf": 0.509,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:20.905098+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:48.812385+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:24.187464+00:00",
+      "last_refreshed_at": "2026-04-24T22:26:52.117767+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:37.877581+00:00",
+      "last_refreshed_at": "2026-04-24T22:27:05.205501+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -180,16 +180,16 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.645,
-      "expected_total": 2.9,
+      "pick_prob": 0.58,
+      "expected_total": 3.3,
       "v2_pick": "PIT",
-      "v2_conf": 0.551,
+      "v2_conf": 0.527,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:51.122192+00:00",
+      "last_refreshed_at": "2026-04-24T22:27:08.703654+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
       "pick_prob": 0.758,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "v2_pick": "TEX",
       "v2_conf": 0.621,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:54.534961+00:00",
+      "last_refreshed_at": "2026-04-24T22:27:11.909976+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "lance mccullers",
       "pick": "NYY",
       "pick_prob": 0.755,
-      "expected_total": 5.0,
+      "expected_total": 4.7,
       "v2_pick": "NYY",
       "v2_conf": 0.584,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:31:57.901556+00:00",
+      "last_refreshed_at": "2026-04-24T22:27:24.841738+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T21:32:10.880616+00:00",
+      "last_refreshed_at": "2026-04-24T22:27:37.871044+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -307,13 +307,13 @@
       "home_pitcher": "brandon woodruff",
       "tier": "disagree",
       "v2_pick": "PIT",
-      "v2_conf": 0.551,
-      "lineup": "partial",
-      "n_batters": "9+18",
+      "v2_conf": 0.527,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 2.9 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -331,6 +331,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.8,
       "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823638,
+      "away_team": "COL",
+      "home_team": "NYM",
+      "away_pitcher": "michael lorenzen",
+      "home_pitcher": "freddy peralta",
+      "tier": "consensus",
+      "v2_pick": "NYM",
+      "v2_conf": 0.595,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -366,23 +383,6 @@
       "conf": 0.7,
       "detail": "Expected 5.1 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824124,
-      "away_team": "LAA",
-      "home_team": "KC",
-      "away_pitcher": "yusei kikuchi",
-      "home_pitcher": "noah cameron",
-      "tier": "consensus",
-      "v2_pick": "KC",
-      "v2_conf": 0.53,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -391,5 +391,5 @@
     "sweet_spot_count": 3,
     "total_games": 14
   },
-  "last_modified_at": "2026-04-24T21:32:10.881193+00:00"
+  "last_modified_at": "2026-04-24T22:27:37.871610+00:00"
 }

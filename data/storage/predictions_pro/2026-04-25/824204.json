@@ -2,7 +2,7 @@
   "game_id": 824204,
   "kst_date": "2026-04-25",
   "bulk_fetched_at": "2026-04-24T14:07:04.894122+00:00",
-  "last_refreshed_at": "2026-04-24T21:31:57.901556+00:00",
+  "last_refreshed_at": "2026-04-24T22:27:24.841738+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,52 +55,32 @@
     "win_prob_home": 0.245,
     "pick": "NYY",
     "pick_prob": 0.755,
-    "expected_total": 5.0,
+    "expected_total": 4.7,
     "away_team_total": {
-      "expected": 2.92,
+      "expected": 2.75,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.42
+      "gap": 0.25
     },
     "home_team_total": {
-      "expected": 2.08,
-      "line": 2.5,
-      "pick": "UNDER",
-      "gap": 0.42
+      "expected": 1.95,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.45
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
-        "pick": "NYY OVER 2.5",
-        "conf": 0.71,
-        "detail": "Expected 2.92"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "HOU UNDER 2.5",
-        "conf": 0.71,
-        "detail": "Expected 2.08"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 OVER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 5.0 vs line 4.5"
+        "pick": "HOU OVER 1.5",
+        "conf": 0.725,
+        "detail": "Expected 1.95"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": {
-      "speed_mph": 7.1,
-      "direction": "out",
-      "adj": 0.16
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
