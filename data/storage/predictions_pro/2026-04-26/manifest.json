@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:51:27.433868+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:02.938677+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "cole ragans",
       "pick": "KC",
       "pick_prob": 0.726,
-      "expected_total": 3.7,
+      "expected_total": 3.6,
       "v2_pick": "KC",
       "v2_conf": 0.573,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:51:40.047999+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:05.572120+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "mike burrows",
       "pick": "NYY",
       "pick_prob": 0.64,
-      "expected_total": 4.0,
+      "expected_total": 4.4,
       "v2_pick": "NYY",
       "v2_conf": 0.515,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:51:52.567591+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:08.174099+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:51:55.531447+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:10.742331+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:51:58.505115+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:13.405922+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "roki sasaki",
       "pick": "CHC",
       "pick_prob": 0.648,
-      "expected_total": 5.2,
+      "expected_total": 4.9,
       "v2_pick": "CHC",
       "v2_conf": 0.518,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:52:01.292343+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:25.622377+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -315,7 +315,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T21:52:13.849559+00:00",
+      "last_refreshed_at": "2026-04-25T22:31:37.838021+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824121,
+      "away_team": "LAA",
+      "home_team": "KC",
+      "away_pitcher": "Walbert Urena",
+      "home_pitcher": "cole ragans",
+      "tier": "sweet_spot",
+      "v2_pick": "KC",
+      "v2_conf": 0.573,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823070,
       "away_team": "SEA",
       "home_team": "STL",
@@ -382,28 +399,11 @@
       "v2_conf": 0.573,
       "lineup": "confirmed",
       "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823960,
-      "away_team": "CHC",
-      "home_team": "LAD",
-      "away_pitcher": "colin rea",
-      "home_pitcher": "roki sasaki",
-      "tier": "good",
-      "v2_pick": "CHC",
-      "v2_conf": 0.518,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
-      "ou_consensus": true
+      "type": "ML",
+      "pick": "F5 KC",
+      "conf": 0.726,
+      "detail": "F5 KC ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-25T21:52:13.850016+00:00"
+  "last_modified_at": "2026-04-25T22:31:37.838485+00:00"
 }
