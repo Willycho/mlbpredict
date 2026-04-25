@@ -32,7 +32,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T16:39:39.715402+00:00",
+      "last_refreshed_at": "2026-04-25T17:24:40.695084+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T16:39:40.578769+00:00",
+      "last_refreshed_at": "2026-04-25T17:24:41.517263+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "eury pérez",
       "home_pitcher": "robbie ray",
       "pick": "MIA",
-      "pick_prob": 0.62,
-      "expected_total": 3.9,
+      "pick_prob": 0.598,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T17:24:42.388564+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822989,
@@ -76,12 +76,12 @@
       "away_pitcher": "bailey ober",
       "home_pitcher": "shane mcclanahan",
       "pick": "TB",
-      "pick_prob": 0.628,
+      "pick_prob": 0.609,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T17:24:42.661635+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824613,
@@ -92,12 +92,12 @@
       "away_pitcher": "jake irvin",
       "home_pitcher": "Noah Schultz",
       "pick": "CWS",
-      "pick_prob": 0.624,
+      "pick_prob": 0.63,
       "expected_total": 5.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T17:24:43.436510+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823637,
@@ -109,11 +109,11 @@
       "home_pitcher": "kodai senga",
       "pick": "NYM",
       "pick_prob": 0.74,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-25T17:24:44.296195+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825093,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-25T16:39:40.579351+00:00"
+  "last_modified_at": "2026-04-25T17:24:44.296746+00:00"
 }
