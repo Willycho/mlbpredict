@@ -12,11 +12,11 @@
       "away_pitcher": "garrett crochet",
       "home_pitcher": "trevor rogers",
       "pick": "BOS",
-      "pick_prob": 0.571,
-      "expected_total": 3.1,
+      "pick_prob": 0.501,
+      "expected_total": 3.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:39:20.831774+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T14:28:49.937077+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-25T13:39:20.832292+00:00"
+  "last_modified_at": "2026-04-25T14:28:49.937714+00:00"
 }
