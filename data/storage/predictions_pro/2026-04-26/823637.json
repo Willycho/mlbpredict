@@ -2,8 +2,8 @@
   "game_id": 823637,
   "kst_date": "2026-04-26",
   "bulk_fetched_at": "2026-04-25T13:39:55.453378+00:00",
-  "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-25T17:56:30.579039+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 823637,
@@ -55,18 +55,18 @@
     "win_prob_home": 0.74,
     "pick": "NYM",
     "pick_prob": 0.74,
-    "expected_total": 4.4,
+    "expected_total": 4.3,
     "away_team_total": {
-      "expected": 1.79,
+      "expected": 1.75,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.29
+      "gap": 0.25
     },
     "home_team_total": {
-      "expected": 2.61,
+      "expected": 2.55,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.11
+      "gap": 0.05
     },
     "sweet_picks": [
       {
@@ -80,7 +80,11 @@
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 7.9,
+      "direction": "in",
+      "adj": -0.09
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
@@ -201,9 +205,9 @@
     "v2_conf": null,
     "consensus": null,
     "ou_consensus": null,
-    "v2_f5_total": null,
     "tier": "no_v2"
   },
   "locked_away_pitcher_id": 500779,
-  "locked_home_pitcher_id": 673540
+  "locked_home_pitcher_id": 673540,
+  "pitcher_changed_at_refresh": false
 }
