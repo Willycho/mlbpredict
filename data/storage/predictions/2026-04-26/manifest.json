@@ -128,7 +128,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T19:55:18.922076+00:00",
+      "last_refreshed_at": "2026-04-25T20:36:10.545572+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "jeffrey springs",
       "home_pitcher": "mackenzie gore",
       "pick": "TEX",
-      "pick_prob": 0.513,
-      "expected_total": 4.9,
+      "pick_prob": 0.538,
+      "expected_total": 5.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:11.345461+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824121,
@@ -156,12 +156,12 @@
       "away_pitcher": "Walbert Urena",
       "home_pitcher": "cole ragans",
       "pick": "KC",
-      "pick_prob": 0.734,
+      "pick_prob": 0.726,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:12.008373+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824203,
@@ -172,12 +172,12 @@
       "away_pitcher": "ryan weathers",
       "home_pitcher": "mike burrows",
       "pick": "NYY",
-      "pick_prob": 0.611,
+      "pick_prob": 0.64,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:12.681092+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823799,
@@ -188,12 +188,12 @@
       "away_pitcher": "mitch keller",
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
-      "pick_prob": 0.739,
+      "pick_prob": 0.715,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:13.348135+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824527,
@@ -204,12 +204,12 @@
       "away_pitcher": "jack flaherty",
       "home_pitcher": "brady singer",
       "pick": "DET",
-      "pick_prob": 0.622,
+      "pick_prob": 0.636,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:14.006399+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823960,
@@ -220,12 +220,12 @@
       "away_pitcher": "colin rea",
       "home_pitcher": "roki sasaki",
       "pick": "CHC",
-      "pick_prob": 0.642,
-      "expected_total": 4.9,
+      "pick_prob": 0.632,
+      "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:14.675533+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824933,
@@ -236,13 +236,13 @@
       "away_pitcher": "zack wheeler",
       "home_pitcher": "bryce elder",
       "pick": "PHI",
-      "pick_prob": 0.837,
-      "expected_total": 4.0,
+      "pick_prob": 0.834,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T20:36:15.377912+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-25T19:55:18.922778+00:00"
+  "last_modified_at": "2026-04-25T20:36:15.378618+00:00"
 }
