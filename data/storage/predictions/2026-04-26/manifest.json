@@ -13,10 +13,10 @@
       "home_pitcher": "trevor rogers",
       "pick": "BOS",
       "pick_prob": 0.501,
-      "expected_total": 3.0,
+      "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T15:10:34.360426+00:00",
+      "last_refreshed_at": "2026-04-25T15:55:53.781937+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,12 +28,12 @@
       "away_pitcher": "bryan woo",
       "home_pitcher": "matthew liberatore",
       "pick": "SEA",
-      "pick_prob": 0.8,
-      "expected_total": 3.8,
+      "pick_prob": 0.816,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T15:55:54.452569+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822826,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-25T15:10:34.360996+00:00"
+  "last_modified_at": "2026-04-25T15:55:54.453171+00:00"
 }
