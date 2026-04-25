@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:24:04.709067+00:00",
+      "last_refreshed_at": "2026-04-25T00:09:10.496076+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
       "pick_prob": 0.77,
-      "expected_total": 3.6,
+      "expected_total": 3.9,
       "v2_pick": "LAD",
       "v2_conf": 0.567,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:24:17.468903+00:00",
+      "last_refreshed_at": "2026-04-25T00:09:13.732480+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,15 +286,15 @@
       "home_pitcher": "adrian houser",
       "pick": "SF",
       "pick_prob": 0.629,
-      "expected_total": 5.1,
-      "v2_pick": "MIA",
-      "v2_conf": 0.533,
-      "consensus": false,
+      "expected_total": 4.7,
+      "v2_pick": "SF",
+      "v2_conf": 0.503,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-24T23:24:20.481957+00:00",
+      "last_refreshed_at": "2026-04-25T00:09:26.743374+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -314,23 +314,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
       "detail": "Expected 2.9 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823962,
-      "away_team": "CHC",
-      "home_team": "LAD",
-      "away_pitcher": "jameson taillon",
-      "home_pitcher": "emmet sheehan",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.567,
-      "lineup": "partial",
-      "n_batters": "9+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -383,6 +366,23 @@
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823962,
+      "away_team": "CHC",
+      "home_team": "LAD",
+      "away_pitcher": "jameson taillon",
+      "home_pitcher": "emmet sheehan",
+      "tier": "consensus",
+      "v2_pick": "LAD",
+      "v2_conf": 0.567,
+      "lineup": "partial",
+      "n_batters": "9+14",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 3.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -391,5 +391,5 @@
     "sweet_spot_count": 3,
     "total_games": 14
   },
-  "last_modified_at": "2026-04-24T23:24:20.482546+00:00"
+  "last_modified_at": "2026-04-25T00:09:26.743922+00:00"
 }
