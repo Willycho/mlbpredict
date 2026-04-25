@@ -29,10 +29,10 @@
       "home_pitcher": "matthew liberatore",
       "pick": "SEA",
       "pick_prob": 0.816,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T15:55:54.452569+00:00",
+      "last_refreshed_at": "2026-04-25T16:39:39.715402+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "joey cantillo",
       "home_pitcher": "kevin gausman",
       "pick": "TOR",
-      "pick_prob": 0.634,
-      "expected_total": 3.2,
+      "pick_prob": 0.554,
+      "expected_total": 3.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T16:39:40.578769+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823229,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-25T15:55:54.453171+00:00"
+  "last_modified_at": "2026-04-25T16:39:40.579351+00:00"
 }
