@@ -34,7 +34,7 @@
       "home_pitcher": "matthew liberatore",
       "pick": "SEA",
       "pick_prob": 0.816,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "v2_pick": "SEA",
       "v2_conf": 0.619,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T16:08:54.169923+00:00",
+      "last_refreshed_at": "2026-04-25T17:05:14.132582+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T16:08:57.054023+00:00",
+      "last_refreshed_at": "2026-04-25T17:05:17.613099+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,17 +75,17 @@
       "away_pitcher": "eury pérez",
       "home_pitcher": "robbie ray",
       "pick": "MIA",
-      "pick_prob": 0.62,
-      "expected_total": 3.9,
+      "pick_prob": 0.598,
+      "expected_total": 3.5,
       "v2_pick": "MIA",
-      "v2_conf": 0.552,
+      "v2_conf": 0.528,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T17:05:30.632396+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822989,
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823229,
+      "away_team": "MIA",
+      "home_team": "SF",
+      "away_pitcher": "eury pérez",
+      "home_pitcher": "robbie ray",
+      "tier": "consensus",
+      "v2_pick": "MIA",
+      "v2_conf": 0.528,
+      "lineup": "partial",
+      "n_batters": "9+21",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823070,
       "away_team": "SEA",
       "home_team": "STL",
@@ -367,8 +384,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,23 +404,6 @@
       "conf": 0.767,
       "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823799,
-      "away_team": "PIT",
-      "home_team": "MIL",
-      "away_pitcher": "mitch keller",
-      "home_pitcher": "jacob misiorowski",
-      "tier": "sweet_spot",
-      "v2_pick": "MIL",
-      "v2_conf": 0.535,
-      "lineup": "roster",
-      "n_batters": "17+18",
-      "type": "ML",
-      "pick": "F5 MIL",
-      "conf": 0.739,
-      "detail": "F5 MIL ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-25T16:08:57.054516+00:00"
+  "last_modified_at": "2026-04-25T17:05:30.633002+00:00"
 }
