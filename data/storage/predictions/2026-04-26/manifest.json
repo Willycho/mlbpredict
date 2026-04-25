@@ -16,8 +16,8 @@
       "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-25T13:39:20.831774+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823070,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-25T13:25:20.095743+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-25T13:39:20.832292+00:00"
 }
