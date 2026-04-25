@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T15:24:34.381764+00:00",
+      "last_refreshed_at": "2026-04-25T16:08:54.169923+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,17 +54,17 @@
       "away_pitcher": "joey cantillo",
       "home_pitcher": "kevin gausman",
       "pick": "TOR",
-      "pick_prob": 0.634,
-      "expected_total": 3.2,
+      "pick_prob": 0.554,
+      "expected_total": 3.4,
       "v2_pick": "TOR",
-      "v2_conf": 0.577,
+      "v2_conf": 0.563,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T16:08:57.054023+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823229,
@@ -343,15 +343,15 @@
       "home_team": "TOR",
       "away_pitcher": "joey cantillo",
       "home_pitcher": "kevin gausman",
-      "tier": "good",
+      "tier": "consensus",
       "v2_pick": "TOR",
-      "v2_conf": 0.577,
-      "lineup": "roster",
-      "n_batters": "17+17",
+      "v2_conf": 0.563,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 3.2 vs line 4.5",
+      "conf": 0.867,
+      "detail": "Expected 3.4 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-25T15:24:34.382351+00:00"
+  "last_modified_at": "2026-04-25T16:08:57.054516+00:00"
 }
