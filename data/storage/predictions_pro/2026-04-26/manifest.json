@@ -12,17 +12,17 @@
       "away_pitcher": "garrett crochet",
       "home_pitcher": "trevor rogers",
       "pick": "BOS",
-      "pick_prob": 0.571,
-      "expected_total": 3.1,
+      "pick_prob": 0.501,
+      "expected_total": 3.0,
       "v2_pick": "BAL",
-      "v2_conf": 0.529,
+      "v2_conf": 0.516,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T15:24:31.815061+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823070,
@@ -33,17 +33,17 @@
       "away_pitcher": "bryan woo",
       "home_pitcher": "matthew liberatore",
       "pick": "SEA",
-      "pick_prob": 0.8,
-      "expected_total": 3.8,
+      "pick_prob": 0.816,
+      "expected_total": 3.6,
       "v2_pick": "SEA",
-      "v2_conf": 0.59,
+      "v2_conf": 0.619,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-25T15:24:34.381764+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822826,
@@ -328,13 +328,13 @@
       "home_pitcher": "trevor rogers",
       "tier": "disagree",
       "v2_pick": "BAL",
-      "v2_conf": 0.529,
-      "lineup": "partial",
-      "n_batters": "22+9",
+      "v2_conf": 0.516,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "detail": "Expected 3.0 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -352,6 +352,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.933,
       "detail": "Expected 3.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823070,
+      "away_team": "SEA",
+      "home_team": "STL",
+      "away_pitcher": "bryan woo",
+      "home_pitcher": "matthew liberatore",
+      "tier": "consensus",
+      "v2_pick": "SEA",
+      "v2_conf": 0.619,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,23 +404,6 @@
       "conf": 0.739,
       "detail": "F5 MIL ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824121,
-      "away_team": "LAA",
-      "home_team": "KC",
-      "away_pitcher": "Walbert Urena",
-      "home_pitcher": "cole ragans",
-      "tier": "sweet_spot",
-      "v2_pick": "KC",
-      "v2_conf": 0.551,
-      "lineup": "roster",
-      "n_batters": "19+18",
-      "type": "ML",
-      "pick": "F5 KC",
-      "conf": 0.734,
-      "detail": "F5 KC ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 7,
     "sweet_spot_count": 3,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-04-25T15:24:34.382351+00:00"
 }
