@@ -1,0 +1,176 @@
+{
+  "game_id": 822826,
+  "kst_date": "2026-04-26",
+  "bulk_fetched_at": "2026-04-25T13:39:55.453378+00:00",
+  "last_refreshed_at": "2026-04-25T13:39:55.453378+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 822826,
+    "away_team": "CLE",
+    "home_team": "TOR",
+    "game_time_kst": "04:07",
+    "game_date_kst": "2026-04-26",
+    "away_pitcher": {
+      "id": 676282,
+      "name": "joey cantillo",
+      "team": "CLE",
+      "throws": "L",
+      "total_score": 66.4,
+      "season_score": 66.8,
+      "arsenal_score": 77.5,
+      "recent_form_score": null,
+      "home_away_adj": -5.0,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 592332,
+      "name": "kevin gausman",
+      "team": "TOR",
+      "throws": "R",
+      "total_score": 74.4,
+      "season_score": 75.0,
+      "arsenal_score": 70.6,
+      "recent_form_score": null,
+      "home_away_adj": 1.3,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 47.6,
+      "arsenal_matchup": 46.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "home_matchup": {
+      "matchup_score": 63.4,
+      "arsenal_matchup": 64.0,
+      "h2h_bonus": 4.7,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "effective_away": 58.2,
+    "effective_home": 70.1,
+    "win_prob_away": 0.366,
+    "win_prob_home": 0.634,
+    "pick": "TOR",
+    "pick_prob": 0.634,
+    "expected_total": 3.2,
+    "away_team_total": {
+      "expected": 1.34,
+      "line": 1.5,
+      "pick": "UNDER",
+      "gap": 0.16
+    },
+    "home_team_total": {
+      "expected": 1.86,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.36
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "17+17",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.933,
+        "detail": "Expected 3.2 vs line 4.5"
+      },
+      {
+        "lineup": "roster",
+        "n_batters": "17+17",
+        "type": "TT",
+        "pick": "TOR OVER 1.5",
+        "conf": 0.68,
+        "detail": "Expected 1.86"
+      }
+    ],
+    "grade": "good",
+    "grade_label": "GOOD",
+    "wind": {
+      "speed_mph": 14.3,
+      "direction": "in",
+      "adj": -0.32
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.42,
+        "pitcher_xwoba": 0.389,
+        "team_xwoba": 0.354,
+        "league_xwoba": 0.345,
+        "advantage": -0.0267
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.305,
+        "pitcher_xwoba": 0.215,
+        "team_xwoba": 0.336,
+        "league_xwoba": 0.29,
+        "advantage": 0.0145
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.188,
+        "pitcher_xwoba": 0.205,
+        "team_xwoba": 0.293,
+        "league_xwoba": 0.283,
+        "advantage": 0.0333
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.087,
+        "pitcher_xwoba": 0.347,
+        "team_xwoba": 0.308,
+        "league_xwoba": 0.288,
+        "advantage": -0.0397
+      }
+    ],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.537,
+        "pitcher_xwoba": 0.34,
+        "team_xwoba": 0.312,
+        "league_xwoba": 0.345,
+        "advantage": 0.0191
+      },
+      {
+        "pitch_type": "FS",
+        "usage": 0.375,
+        "pitcher_xwoba": 0.229,
+        "team_xwoba": 0.241,
+        "league_xwoba": 0.258,
+        "advantage": 0.023
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.088,
+        "pitcher_xwoba": 0.416,
+        "team_xwoba": 0.27,
+        "league_xwoba": 0.288,
+        "advantage": -0.0554
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (3 < 10)"
+    },
+    "home_h2h_detail": {
+      "total_pa": 82,
+      "n_batters": 15,
+      "w_k_rate": 0.305,
+      "w_bb_rate": 0.037,
+      "w_hr_rate": 0.012,
+      "confidence": 1.0
+    },
+    "v2_pick": "TOR",
+    "v2_conf": 0.577,
+    "consensus": true,
+    "tier": "good",
+    "ou_consensus": true,
+    "v2_f5_total": 4.3
+  },
+  "locked_away_pitcher_id": 676282,
+  "locked_home_pitcher_id": 592332
+}
