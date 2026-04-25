@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:54:57.169617+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:24.407880+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "mackenzie gore",
       "pick": "TEX",
       "pick_prob": 0.538,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "TEX",
       "v2_conf": 0.5,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:00.527323+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:27.433868+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:13.440623+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:40.047999+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:26.479823+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:52.567591+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
       "pick_prob": 0.715,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "v2_pick": "PIT",
       "v2_conf": 0.509,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:29.727146+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:55.531447+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:33.007990+00:00",
+      "last_refreshed_at": "2026-04-25T21:51:58.505115+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "roki sasaki",
       "pick": "CHC",
       "pick_prob": 0.648,
-      "expected_total": 4.9,
+      "expected_total": 5.2,
       "v2_pick": "CHC",
       "v2_conf": 0.518,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:45.883300+00:00",
+      "last_refreshed_at": "2026-04-25T21:52:01.292343+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -315,7 +315,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-25T20:55:58.801940+00:00",
+      "last_refreshed_at": "2026-04-25T21:52:13.849559+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -389,21 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824121,
-      "away_team": "LAA",
-      "home_team": "KC",
-      "away_pitcher": "Walbert Urena",
-      "home_pitcher": "cole ragans",
-      "tier": "sweet_spot",
-      "v2_pick": "KC",
-      "v2_conf": 0.573,
+      "game_id": 823960,
+      "away_team": "CHC",
+      "home_team": "LAD",
+      "away_pitcher": "colin rea",
+      "home_pitcher": "roki sasaki",
+      "tier": "good",
+      "v2_pick": "CHC",
+      "v2_conf": 0.518,
       "lineup": "confirmed",
       "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 KC",
-      "conf": 0.726,
-      "detail": "F5 KC ML",
-      "ml_consensus": true
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 5.2 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-25T20:55:58.802565+00:00"
+  "last_modified_at": "2026-04-25T21:52:13.850016+00:00"
 }
