@@ -13,7 +13,7 @@
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
       "pick_prob": 0.537,
-      "expected_total": 2.7,
+      "expected_total": 2.6,
       "v2_pick": "BOS",
       "v2_conf": 0.518,
       "consensus": false,
@@ -21,7 +21,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:23:29.277220+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:23.541044+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:23:31.806171+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:25.847237+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:23:34.334819+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:27.887612+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:23:46.575375+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:39.715613+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:23:58.693993+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:51.598398+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:01.261625+00:00",
+      "last_refreshed_at": "2026-04-26T17:28:53.169777+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "bryan hudson",
       "pick": "WSH",
       "pick_prob": 0.567,
-      "expected_total": 4.1,
+      "expected_total": 4.4,
       "v2_pick": "CWS",
       "v2_conf": 0.567,
       "consensus": false,
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:03.680807+00:00",
+      "last_refreshed_at": "2026-04-26T17:29:04.975993+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:06.059838+00:00",
+      "last_refreshed_at": "2026-04-26T17:29:06.959198+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "kyle harrison",
       "pick": "PIT",
       "pick_prob": 0.502,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "PIT",
       "v2_conf": 0.54,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:08.421669+00:00",
+      "last_refreshed_at": "2026-04-26T17:29:08.952785+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "michael mcgreevy",
       "pick": "SEA",
       "pick_prob": 0.558,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "v2_pick": "STL",
       "v2_conf": 0.518,
       "consensus": false,
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:10.888029+00:00",
+      "last_refreshed_at": "2026-04-26T17:29:10.922906+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,15 +223,15 @@
       "home_pitcher": "kumar rocker",
       "pick": "ATH",
       "pick_prob": 0.776,
-      "expected_total": 4.2,
+      "expected_total": 4.7,
       "v2_pick": "TEX",
       "v2_conf": 0.535,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:24:22.891483+00:00",
+      "last_refreshed_at": "2026-04-26T17:29:13.070437+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "mike king",
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
-      "pick_prob": 0.588,
+      "pick_prob": 0.54,
       "expected_total": 4.4,
       "v2_pick": "SD",
-      "v2_conf": 0.526,
+      "v2_conf": 0.554,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:41:47.324564+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T17:29:24.923559+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823230,
@@ -264,17 +264,17 @@
       "away_pitcher": "max meyer",
       "home_pitcher": "landen roupp",
       "pick": "SF",
-      "pick_prob": 0.637,
+      "pick_prob": 0.646,
       "expected_total": 4.3,
       "v2_pick": "SF",
-      "v2_conf": 0.536,
+      "v2_conf": 0.538,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:41:47.324564+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T17:29:36.720589+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823959,
@@ -294,8 +294,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:41:47.324564+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-26T17:29:48.459487+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824122,
@@ -355,7 +355,7 @@
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 2.7 vs line 4.5",
+      "detail": "Expected 2.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 2,
     "total_games": 16
   },
-  "last_modified_at": "2026-04-26T16:24:22.891998+00:00"
+  "last_modified_at": "2026-04-26T17:29:48.460086+00:00"
 }
