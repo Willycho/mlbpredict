@@ -32,8 +32,8 @@
       "expected_total": 2.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-26T15:02:03.634141+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824934,
@@ -44,12 +44,12 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "chris sale",
       "pick": "ATL",
-      "pick_prob": 0.742,
+      "pick_prob": 0.771,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T15:02:04.499994+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822824,
@@ -60,12 +60,12 @@
       "away_pitcher": "slade cecconi",
       "home_pitcher": "patrick corbin",
       "pick": "TOR",
-      "pick_prob": 0.701,
+      "pick_prob": 0.707,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T15:02:05.317955+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824528,
@@ -76,12 +76,12 @@
       "away_pitcher": "keider montero",
       "home_pitcher": "rhett lowder",
       "pick": "DET",
-      "pick_prob": 0.564,
+      "pick_prob": 0.604,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T15:02:06.169919+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823635,
@@ -92,12 +92,12 @@
       "away_pitcher": "jose quintana",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.817,
-      "expected_total": 4.0,
+      "pick_prob": 0.819,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T15:02:07.080465+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822991,
@@ -107,13 +107,13 @@
       "game_date_kst": "2026-04-27",
       "away_pitcher": "simeon woods richardson",
       "home_pitcher": "jesse scholtens",
-      "pick": "MIN",
-      "pick_prob": 0.507,
+      "pick": "TB",
+      "pick_prob": 0.543,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T15:02:07.389460+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824612,
@@ -259,5 +259,6 @@
       "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-26T15:02:07.390111+00:00"
 }

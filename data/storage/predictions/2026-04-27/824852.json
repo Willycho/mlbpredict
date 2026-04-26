@@ -2,8 +2,8 @@
   "game_id": 824852,
   "kst_date": "2026-04-27",
   "bulk_fetched_at": "2026-04-26T13:26:32.478033+00:00",
-  "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-26T15:02:03.634141+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824852,
@@ -81,9 +81,9 @@
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 6.9,
+      "speed_mph": 7.3,
       "direction": "in",
-      "adj": -0.19
+      "adj": -0.22
     },
     "away_pitch_detail": [
       {
@@ -182,5 +182,6 @@
     }
   },
   "locked_away_pitcher_id": 813349,
-  "locked_home_pitcher_id": 680694
+  "locked_home_pitcher_id": 680694,
+  "pitcher_changed_at_refresh": false
 }
