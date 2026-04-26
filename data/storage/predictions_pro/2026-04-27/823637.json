@@ -1,0 +1,36 @@
+{
+  "game_id": 823637,
+  "kst_date": "2026-04-27",
+  "bulk_fetched_at": "2026-04-26T13:41:47.324564+00:00",
+  "last_refreshed_at": "2026-04-26T13:41:47.324564+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 823637,
+    "away_team": "COL",
+    "home_team": "NYM",
+    "away_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "home_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "win_prob_away": null,
+    "win_prob_home": null,
+    "pick": null,
+    "pick_prob": null,
+    "expected_total": null,
+    "grade": "pass",
+    "grade_label": "TBD",
+    "v2_pick": null,
+    "v2_conf": null,
+    "consensus": null,
+    "ou_consensus": null,
+    "v2_f5_total": null,
+    "tier": "no_v2"
+  },
+  "locked_away_pitcher_id": null,
+  "locked_home_pitcher_id": null
+}
