@@ -11,17 +11,17 @@
       "game_date_kst": "2026-04-27",
       "away_pitcher": "connelly early",
       "home_pitcher": "kyle bradish",
-      "pick": "BOS",
-      "pick_prob": 0.504,
-      "expected_total": 2.6,
+      "pick": "BAL",
+      "pick_prob": 0.537,
+      "expected_total": 2.7,
       "v2_pick": "BOS",
-      "v2_conf": 0.509,
-      "consensus": true,
+      "v2_conf": 0.518,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T15:27:37.204431+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T16:23:29.277220+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:27:39.351349+00:00",
+      "last_refreshed_at": "2026-04-26T16:23:31.806171+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:27:41.535060+00:00",
+      "last_refreshed_at": "2026-04-26T16:23:34.334819+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:27:53.443999+00:00",
+      "last_refreshed_at": "2026-04-26T16:23:46.575375+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:05.345304+00:00",
+      "last_refreshed_at": "2026-04-26T16:23:58.693993+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -115,18 +115,18 @@
       "game_time_kst": "02:40",
       "game_date_kst": "2026-04-27",
       "away_pitcher": "simeon woods richardson",
-      "home_pitcher": "jesse scholtens",
+      "home_pitcher": "griffin jax",
       "pick": "TB",
-      "pick_prob": 0.543,
-      "expected_total": 4.2,
-      "v2_pick": "MIN",
-      "v2_conf": 0.502,
-      "consensus": false,
-      "ou_consensus": false,
-      "tier": "disagree",
+      "pick_prob": 0.658,
+      "expected_total": 3.5,
+      "v2_pick": "TB",
+      "v2_conf": 0.558,
+      "consensus": true,
+      "ou_consensus": true,
+      "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:07.027486+00:00",
+      "last_refreshed_at": "2026-04-26T16:24:01.261625+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "bryan hudson",
       "pick": "WSH",
       "pick_prob": 0.567,
-      "expected_total": 4.4,
+      "expected_total": 4.1,
       "v2_pick": "CWS",
       "v2_conf": 0.567,
       "consensus": false,
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:18.908720+00:00",
+      "last_refreshed_at": "2026-04-26T16:24:03.680807+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:21.014258+00:00",
+      "last_refreshed_at": "2026-04-26T16:24:06.059838+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -179,17 +179,17 @@
       "game_date_kst": "2026-04-27",
       "away_pitcher": "carmen mlodzinski",
       "home_pitcher": "kyle harrison",
-      "pick": "MIL",
-      "pick_prob": 0.559,
+      "pick": "PIT",
+      "pick_prob": 0.502,
       "expected_total": 3.9,
       "v2_pick": "PIT",
-      "v2_conf": 0.58,
-      "consensus": false,
+      "v2_conf": 0.54,
+      "consensus": true,
       "ou_consensus": false,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:23.097066+00:00",
+      "last_refreshed_at": "2026-04-26T16:24:08.421669+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "emerson hancock",
       "home_pitcher": "michael mcgreevy",
       "pick": "SEA",
-      "pick_prob": 0.532,
+      "pick_prob": 0.558,
       "expected_total": 4.9,
       "v2_pick": "STL",
-      "v2_conf": 0.501,
+      "v2_conf": 0.518,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T15:28:25.208324+00:00",
+      "last_refreshed_at": "2026-04-26T16:24:10.888029+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,17 +222,17 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "kumar rocker",
       "pick": "ATH",
-      "pick_prob": 0.743,
+      "pick_prob": 0.776,
       "expected_total": 4.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.515,
+      "v2_conf": 0.535,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:41:47.324564+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T16:24:22.891483+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825094,
@@ -347,15 +347,32 @@
       "home_team": "BAL",
       "away_pitcher": "connelly early",
       "home_pitcher": "kyle bradish",
-      "tier": "consensus",
+      "tier": "disagree",
       "v2_pick": "BOS",
-      "v2_conf": 0.509,
-      "lineup": "roster",
-      "n_batters": "22+18",
+      "v2_conf": 0.518,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 2.6 vs line 4.5",
+      "detail": "Expected 2.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 822991,
+      "away_team": "MIN",
+      "home_team": "TB",
+      "away_pitcher": "simeon woods richardson",
+      "home_pitcher": "griffin jax",
+      "tier": "sweet_spot",
+      "v2_pick": "TB",
+      "v2_conf": 0.558,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -408,23 +425,6 @@
       "conf": 0.667,
       "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824202,
-      "away_team": "NYY",
-      "home_team": "HOU",
-      "away_pitcher": "luis gil",
-      "home_pitcher": "spencer arrighetti",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.598,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.658,
-      "detail": "F5 NYY ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 2,
     "total_games": 16
   },
-  "last_modified_at": "2026-04-26T15:28:25.208865+00:00"
+  "last_modified_at": "2026-04-26T16:24:22.891998+00:00"
 }
