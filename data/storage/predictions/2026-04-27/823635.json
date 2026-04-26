@@ -2,7 +2,7 @@
   "game_id": 823635,
   "kst_date": "2026-04-27",
   "bulk_fetched_at": "2026-04-26T13:26:32.478033+00:00",
-  "last_refreshed_at": "2026-04-26T15:57:48.230507+00:00",
+  "last_refreshed_at": "2026-04-26T16:50:26.517344+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -81,9 +81,9 @@
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 4.6,
+      "speed_mph": 5.0,
       "direction": "in",
-      "adj": -0.14
+      "adj": -0.15
     },
     "away_pitch_detail": [
       {
