@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T17:29:10.922906+00:00",
+      "last_refreshed_at": "2026-04-26T18:09:05.206624+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T17:29:13.070437+00:00",
+      "last_refreshed_at": "2026-04-26T18:09:07.463222+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
       "pick_prob": 0.54,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "v2_pick": "SD",
       "v2_conf": 0.554,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T17:29:24.923559+00:00",
+      "last_refreshed_at": "2026-04-26T18:09:09.719319+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,16 +264,16 @@
       "away_pitcher": "max meyer",
       "home_pitcher": "landen roupp",
       "pick": "SF",
-      "pick_prob": 0.646,
+      "pick_prob": 0.623,
       "expected_total": 4.3,
       "v2_pick": "SF",
-      "v2_conf": 0.538,
+      "v2_conf": 0.519,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T17:29:36.720589+00:00",
+      "last_refreshed_at": "2026-04-26T18:09:21.722200+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,16 +285,16 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
-      "pick_prob": 0.737,
+      "pick_prob": 0.706,
       "expected_total": 3.8,
       "v2_pick": "CHC",
-      "v2_conf": 0.505,
+      "v2_conf": 0.511,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T17:29:48.459487+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T18:09:33.681732+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 2,
     "total_games": 16
   },
-  "last_modified_at": "2026-04-26T17:29:48.460086+00:00"
+  "last_modified_at": "2026-04-26T18:09:33.682331+00:00"
 }
