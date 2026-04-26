@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:50:27.328838+00:00",
+      "last_refreshed_at": "2026-04-26T17:36:35.115017+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:50:27.971281+00:00",
+      "last_refreshed_at": "2026-04-26T17:36:35.740461+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:50:28.621822+00:00",
+      "last_refreshed_at": "2026-04-26T17:36:36.357117+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:50:29.395104+00:00",
+      "last_refreshed_at": "2026-04-26T17:36:36.982953+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T16:50:30.037654+00:00",
+      "last_refreshed_at": "2026-04-26T17:36:37.586422+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "mike king",
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
-      "pick_prob": 0.588,
+      "pick_prob": 0.54,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T17:36:38.203382+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823230,
@@ -220,12 +220,12 @@
       "away_pitcher": "max meyer",
       "home_pitcher": "landen roupp",
       "pick": "SF",
-      "pick_prob": 0.637,
-      "expected_total": 4.3,
+      "pick_prob": 0.623,
+      "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T17:36:38.804254+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823959,
@@ -236,12 +236,12 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
-      "pick_prob": 0.737,
-      "expected_total": 3.8,
+      "pick_prob": 0.703,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-26T13:26:32.478033+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-26T17:36:39.425270+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824122,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-26T16:50:30.038223+00:00"
+  "last_modified_at": "2026-04-26T17:36:39.426286+00:00"
 }
