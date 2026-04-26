@@ -205,10 +205,10 @@
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
       "pick_prob": 0.54,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T18:28:41.840738+00:00",
+      "last_refreshed_at": "2026-04-26T19:29:56.827897+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T18:28:42.541348+00:00",
+      "last_refreshed_at": "2026-04-26T19:29:57.461953+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -240,7 +240,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T18:28:43.216340+00:00",
+      "last_refreshed_at": "2026-04-26T19:29:58.104145+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-26T18:28:43.216960+00:00"
+  "last_modified_at": "2026-04-26T19:29:58.104739+00:00"
 }
