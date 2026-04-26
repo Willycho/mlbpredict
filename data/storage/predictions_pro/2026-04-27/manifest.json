@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T19:16:29.205290+00:00",
+      "last_refreshed_at": "2026-04-26T19:59:59.147189+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T19:16:31.674074+00:00",
+      "last_refreshed_at": "2026-04-26T20:00:01.886685+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
       "pick_prob": 0.706,
-      "expected_total": 4.1,
+      "expected_total": 3.8,
       "v2_pick": "CHC",
       "v2_conf": 0.511,
       "consensus": false,
@@ -294,7 +294,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-26T19:16:34.189859+00:00",
+      "last_refreshed_at": "2026-04-26T20:00:05.465107+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 2,
     "total_games": 16
   },
-  "last_modified_at": "2026-04-26T19:16:34.190437+00:00"
+  "last_modified_at": "2026-04-26T20:00:05.465729+00:00"
 }
