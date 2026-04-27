@@ -11,13 +11,13 @@
       "game_date_kst": "2026-04-28",
       "away_pitcher": "steven matz",
       "home_pitcher": "parker messick",
-      "pick": "CLE",
-      "pick_prob": 0.553,
-      "expected_total": 3.9,
+      "pick": "TB",
+      "pick_prob": 0.504,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:22:03.359461+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T20:09:01.799542+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823395,
@@ -28,12 +28,12 @@
       "away_pitcher": "dustin may",
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
-      "pick_prob": 0.532,
-      "expected_total": 3.8,
+      "pick_prob": 0.662,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:22:03.359461+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T20:09:02.464035+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822825,
@@ -43,13 +43,13 @@
       "game_date_kst": "2026-04-28",
       "away_pitcher": "ranger suárez",
       "home_pitcher": "dylan cease",
-      "pick": "TOR",
-      "pick_prob": 0.502,
+      "pick": "BOS",
+      "pick_prob": 0.534,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:22:03.359461+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T20:09:03.113049+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823719,
@@ -131,5 +131,6 @@
       "last_refreshed_at": "2026-04-27T14:22:03.359461+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-27T20:09:03.113663+00:00"
 }
