@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T19:52:25.288540+00:00",
+      "last_refreshed_at": "2026-04-27T20:59:34.645814+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -34,7 +34,7 @@
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
       "pick_prob": 0.662,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "PIT",
       "v2_conf": 0.51,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T19:52:28.334617+00:00",
+      "last_refreshed_at": "2026-04-27T20:59:36.859700+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -53,18 +53,18 @@
       "game_date_kst": "2026-04-28",
       "away_pitcher": "ranger suárez",
       "home_pitcher": "dylan cease",
-      "pick": "TOR",
-      "pick_prob": 0.502,
+      "pick": "BOS",
+      "pick_prob": 0.534,
       "expected_total": 3.5,
       "v2_pick": "TOR",
-      "v2_conf": 0.515,
-      "consensus": true,
+      "v2_conf": 0.505,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T20:59:39.007897+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823719,
@@ -75,17 +75,17 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "Connor Prielipp",
       "pick": "SEA",
-      "pick_prob": 0.616,
-      "expected_total": 5.0,
+      "pick_prob": 0.571,
+      "expected_total": 4.3,
       "v2_pick": "SEA",
-      "v2_conf": 0.613,
+      "v2_conf": 0.569,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "good",
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T20:59:50.952497+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824609,
@@ -96,17 +96,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "anthony kay",
       "pick": "LAA",
-      "pick_prob": 0.65,
-      "expected_total": 5.2,
+      "pick_prob": 0.647,
+      "expected_total": 5.7,
       "v2_pick": "CWS",
-      "v2_conf": 0.541,
+      "v2_conf": 0.526,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T21:00:02.956910+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822906,
@@ -174,16 +174,33 @@
   ],
   "top_picks": [
     {
+      "game_id": 824609,
+      "away_team": "LAA",
+      "home_team": "CWS",
+      "away_pitcher": "jack kochanowicz",
+      "home_pitcher": "anthony kay",
+      "tier": "disagree",
+      "v2_pick": "CWS",
+      "v2_conf": 0.526,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 5.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 822825,
       "away_team": "BOS",
       "home_team": "TOR",
       "away_pitcher": "ranger suárez",
       "home_pitcher": "dylan cease",
-      "tier": "consensus",
+      "tier": "disagree",
       "v2_pick": "TOR",
-      "v2_conf": 0.515,
-      "lineup": "roster",
-      "n_batters": "17+18",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.833,
@@ -208,40 +225,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824609,
-      "away_team": "LAA",
-      "home_team": "CWS",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "anthony kay",
-      "tier": "disagree",
-      "v2_pick": "CWS",
-      "v2_conf": 0.541,
-      "lineup": "roster",
-      "n_batters": "20+18",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823719,
-      "away_team": "SEA",
-      "home_team": "MIN",
-      "away_pitcher": "luis castillo",
-      "home_pitcher": "Connor Prielipp",
-      "tier": "good",
-      "v2_pick": "SEA",
-      "v2_conf": 0.613,
-      "lineup": "roster",
-      "n_batters": "20+17",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823311,
       "away_team": "CHC",
       "home_team": "SD",
@@ -257,6 +240,23 @@
       "conf": 0.667,
       "detail": "Expected 4.0 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823395,
+      "away_team": "STL",
+      "home_team": "PIT",
+      "away_pitcher": "dustin may",
+      "home_pitcher": "mason montgomery",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.51,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 PIT",
+      "conf": 0.662,
+      "detail": "F5 PIT ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -265,5 +265,5 @@
     "sweet_spot_count": 0,
     "total_games": 8
   },
-  "last_modified_at": "2026-04-27T19:52:28.335135+00:00"
+  "last_modified_at": "2026-04-27T21:00:02.957433+00:00"
 }
