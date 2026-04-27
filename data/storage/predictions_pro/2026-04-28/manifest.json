@@ -76,7 +76,7 @@
       "home_pitcher": "Connor Prielipp",
       "pick": "SEA",
       "pick_prob": 0.571,
-      "expected_total": 4.8,
+      "expected_total": 4.9,
       "v2_pick": "SEA",
       "v2_conf": 0.569,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T22:05:15.791074+00:00",
+      "last_refreshed_at": "2026-04-27T23:09:18.835526+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "anthony kay",
       "pick": "LAA",
       "pick_prob": 0.647,
-      "expected_total": 5.7,
+      "expected_total": 5.6,
       "v2_pick": "CWS",
       "v2_conf": 0.526,
       "consensus": false,
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T22:05:27.657415+00:00",
+      "last_refreshed_at": "2026-04-27T23:09:21.771567+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T22:05:39.712675+00:00",
+      "last_refreshed_at": "2026-04-27T23:09:34.398096+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "matt boyd",
       "home_pitcher": "randy vásquez",
       "pick": "CHC",
-      "pick_prob": 0.764,
-      "expected_total": 4.0,
+      "pick_prob": 0.742,
+      "expected_total": 4.3,
       "v2_pick": "CHC",
-      "v2_conf": 0.521,
+      "v2_conf": 0.522,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T23:09:47.002480+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823961,
@@ -186,8 +186,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 5.7 vs line 4.5",
+      "conf": 0.867,
+      "detail": "Expected 5.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -206,6 +206,23 @@
       "conf": 0.833,
       "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823311,
+      "away_team": "CHC",
+      "home_team": "SD",
+      "away_pitcher": "matt boyd",
+      "home_pitcher": "randy vásquez",
+      "tier": "sweet_spot",
+      "v2_pick": "CHC",
+      "v2_conf": 0.522,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 CHC",
+      "conf": 0.742,
+      "detail": "F5 CHC ML",
+      "ml_consensus": true
     },
     {
       "game_id": 824446,
@@ -240,23 +257,6 @@
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823311,
-      "away_team": "CHC",
-      "home_team": "SD",
-      "away_pitcher": "matt boyd",
-      "home_pitcher": "randy vásquez",
-      "tier": "consensus",
-      "v2_pick": "CHC",
-      "v2_conf": 0.521,
-      "lineup": "roster",
-      "n_batters": "15+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 4.0 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -265,5 +265,5 @@
     "sweet_spot_count": 0,
     "total_games": 8
   },
-  "last_modified_at": "2026-04-27T22:05:39.713259+00:00"
+  "last_modified_at": "2026-04-27T23:09:47.003072+00:00"
 }
