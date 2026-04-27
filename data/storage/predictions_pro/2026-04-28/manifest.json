@@ -34,7 +34,7 @@
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
       "pick_prob": 0.662,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "PIT",
       "v2_conf": 0.51,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T20:59:36.859700+00:00",
+      "last_refreshed_at": "2026-04-27T22:05:11.421709+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T20:59:39.007897+00:00",
+      "last_refreshed_at": "2026-04-27T22:05:13.619552+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,15 +76,15 @@
       "home_pitcher": "Connor Prielipp",
       "pick": "SEA",
       "pick_prob": 0.571,
-      "expected_total": 4.3,
+      "expected_total": 4.8,
       "v2_pick": "SEA",
       "v2_conf": 0.569,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T20:59:50.952497+00:00",
+      "last_refreshed_at": "2026-04-27T22:05:15.791074+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:00:02.956910+00:00",
+      "last_refreshed_at": "2026-04-27T22:05:27.657415+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,17 +117,17 @@
       "away_pitcher": "max fried",
       "home_pitcher": "jack leiter",
       "pick": "NYY",
-      "pick_prob": 0.766,
-      "expected_total": 4.1,
+      "pick_prob": 0.778,
+      "expected_total": 3.9,
       "v2_pick": "NYY",
-      "v2_conf": 0.567,
+      "v2_conf": 0.583,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-27T22:05:39.712675+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823311,
@@ -225,6 +225,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 822906,
+      "away_team": "NYY",
+      "home_team": "TEX",
+      "away_pitcher": "max fried",
+      "home_pitcher": "jack leiter",
+      "tier": "consensus",
+      "v2_pick": "NYY",
+      "v2_conf": 0.583,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 3.9 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823311,
       "away_team": "CHC",
       "home_team": "SD",
@@ -240,23 +257,6 @@
       "conf": 0.667,
       "detail": "Expected 4.0 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823395,
-      "away_team": "STL",
-      "home_team": "PIT",
-      "away_pitcher": "dustin may",
-      "home_pitcher": "mason montgomery",
-      "tier": "sweet_spot",
-      "v2_pick": "PIT",
-      "v2_conf": 0.51,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 PIT",
-      "conf": 0.662,
-      "detail": "F5 PIT ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -265,5 +265,5 @@
     "sweet_spot_count": 0,
     "total_games": 8
   },
-  "last_modified_at": "2026-04-27T21:00:02.957433+00:00"
+  "last_modified_at": "2026-04-27T22:05:39.713259+00:00"
 }
