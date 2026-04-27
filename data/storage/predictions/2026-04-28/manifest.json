@@ -29,10 +29,10 @@
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
       "pick_prob": 0.662,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:16:54.075431+00:00",
+      "last_refreshed_at": "2026-04-27T22:13:14.786082+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:16:54.750691+00:00",
+      "last_refreshed_at": "2026-04-27T22:13:15.710102+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:16:55.373201+00:00",
+      "last_refreshed_at": "2026-04-27T22:13:16.595362+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "anthony kay",
       "pick": "LAA",
       "pick_prob": 0.647,
-      "expected_total": 5.7,
+      "expected_total": 5.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:16:56.005619+00:00",
+      "last_refreshed_at": "2026-04-27T22:13:17.474371+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "jack leiter",
       "pick": "NYY",
       "pick_prob": 0.778,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T21:16:56.656823+00:00",
+      "last_refreshed_at": "2026-04-27T22:13:18.364756+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -132,5 +132,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-27T21:16:56.657396+00:00"
+  "last_modified_at": "2026-04-27T22:13:18.365404+00:00"
 }
