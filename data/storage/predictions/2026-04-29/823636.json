@@ -2,7 +2,7 @@
   "game_id": 823636,
   "kst_date": "2026-04-29",
   "bulk_fetched_at": "2026-04-28T14:37:02.531034+00:00",
-  "last_refreshed_at": "2026-04-28T20:40:44.026707+00:00",
+  "last_refreshed_at": "2026-04-28T21:42:46.944424+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.64,
     "pick": "NYM",
     "pick_prob": 0.64,
-    "expected_total": 4.8,
+    "expected_total": 4.7,
     "away_team_total": {
-      "expected": 2.2,
+      "expected": 2.15,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.3
+      "gap": 0.35
     },
     "home_team_total": {
-      "expected": 2.6,
+      "expected": 2.55,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.1
+      "gap": 0.05
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "WSH UNDER 2.5",
-        "conf": 0.65,
-        "detail": "Expected 2.2"
+        "conf": 0.675,
+        "detail": "Expected 2.15"
       }
     ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 8.0,
+      "speed_mph": 7.7,
       "direction": "out",
-      "adj": 0.22
+      "adj": 0.2
     },
     "away_pitch_detail": [
       {

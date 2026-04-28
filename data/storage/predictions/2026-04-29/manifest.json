@@ -80,7 +80,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:40.726215+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:44.456043+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "shane baz",
       "pick": "BAL",
       "pick_prob": 0.531,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:41.559757+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:45.069650+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:42.369368+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:45.684718+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:43.242504+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:46.360909+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "clay holmes",
       "pick": "NYM",
       "pick_prob": 0.64,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:44.026707+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:46.944424+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:44.825955+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:47.529605+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T20:40:45.657160+00:00",
+      "last_refreshed_at": "2026-04-28T21:42:48.118418+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,11 +188,11 @@
       "away_pitcher": "josé soriano",
       "home_pitcher": "davis martin",
       "pick": "LAA",
-      "pick_prob": 0.692,
+      "pick_prob": 0.652,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-28T20:40:46.481320+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-28T21:42:48.701085+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "cam schlittler",
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
-      "pick_prob": 0.508,
-      "expected_total": 3.6,
+      "pick_prob": 0.517,
+      "expected_total": 3.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-28T14:37:02.531034+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-28T21:42:49.302288+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823310,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-28T20:40:46.482014+00:00"
+  "last_modified_at": "2026-04-28T21:42:49.302892+00:00"
 }
