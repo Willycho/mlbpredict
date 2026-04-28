@@ -112,7 +112,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T23:12:15.367686+00:00",
+      "last_refreshed_at": "2026-04-28T00:07:10.181025+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,13 +124,13 @@
       "away_pitcher": "chris paddack",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.85,
+      "pick_prob": 0.838,
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T23:12:16.295027+00:00",
+      "last_refreshed_at": "2026-04-28T00:07:10.782944+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-27T23:12:16.295608+00:00"
+  "last_modified_at": "2026-04-28T00:07:10.783576+00:00"
 }
