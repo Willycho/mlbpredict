@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:46.360909+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:55.349243+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "clay holmes",
       "pick": "NYM",
       "pick_prob": 0.64,
-      "expected_total": 4.7,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:46.944424+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:56.165253+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "martín pérez",
       "pick": "DET",
       "pick_prob": 0.723,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:47.529605+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:57.023637+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "joe ryan",
       "pick": "MIN",
       "pick_prob": 0.561,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:48.118418+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:57.817103+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "davis martin",
       "pick": "LAA",
       "pick_prob": 0.652,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:48.701085+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:58.664769+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
       "pick_prob": 0.517,
-      "expected_total": 3.1,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T21:42:49.302288+00:00",
+      "last_refreshed_at": "2026-04-28T22:39:59.482132+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-28T21:42:49.302892+00:00"
+  "last_modified_at": "2026-04-28T22:39:59.482705+00:00"
 }
