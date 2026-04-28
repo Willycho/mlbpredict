@@ -139,7 +139,7 @@
       "home_pitcher": "randy vásquez",
       "pick": "CHC",
       "pick_prob": 0.742,
-      "expected_total": 4.3,
+      "expected_total": 4.0,
       "v2_pick": "CHC",
       "v2_conf": 0.522,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-27T23:09:47.002480+00:00",
+      "last_refreshed_at": "2026-04-28T00:10:36.368514+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "chris paddack",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.822,
+      "pick_prob": 0.838,
       "expected_total": 4.2,
       "v2_pick": "LAD",
-      "v2_conf": 0.63,
+      "v2_conf": 0.621,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-27T14:26:21.623497+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-28T00:10:38.448267+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -265,5 +265,5 @@
     "sweet_spot_count": 0,
     "total_games": 8
   },
-  "last_modified_at": "2026-04-27T23:09:47.003072+00:00"
+  "last_modified_at": "2026-04-28T00:10:38.448740+00:00"
 }
