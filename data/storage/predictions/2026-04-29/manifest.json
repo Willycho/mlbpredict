@@ -205,10 +205,10 @@
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
       "pick_prob": 0.517,
-      "expected_total": 3.4,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T22:39:59.482132+00:00",
+      "last_refreshed_at": "2026-04-28T23:37:34.755226+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "edward cabrera",
       "home_pitcher": "walker buehler",
       "pick": "CHC",
-      "pick_prob": 0.798,
-      "expected_total": 4.4,
+      "pick_prob": 0.781,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-28T14:37:02.531034+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-28T23:37:35.672852+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823956,
@@ -236,13 +236,13 @@
       "away_pitcher": "janson junk",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.833,
-      "expected_total": 3.5,
+      "pick_prob": 0.834,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-28T14:37:02.531034+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-28T23:37:36.578232+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-28T22:39:59.482705+00:00"
+  "last_modified_at": "2026-04-28T23:37:36.578835+00:00"
 }
