@@ -128,7 +128,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T20:08:52.919362+00:00",
+      "last_refreshed_at": "2026-04-29T21:18:48.453519+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 5.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:08:53.771934+00:00",
+      "last_refreshed_at": "2026-04-29T21:18:49.042664+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "bubba chandler",
       "pick": "PIT",
       "pick_prob": 0.729,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:08:54.669114+00:00",
+      "last_refreshed_at": "2026-04-29T21:18:49.632927+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:08:55.511853+00:00",
+      "last_refreshed_at": "2026-04-29T21:18:50.221327+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,12 +188,12 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "david peterson",
       "pick": "NYM",
-      "pick_prob": 0.576,
-      "expected_total": 4.4,
+      "pick_prob": 0.586,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T21:18:50.834356+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824930,
@@ -204,12 +204,12 @@
       "away_pitcher": "tarik skubal",
       "home_pitcher": "JR Ritchie",
       "pick": "DET",
-      "pick_prob": 0.761,
-      "expected_total": 3.7,
+      "pick_prob": 0.752,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T21:18:51.379905+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823796,
@@ -220,12 +220,12 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "brandon sproat",
       "pick": "AZ",
-      "pick_prob": 0.524,
-      "expected_total": 4.4,
+      "pick_prob": 0.553,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T21:18:51.976183+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825015,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-29T20:08:55.512689+00:00"
+  "last_modified_at": "2026-04-29T21:18:51.976971+00:00"
 }
