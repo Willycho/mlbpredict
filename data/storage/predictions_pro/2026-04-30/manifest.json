@@ -55,7 +55,7 @@
       "home_pitcher": "taj bradley",
       "pick": "SEA",
       "pick_prob": 0.619,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "SEA",
       "v2_conf": 0.597,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T15:25:48.873434+00:00",
+      "last_refreshed_at": "2026-04-29T17:09:24.635084+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,17 +75,17 @@
       "away_pitcher": "Elmer Rodríguez",
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
-      "pick_prob": 0.633,
-      "expected_total": 3.9,
+      "pick_prob": 0.58,
+      "expected_total": 3.6,
       "v2_pick": "TEX",
-      "v2_conf": 0.556,
+      "v2_conf": 0.546,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T17:09:27.507919+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822821,
@@ -96,17 +96,17 @@
       "away_pitcher": "brayan bello",
       "home_pitcher": "eric lauer",
       "pick": "TOR",
-      "pick_prob": 0.662,
-      "expected_total": 4.3,
+      "pick_prob": 0.623,
+      "expected_total": 3.9,
       "v2_pick": "TOR",
-      "v2_conf": 0.536,
+      "v2_conf": 0.513,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T17:09:30.082408+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823958,
@@ -117,17 +117,17 @@
       "away_pitcher": "sandy alcántara",
       "home_pitcher": "tyler glasnow",
       "pick": "LAD",
-      "pick_prob": 0.816,
+      "pick_prob": 0.82,
       "expected_total": 3.9,
       "v2_pick": "LAD",
-      "v2_conf": 0.612,
+      "v2_conf": 0.586,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T17:09:42.253297+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823312,
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 822907,
+      "away_team": "NYY",
+      "home_team": "TEX",
+      "away_pitcher": "Elmer Rodríguez",
+      "home_pitcher": "nathan eovaldi",
+      "tier": "consensus",
+      "v2_pick": "TEX",
+      "v2_conf": 0.546,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824525,
       "away_team": "COL",
       "home_team": "CIN",
@@ -387,23 +404,6 @@
       "conf": 0.733,
       "detail": "Expected 5.2 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 822907,
-      "away_team": "NYY",
-      "home_team": "TEX",
-      "away_pitcher": "Elmer Rodríguez",
-      "home_pitcher": "nathan eovaldi",
-      "tier": "good",
-      "v2_pick": "TEX",
-      "v2_conf": 0.556,
-      "lineup": "roster",
-      "n_batters": "16+15",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-29T15:25:48.874037+00:00"
+  "last_modified_at": "2026-04-29T17:09:42.253826+00:00"
 }
