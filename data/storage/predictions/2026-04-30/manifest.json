@@ -13,10 +13,10 @@
       "home_pitcher": "gavin williams",
       "pick": "TB",
       "pick_prob": 0.759,
-      "expected_total": 3.2,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T15:27:38.438269+00:00",
+      "last_refreshed_at": "2026-04-29T17:04:33.527992+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -29,10 +29,10 @@
       "home_pitcher": "erick fedde",
       "pick": "LAA",
       "pick_prob": 0.666,
-      "expected_total": 5.2,
+      "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T15:27:39.348371+00:00",
+      "last_refreshed_at": "2026-04-29T17:04:34.394172+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -45,10 +45,10 @@
       "home_pitcher": "taj bradley",
       "pick": "SEA",
       "pick_prob": 0.619,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T15:27:40.226899+00:00",
+      "last_refreshed_at": "2026-04-29T17:04:35.203340+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "Elmer Rodríguez",
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
-      "pick_prob": 0.633,
-      "expected_total": 3.5,
+      "pick_prob": 0.58,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T17:04:35.982675+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822821,
@@ -76,12 +76,12 @@
       "away_pitcher": "brayan bello",
       "home_pitcher": "eric lauer",
       "pick": "TOR",
-      "pick_prob": 0.662,
+      "pick_prob": 0.642,
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-29T17:04:36.885452+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823958,
@@ -92,12 +92,12 @@
       "away_pitcher": "sandy alcántara",
       "home_pitcher": "tyler glasnow",
       "pick": "LAD",
-      "pick_prob": 0.816,
+      "pick_prob": 0.82,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T17:04:37.729532+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823312,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-29T15:27:40.227528+00:00"
+  "last_modified_at": "2026-04-29T17:04:37.730103+00:00"
 }

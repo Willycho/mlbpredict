@@ -2,7 +2,7 @@
   "game_id": 824608,
   "kst_date": "2026-04-30",
   "bulk_fetched_at": "2026-04-29T14:26:22.485746+00:00",
-  "last_refreshed_at": "2026-04-29T15:27:39.348371+00:00",
+  "last_refreshed_at": "2026-04-29T17:04:34.394172+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,35 +55,35 @@
     "win_prob_home": 0.334,
     "pick": "LAA",
     "pick_prob": 0.666,
-    "expected_total": 5.2,
+    "expected_total": 5.3,
     "away_team_total": {
-      "expected": 3.01,
+      "expected": 3.07,
       "line": 3.5,
       "pick": "UNDER",
-      "gap": 0.49
+      "gap": 0.43
     },
     "home_team_total": {
-      "expected": 2.19,
+      "expected": 2.23,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.31
+      "gap": 0.27
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "TT",
-        "pick": "LAA UNDER 3.5",
-        "conf": 0.745,
-        "detail": "Expected 3.01"
+        "type": "OU",
+        "pick": "F5 OVER 4.5",
+        "conf": 0.767,
+        "detail": "Expected 5.3 vs line 4.5"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 OVER 4.5",
-        "conf": 0.733,
-        "detail": "Expected 5.2 vs line 4.5"
+        "type": "TT",
+        "pick": "LAA UNDER 3.5",
+        "conf": 0.715,
+        "detail": "Expected 3.07"
       },
       {
         "lineup": "confirmed",
@@ -92,22 +92,14 @@
         "pick": "F5 LAA",
         "conf": 0.666,
         "detail": "F5 LAA ML"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "CWS UNDER 2.5",
-        "conf": 0.655,
-        "detail": "Expected 2.19"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
     "wind": {
-      "speed_mph": 12.6,
+      "speed_mph": 12.3,
       "direction": "out",
-      "adj": 0.19
+      "adj": 0.2
     },
     "away_pitch_detail": [
       {
