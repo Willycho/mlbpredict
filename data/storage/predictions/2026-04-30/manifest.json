@@ -125,11 +125,11 @@
       "home_pitcher": "chris bassitt",
       "pick": "BAL",
       "pick_prob": 0.639,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-29T20:08:52.919362+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824525,
@@ -140,12 +140,12 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "brandon williamson",
       "pick": "CIN",
-      "pick_prob": 0.736,
+      "pick_prob": 0.683,
       "expected_total": 5.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T20:08:53.771934+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823392,
@@ -156,12 +156,12 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "bubba chandler",
       "pick": "PIT",
-      "pick_prob": 0.661,
-      "expected_total": 3.9,
+      "pick_prob": 0.729,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T20:08:54.669114+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823471,
@@ -172,12 +172,12 @@
       "away_pitcher": "logan webb",
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
-      "pick_prob": 0.753,
-      "expected_total": 3.2,
+      "pick_prob": 0.764,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T20:08:55.511853+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823633,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-29T18:47:19.985371+00:00"
+  "last_modified_at": "2026-04-29T20:08:55.512689+00:00"
 }
