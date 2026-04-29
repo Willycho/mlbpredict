@@ -1,0 +1,149 @@
+{
+  "game_id": 824930,
+  "kst_date": "2026-04-30",
+  "bulk_fetched_at": "2026-04-29T14:26:22.485746+00:00",
+  "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 824930,
+    "away_team": "DET",
+    "home_team": "ATL",
+    "game_time_kst": "08:15",
+    "game_date_kst": "2026-04-30",
+    "away_pitcher": {
+      "id": 669373,
+      "name": "tarik skubal",
+      "team": "DET",
+      "throws": "L",
+      "total_score": 91.6,
+      "season_score": 94.0,
+      "arsenal_score": 91.8,
+      "recent_form_score": null,
+      "home_away_adj": -1.5,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 702275,
+      "name": "JR Ritchie",
+      "team": "ATL",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "away_matchup": {
+      "matchup_score": 67.9,
+      "arsenal_matchup": 77.0,
+      "h2h_bonus": 3.4,
+      "lineup_source": "roster",
+      "n_batters": 18
+    },
+    "home_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "effective_away": 81.0,
+    "effective_home": 55.8,
+    "win_prob_away": 0.761,
+    "win_prob_home": 0.239,
+    "pick": "DET",
+    "pick_prob": 0.761,
+    "expected_total": 3.7,
+    "away_team_total": {
+      "expected": 2.55,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.05
+    },
+    "home_team_total": {
+      "expected": 1.15,
+      "line": 1.5,
+      "pick": "UNDER",
+      "gap": 0.35
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "18+17",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.767,
+        "detail": "Expected 3.7 vs line 4.5"
+      },
+      {
+        "lineup": "roster",
+        "n_batters": "18+17",
+        "type": "TT",
+        "pick": "ATL UNDER 1.5",
+        "conf": 0.675,
+        "detail": "Expected 1.15"
+      }
+    ],
+    "grade": "overconf",
+    "grade_label": "HIGH CONF",
+    "wind": null,
+    "away_pitch_detail": [
+      {
+        "pitch_type": "CH",
+        "usage": 0.314,
+        "pitcher_xwoba": 0.188,
+        "team_xwoba": 0.283,
+        "league_xwoba": 0.29,
+        "advantage": 0.0545
+      },
+      {
+        "pitch_type": "FF",
+        "usage": 0.293,
+        "pitcher_xwoba": 0.293,
+        "team_xwoba": 0.346,
+        "league_xwoba": 0.345,
+        "advantage": 0.0255
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.239,
+        "pitcher_xwoba": 0.316,
+        "team_xwoba": 0.367,
+        "league_xwoba": 0.351,
+        "advantage": 0.0091
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.125,
+        "pitcher_xwoba": 0.289,
+        "team_xwoba": 0.297,
+        "league_xwoba": 0.288,
+        "advantage": -0.0049
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.028,
+        "pitcher_xwoba": 0.185,
+        "team_xwoba": 0.324,
+        "league_xwoba": 0.283,
+        "advantage": 0.0282
+      }
+    ],
+    "home_pitch_detail": [],
+    "away_h2h_detail": {
+      "total_pa": 30,
+      "n_batters": 9,
+      "w_k_rate": 0.4,
+      "w_bb_rate": 0.067,
+      "w_hr_rate": 0.033,
+      "confidence": 0.6
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    }
+  },
+  "locked_away_pitcher_id": 669373,
+  "locked_home_pitcher_id": 702275
+}
