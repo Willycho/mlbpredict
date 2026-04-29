@@ -97,7 +97,7 @@
       "home_pitcher": "eric lauer",
       "pick": "TOR",
       "pick_prob": 0.623,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "TOR",
       "v2_conf": 0.513,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T17:09:30.082408+00:00",
+      "last_refreshed_at": "2026-04-29T18:53:02.084117+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "tyler glasnow",
       "pick": "LAD",
       "pick_prob": 0.82,
-      "expected_total": 3.9,
+      "expected_total": 4.1,
       "v2_pick": "LAD",
       "v2_conf": 0.586,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T17:09:42.253297+00:00",
+      "last_refreshed_at": "2026-04-29T18:53:05.134661+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "jameson taillon",
       "home_pitcher": "matt waldron",
       "pick": "CHC",
-      "pick_prob": 0.775,
-      "expected_total": 4.3,
+      "pick_prob": 0.754,
+      "expected_total": 4.4,
       "v2_pick": "SD",
-      "v2_conf": 0.504,
+      "v2_conf": 0.505,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T18:53:17.694593+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824850,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-29T17:09:42.253826+00:00"
+  "last_modified_at": "2026-04-29T18:53:17.695272+00:00"
 }
