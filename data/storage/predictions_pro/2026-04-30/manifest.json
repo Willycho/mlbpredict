@@ -306,17 +306,17 @@
       "away_pitcher": "michael wacha",
       "home_pitcher": "luis severino",
       "pick": "KC",
-      "pick_prob": 0.526,
+      "pick_prob": 0.536,
       "expected_total": 4.9,
       "v2_pick": "KC",
-      "v2_conf": 0.542,
+      "v2_conf": 0.54,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T23:41:01.026162+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-29T22:38:41.408990+00:00"
+  "last_modified_at": "2026-04-29T23:41:01.026790+00:00"
 }
