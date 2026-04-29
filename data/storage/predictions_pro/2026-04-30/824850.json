@@ -2,8 +2,8 @@
   "game_id": 824850,
   "kst_date": "2026-04-30",
   "bulk_fetched_at": "2026-04-29T14:30:53.123065+00:00",
-  "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-04-29T20:19:30.590626+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824850,
@@ -55,18 +55,18 @@
     "win_prob_home": 0.639,
     "pick": "BAL",
     "pick_prob": 0.639,
-    "expected_total": 4.7,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 2.05,
+      "expected": 2.01,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.45
+      "gap": 0.49
     },
     "home_team_total": {
-      "expected": 2.65,
+      "expected": 2.59,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.15
+      "gap": 0.09
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "22+18",
         "type": "TT",
         "pick": "HOU UNDER 2.5",
-        "conf": 0.725,
-        "detail": "Expected 2.05"
+        "conf": 0.745,
+        "detail": "Expected 2.01"
       }
     ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 6.1,
-      "direction": "out",
-      "adj": 0.08
+      "speed_mph": 7.0,
+      "direction": "cross",
+      "adj": 0.02
     },
     "away_pitch_detail": [
       {
@@ -220,13 +220,13 @@
       "w_hr_rate": 0.029,
       "confidence": 1.0
     },
-    "v2_pick": "BAL",
-    "v2_conf": 0.516,
-    "consensus": true,
-    "tier": "good",
-    "ou_consensus": true,
-    "v2_f5_total": 6.1
+    "v2_pick": null,
+    "v2_conf": null,
+    "consensus": null,
+    "ou_consensus": null,
+    "tier": "no_v2"
   },
   "locked_away_pitcher_id": 663567,
-  "locked_home_pitcher_id": 605135
+  "locked_home_pitcher_id": 605135,
+  "pitcher_changed_at_refresh": false
 }
