@@ -12,12 +12,12 @@
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "gavin williams",
       "pick": "TB",
-      "pick_prob": 0.719,
-      "expected_total": 3.3,
+      "pick_prob": 0.759,
+      "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-29T15:27:38.438269+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824608,
@@ -28,12 +28,12 @@
       "away_pitcher": "yusei kikuchi",
       "home_pitcher": "erick fedde",
       "pick": "LAA",
-      "pick_prob": 0.642,
-      "expected_total": 5.5,
+      "pick_prob": 0.666,
+      "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-29T15:27:39.348371+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823717,
@@ -44,12 +44,12 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "taj bradley",
       "pick": "SEA",
-      "pick_prob": 0.574,
-      "expected_total": 4.2,
+      "pick_prob": 0.619,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-29T15:27:40.226899+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822907,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-29T15:27:40.227528+00:00"
 }
