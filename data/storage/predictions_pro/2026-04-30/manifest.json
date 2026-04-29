@@ -168,7 +168,7 @@
       "tier": "no_v2",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T20:19:30.590626+00:00",
+      "last_refreshed_at": "2026-04-29T21:36:53.487414+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "brandon williamson",
       "pick": "CIN",
       "pick_prob": 0.683,
-      "expected_total": 5.6,
+      "expected_total": 5.7,
       "v2_pick": "CIN",
       "v2_conf": 0.543,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:19:33.801084+00:00",
+      "last_refreshed_at": "2026-04-29T21:36:56.097319+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "bubba chandler",
       "pick": "PIT",
       "pick_prob": 0.729,
-      "expected_total": 3.9,
+      "expected_total": 4.3,
       "v2_pick": "PIT",
       "v2_conf": 0.598,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:19:46.632845+00:00",
+      "last_refreshed_at": "2026-04-29T21:36:58.670120+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:19:59.239875+00:00",
+      "last_refreshed_at": "2026-04-29T21:37:11.135420+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,15 +244,15 @@
       "home_pitcher": "david peterson",
       "pick": "NYM",
       "pick_prob": 0.586,
-      "expected_total": 4.6,
+      "expected_total": 4.4,
       "v2_pick": "NYM",
       "v2_conf": 0.57,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:20:02.277852+00:00",
+      "last_refreshed_at": "2026-04-29T21:37:23.677987+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,15 +265,15 @@
       "home_pitcher": "JR Ritchie",
       "pick": "DET",
       "pick_prob": 0.752,
-      "expected_total": 4.0,
+      "expected_total": 3.7,
       "v2_pick": "DET",
-      "v2_conf": 0.597,
+      "v2_conf": 0.576,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T20:20:06.555208+00:00",
+      "last_refreshed_at": "2026-04-29T21:37:36.018582+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "brandon sproat",
       "pick": "AZ",
-      "pick_prob": 0.524,
-      "expected_total": 4.6,
+      "pick_prob": 0.553,
+      "expected_total": 4.5,
       "v2_pick": "MIL",
-      "v2_conf": 0.565,
+      "v2_conf": 0.562,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:30:53.123065+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T21:37:38.737964+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825015,
@@ -350,8 +350,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 5.6 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 5.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -372,6 +372,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824930,
+      "away_team": "DET",
+      "home_team": "ATL",
+      "away_pitcher": "tarik skubal",
+      "home_pitcher": "JR Ritchie",
+      "tier": "consensus",
+      "v2_pick": "DET",
+      "v2_conf": 0.576,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824608,
       "away_team": "LAA",
       "home_team": "CWS",
@@ -387,23 +404,6 @@
       "conf": 0.733,
       "detail": "Expected 5.2 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823392,
-      "away_team": "STL",
-      "home_team": "PIT",
-      "away_pitcher": "andre pallante",
-      "home_pitcher": "bubba chandler",
-      "tier": "sweet_spot",
-      "v2_pick": "PIT",
-      "v2_conf": 0.598,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 PIT",
-      "conf": 0.729,
-      "detail": "F5 PIT ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-29T20:20:06.555759+00:00"
+  "last_modified_at": "2026-04-29T21:37:38.738573+00:00"
 }
