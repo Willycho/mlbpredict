@@ -76,11 +76,11 @@
       "away_pitcher": "brayan bello",
       "home_pitcher": "eric lauer",
       "pick": "TOR",
-      "pick_prob": 0.642,
-      "expected_total": 3.9,
+      "pick_prob": 0.623,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T17:04:36.885452+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T18:47:18.802665+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T17:04:37.729532+00:00",
+      "last_refreshed_at": "2026-04-29T18:47:19.411395+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,12 +108,12 @@
       "away_pitcher": "jameson taillon",
       "home_pitcher": "matt waldron",
       "pick": "CHC",
-      "pick_prob": 0.775,
+      "pick_prob": 0.754,
       "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-29T14:26:22.485746+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-29T18:47:19.984765+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824850,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-29T17:04:37.730103+00:00"
+  "last_modified_at": "2026-04-29T18:47:19.985371+00:00"
 }
