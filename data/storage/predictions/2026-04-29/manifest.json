@@ -224,7 +224,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T23:37:35.672852+00:00",
+      "last_refreshed_at": "2026-04-29T01:24:17.400365+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "janson junk",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.834,
+      "pick_prob": 0.804,
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-28T23:37:36.578232+00:00",
+      "last_refreshed_at": "2026-04-29T01:24:18.016676+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-04-28T23:37:36.578835+00:00"
+  "last_modified_at": "2026-04-29T01:24:18.017235+00:00"
 }
