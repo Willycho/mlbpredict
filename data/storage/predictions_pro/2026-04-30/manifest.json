@@ -244,15 +244,15 @@
       "home_pitcher": "david peterson",
       "pick": "NYM",
       "pick_prob": 0.586,
-      "expected_total": 4.4,
+      "expected_total": 4.6,
       "v2_pick": "NYM",
       "v2_conf": 0.57,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T21:37:23.677987+00:00",
+      "last_refreshed_at": "2026-04-29T22:38:36.738363+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "JR Ritchie",
       "pick": "DET",
       "pick_prob": 0.752,
-      "expected_total": 3.7,
+      "expected_total": 4.0,
       "v2_pick": "DET",
       "v2_conf": 0.576,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T21:37:36.018582+00:00",
+      "last_refreshed_at": "2026-04-29T22:38:39.060581+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-29T21:37:38.737964+00:00",
+      "last_refreshed_at": "2026-04-29T22:38:41.408361+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -372,23 +372,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824930,
-      "away_team": "DET",
-      "home_team": "ATL",
-      "away_pitcher": "tarik skubal",
-      "home_pitcher": "JR Ritchie",
-      "tier": "consensus",
-      "v2_pick": "DET",
-      "v2_conf": 0.576,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824608,
       "away_team": "LAA",
       "home_team": "CWS",
@@ -404,6 +387,23 @@
       "conf": 0.733,
       "detail": "Expected 5.2 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823392,
+      "away_team": "STL",
+      "home_team": "PIT",
+      "away_pitcher": "andre pallante",
+      "home_pitcher": "bubba chandler",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.598,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 PIT",
+      "conf": 0.729,
+      "detail": "F5 PIT ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-04-29T21:37:38.738573+00:00"
+  "last_modified_at": "2026-04-29T22:38:41.408990+00:00"
 }
