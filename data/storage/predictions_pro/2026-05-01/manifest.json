@@ -180,17 +180,17 @@
       "away_pitcher": "kevin gausman",
       "home_pitcher": "bailey ober",
       "pick": "TOR",
-      "pick_prob": 0.644,
-      "expected_total": 4.2,
+      "pick_prob": 0.645,
+      "expected_total": 4.1,
       "v2_pick": "TOR",
-      "v2_conf": 0.587,
+      "v2_conf": 0.59,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T21:14:13.741178+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824850,
@@ -328,5 +328,5 @@
     "sweet_spot_count": 3,
     "total_games": 11
   },
-  "last_modified_at": "2026-04-30T18:44:36.573702+00:00"
+  "last_modified_at": "2026-04-30T21:14:13.741732+00:00"
 }
