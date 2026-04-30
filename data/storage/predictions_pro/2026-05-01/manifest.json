@@ -21,8 +21,8 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:43:17.263502+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824848,
@@ -30,20 +30,20 @@
       "home_team": "BAL",
       "game_time_kst": "01:35",
       "game_date_kst": "2026-05-01",
-      "away_pitcher": "lance mccullers",
+      "away_pitcher": "peter lambert",
       "home_pitcher": "chris bassitt",
       "pick": "BAL",
-      "pick_prob": 0.726,
-      "expected_total": 4.8,
-      "v2_pick": "BAL",
-      "v2_conf": 0.515,
-      "consensus": true,
+      "pick_prob": 0.686,
+      "expected_total": 4.6,
+      "v2_pick": "HOU",
+      "v2_conf": 0.524,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:43:20.583013+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823391,
@@ -55,7 +55,7 @@
       "home_pitcher": "paul skenes",
       "pick": "PIT",
       "pick_prob": 0.761,
-      "expected_total": 3.9,
+      "expected_total": 3.6,
       "v2_pick": "PIT",
       "v2_conf": 0.627,
       "consensus": true,
@@ -63,8 +63,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:43:33.174768+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823472,
@@ -76,7 +76,7 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.764,
-      "expected_total": 3.0,
+      "expected_total": 2.9,
       "v2_pick": "PHI",
       "v2_conf": 0.548,
       "consensus": true,
@@ -84,8 +84,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:43:36.095930+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824524,
@@ -97,7 +97,7 @@
       "home_pitcher": "andrew abbott",
       "pick": "CIN",
       "pick_prob": 0.637,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "v2_pick": "CIN",
       "v2_conf": 0.591,
       "consensus": true,
@@ -105,8 +105,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:43:38.738713+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823634,
@@ -117,17 +117,17 @@
       "away_pitcher": "miles mikolas",
       "home_pitcher": "freddy peralta",
       "pick": "NYM",
-      "pick_prob": 0.847,
+      "pick_prob": 0.834,
       "expected_total": 3.9,
       "v2_pick": "NYM",
-      "v2_conf": 0.604,
+      "v2_conf": 0.592,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:43:41.453560+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823795,
@@ -138,17 +138,17 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.717,
-      "expected_total": 3.5,
+      "pick_prob": 0.728,
+      "expected_total": 3.7,
       "v2_pick": "MIL",
-      "v2_conf": 0.554,
+      "v2_conf": 0.521,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:23:29.120551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:43:53.924127+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825016,
@@ -237,40 +237,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 824848,
-      "away_team": "HOU",
-      "home_team": "BAL",
-      "away_pitcher": "lance mccullers",
-      "home_pitcher": "chris bassitt",
-      "tier": "sweet_spot",
-      "v2_pick": "BAL",
-      "v2_conf": 0.515,
-      "lineup": "partial",
-      "n_batters": "22+9",
-      "type": "ML",
-      "pick": "F5 BAL",
-      "conf": 0.726,
-      "detail": "F5 BAL ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 823795,
-      "away_team": "AZ",
-      "home_team": "MIL",
-      "away_pitcher": "michael soroka",
-      "home_pitcher": "brandon woodruff",
-      "tier": "sweet_spot",
-      "v2_pick": "MIL",
-      "v2_conf": 0.554,
-      "lineup": "roster",
-      "n_batters": "17+21",
-      "type": "ML",
-      "pick": "F5 MIL",
-      "conf": 0.717,
-      "detail": "F5 MIL ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 823391,
       "away_team": "STL",
       "home_team": "PIT",
@@ -283,9 +249,43 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823795,
+      "away_team": "AZ",
+      "home_team": "MIL",
+      "away_pitcher": "michael soroka",
+      "home_pitcher": "brandon woodruff",
+      "tier": "sweet_spot",
+      "v2_pick": "MIL",
+      "v2_conf": 0.521,
+      "lineup": "partial",
+      "n_batters": "9+21",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823795,
+      "away_team": "AZ",
+      "home_team": "MIL",
+      "away_pitcher": "michael soroka",
+      "home_pitcher": "brandon woodruff",
+      "tier": "sweet_spot",
+      "v2_pick": "MIL",
+      "v2_conf": 0.521,
+      "lineup": "partial",
+      "n_batters": "9+21",
+      "type": "ML",
+      "pick": "F5 MIL",
+      "conf": 0.728,
+      "detail": "F5 MIL ML",
+      "ml_consensus": true
     },
     {
       "game_id": 824929,
@@ -327,5 +327,6 @@
     "ou_consensus_count": 5,
     "sweet_spot_count": 3,
     "total_games": 11
-  }
+  },
+  "last_modified_at": "2026-04-30T15:43:53.924754+00:00"
 }
