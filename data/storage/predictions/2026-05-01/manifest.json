@@ -128,7 +128,7 @@
       "expected_total": 3.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T15:22:41.736713+00:00",
+      "last_refreshed_at": "2026-04-30T16:56:11.109887+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.728,
-      "expected_total": 3.6,
+      "pick_prob": 0.705,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T15:22:42.386158+00:00",
+      "last_refreshed_at": "2026-04-30T16:56:11.751334+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -155,13 +155,13 @@
       "game_date_kst": "2026-05-01",
       "away_pitcher": "noah cameron",
       "home_pitcher": "jeffrey springs",
-      "pick": "ATH",
-      "pick_prob": 0.529,
-      "expected_total": 4.5,
+      "pick": "KC",
+      "pick_prob": 0.52,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T16:56:12.367323+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823714,
@@ -180,5 +180,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-04-30T15:22:42.386762+00:00"
+  "last_modified_at": "2026-04-30T16:56:12.367876+00:00"
 }
