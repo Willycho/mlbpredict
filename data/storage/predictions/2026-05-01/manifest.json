@@ -48,8 +48,8 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:22:37.992536+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824848,
@@ -57,15 +57,15 @@
       "home_team": "BAL",
       "game_time_kst": "01:35",
       "game_date_kst": "2026-05-01",
-      "away_pitcher": "lance mccullers",
+      "away_pitcher": "peter lambert",
       "home_pitcher": "chris bassitt",
       "pick": "BAL",
-      "pick_prob": 0.726,
-      "expected_total": 4.8,
+      "pick_prob": 0.686,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:22:39.287705+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823391,
@@ -77,11 +77,11 @@
       "home_pitcher": "paul skenes",
       "pick": "PIT",
       "pick_prob": 0.761,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:22:39.869602+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823472,
@@ -93,11 +93,11 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.764,
-      "expected_total": 3.0,
+      "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:22:40.464066+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824524,
@@ -112,8 +112,8 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-04-30T15:22:41.091943+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823634,
@@ -124,12 +124,12 @@
       "away_pitcher": "miles mikolas",
       "home_pitcher": "freddy peralta",
       "pick": "NYM",
-      "pick_prob": 0.847,
+      "pick_prob": 0.834,
       "expected_total": 3.9,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:22:41.736713+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823795,
@@ -140,12 +140,12 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "brandon woodruff",
       "pick": "MIL",
-      "pick_prob": 0.717,
-      "expected_total": 3.5,
+      "pick_prob": 0.728,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-04-30T15:22:42.386158+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825016,
@@ -179,5 +179,6 @@
       "last_refreshed_at": "2026-04-30T14:20:51.111760+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-04-30T15:22:42.386762+00:00"
 }
