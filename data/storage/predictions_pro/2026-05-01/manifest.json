@@ -160,7 +160,7 @@
       "home_pitcher": "jeffrey springs",
       "pick": "KC",
       "pick_prob": 0.52,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "v2_pick": "KC",
       "v2_conf": 0.541,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-04-30T17:06:14.329529+00:00",
+      "last_refreshed_at": "2026-04-30T18:44:36.573143+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -328,5 +328,5 @@
     "sweet_spot_count": 3,
     "total_games": 11
   },
-  "last_modified_at": "2026-04-30T17:06:14.330052+00:00"
+  "last_modified_at": "2026-04-30T18:44:36.573702+00:00"
 }
