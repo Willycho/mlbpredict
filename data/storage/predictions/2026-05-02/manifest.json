@@ -44,12 +44,12 @@
       "away_pitcher": "zac gallen",
       "home_pitcher": "colin rea",
       "pick": "CHC",
-      "pick_prob": 0.584,
+      "pick_prob": 0.595,
       "expected_total": 4.3,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T16:31:01.905894+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824287,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-01T16:31:01.906526+00:00"
 }
