@@ -33,17 +33,17 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "jack flaherty",
       "pick": "DET",
-      "pick_prob": 0.61,
-      "expected_total": 4.0,
+      "pick_prob": 0.641,
+      "expected_total": 3.9,
       "v2_pick": "DET",
-      "v2_conf": 0.508,
+      "v2_conf": 0.505,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T20:02:21.962612+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823389,
@@ -53,18 +53,18 @@
       "game_date_kst": "2026-05-02",
       "away_pitcher": "brady singer",
       "home_pitcher": "mitch keller",
-      "pick": "CIN",
-      "pick_prob": 0.519,
-      "expected_total": 4.5,
+      "pick": "PIT",
+      "pick_prob": 0.545,
+      "expected_total": 4.8,
       "v2_pick": "PIT",
-      "v2_conf": 0.52,
-      "consensus": false,
-      "ou_consensus": true,
-      "tier": "disagree",
+      "v2_conf": 0.514,
+      "consensus": true,
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T20:02:25.444672+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822744,
@@ -75,17 +75,17 @@
       "away_pitcher": "jacob misiorowski",
       "home_pitcher": "jake irvin",
       "pick": "MIL",
-      "pick_prob": 0.799,
-      "expected_total": 5.0,
+      "pick_prob": 0.786,
+      "expected_total": 4.6,
       "v2_pick": "MIL",
-      "v2_conf": 0.598,
+      "v2_conf": 0.597,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T20:02:38.573054+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822990,
@@ -372,23 +372,6 @@
       "ml_consensus": true
     },
     {
-      "game_id": 822744,
-      "away_team": "MIL",
-      "home_team": "WSH",
-      "away_pitcher": "jacob misiorowski",
-      "home_pitcher": "jake irvin",
-      "tier": "consensus",
-      "v2_pick": "MIL",
-      "v2_conf": 0.598,
-      "lineup": "roster",
-      "n_batters": "19+17",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823146,
       "away_team": "KC",
       "home_team": "SEA",
@@ -412,5 +395,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-01T17:40:31.919240+00:00"
+  "last_modified_at": "2026-05-01T20:02:38.573621+00:00"
 }
