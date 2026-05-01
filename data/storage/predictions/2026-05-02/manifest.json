@@ -60,12 +60,12 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "jack flaherty",
       "pick": "DET",
-      "pick_prob": 0.61,
-      "expected_total": 4.0,
+      "pick_prob": 0.641,
+      "expected_total": 3.8,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T21:07:38.586739+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823389,
@@ -75,13 +75,13 @@
       "game_date_kst": "2026-05-02",
       "away_pitcher": "brady singer",
       "home_pitcher": "mitch keller",
-      "pick": "CIN",
-      "pick_prob": 0.519,
-      "expected_total": 4.5,
+      "pick": "PIT",
+      "pick_prob": 0.545,
+      "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T21:07:39.244057+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822744,
@@ -92,12 +92,12 @@
       "away_pitcher": "jacob misiorowski",
       "home_pitcher": "jake irvin",
       "pick": "MIL",
-      "pick_prob": 0.799,
-      "expected_total": 5.0,
+      "pick_prob": 0.786,
+      "expected_total": 4.9,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T21:07:39.890500+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822990,
@@ -107,13 +107,13 @@
       "game_date_kst": "2026-05-02",
       "away_pitcher": "robbie ray",
       "home_pitcher": "shane mcclanahan",
-      "pick": "TB",
+      "pick": "SF",
       "pick_prob": 0.507,
       "expected_total": 3.4,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T21:07:40.159233+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823877,
@@ -124,12 +124,12 @@
       "away_pitcher": "zack wheeler",
       "home_pitcher": "eury pérez",
       "pick": "PHI",
-      "pick_prob": 0.648,
-      "expected_total": 2.3,
+      "pick_prob": 0.61,
+      "expected_total": 2.4,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:48:45.221058+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T21:07:40.807829+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823713,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-01T16:31:01.906526+00:00"
+  "last_modified_at": "2026-05-01T21:07:40.808445+00:00"
 }
