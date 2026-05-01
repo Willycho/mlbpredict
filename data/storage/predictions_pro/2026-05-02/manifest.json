@@ -34,7 +34,7 @@
       "home_pitcher": "jack flaherty",
       "pick": "DET",
       "pick_prob": 0.641,
-      "expected_total": 3.8,
+      "expected_total": 3.7,
       "v2_pick": "DET",
       "v2_conf": 0.505,
       "consensus": true,
@@ -42,7 +42,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T21:05:58.906970+00:00",
+      "last_refreshed_at": "2026-05-01T22:04:43.593230+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "mitch keller",
       "pick": "PIT",
       "pick_prob": 0.545,
-      "expected_total": 4.2,
+      "expected_total": 4.4,
       "v2_pick": "PIT",
       "v2_conf": 0.514,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T21:06:01.897080+00:00",
+      "last_refreshed_at": "2026-05-01T22:04:46.629763+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "jake irvin",
       "pick": "MIL",
       "pick_prob": 0.786,
-      "expected_total": 4.9,
+      "expected_total": 4.6,
       "v2_pick": "MIL",
       "v2_conf": 0.597,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T21:06:04.911972+00:00",
+      "last_refreshed_at": "2026-05-01T22:04:59.533978+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T21:06:07.437113+00:00",
+      "last_refreshed_at": "2026-05-01T22:05:02.156533+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T21:06:20.011596+00:00",
+      "last_refreshed_at": "2026-05-01T22:05:15.084544+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "patrick corbin",
       "home_pitcher": "simeon woods richardson",
       "pick": "TOR",
-      "pick_prob": 0.541,
-      "expected_total": 4.7,
+      "pick_prob": 0.546,
+      "expected_total": 4.6,
       "v2_pick": "TOR",
-      "v2_conf": 0.533,
+      "v2_conf": 0.521,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T22:05:18.095476+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823066,
@@ -159,17 +159,17 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "matthew liberatore",
       "pick": "LAD",
-      "pick_prob": 0.772,
+      "pick_prob": 0.81,
       "expected_total": 4.0,
       "v2_pick": "LAD",
-      "v2_conf": 0.582,
+      "v2_conf": 0.611,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T22:05:21.240227+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824366,
@@ -180,17 +180,17 @@
       "away_pitcher": "grant holmes",
       "home_pitcher": "jose quintana",
       "pick": "ATL",
-      "pick_prob": 0.696,
-      "expected_total": 5.2,
+      "pick_prob": 0.634,
+      "expected_total": 5.5,
       "v2_pick": "ATL",
       "v2_conf": 0.542,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": 5.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-01T13:54:55.241205+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-01T22:05:34.062465+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824041,
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824366,
-      "away_team": "ATL",
-      "home_team": "COL",
-      "away_pitcher": "grant holmes",
-      "home_pitcher": "jose quintana",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.542,
-      "lineup": "roster",
-      "n_batters": "22+18",
-      "type": "ML",
-      "pick": "F5 ATL",
-      "conf": 0.696,
-      "detail": "F5 ATL ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 823146,
       "away_team": "KC",
       "home_team": "SEA",
@@ -387,23 +370,6 @@
       "conf": 0.667,
       "detail": "Expected 3.0 vs line 3.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 822744,
-      "away_team": "MIL",
-      "home_team": "WSH",
-      "away_pitcher": "jacob misiorowski",
-      "home_pitcher": "jake irvin",
-      "tier": "consensus",
-      "v2_pick": "MIL",
-      "v2_conf": 0.597,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +378,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-01T21:06:20.012207+00:00"
+  "last_modified_at": "2026-05-01T22:05:34.062962+00:00"
 }
