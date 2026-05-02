@@ -21,8 +21,8 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:48:25.762049+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-02T14:39:17.371644+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823715,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 1,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-02T14:39:17.372180+00:00"
 }
