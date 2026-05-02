@@ -139,15 +139,15 @@
       "home_pitcher": "simeon woods richardson",
       "pick": "TOR",
       "pick_prob": 0.546,
-      "expected_total": 4.6,
+      "expected_total": 4.5,
       "v2_pick": "TOR",
       "v2_conf": 0.521,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:05:54.516662+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:18.279113+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:05:58.826810+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:21.977515+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "good",
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:06:12.210332+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:35.120307+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:06:25.681943+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:48.152643+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
       "pick_prob": 0.642,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "CLE",
       "v2_conf": 0.557,
       "consensus": false,
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:06:29.631356+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:51.759947+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "germán márquez",
       "pick": "CWS",
       "pick_prob": 0.692,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "v2_pick": "SD",
       "v2_conf": 0.502,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:06:33.221785+00:00",
+      "last_refreshed_at": "2026-05-02T00:04:55.297969+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-01T23:06:46.771235+00:00",
+      "last_refreshed_at": "2026-05-02T00:05:08.682619+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -370,23 +370,6 @@
       "conf": 0.667,
       "detail": "Expected 3.0 vs line 3.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823309,
-      "away_team": "CWS",
-      "home_team": "SD",
-      "away_pitcher": "Noah Schultz",
-      "home_pitcher": "germán márquez",
-      "tier": "disagree",
-      "v2_pick": "SD",
-      "v2_conf": 0.502,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -395,5 +378,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-01T23:06:46.771866+00:00"
+  "last_modified_at": "2026-05-02T00:05:08.683167+00:00"
 }
