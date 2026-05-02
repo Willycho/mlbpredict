@@ -160,7 +160,7 @@
       "expected_total": 3.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:07:24.163140+00:00",
+      "last_refreshed_at": "2026-05-02T21:58:25.345662+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:07:24.898461+00:00",
+      "last_refreshed_at": "2026-05-02T21:58:26.260369+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 5.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:07:25.631567+00:00",
+      "last_refreshed_at": "2026-05-02T21:58:27.119526+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "sean burke",
       "home_pitcher": "mike king",
       "pick": "SD",
-      "pick_prob": 0.648,
-      "expected_total": 3.8,
+      "pick_prob": 0.695,
+      "expected_total": 3.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T21:58:27.907312+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824042,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-02T21:07:25.632121+00:00"
+  "last_modified_at": "2026-05-02T21:58:27.944758+00:00"
 }
