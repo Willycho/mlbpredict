@@ -28,12 +28,12 @@
       "away_pitcher": "kyle bradish",
       "home_pitcher": "ryan weathers",
       "pick": "BAL",
-      "pick_prob": 0.628,
+      "pick_prob": 0.6,
       "expected_total": 3.6,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T15:31:55.898343+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823715,
@@ -44,12 +44,12 @@
       "away_pitcher": "dylan cease",
       "home_pitcher": "Connor Prielipp",
       "pick": "TOR",
-      "pick_prob": 0.669,
-      "expected_total": 4.0,
+      "pick_prob": 0.645,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T15:31:56.522952+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824685,
@@ -60,12 +60,12 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "shota imanaga",
       "pick": "AZ",
-      "pick_prob": 0.514,
-      "expected_total": 4.2,
+      "pick_prob": 0.551,
+      "expected_total": 4.4,
       "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-02T15:31:57.181519+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825014,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-02T15:31:57.182149+00:00"
 }
