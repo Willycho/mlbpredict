@@ -12,16 +12,16 @@
       "away_pitcher": "kyle bradish",
       "home_pitcher": "ryan weathers",
       "pick": "BAL",
-      "pick_prob": 0.6,
+      "pick_prob": 0.663,
       "expected_total": 3.6,
-      "v2_pick": "BAL",
-      "v2_conf": 0.516,
-      "consensus": true,
+      "v2_pick": "NYY",
+      "v2_conf": 0.509,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T15:35:12.677644+00:00",
+      "last_refreshed_at": "2026-05-02T16:29:55.190981+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T15:35:15.597654+00:00",
+      "last_refreshed_at": "2026-05-02T16:29:58.429933+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,16 +54,16 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "shota imanaga",
       "pick": "AZ",
-      "pick_prob": 0.551,
+      "pick_prob": 0.537,
       "expected_total": 4.1,
       "v2_pick": "CHC",
-      "v2_conf": 0.539,
+      "v2_conf": 0.509,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T15:35:28.217229+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T16:30:11.417750+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824685,
+      "away_team": "AZ",
+      "home_team": "CHC",
+      "away_pitcher": "ryne nelson",
+      "home_pitcher": "shota imanaga",
+      "tier": "disagree",
+      "v2_pick": "CHC",
+      "v2_conf": 0.509,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 3.5",
+      "conf": 0.7,
+      "detail": "Expected 4.1 vs line 3.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823308,
       "away_team": "CWS",
       "home_team": "SD",
@@ -395,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-02T15:35:28.217798+00:00"
+  "last_modified_at": "2026-05-02T16:30:11.418367+00:00"
 }
