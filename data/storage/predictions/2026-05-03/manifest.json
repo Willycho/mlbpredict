@@ -80,7 +80,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:30:54.834853+00:00",
+      "last_refreshed_at": "2026-05-02T18:35:09.007260+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "carmen mlodzinski",
       "pick": "PIT",
       "pick_prob": 0.651,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:30:55.679017+00:00",
+      "last_refreshed_at": "2026-05-02T18:35:09.662752+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,11 +108,11 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "Foster Griffin",
       "pick": "MIL",
-      "pick_prob": 0.572,
-      "expected_total": 4.3,
+      "pick_prob": 0.549,
+      "expected_total": 4.2,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T17:30:56.505392+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T18:35:10.301463+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.0,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:30:57.392280+00:00",
+      "last_refreshed_at": "2026-05-02T18:35:10.953730+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:30:58.168676+00:00",
+      "last_refreshed_at": "2026-05-02T18:35:11.556215+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-02T17:30:58.169179+00:00"
+  "last_modified_at": "2026-05-02T18:35:11.556751+00:00"
 }
