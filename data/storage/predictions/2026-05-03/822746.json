@@ -2,8 +2,8 @@
   "game_id": 822746,
   "kst_date": "2026-05-03",
   "bulk_fetched_at": "2026-05-02T13:41:34.345471+00:00",
-  "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-02T17:30:56.505392+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": 3.5,
   "prediction": {
     "game_id": 822746,
@@ -46,8 +46,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 17
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "effective_away": 60.2,
     "effective_home": 53.8,
@@ -55,51 +55,43 @@
     "win_prob_home": 0.428,
     "pick": "MIL",
     "pick_prob": 0.572,
-    "expected_total": 4.2,
+    "expected_total": 4.3,
     "away_team_total": {
-      "expected": 2.16,
+      "expected": 2.21,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.34
+      "gap": 0.29
     },
     "home_team_total": {
-      "expected": 2.04,
+      "expected": 2.09,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.46
+      "gap": 0.41
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "19+17",
+        "lineup": "partial",
+        "n_batters": "19+9",
         "type": "OU",
         "pick": "F5 OVER 3.5",
-        "conf": 0.733,
-        "detail": "Expected 4.2 vs line 3.5"
+        "conf": 0.767,
+        "detail": "Expected 4.3 vs line 3.5"
       },
       {
-        "lineup": "roster",
-        "n_batters": "19+17",
+        "lineup": "partial",
+        "n_batters": "19+9",
         "type": "TT",
         "pick": "WSH UNDER 2.5",
-        "conf": 0.73,
-        "detail": "Expected 2.04"
-      },
-      {
-        "lineup": "roster",
-        "n_batters": "19+17",
-        "type": "TT",
-        "pick": "MIL UNDER 2.5",
-        "conf": 0.67,
-        "detail": "Expected 2.16"
+        "conf": 0.705,
+        "detail": "Expected 2.09"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 9.1,
-      "direction": "in",
-      "adj": -0.14
+      "speed_mph": 10.1,
+      "direction": "cross",
+      "adj": -0.09
     },
     "away_pitch_detail": [
       {
@@ -157,5 +149,6 @@
     }
   },
   "locked_away_pitcher_id": 690986,
-  "locked_home_pitcher_id": 656492
+  "locked_home_pitcher_id": 656492,
+  "pitcher_changed_at_refresh": false
 }
