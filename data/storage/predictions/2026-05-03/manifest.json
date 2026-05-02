@@ -160,7 +160,7 @@
       "expected_total": 3.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T19:42:44.939244+00:00",
+      "last_refreshed_at": "2026-05-02T20:25:15.209177+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "michael mcgreevy",
       "pick": "LAD",
-      "pick_prob": 0.518,
-      "expected_total": 4.9,
+      "pick_prob": 0.584,
+      "expected_total": 4.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T20:25:15.855403+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824284,
@@ -188,12 +188,12 @@
       "away_pitcher": "kumar rocker",
       "home_pitcher": "keider montero",
       "pick": "DET",
-      "pick_prob": 0.589,
-      "expected_total": 5.3,
+      "pick_prob": 0.609,
+      "expected_total": 5.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T20:25:16.517702+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823308,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-02T19:42:44.939869+00:00"
+  "last_modified_at": "2026-05-02T20:25:16.518262+00:00"
 }
