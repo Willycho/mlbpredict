@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:29:17.476055+00:00",
+      "last_refreshed_at": "2026-05-02T18:33:21.706248+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "carmen mlodzinski",
       "pick": "PIT",
       "pick_prob": 0.651,
-      "expected_total": 4.1,
+      "expected_total": 4.3,
       "v2_pick": "CIN",
       "v2_conf": 0.527,
       "consensus": false,
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:29:29.731444+00:00",
+      "last_refreshed_at": "2026-05-02T18:33:25.484231+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T17:29:41.949751+00:00",
+      "last_refreshed_at": "2026-05-02T18:33:38.791998+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:29:54.268022+00:00",
+      "last_refreshed_at": "2026-05-02T18:33:52.059667+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T17:29:56.835806+00:00",
+      "last_refreshed_at": "2026-05-02T18:33:55.744511+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -372,23 +372,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823388,
-      "away_team": "CIN",
-      "home_team": "PIT",
-      "away_pitcher": "rhett lowder",
-      "home_pitcher": "carmen mlodzinski",
-      "tier": "disagree",
-      "v2_pick": "CIN",
-      "v2_conf": 0.527,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.1 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823067,
       "away_team": "LAD",
       "home_team": "STL",
@@ -404,6 +387,23 @@
       "conf": 0.633,
       "detail": "Expected 4.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824284,
+      "away_team": "TEX",
+      "home_team": "DET",
+      "away_pitcher": "kumar rocker",
+      "home_pitcher": "keider montero",
+      "tier": "disagree",
+      "v2_pick": "TEX",
+      "v2_conf": 0.516,
+      "lineup": "roster",
+      "n_batters": "17+16",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-02T17:29:56.836352+00:00"
+  "last_modified_at": "2026-05-02T18:33:55.744956+00:00"
 }
