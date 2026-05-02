@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T22:21:50.727201+00:00",
+      "last_refreshed_at": "2026-05-02T23:09:20.382256+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T22:21:53.561310+00:00",
+      "last_refreshed_at": "2026-05-02T23:09:23.404323+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "mike king",
       "pick": "SD",
       "pick_prob": 0.695,
-      "expected_total": 3.7,
+      "expected_total": 3.9,
       "v2_pick": "SD",
       "v2_conf": 0.558,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T22:21:56.467898+00:00",
+      "last_refreshed_at": "2026-05-02T23:09:36.318170+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -267,14 +267,14 @@
       "pick_prob": 0.589,
       "expected_total": 3.2,
       "v2_pick": "NYM",
-      "v2_conf": 0.586,
+      "v2_conf": 0.569,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:48:25.762049+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T23:09:49.242696+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823144,
@@ -284,18 +284,18 @@
       "game_date_kst": "2026-05-03",
       "away_pitcher": "seth lugo",
       "home_pitcher": "emerson hancock",
-      "pick": "KC",
-      "pick_prob": 0.503,
-      "expected_total": 4.8,
-      "v2_pick": "KC",
-      "v2_conf": 0.502,
+      "pick": "SEA",
+      "pick_prob": 0.501,
+      "expected_total": 4.5,
+      "v2_pick": "SEA",
+      "v2_conf": 0.507,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:48:25.762049+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T23:09:52.276873+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824365,
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823308,
-      "away_team": "CWS",
-      "home_team": "SD",
-      "away_pitcher": "sean burke",
-      "home_pitcher": "mike king",
-      "tier": "sweet_spot",
-      "v2_pick": "SD",
-      "v2_conf": 0.558,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824284,
       "away_team": "TEX",
       "home_team": "DET",
@@ -399,6 +382,23 @@
       "v2_conf": 0.558,
       "lineup": "confirmed",
       "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 3.9 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823308,
+      "away_team": "CWS",
+      "home_team": "SD",
+      "away_pitcher": "sean burke",
+      "home_pitcher": "mike king",
+      "tier": "sweet_spot",
+      "v2_pick": "SD",
+      "v2_conf": 0.558,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 SD",
       "conf": 0.695,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-02T22:21:56.468447+00:00"
+  "last_modified_at": "2026-05-02T23:09:52.277477+00:00"
 }
