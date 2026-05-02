@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:28:01.047713+00:00",
+      "last_refreshed_at": "2026-05-02T21:23:44.361733+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "michael mcgreevy",
       "pick": "LAD",
       "pick_prob": 0.584,
-      "expected_total": 4.7,
+      "expected_total": 4.8,
       "v2_pick": "LAD",
       "v2_conf": 0.511,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:28:04.429291+00:00",
+      "last_refreshed_at": "2026-05-02T21:23:47.487065+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:28:07.820600+00:00",
+      "last_refreshed_at": "2026-05-02T21:23:50.774377+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-02T20:28:07.821229+00:00"
+  "last_modified_at": "2026-05-02T21:23:50.774966+00:00"
 }
