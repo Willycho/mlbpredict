@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T19:40:58.159859+00:00",
+      "last_refreshed_at": "2026-05-02T20:28:01.047713+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "michael mcgreevy",
       "pick": "LAD",
-      "pick_prob": 0.518,
-      "expected_total": 4.9,
+      "pick_prob": 0.584,
+      "expected_total": 4.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.507,
+      "v2_conf": 0.511,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:48:25.762049+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T20:28:04.429291+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824284,
@@ -222,17 +222,17 @@
       "away_pitcher": "kumar rocker",
       "home_pitcher": "keider montero",
       "pick": "DET",
-      "pick_prob": 0.589,
-      "expected_total": 4.9,
+      "pick_prob": 0.609,
+      "expected_total": 5.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.516,
+      "v2_conf": 0.542,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:48:25.762049+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T20:28:07.820600+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823308,
@@ -355,6 +355,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824284,
+      "away_team": "TEX",
+      "home_team": "DET",
+      "away_pitcher": "kumar rocker",
+      "home_pitcher": "keider montero",
+      "tier": "disagree",
+      "v2_pick": "TEX",
+      "v2_conf": 0.542,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 5.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823308,
       "away_team": "CWS",
       "home_team": "SD",
@@ -387,23 +404,6 @@
       "conf": 0.651,
       "detail": "F5 TB ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823067,
-      "away_team": "LAD",
-      "home_team": "STL",
-      "away_pitcher": "roki sasaki",
-      "home_pitcher": "michael mcgreevy",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.507,
-      "lineup": "roster",
-      "n_batters": "15+14",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-02T19:40:58.160431+00:00"
+  "last_modified_at": "2026-05-02T20:28:07.821229+00:00"
 }
