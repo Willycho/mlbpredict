@@ -160,7 +160,7 @@
       "expected_total": 3.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:25:15.209177+00:00",
+      "last_refreshed_at": "2026-05-02T21:07:24.163140+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "michael mcgreevy",
       "pick": "LAD",
       "pick_prob": 0.584,
-      "expected_total": 4.7,
+      "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:25:15.855403+00:00",
+      "last_refreshed_at": "2026-05-02T21:07:24.898461+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 5.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T20:25:16.517702+00:00",
+      "last_refreshed_at": "2026-05-02T21:07:25.631567+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-02T20:25:16.518262+00:00"
+  "last_modified_at": "2026-05-02T21:07:25.632121+00:00"
 }
