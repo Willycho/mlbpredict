@@ -176,7 +176,7 @@
       "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:58:26.260369+00:00",
+      "last_refreshed_at": "2026-05-02T22:50:55.824958+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 5.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:58:27.119526+00:00",
+      "last_refreshed_at": "2026-05-02T22:50:56.400837+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 3.7,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T21:58:27.907312+00:00",
+      "last_refreshed_at": "2026-05-02T22:50:56.997370+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,11 +221,11 @@
       "home_pitcher": "reid detmers",
       "pick": "NYM",
       "pick_prob": 0.589,
-      "expected_total": 3.2,
+      "expected_total": 3.5,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T22:50:57.563990+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823144,
@@ -235,14 +235,14 @@
       "game_date_kst": "2026-05-03",
       "away_pitcher": "seth lugo",
       "home_pitcher": "emerson hancock",
-      "pick": "KC",
-      "pick_prob": 0.503,
-      "expected_total": 4.8,
+      "pick": "SEA",
+      "pick_prob": 0.501,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-02T13:41:34.345471+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-02T22:50:58.133386+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-02T21:58:27.944758+00:00"
+  "last_modified_at": "2026-05-02T22:50:58.134074+00:00"
 }
