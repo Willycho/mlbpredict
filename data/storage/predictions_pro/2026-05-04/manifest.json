@@ -12,17 +12,17 @@
       "away_pitcher": "trey yesavage",
       "home_pitcher": "joe ryan",
       "pick": "MIN",
-      "pick_prob": 0.57,
+      "pick_prob": 0.596,
       "expected_total": 3.8,
       "v2_pick": "TOR",
-      "v2_conf": 0.554,
+      "v2_conf": 0.532,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T14:39:22.208681+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824769,
@@ -33,17 +33,17 @@
       "away_pitcher": "cody bolton",
       "home_pitcher": "ranger suárez",
       "pick": "BOS",
-      "pick_prob": 0.803,
-      "expected_total": 5.0,
+      "pick_prob": 0.793,
+      "expected_total": 4.9,
       "v2_pick": "BOS",
-      "v2_conf": 0.569,
+      "v2_conf": 0.572,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T14:39:24.931634+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823387,
@@ -63,8 +63,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-03T14:39:27.722383+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823555,
@@ -76,16 +76,16 @@
       "home_pitcher": "max fried",
       "pick": "NYY",
       "pick_prob": 0.707,
-      "expected_total": 4.6,
+      "expected_total": 4.1,
       "v2_pick": "NYY",
       "v2_conf": 0.59,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-03T14:39:39.937724+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822987,
@@ -389,21 +389,21 @@
       "ml_consensus": true
     },
     {
-      "game_id": 824364,
-      "away_team": "ATL",
-      "home_team": "COL",
-      "away_pitcher": "spencer strider",
-      "home_pitcher": "kyle freeland",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.57,
-      "lineup": "roster",
-      "n_batters": "22+18",
-      "type": "ML",
-      "pick": "F5 ATL",
-      "conf": 0.724,
-      "detail": "F5 ATL ML",
-      "ml_consensus": true
+      "game_id": 823711,
+      "away_team": "TOR",
+      "home_team": "MIN",
+      "away_pitcher": "trey yesavage",
+      "home_pitcher": "joe ryan",
+      "tier": "disagree",
+      "v2_pick": "TOR",
+      "v2_conf": 0.532,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 10,
     "sweet_spot_count": 4,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-03T14:39:39.938235+00:00"
 }
