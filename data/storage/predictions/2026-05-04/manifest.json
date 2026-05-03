@@ -128,7 +128,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:07:41.470296+00:00",
+      "last_refreshed_at": "2026-05-03T18:03:26.550508+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:07:42.371116+00:00",
+      "last_refreshed_at": "2026-05-03T18:03:27.152789+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "kyle freeland",
       "pick": "ATL",
       "pick_prob": 0.684,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:07:43.238311+00:00",
+      "last_refreshed_at": "2026-05-03T18:03:27.777228+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,11 +172,11 @@
       "away_pitcher": "parker messick",
       "home_pitcher": "aaron civale",
       "pick": "CLE",
-      "pick_prob": 0.506,
-      "expected_total": 4.2,
+      "pick_prob": 0.557,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:07:44.150780+00:00",
+      "last_refreshed_at": "2026-05-03T18:03:28.411847+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,11 +188,11 @@
       "away_pitcher": "clay holmes",
       "home_pitcher": "jack kochanowicz",
       "pick": "NYM",
-      "pick_prob": 0.763,
-      "expected_total": 5.1,
+      "pick_prob": 0.746,
+      "expected_total": 5.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T17:07:54.576133+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T18:03:29.039244+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -203,13 +203,13 @@
       "game_date_kst": "2026-05-04",
       "away_pitcher": "kris bubic",
       "home_pitcher": "luis castillo",
-      "pick": "SEA",
-      "pick_prob": 0.501,
-      "expected_total": 3.2,
+      "pick": "KC",
+      "pick_prob": 0.52,
+      "expected_total": 3.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T18:03:29.674639+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823307,
@@ -220,12 +220,12 @@
       "away_pitcher": "anthony kay",
       "home_pitcher": "griffin canning",
       "pick": "SD",
-      "pick_prob": 0.752,
-      "expected_total": 5.1,
+      "pick_prob": 0.763,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T18:03:30.265177+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824285,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-03T17:07:54.576907+00:00"
+  "last_modified_at": "2026-05-03T18:03:30.265855+00:00"
 }

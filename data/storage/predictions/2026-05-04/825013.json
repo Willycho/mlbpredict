@@ -2,7 +2,7 @@
   "game_id": 825013,
   "kst_date": "2026-05-04",
   "bulk_fetched_at": "2026-05-03T13:43:20.167511+00:00",
-  "last_refreshed_at": "2026-05-03T17:07:44.150780+00:00",
+  "last_refreshed_at": "2026-05-03T18:03:28.411847+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -43,47 +43,47 @@
       "n_batters": 9
     },
     "home_matchup": {
-      "matchup_score": 57.3,
-      "arsenal_matchup": 61.6,
-      "h2h_bonus": 0.8,
-      "lineup_source": "roster",
-      "n_batters": 17
+      "matchup_score": 51.0,
+      "arsenal_matchup": 51.0,
+      "h2h_bonus": 1.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "effective_away": 65.7,
-    "effective_home": 65.2,
-    "win_prob_away": 0.506,
-    "win_prob_home": 0.494,
+    "effective_home": 60.8,
+    "win_prob_away": 0.557,
+    "win_prob_home": 0.443,
     "pick": "CLE",
-    "pick_prob": 0.506,
-    "expected_total": 4.2,
+    "pick_prob": 0.557,
+    "expected_total": 4.1,
     "away_team_total": {
-      "expected": 2.38,
+      "expected": 2.41,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.12
+      "gap": 0.09
     },
     "home_team_total": {
-      "expected": 1.82,
+      "expected": 1.69,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.32
+      "gap": 0.19
     },
     "sweet_picks": [
       {
-        "lineup": "partial",
-        "n_batters": "9+17",
-        "type": "TT",
-        "pick": "ATH OVER 1.5",
-        "conf": 0.66,
-        "detail": "Expected 1.82"
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
       }
     ],
-    "grade": "pass",
-    "grade_label": "PASS",
+    "grade": "lean",
+    "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 11.5,
+      "speed_mph": 10.4,
       "direction": "out",
-      "adj": 0.33
+      "adj": 0.31
     },
     "away_pitch_detail": [
       {
@@ -132,17 +132,17 @@
         "pitch_type": "FC",
         "usage": 0.35,
         "pitcher_xwoba": 0.334,
-        "team_xwoba": 0.325,
+        "team_xwoba": 0.337,
         "league_xwoba": 0.343,
-        "advantage": 0.0135
+        "advantage": 0.0076
       },
       {
         "pitch_type": "CU",
         "usage": 0.189,
         "pitcher_xwoba": 0.275,
-        "team_xwoba": 0.3,
+        "team_xwoba": 0.349,
         "league_xwoba": 0.283,
-        "advantage": -0.0045
+        "advantage": -0.0288
       },
       {
         "pitch_type": "SI",
@@ -156,45 +156,45 @@
         "pitch_type": "FF",
         "usage": 0.155,
         "pitcher_xwoba": 0.328,
-        "team_xwoba": 0.312,
+        "team_xwoba": 0.334,
         "league_xwoba": 0.345,
-        "advantage": 0.0252
+        "advantage": 0.014
       },
       {
         "pitch_type": "SL",
         "usage": 0.077,
         "pitcher_xwoba": 0.344,
-        "team_xwoba": 0.27,
+        "team_xwoba": 0.291,
         "league_xwoba": 0.288,
-        "advantage": -0.0192
+        "advantage": -0.0297
       },
       {
         "pitch_type": "FS",
         "usage": 0.058,
         "pitcher_xwoba": 0.212,
-        "team_xwoba": 0.241,
+        "team_xwoba": 0.285,
         "league_xwoba": 0.258,
-        "advantage": 0.0313
+        "advantage": 0.0095
       },
       {
         "pitch_type": "ST",
         "usage": 0.003,
         "pitcher_xwoba": 0.32,
-        "team_xwoba": 0.26,
+        "team_xwoba": 0.294,
         "league_xwoba": 0.267,
-        "advantage": -0.0232
+        "advantage": -0.0399
       }
     ],
     "away_h2h_detail": {
       "note": "insufficient h2h PA (0 < 10)"
     },
     "home_h2h_detail": {
-      "total_pa": 80,
-      "n_batters": 16,
-      "w_k_rate": 0.225,
-      "w_bb_rate": 0.088,
-      "w_hr_rate": 0.012,
-      "confidence": 1.0
+      "total_pa": 41,
+      "n_batters": 6,
+      "w_k_rate": 0.22,
+      "w_bb_rate": 0.049,
+      "w_hr_rate": 0.024,
+      "confidence": 0.82
     }
   },
   "locked_away_pitcher_id": 800048,
