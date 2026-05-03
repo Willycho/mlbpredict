@@ -2,7 +2,7 @@
   "game_id": 823555,
   "kst_date": "2026-05-04",
   "bulk_fetched_at": "2026-05-03T13:48:59.507199+00:00",
-  "last_refreshed_at": "2026-05-03T14:39:39.937724+00:00",
+  "last_refreshed_at": "2026-05-03T15:35:27.468197+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -39,8 +39,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 15
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 65.8,
@@ -70,16 +70,16 @@
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "15+22",
+        "lineup": "partial",
+        "n_batters": "9+22",
         "type": "ML",
         "pick": "F5 NYY",
         "conf": 0.707,
         "detail": "F5 NYY ML"
       },
       {
-        "lineup": "roster",
-        "n_batters": "15+22",
+        "lineup": "partial",
+        "n_batters": "9+22",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
         "conf": 0.633,
@@ -160,7 +160,7 @@
       "confidence": 1.0
     },
     "v2_pick": "NYY",
-    "v2_conf": 0.59,
+    "v2_conf": 0.548,
     "consensus": true,
     "tier": "sweet_spot",
     "ou_consensus": true,
