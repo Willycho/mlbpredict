@@ -21,7 +21,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:09.744031+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:12.753939+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:12.427726+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:14.890145+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:15.189552+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:16.993181+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,16 +75,16 @@
       "away_pitcher": "Trey Gibson",
       "home_pitcher": "max fried",
       "pick": "NYY",
-      "pick_prob": 0.707,
+      "pick_prob": 0.637,
       "expected_total": 4.1,
       "v2_pick": "NYY",
-      "v2_conf": 0.548,
+      "v2_conf": 0.565,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:27.468197+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:28.833197+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:29.410671+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:30.678135+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:41.596666+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:42.439825+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:53.802402+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:54.109263+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:35:56.248915+00:00",
+      "last_refreshed_at": "2026-05-03T16:29:56.170463+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -180,17 +180,17 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "kyle freeland",
       "pick": "ATL",
-      "pick_prob": 0.724,
+      "pick_prob": 0.684,
       "expected_total": 4.7,
       "v2_pick": "ATL",
-      "v2_conf": 0.57,
+      "v2_conf": 0.531,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T16:29:58.283355+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825013,
@@ -389,21 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824364,
-      "away_team": "ATL",
-      "home_team": "COL",
-      "away_pitcher": "spencer strider",
-      "home_pitcher": "kyle freeland",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.57,
+      "game_id": 823307,
+      "away_team": "CWS",
+      "home_team": "SD",
+      "away_pitcher": "anthony kay",
+      "home_pitcher": "griffin canning",
+      "tier": "consensus",
+      "v2_pick": "SD",
+      "v2_conf": 0.564,
       "lineup": "roster",
-      "n_batters": "22+18",
-      "type": "ML",
-      "pick": "F5 ATL",
-      "conf": 0.724,
-      "detail": "F5 ATL ML",
-      "ml_consensus": true
+      "n_batters": "15+20",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-03T15:35:56.249496+00:00"
+  "last_modified_at": "2026-05-03T16:29:58.283973+00:00"
 }
