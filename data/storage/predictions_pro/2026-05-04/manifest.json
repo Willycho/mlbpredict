@@ -181,7 +181,7 @@
       "home_pitcher": "kyle freeland",
       "pick": "ATL",
       "pick_prob": 0.684,
-      "expected_total": 5.1,
+      "expected_total": 4.7,
       "v2_pick": "ATL",
       "v2_conf": 0.531,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:31:12.539306+00:00",
+      "last_refreshed_at": "2026-05-03T18:34:15.763931+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "aaron civale",
       "pick": "CLE",
       "pick_prob": 0.557,
-      "expected_total": 3.7,
+      "expected_total": 4.1,
       "v2_pick": "ATH",
       "v2_conf": 0.521,
       "consensus": false,
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:31:25.120547+00:00",
+      "last_refreshed_at": "2026-05-03T18:34:18.410353+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,16 +222,16 @@
       "away_pitcher": "clay holmes",
       "home_pitcher": "jack kochanowicz",
       "pick": "NYM",
-      "pick_prob": 0.763,
-      "expected_total": 5.1,
+      "pick_prob": 0.746,
+      "expected_total": 5.4,
       "v2_pick": "NYM",
-      "v2_conf": 0.618,
+      "v2_conf": 0.632,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T17:31:37.624028+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T18:34:20.875556+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "luis castillo",
       "pick": "KC",
       "pick_prob": 0.52,
-      "expected_total": 3.0,
+      "expected_total": 3.2,
       "v2_pick": "SEA",
       "v2_conf": 0.518,
       "consensus": false,
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:31:40.668036+00:00",
+      "last_refreshed_at": "2026-05-03T18:34:33.228269+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T17:31:43.703337+00:00",
+      "last_refreshed_at": "2026-05-03T18:34:45.525047+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -333,8 +333,25 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.0 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 824043,
+      "away_team": "NYM",
+      "home_team": "LAA",
+      "away_pitcher": "clay holmes",
+      "home_pitcher": "jack kochanowicz",
+      "tier": "sweet_spot",
+      "v2_pick": "NYM",
+      "v2_conf": 0.632,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 5.4 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -355,6 +372,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824043,
+      "away_team": "NYM",
+      "home_team": "LAA",
+      "away_pitcher": "clay holmes",
+      "home_pitcher": "jack kochanowicz",
+      "tier": "sweet_spot",
+      "v2_pick": "NYM",
+      "v2_conf": 0.632,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 NYM",
+      "conf": 0.746,
+      "detail": "F5 NYM ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 823711,
       "away_team": "TOR",
       "home_team": "MIN",
@@ -370,40 +404,6 @@
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824364,
-      "away_team": "ATL",
-      "home_team": "COL",
-      "away_pitcher": "spencer strider",
-      "home_pitcher": "kyle freeland",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.531,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824043,
-      "away_team": "NYM",
-      "home_team": "LAA",
-      "away_pitcher": "clay holmes",
-      "home_pitcher": "jack kochanowicz",
-      "tier": "consensus",
-      "v2_pick": "NYM",
-      "v2_conf": 0.618,
-      "lineup": "partial",
-      "n_batters": "18+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-03T17:31:43.703889+00:00"
+  "last_modified_at": "2026-05-03T18:34:45.525638+00:00"
 }
