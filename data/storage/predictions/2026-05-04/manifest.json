@@ -28,12 +28,12 @@
       "away_pitcher": "trey yesavage",
       "home_pitcher": "joe ryan",
       "pick": "MIN",
-      "pick_prob": 0.57,
+      "pick_prob": 0.578,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T14:28:34.366015+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824769,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-03T14:28:34.366516+00:00"
 }
