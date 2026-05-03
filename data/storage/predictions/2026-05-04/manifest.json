@@ -32,7 +32,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:44.988218+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:31.356191+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:45.838986+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:32.203302+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:46.680559+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:32.949430+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,11 +76,11 @@
       "away_pitcher": "Trey Gibson",
       "home_pitcher": "max fried",
       "pick": "NYY",
-      "pick_prob": 0.707,
+      "pick_prob": 0.637,
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:47.543095+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:33.755100+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:47.817907+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:33.930052+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "chris paddack",
       "pick": "PHI",
       "pick_prob": 0.76,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T15:11:48.611220+00:00",
+      "last_refreshed_at": "2026-05-03T16:01:34.674343+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,12 +124,12 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "dustin may",
       "pick": "LAD",
-      "pick_prob": 0.766,
-      "expected_total": 4.6,
+      "pick_prob": 0.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T16:01:35.412132+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824687,
@@ -140,12 +140,12 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "matt boyd",
       "pick": "CHC",
-      "pick_prob": 0.568,
+      "pick_prob": 0.539,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T16:01:36.165906+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824364,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-03T15:11:48.611706+00:00"
+  "last_modified_at": "2026-05-03T16:01:36.166457+00:00"
 }
