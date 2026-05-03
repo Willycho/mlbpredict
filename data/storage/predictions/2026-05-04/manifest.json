@@ -176,7 +176,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T18:03:28.411847+00:00",
+      "last_refreshed_at": "2026-05-03T19:18:14.085338+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 5.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T18:03:29.039244+00:00",
+      "last_refreshed_at": "2026-05-03T19:18:14.755826+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 3.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T18:03:29.674639+00:00",
+      "last_refreshed_at": "2026-05-03T19:18:15.324388+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "griffin canning",
       "pick": "SD",
       "pick_prob": 0.763,
-      "expected_total": 5.0,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T18:03:30.265177+00:00",
+      "last_refreshed_at": "2026-05-03T19:18:15.912327+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-03T18:03:30.265855+00:00"
+  "last_modified_at": "2026-05-03T19:18:15.912936+00:00"
 }
