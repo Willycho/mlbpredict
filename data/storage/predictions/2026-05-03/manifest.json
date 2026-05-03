@@ -224,7 +224,7 @@
       "expected_total": 3.5,
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T23:40:37.011263+00:00",
+      "last_refreshed_at": "2026-05-03T01:21:11.756090+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -235,14 +235,14 @@
       "game_date_kst": "2026-05-03",
       "away_pitcher": "seth lugo",
       "home_pitcher": "emerson hancock",
-      "pick": "SEA",
-      "pick_prob": 0.501,
-      "expected_total": 4.5,
+      "pick": "KC",
+      "pick_prob": 0.515,
+      "expected_total": 4.6,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-02T23:40:37.626504+00:00",
+      "last_refreshed_at": "2026-05-03T01:21:12.356085+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-02T23:40:37.627159+00:00"
+  "last_modified_at": "2026-05-03T01:21:12.356681+00:00"
 }
