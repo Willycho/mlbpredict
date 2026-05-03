@@ -286,7 +286,7 @@
       "home_pitcher": "tyler holton",
       "pick": "DET",
       "pick_prob": 0.634,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "v2_pick": "DET",
       "v2_conf": 0.508,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T22:22:23.381365+00:00",
+      "last_refreshed_at": "2026-05-03T23:10:40.971554+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-03T22:22:23.382050+00:00"
+  "last_modified_at": "2026-05-03T23:10:40.972186+00:00"
 }
