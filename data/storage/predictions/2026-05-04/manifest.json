@@ -48,7 +48,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:32.203302+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:37.800501+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "braxton ashcraft",
       "pick": "CIN",
       "pick_prob": 0.5,
-      "expected_total": 3.7,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:32.949430+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:38.666367+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:33.755100+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:39.540879+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:33.930052+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:39.752011+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "chris paddack",
       "pick": "PHI",
       "pick_prob": 0.76,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:34.674343+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:40.634615+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:35.412132+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:41.470296+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-03T16:01:36.165906+00:00",
+      "last_refreshed_at": "2026-05-03T17:07:42.371116+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "kyle freeland",
       "pick": "ATL",
-      "pick_prob": 0.724,
-      "expected_total": 4.7,
+      "pick_prob": 0.684,
+      "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T17:07:43.238311+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825013,
@@ -172,12 +172,12 @@
       "away_pitcher": "parker messick",
       "home_pitcher": "aaron civale",
       "pick": "CLE",
-      "pick_prob": 0.545,
-      "expected_total": 3.7,
+      "pick_prob": 0.506,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T17:07:44.150780+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824043,
@@ -188,12 +188,12 @@
       "away_pitcher": "clay holmes",
       "home_pitcher": "jack kochanowicz",
       "pick": "NYM",
-      "pick_prob": 0.753,
+      "pick_prob": 0.763,
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:43:20.167511+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-03T17:07:54.576133+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823145,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-03T16:01:36.166457+00:00"
+  "last_modified_at": "2026-05-03T17:07:54.576907+00:00"
 }
