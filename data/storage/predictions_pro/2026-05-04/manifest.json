@@ -285,17 +285,17 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "tyler holton",
       "pick": "DET",
-      "pick_prob": 0.622,
-      "expected_total": 4.1,
+      "pick_prob": 0.634,
+      "expected_total": 4.0,
       "v2_pick": "DET",
-      "v2_conf": 0.518,
+      "v2_conf": 0.508,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-03T13:48:59.507199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-03T20:28:34.764609+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822742,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-03T19:40:56.136453+00:00"
+  "last_modified_at": "2026-05-03T20:28:34.765316+00:00"
 }
