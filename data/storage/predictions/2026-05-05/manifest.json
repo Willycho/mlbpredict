@@ -45,10 +45,10 @@
       "home_pitcher": "tyler holton",
       "pick": "DET",
       "pick_prob": 0.703,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:00.823665+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:00.235671+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "janson junk",
       "pick": "PHI",
       "pick_prob": 0.571,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:01.569073+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:01.263545+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
       "pick_prob": 0.679,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:02.201248+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:02.176896+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:02.816768+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:03.098285+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:03.444341+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:04.023088+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:07:04.149382+00:00",
+      "last_refreshed_at": "2026-05-04T22:15:04.869489+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,12 +140,12 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "steven okert",
       "pick": "LAD",
-      "pick_prob": 0.619,
+      "pick_prob": 0.633,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:24:31.172351+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T22:15:05.713260+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824039,
@@ -196,5 +196,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-04T21:07:04.149978+00:00"
+  "last_modified_at": "2026-05-04T22:15:05.713802+00:00"
 }
