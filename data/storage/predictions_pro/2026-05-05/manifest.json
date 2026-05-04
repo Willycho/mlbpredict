@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T22:30:46.269627+00:00",
+      "last_refreshed_at": "2026-05-04T23:31:04.159270+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "michael wacha",
       "pick": "KC",
       "pick_prob": 0.565,
-      "expected_total": 4.1,
+      "expected_total": 4.3,
       "v2_pick": "KC",
       "v2_conf": 0.531,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T22:30:58.661289+00:00",
+      "last_refreshed_at": "2026-05-04T23:31:07.428437+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "kyle leahy",
       "pick": "MIL",
       "pick_prob": 0.714,
-      "expected_total": 4.4,
+      "expected_total": 4.1,
       "v2_pick": "STL",
       "v2_conf": 0.517,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T22:31:01.148713+00:00",
+      "last_refreshed_at": "2026-05-04T23:31:20.272875+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,8 +138,8 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "steven okert",
       "pick": "LAD",
-      "pick_prob": 0.633,
-      "expected_total": 3.7,
+      "pick_prob": 0.648,
+      "expected_total": 3.2,
       "v2_pick": "LAD",
       "v2_conf": 0.541,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T22:31:03.543271+00:00",
+      "last_refreshed_at": "2026-05-04T23:31:33.171255+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,17 +159,17 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.713,
-      "expected_total": 4.9,
+      "pick_prob": 0.683,
+      "expected_total": 4.8,
       "v2_pick": "LAA",
-      "v2_conf": 0.502,
+      "v2_conf": 0.506,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T23:31:36.126278+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823143,
@@ -180,17 +180,17 @@
       "away_pitcher": "JR Ritchie",
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
-      "pick_prob": 0.662,
+      "pick_prob": 0.649,
       "expected_total": 3.9,
       "v2_pick": "SEA",
-      "v2_conf": 0.542,
+      "v2_conf": 0.571,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T23:31:39.038187+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823228,
@@ -201,17 +201,17 @@
       "away_pitcher": "randy vásquez",
       "home_pitcher": "trevor mcdonald",
       "pick": "SF",
-      "pick_prob": 0.802,
+      "pick_prob": 0.793,
       "expected_total": 4.5,
       "v2_pick": "SF",
-      "v2_conf": 0.585,
+      "v2_conf": 0.592,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T23:31:42.203710+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824363,
@@ -270,26 +270,9 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824039,
-      "away_team": "CWS",
-      "home_team": "LAA",
-      "away_pitcher": "davis martin",
-      "home_pitcher": "josé soriano",
-      "tier": "sweet_spot",
-      "v2_pick": "LAA",
-      "v2_conf": 0.502,
-      "lineup": "roster",
-      "n_batters": "18+20",
-      "type": "ML",
-      "pick": "F5 LAA",
-      "conf": 0.713,
-      "detail": "F5 LAA ML",
-      "ml_consensus": true
     },
     {
       "game_id": 824283,
@@ -314,16 +297,33 @@
       "home_team": "SEA",
       "away_pitcher": "JR Ritchie",
       "home_pitcher": "logan gilbert",
-      "tier": "sweet_spot",
+      "tier": "good",
       "v2_pick": "SEA",
-      "v2_conf": 0.542,
-      "lineup": "roster",
-      "n_batters": "17+18",
+      "v2_conf": 0.571,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824039,
+      "away_team": "CWS",
+      "home_team": "LAA",
+      "away_pitcher": "davis martin",
+      "home_pitcher": "josé soriano",
+      "tier": "sweet_spot",
+      "v2_pick": "LAA",
+      "v2_conf": 0.506,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 LAA",
+      "conf": 0.683,
+      "detail": "F5 LAA ML",
+      "ml_consensus": true
     },
     {
       "game_id": 823552,
@@ -349,5 +349,5 @@
     "sweet_spot_count": 3,
     "total_games": 12
   },
-  "last_modified_at": "2026-05-04T22:31:03.543804+00:00"
+  "last_modified_at": "2026-05-04T23:31:42.204287+00:00"
 }
