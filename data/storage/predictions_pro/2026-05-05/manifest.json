@@ -21,7 +21,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T19:53:45.257682+00:00",
+      "last_refreshed_at": "2026-05-04T21:17:54.655797+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -33,16 +33,16 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "janson junk",
       "pick": "PHI",
-      "pick_prob": 0.56,
+      "pick_prob": 0.571,
       "expected_total": 3.8,
       "v2_pick": "MIA",
-      "v2_conf": 0.542,
+      "v2_conf": 0.54,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T19:53:47.963652+00:00",
+      "last_refreshed_at": "2026-05-04T21:17:57.349835+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,17 +54,17 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
-      "pick_prob": 0.711,
-      "expected_total": 4.4,
+      "pick_prob": 0.679,
+      "expected_total": 4.3,
       "v2_pick": "NYY",
-      "v2_conf": 0.622,
+      "v2_conf": 0.593,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T21:17:59.955834+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824684,
@@ -75,17 +75,17 @@
       "away_pitcher": "Chase Petty",
       "home_pitcher": "edward cabrera",
       "pick": "CHC",
-      "pick_prob": 0.827,
-      "expected_total": 4.5,
+      "pick_prob": 0.828,
+      "expected_total": 4.8,
       "v2_pick": "CHC",
       "v2_conf": 0.663,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T21:18:02.501150+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824120,
@@ -96,17 +96,17 @@
       "away_pitcher": "tanner bibee",
       "home_pitcher": "michael wacha",
       "pick": "KC",
-      "pick_prob": 0.509,
-      "expected_total": 4.3,
+      "pick_prob": 0.565,
+      "expected_total": 4.1,
       "v2_pick": "KC",
-      "v2_conf": 0.539,
+      "v2_conf": 0.531,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T21:18:14.354066+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823064,
@@ -117,17 +117,17 @@
       "away_pitcher": "chad patrick",
       "home_pitcher": "kyle leahy",
       "pick": "MIL",
-      "pick_prob": 0.69,
-      "expected_total": 4.3,
+      "pick_prob": 0.714,
+      "expected_total": 4.1,
       "v2_pick": "STL",
-      "v2_conf": 0.535,
+      "v2_conf": 0.517,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T21:18:26.289566+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824201,
@@ -138,17 +138,17 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "steven okert",
       "pick": "LAD",
-      "pick_prob": 0.619,
-      "expected_total": 3.7,
+      "pick_prob": 0.633,
+      "expected_total": 3.2,
       "v2_pick": "LAD",
-      "v2_conf": 0.546,
+      "v2_conf": 0.541,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T21:18:38.153186+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824039,
@@ -265,13 +265,13 @@
       "home_pitcher": "steven okert",
       "tier": "good",
       "v2_pick": "LAD",
-      "v2_conf": 0.546,
-      "lineup": "roster",
-      "n_batters": "18+14",
+      "v2_conf": 0.541,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -289,23 +289,6 @@
       "pick": "F5 LAA",
       "conf": 0.713,
       "detail": "F5 LAA ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 823552,
-      "away_team": "BAL",
-      "home_team": "NYY",
-      "away_pitcher": "shane baz",
-      "home_pitcher": "cam schlittler",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.622,
-      "lineup": "roster",
-      "n_batters": "15+22",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.711,
-      "detail": "F5 NYY ML",
       "ml_consensus": true
     },
     {
@@ -341,6 +324,23 @@
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823552,
+      "away_team": "BAL",
+      "home_team": "NYY",
+      "away_pitcher": "shane baz",
+      "home_pitcher": "cam schlittler",
+      "tier": "sweet_spot",
+      "v2_pick": "NYY",
+      "v2_conf": 0.593,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 NYY",
+      "conf": 0.679,
+      "detail": "F5 NYY ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -349,5 +349,5 @@
     "sweet_spot_count": 3,
     "total_games": 12
   },
-  "last_modified_at": "2026-05-04T19:53:47.964168+00:00"
+  "last_modified_at": "2026-05-04T21:18:38.153634+00:00"
 }
