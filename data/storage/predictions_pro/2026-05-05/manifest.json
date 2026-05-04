@@ -10,19 +10,19 @@
       "game_time_kst": "07:40",
       "game_date_kst": "2026-05-05",
       "away_pitcher": "payton tolle",
-      "home_pitcher": "tarik skubal",
+      "home_pitcher": "tyler holton",
       "pick": "DET",
-      "pick_prob": 0.841,
-      "expected_total": 3.4,
+      "pick_prob": 0.703,
+      "expected_total": 4.1,
       "v2_pick": "DET",
-      "v2_conf": 0.646,
+      "v2_conf": 0.628,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T19:53:45.257682+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823874,
@@ -33,17 +33,17 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "janson junk",
       "pick": "PHI",
-      "pick_prob": 0.545,
+      "pick_prob": 0.56,
       "expected_total": 3.8,
       "v2_pick": "MIA",
-      "v2_conf": 0.55,
+      "v2_conf": 0.542,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:29:21.482199+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T19:53:47.963652+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823552,
@@ -309,6 +309,23 @@
       "ml_consensus": true
     },
     {
+      "game_id": 824283,
+      "away_team": "BOS",
+      "home_team": "DET",
+      "away_pitcher": "payton tolle",
+      "home_pitcher": "tyler holton",
+      "tier": "sweet_spot",
+      "v2_pick": "DET",
+      "v2_conf": 0.628,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 DET",
+      "conf": 0.703,
+      "detail": "F5 DET ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 823143,
       "away_team": "ATL",
       "home_team": "SEA",
@@ -324,23 +341,6 @@
       "conf": 0.7,
       "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823143,
-      "away_team": "ATL",
-      "home_team": "SEA",
-      "away_pitcher": "JR Ritchie",
-      "home_pitcher": "logan gilbert",
-      "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.542,
-      "lineup": "roster",
-      "n_batters": "17+18",
-      "type": "ML",
-      "pick": "F5 SEA",
-      "conf": 0.662,
-      "detail": "F5 SEA ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -348,5 +348,6 @@
     "ou_consensus_count": 5,
     "sweet_spot_count": 3,
     "total_games": 12
-  }
+  },
+  "last_modified_at": "2026-05-04T19:53:47.964168+00:00"
 }
