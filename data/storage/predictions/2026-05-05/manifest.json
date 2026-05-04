@@ -42,14 +42,14 @@
       "game_time_kst": "07:40",
       "game_date_kst": "2026-05-05",
       "away_pitcher": "payton tolle",
-      "home_pitcher": "tarik skubal",
+      "home_pitcher": "tyler holton",
       "pick": "DET",
-      "pick_prob": 0.841,
-      "expected_total": 3.4,
+      "pick_prob": 0.703,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:24:31.172351+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T19:51:21.151432+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823874,
@@ -60,12 +60,12 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "janson junk",
       "pick": "PHI",
-      "pick_prob": 0.545,
+      "pick_prob": 0.56,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-04T14:24:31.172351+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-04T19:51:21.976072+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823552,
@@ -195,5 +195,6 @@
       "last_refreshed_at": "2026-05-04T14:24:31.172351+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-04T19:51:21.976619+00:00"
 }
