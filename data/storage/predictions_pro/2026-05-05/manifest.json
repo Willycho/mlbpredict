@@ -13,7 +13,7 @@
       "home_pitcher": "tyler holton",
       "pick": "DET",
       "pick_prob": 0.703,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "v2_pick": "DET",
       "v2_conf": 0.628,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:17:54.655797+00:00",
+      "last_refreshed_at": "2026-05-04T22:30:26.643590+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:17:57.349835+00:00",
+      "last_refreshed_at": "2026-05-04T22:30:29.936075+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
       "pick_prob": 0.679,
-      "expected_total": 4.3,
+      "expected_total": 4.1,
       "v2_pick": "NYY",
       "v2_conf": 0.593,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:17:59.955834+00:00",
+      "last_refreshed_at": "2026-05-04T22:30:34.029830+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,15 +76,15 @@
       "home_pitcher": "edward cabrera",
       "pick": "CHC",
       "pick_prob": 0.828,
-      "expected_total": 4.8,
+      "expected_total": 4.1,
       "v2_pick": "CHC",
       "v2_conf": 0.663,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:18:02.501150+00:00",
+      "last_refreshed_at": "2026-05-04T22:30:46.269627+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:18:14.354066+00:00",
+      "last_refreshed_at": "2026-05-04T22:30:58.661289+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "kyle leahy",
       "pick": "MIL",
       "pick_prob": 0.714,
-      "expected_total": 4.1,
+      "expected_total": 4.4,
       "v2_pick": "STL",
       "v2_conf": 0.517,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:18:26.289566+00:00",
+      "last_refreshed_at": "2026-05-04T22:31:01.148713+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "steven okert",
       "pick": "LAD",
       "pick_prob": 0.633,
-      "expected_total": 3.2,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
       "v2_conf": 0.541,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T21:18:38.153186+00:00",
+      "last_refreshed_at": "2026-05-04T22:31:03.543271+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -270,8 +270,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 3.2 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -349,5 +349,5 @@
     "sweet_spot_count": 3,
     "total_games": 12
   },
-  "last_modified_at": "2026-05-04T21:18:38.153634+00:00"
+  "last_modified_at": "2026-05-04T22:31:03.543804+00:00"
 }
