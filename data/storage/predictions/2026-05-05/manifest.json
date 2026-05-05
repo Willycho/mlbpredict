@@ -160,7 +160,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:12:28.307321+00:00",
+      "last_refreshed_at": "2026-05-05T00:08:52.865964+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
       "pick_prob": 0.649,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:12:29.167710+00:00",
+      "last_refreshed_at": "2026-05-05T00:08:53.491157+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,9 +192,9 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:12:30.048670+00:00",
+      "last_refreshed_at": "2026-05-05T00:08:54.166702+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-04T23:12:30.049302+00:00"
+  "last_modified_at": "2026-05-05T00:08:54.167274+00:00"
 }
