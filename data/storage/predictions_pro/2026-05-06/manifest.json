@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-05T22:11:37.429174+00:00",
+      "last_refreshed_at": "2026-05-05T23:15:50.588022+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-05T22:11:40.131167+00:00",
+      "last_refreshed_at": "2026-05-05T23:15:53.517889+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "andre pallante",
       "pick": "MIL",
       "pick_prob": 0.538,
-      "expected_total": 4.7,
+      "expected_total": 4.5,
       "v2_pick": null,
       "v2_conf": null,
       "consensus": null,
@@ -189,7 +189,7 @@
       "tier": "no_v2",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T22:11:52.238331+00:00",
+      "last_refreshed_at": "2026-05-05T23:15:56.197227+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "peter lambert",
       "pick": "LAD",
-      "pick_prob": 0.889,
-      "expected_total": 3.9,
+      "pick_prob": 0.894,
+      "expected_total": 4.2,
       "v2_pick": "LAD",
-      "v2_conf": 0.623,
+      "v2_conf": 0.629,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-05T22:12:04.385989+00:00",
+      "last_refreshed_at": "2026-05-05T23:15:58.801655+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "no_v2",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T22:12:07.052639+00:00",
+      "last_refreshed_at": "2026-05-05T23:16:11.140054+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "erick fedde",
       "home_pitcher": "sam aldegheri",
       "pick": "CWS",
-      "pick_prob": 0.65,
-      "expected_total": 5.8,
+      "pick_prob": 0.601,
+      "expected_total": 5.6,
       "v2_pick": "CWS",
-      "v2_conf": 0.606,
+      "v2_conf": 0.598,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T14:24:00.345260+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-05T23:16:23.413580+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825092,
@@ -264,17 +264,17 @@
       "away_pitcher": "bubba chandler",
       "home_pitcher": "eduardo rodríguez",
       "pick": "PIT",
-      "pick_prob": 0.684,
+      "pick_prob": 0.713,
       "expected_total": 3.9,
       "v2_pick": "PIT",
-      "v2_conf": 0.594,
+      "v2_conf": 0.61,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T14:24:00.345260+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-05T23:16:35.724504+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823142,
@@ -285,17 +285,17 @@
       "away_pitcher": "bryce elder",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.665,
+      "pick_prob": 0.674,
       "expected_total": 3.9,
       "v2_pick": "SEA",
-      "v2_conf": 0.561,
+      "v2_conf": 0.598,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T14:24:00.345260+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-05T23:16:38.316925+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823227,
@@ -306,17 +306,17 @@
       "away_pitcher": "walker buehler",
       "home_pitcher": "logan webb",
       "pick": "SF",
-      "pick_prob": 0.816,
-      "expected_total": 4.5,
+      "pick_prob": 0.803,
+      "expected_total": 5.0,
       "v2_pick": "SF",
-      "v2_conf": 0.562,
+      "v2_conf": 0.556,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-05T14:24:00.345260+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-05T23:16:40.936351+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -326,15 +326,15 @@
       "home_team": "LAA",
       "away_pitcher": "erick fedde",
       "home_pitcher": "sam aldegheri",
-      "tier": "sweet_spot",
+      "tier": "good",
       "v2_pick": "CWS",
-      "v2_conf": 0.606,
-      "lineup": "roster",
-      "n_batters": "18+20",
+      "v2_conf": 0.598,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 5.8 vs line 4.5",
+      "conf": 0.867,
+      "detail": "Expected 5.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -372,6 +372,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 825092,
+      "away_team": "PIT",
+      "home_team": "AZ",
+      "away_pitcher": "bubba chandler",
+      "home_pitcher": "eduardo rodríguez",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.61,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 PIT",
+      "conf": 0.713,
+      "detail": "F5 PIT ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 824281,
       "away_team": "BOS",
       "home_team": "DET",
@@ -387,23 +404,6 @@
       "conf": 0.703,
       "detail": "F5 DET ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 825092,
-      "away_team": "PIT",
-      "home_team": "AZ",
-      "away_pitcher": "bubba chandler",
-      "home_pitcher": "eduardo rodríguez",
-      "tier": "sweet_spot",
-      "v2_pick": "PIT",
-      "v2_conf": 0.594,
-      "lineup": "roster",
-      "n_batters": "21+18",
-      "type": "ML",
-      "pick": "F5 PIT",
-      "conf": 0.684,
-      "detail": "F5 PIT ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-05T22:12:07.053117+00:00"
+  "last_modified_at": "2026-05-05T23:16:40.936930+00:00"
 }

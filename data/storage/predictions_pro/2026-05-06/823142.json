@@ -2,8 +2,8 @@
   "game_id": 823142,
   "kst_date": "2026-05-06",
   "bulk_fetched_at": "2026-05-05T14:24:00.345260+00:00",
-  "last_refreshed_at": "2026-05-05T14:24:00.345260+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-05T23:16:38.316925+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 823142,
@@ -36,91 +36,95 @@
       "no_data": false
     },
     "away_matchup": {
-      "matchup_score": 41.5,
-      "arsenal_matchup": 36.6,
-      "h2h_bonus": -0.9,
-      "lineup_source": "roster",
-      "n_batters": 17
+      "matchup_score": 39.4,
+      "arsenal_matchup": 32.6,
+      "h2h_bonus": -0.4,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
-      "matchup_score": 52.6,
-      "arsenal_matchup": 52.1,
-      "h2h_bonus": 2.6,
-      "lineup_source": "roster",
-      "n_batters": 18
+      "matchup_score": 51.7,
+      "arsenal_matchup": 52.9,
+      "h2h_bonus": -0.1,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
-    "effective_away": 49.9,
-    "effective_home": 64.8,
-    "win_prob_away": 0.335,
-    "win_prob_home": 0.665,
+    "effective_away": 48.5,
+    "effective_home": 64.2,
+    "win_prob_away": 0.326,
+    "win_prob_home": 0.674,
     "pick": "SEA",
-    "pick_prob": 0.665,
+    "pick_prob": 0.674,
     "expected_total": 3.9,
     "away_team_total": {
-      "expected": 1.53,
+      "expected": 1.52,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.03
+      "gap": 0.02
     },
     "home_team_total": {
-      "expected": 2.37,
+      "expected": 2.38,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.13
+      "gap": 0.12
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "17+18",
+        "lineup": "confirmed",
+        "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
         "conf": 0.7,
         "detail": "Expected 3.9 vs line 4.5"
       },
       {
-        "lineup": "roster",
-        "n_batters": "17+18",
+        "lineup": "confirmed",
+        "n_batters": "9+9",
         "type": "ML",
         "pick": "F5 SEA",
-        "conf": 0.665,
+        "conf": 0.674,
         "detail": "F5 SEA ML"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 2.5,
+      "direction": "out",
+      "adj": 0.03
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
         "usage": 0.421,
         "pitcher_xwoba": 0.344,
-        "team_xwoba": 0.375,
+        "team_xwoba": 0.376,
         "league_xwoba": 0.351,
-        "advantage": -0.0089
+        "advantage": -0.0095
       },
       {
         "pitch_type": "SL",
         "usage": 0.351,
         "pitcher_xwoba": 0.318,
-        "team_xwoba": 0.292,
+        "team_xwoba": 0.303,
         "league_xwoba": 0.288,
-        "advantage": -0.0171
+        "advantage": -0.0227
       },
       {
         "pitch_type": "FF",
         "usage": 0.123,
         "pitcher_xwoba": 0.338,
-        "team_xwoba": 0.346,
+        "team_xwoba": 0.361,
         "league_xwoba": 0.345,
-        "advantage": 0.003
+        "advantage": -0.0047
       },
       {
         "pitch_type": "CH",
         "usage": 0.105,
         "pitcher_xwoba": 0.358,
-        "team_xwoba": 0.299,
+        "team_xwoba": 0.314,
         "league_xwoba": 0.29,
-        "advantage": -0.0385
+        "advantage": -0.0462
       }
     ],
     "home_pitch_detail": [
@@ -128,74 +132,75 @@
         "pitch_type": "FF",
         "usage": 0.288,
         "pitcher_xwoba": 0.292,
-        "team_xwoba": 0.346,
+        "team_xwoba": 0.343,
         "league_xwoba": 0.345,
-        "advantage": 0.0263
+        "advantage": 0.0279
       },
       {
         "pitch_type": "SL",
         "usage": 0.282,
         "pitcher_xwoba": 0.286,
-        "team_xwoba": 0.297,
+        "team_xwoba": 0.292,
         "league_xwoba": 0.288,
-        "advantage": -0.0038
+        "advantage": -0.0018
       },
       {
         "pitch_type": "SI",
         "usage": 0.268,
         "pitcher_xwoba": 0.357,
-        "team_xwoba": 0.367,
+        "team_xwoba": 0.355,
         "league_xwoba": 0.351,
-        "advantage": -0.0114
+        "advantage": -0.0053
       },
       {
         "pitch_type": "KC",
         "usage": 0.113,
         "pitcher_xwoba": 0.251,
-        "team_xwoba": 0.308,
+        "team_xwoba": 0.333,
         "league_xwoba": 0.274,
-        "advantage": -0.0058
+        "advantage": -0.0184
       },
       {
         "pitch_type": "FS",
         "usage": 0.028,
         "pitcher_xwoba": 0.4,
-        "team_xwoba": 0.259,
+        "team_xwoba": 0.282,
         "league_xwoba": 0.258,
-        "advantage": -0.0719
+        "advantage": -0.083
       },
       {
         "pitch_type": "CH",
         "usage": 0.021,
         "pitcher_xwoba": 0.166,
-        "team_xwoba": 0.283,
+        "team_xwoba": 0.295,
         "league_xwoba": 0.29,
-        "advantage": 0.0654
+        "advantage": 0.0596
       }
     ],
     "away_h2h_detail": {
-      "total_pa": 16,
-      "n_batters": 7,
-      "w_k_rate": 0.062,
-      "w_bb_rate": 0.062,
+      "total_pa": 18,
+      "n_batters": 6,
+      "w_k_rate": 0.167,
+      "w_bb_rate": 0.111,
       "w_hr_rate": 0.0,
-      "confidence": 0.32
+      "confidence": 0.36
     },
     "home_h2h_detail": {
-      "total_pa": 44,
-      "n_batters": 11,
-      "w_k_rate": 0.273,
-      "w_bb_rate": 0.045,
-      "w_hr_rate": 0.023,
-      "confidence": 0.88
+      "total_pa": 36,
+      "n_batters": 8,
+      "w_k_rate": 0.139,
+      "w_bb_rate": 0.056,
+      "w_hr_rate": 0.0,
+      "confidence": 0.72
     },
     "v2_pick": "SEA",
-    "v2_conf": 0.561,
+    "v2_conf": 0.598,
     "consensus": true,
     "tier": "sweet_spot",
     "ou_consensus": false,
-    "v2_f5_total": 4.7
+    "v2_f5_total": 4.6
   },
   "locked_away_pitcher_id": 693821,
-  "locked_home_pitcher_id": 669923
+  "locked_home_pitcher_id": 669923,
+  "pitcher_changed_at_refresh": false
 }
