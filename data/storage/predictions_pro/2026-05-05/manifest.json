@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:31:36.126278+00:00",
+      "last_refreshed_at": "2026-05-05T01:15:45.674154+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
       "pick_prob": 0.649,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "SEA",
       "v2_conf": 0.571,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:31:39.038187+00:00",
+      "last_refreshed_at": "2026-05-05T01:15:48.604951+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-04T23:31:42.203710+00:00",
+      "last_refreshed_at": "2026-05-05T01:15:51.537936+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -275,6 +275,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823143,
+      "away_team": "ATL",
+      "home_team": "SEA",
+      "away_pitcher": "JR Ritchie",
+      "home_pitcher": "logan gilbert",
+      "tier": "good",
+      "v2_pick": "SEA",
+      "v2_conf": 0.571,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824283,
       "away_team": "BOS",
       "home_team": "DET",
@@ -290,23 +307,6 @@
       "conf": 0.703,
       "detail": "F5 DET ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823143,
-      "away_team": "ATL",
-      "home_team": "SEA",
-      "away_pitcher": "JR Ritchie",
-      "home_pitcher": "logan gilbert",
-      "tier": "good",
-      "v2_pick": "SEA",
-      "v2_conf": 0.571,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
     },
     {
       "game_id": 824039,
@@ -349,5 +349,5 @@
     "sweet_spot_count": 3,
     "total_games": 12
   },
-  "last_modified_at": "2026-05-04T23:31:42.204287+00:00"
+  "last_modified_at": "2026-05-05T01:15:51.538500+00:00"
 }
