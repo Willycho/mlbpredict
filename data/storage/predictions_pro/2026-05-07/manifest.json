@@ -202,7 +202,7 @@
       "home_pitcher": "miles mikolas",
       "pick": "MIN",
       "pick_prob": 0.645,
-      "expected_total": 4.6,
+      "expected_total": 5.1,
       "v2_pick": "MIN",
       "v2_conf": 0.535,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T21:50:19.549307+00:00",
+      "last_refreshed_at": "2026-05-06T22:39:54.014605+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T21:50:22.639482+00:00",
+      "last_refreshed_at": "2026-05-06T22:39:56.807951+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T21:50:25.705589+00:00",
+      "last_refreshed_at": "2026-05-06T22:39:59.482669+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T21:50:38.362596+00:00",
+      "last_refreshed_at": "2026-05-06T22:40:11.960506+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "michael lorenzen",
       "pick": "NYM",
-      "pick_prob": 0.814,
+      "pick_prob": 0.786,
       "expected_total": 4.8,
       "v2_pick": "NYM",
-      "v2_conf": 0.592,
+      "v2_conf": 0.59,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-06T14:45:51.370171+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-06T22:40:24.464017+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825091,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-06T21:50:38.363187+00:00"
+  "last_modified_at": "2026-05-06T22:40:24.464535+00:00"
 }
