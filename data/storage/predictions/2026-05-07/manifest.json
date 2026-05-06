@@ -16,8 +16,8 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T14:37:37.239021+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-06T15:35:27.279173+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823063,
@@ -29,11 +29,11 @@
       "home_pitcher": "andre pallante",
       "pick": "MIL",
       "pick_prob": 0.54,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T14:37:37.239021+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-06T15:35:27.984568+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824198,
@@ -44,12 +44,12 @@
       "away_pitcher": "tyler glasnow",
       "home_pitcher": "lance mccullers",
       "pick": "LAD",
-      "pick_prob": 0.826,
-      "expected_total": 4.2,
+      "pick_prob": 0.853,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-06T14:37:37.239021+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-06T15:35:28.726505+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823226,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-06T14:37:37.239021+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-06T15:35:28.727074+00:00"
 }
