@@ -84,7 +84,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:18:05.241691+00:00",
+      "last_refreshed_at": "2026-05-06T19:07:02.298797+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,15 +97,15 @@
       "home_pitcher": "Walbert Ureña",
       "pick": "LAA",
       "pick_prob": 0.523,
-      "expected_total": 4.4,
+      "expected_total": 4.6,
       "v2_pick": "CWS",
       "v2_conf": 0.512,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:18:18.246812+00:00",
+      "last_refreshed_at": "2026-05-06T19:07:04.959524+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "bryan woo",
       "pick": "SEA",
       "pick_prob": 0.842,
-      "expected_total": 4.0,
+      "expected_total": 4.3,
       "v2_pick": "SEA",
       "v2_conf": 0.588,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:18:31.138921+00:00",
+      "last_refreshed_at": "2026-05-06T19:07:07.713795+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-06T17:18:31.139527+00:00"
+  "last_modified_at": "2026-05-06T19:07:07.714345+00:00"
 }
