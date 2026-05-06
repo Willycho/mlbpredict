@@ -64,7 +64,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:13:57.742878+00:00",
+      "last_refreshed_at": "2026-05-06T19:01:27.149768+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "Walbert Ureña",
       "pick": "LAA",
       "pick_prob": 0.523,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:13:58.556516+00:00",
+      "last_refreshed_at": "2026-05-06T19:01:27.985007+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T17:13:59.523646+00:00",
+      "last_refreshed_at": "2026-05-06T19:01:28.894454+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-06T17:13:59.524206+00:00"
+  "last_modified_at": "2026-05-06T19:01:28.895048+00:00"
 }

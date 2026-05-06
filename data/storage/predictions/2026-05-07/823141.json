@@ -2,7 +2,7 @@
   "game_id": 823141,
   "kst_date": "2026-05-07",
   "bulk_fetched_at": "2026-05-06T14:37:37.239021+00:00",
-  "last_refreshed_at": "2026-05-06T17:13:59.523646+00:00",
+  "last_refreshed_at": "2026-05-06T19:01:28.894454+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -43,11 +43,11 @@
       "n_batters": 9
     },
     "home_matchup": {
-      "matchup_score": 64.7,
-      "arsenal_matchup": 74.3,
+      "matchup_score": 64.8,
+      "arsenal_matchup": 74.4,
       "h2h_bonus": 0.3,
       "lineup_source": "lineup",
-      "n_batters": 8
+      "n_batters": 9
     },
     "effective_away": 41.3,
     "effective_home": 77.7,
@@ -71,7 +71,7 @@
     "sweet_picks": [
       {
         "lineup": "confirmed",
-        "n_batters": "9+8",
+        "n_batters": "9+9",
         "type": "TT",
         "pick": "SEA UNDER 3.5",
         "conf": 0.69,
@@ -81,7 +81,7 @@
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 7.6,
+      "speed_mph": 7.7,
       "direction": "out",
       "adj": 0.23
     },
@@ -156,9 +156,9 @@
         "pitch_type": "ST",
         "usage": 0.09,
         "pitcher_xwoba": 0.172,
-        "team_xwoba": 0.302,
+        "team_xwoba": 0.301,
         "league_xwoba": 0.267,
-        "advantage": 0.0303
+        "advantage": 0.0305
       },
       {
         "pitch_type": "CH",
@@ -166,7 +166,7 @@
         "pitcher_xwoba": 0.28,
         "team_xwoba": 0.302,
         "league_xwoba": 0.29,
-        "advantage": -0.001
+        "advantage": -0.0009
       }
     ],
     "away_h2h_detail": {
