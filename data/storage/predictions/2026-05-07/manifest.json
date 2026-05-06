@@ -221,10 +221,10 @@
       "home_pitcher": "michael lorenzen",
       "pick": "NYM",
       "pick_prob": 0.786,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T22:51:43.588075+00:00",
+      "last_refreshed_at": "2026-05-06T23:48:46.895251+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "michael soroka",
       "pick": "PIT",
-      "pick_prob": 0.555,
+      "pick_prob": 0.591,
       "expected_total": 3.4,
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-06T22:51:44.189436+00:00",
+      "last_refreshed_at": "2026-05-06T23:48:47.719398+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-06T22:51:44.190086+00:00"
+  "last_modified_at": "2026-05-06T23:48:47.720015+00:00"
 }
