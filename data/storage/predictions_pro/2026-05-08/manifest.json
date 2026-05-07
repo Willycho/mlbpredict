@@ -138,17 +138,17 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "Andrew Painter",
       "pick": "ATH",
-      "pick_prob": 0.627,
+      "pick_prob": 0.611,
       "expected_total": 3.9,
       "v2_pick": "PHI",
-      "v2_conf": 0.54,
+      "v2_conf": 0.511,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:44:14.869449+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823870,
@@ -159,17 +159,17 @@
       "away_pitcher": "cade povich",
       "home_pitcher": "max meyer",
       "pick": "MIA",
-      "pick_prob": 0.6,
+      "pick_prob": 0.537,
       "expected_total": 3.8,
       "v2_pick": "MIA",
-      "v2_conf": 0.527,
+      "v2_conf": 0.513,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:44:17.030308+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824767,
@@ -180,17 +180,17 @@
       "away_pitcher": "griffin jax",
       "home_pitcher": "Jake Bennett",
       "pick": "TB",
-      "pick_prob": 0.674,
-      "expected_total": 4.1,
+      "pick_prob": 0.657,
+      "expected_total": 4.2,
       "v2_pick": "BOS",
-      "v2_conf": 0.503,
+      "v2_conf": 0.502,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:44:19.231608+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823306,
@@ -307,5 +307,5 @@
     "sweet_spot_count": 2,
     "total_games": 10
   },
-  "last_modified_at": "2026-05-07T19:09:14.175957+00:00"
+  "last_modified_at": "2026-05-07T20:44:19.232066+00:00"
 }
