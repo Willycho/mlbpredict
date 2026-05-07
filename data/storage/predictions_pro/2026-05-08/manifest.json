@@ -201,17 +201,17 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "mike king",
       "pick": "SD",
-      "pick_prob": 0.616,
-      "expected_total": 4.1,
+      "pick_prob": 0.669,
+      "expected_total": 3.9,
       "v2_pick": "SD",
-      "v2_conf": 0.585,
+      "v2_conf": 0.56,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "good",
+      "ou_consensus": false,
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T23:39:55.611304+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -307,5 +307,5 @@
     "sweet_spot_count": 2,
     "total_games": 10
   },
-  "last_modified_at": "2026-05-07T22:47:03.151671+00:00"
+  "last_modified_at": "2026-05-07T23:39:55.611890+00:00"
 }
