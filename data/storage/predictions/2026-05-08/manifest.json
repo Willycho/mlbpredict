@@ -108,12 +108,12 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "Andrew Painter",
       "pick": "ATH",
-      "pick_prob": 0.627,
+      "pick_prob": 0.611,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:19:21.230201+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823870,
@@ -124,12 +124,12 @@
       "away_pitcher": "cade povich",
       "home_pitcher": "max meyer",
       "pick": "MIA",
-      "pick_prob": 0.6,
+      "pick_prob": 0.537,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:19:22.018841+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824767,
@@ -140,12 +140,12 @@
       "away_pitcher": "griffin jax",
       "home_pitcher": "Jake Bennett",
       "pick": "TB",
-      "pick_prob": 0.674,
-      "expected_total": 4.1,
+      "pick_prob": 0.657,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-07T20:19:22.809122+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823306,
@@ -164,5 +164,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-07T18:58:52.166052+00:00"
+  "last_modified_at": "2026-05-07T20:19:22.809718+00:00"
 }
