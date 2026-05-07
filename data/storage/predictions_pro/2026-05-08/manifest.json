@@ -21,8 +21,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-07T15:08:16.161382+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822741,
@@ -33,17 +33,17 @@
       "away_pitcher": "simeon woods richardson",
       "home_pitcher": "jake irvin",
       "pick": "MIN",
-      "pick_prob": 0.671,
+      "pick_prob": 0.687,
       "expected_total": 5.2,
       "v2_pick": "MIN",
-      "v2_conf": 0.549,
+      "v2_conf": 0.563,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-07T14:49:22.455808+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-07T15:08:18.303844+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824117,
@@ -240,9 +240,9 @@
       "home_pitcher": "jake irvin",
       "tier": "sweet_spot",
       "v2_pick": "MIN",
-      "v2_conf": 0.549,
-      "lineup": "partial",
-      "n_batters": "9+20",
+      "v2_conf": 0.563,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
       "conf": 0.733,
@@ -274,12 +274,12 @@
       "home_pitcher": "jake irvin",
       "tier": "sweet_spot",
       "v2_pick": "MIN",
-      "v2_conf": 0.549,
-      "lineup": "partial",
-      "n_batters": "9+20",
+      "v2_conf": 0.563,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 MIN",
-      "conf": 0.671,
+      "conf": 0.687,
       "detail": "F5 MIN ML",
       "ml_consensus": true
     },
@@ -306,5 +306,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 2,
     "total_games": 10
-  }
+  },
+  "last_modified_at": "2026-05-07T15:08:18.304387+00:00"
 }
