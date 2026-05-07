@@ -13,11 +13,11 @@
       "home_pitcher": "paul blackburn",
       "pick": "NYY",
       "pick_prob": 0.623,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-07T15:12:10.630267+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822741,
@@ -28,12 +28,12 @@
       "away_pitcher": "simeon woods richardson",
       "home_pitcher": "jake irvin",
       "pick": "MIN",
-      "pick_prob": 0.671,
+      "pick_prob": 0.687,
       "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-07T15:12:11.465225+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824117,
@@ -45,11 +45,11 @@
       "home_pitcher": "seth lugo",
       "pick": "KC",
       "pick_prob": 0.546,
-      "expected_total": 5.1,
+      "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-07T15:12:12.456293+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824681,
@@ -163,5 +163,6 @@
       "last_refreshed_at": "2026-05-07T14:41:28.338900+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-07T15:12:12.456963+00:00"
 }
