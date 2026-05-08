@@ -28,12 +28,12 @@
       "away_pitcher": "mike burrows",
       "home_pitcher": "nick lodolo",
       "pick": "CIN",
-      "pick_prob": 0.576,
+      "pick_prob": 0.604,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T20:05:52.385318+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823466,
@@ -44,12 +44,12 @@
       "away_pitcher": "chase dollander",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.834,
-      "expected_total": 4.3,
+      "pick_prob": 0.807,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T20:05:53.369244+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824846,
@@ -60,12 +60,12 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
-      "pick_prob": 0.661,
-      "expected_total": 3.8,
+      "pick_prob": 0.672,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T20:05:54.237110+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822822,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-08T20:05:54.237711+00:00"
 }
