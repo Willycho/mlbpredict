@@ -54,8 +54,8 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
-      "pick_prob": 0.672,
-      "expected_total": 3.6,
+      "pick_prob": 0.674,
+      "expected_total": 4.0,
       "v2_pick": "BAL",
       "v2_conf": 0.544,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:45:43.747432+00:00",
+      "last_refreshed_at": "2026-05-08T22:41:55.855080+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "dylan cease",
       "pick": "TOR",
       "pick_prob": 0.611,
-      "expected_total": 3.6,
+      "expected_total": 3.7,
       "v2_pick": "TOR",
       "v2_conf": 0.577,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:45:57.650009+00:00",
+      "last_refreshed_at": "2026-05-08T22:41:59.280994+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "connelly early",
       "pick": "BOS",
       "pick_prob": 0.747,
-      "expected_total": 4.0,
+      "expected_total": 3.7,
       "v2_pick": "BOS",
       "v2_conf": 0.563,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:01.917029+00:00",
+      "last_refreshed_at": "2026-05-08T22:42:12.251206+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "Robby Snelling",
       "pick": "MIA",
       "pick_prob": 0.502,
-      "expected_total": 4.0,
+      "expected_total": 4.2,
       "v2_pick": "MIA",
       "v2_conf": 0.556,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:05.813734+00:00",
+      "last_refreshed_at": "2026-05-08T22:42:25.103089+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "parker messick",
       "pick": "CLE",
       "pick_prob": 0.67,
-      "expected_total": 3.7,
+      "expected_total": 3.9,
       "v2_pick": "MIN",
       "v2_conf": 0.548,
       "consensus": false,
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:19.829358+00:00",
+      "last_refreshed_at": "2026-05-08T22:42:28.311644+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,16 +159,16 @@
       "away_pitcher": "keider montero",
       "home_pitcher": "kris bubic",
       "pick": "KC",
-      "pick_prob": 0.71,
-      "expected_total": 4.1,
+      "pick_prob": 0.668,
+      "expected_total": 4.2,
       "v2_pick": "KC",
-      "v2_conf": 0.607,
+      "v2_conf": 0.62,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:32.338403+00:00",
+      "last_refreshed_at": "2026-05-08T22:42:31.566190+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "sean burke",
       "pick": "SEA",
       "pick_prob": 0.536,
-      "expected_total": 4.8,
+      "expected_total": 5.1,
       "v2_pick": "SEA",
       "v2_conf": 0.555,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:35.160543+00:00",
+      "last_refreshed_at": "2026-05-08T22:42:44.435388+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "max fried",
       "home_pitcher": "jacob misiorowski",
       "pick": "NYY",
-      "pick_prob": 0.604,
-      "expected_total": 2.9,
+      "pick_prob": 0.613,
+      "expected_total": 3.3,
       "v2_pick": "NYY",
-      "v2_conf": 0.557,
+      "v2_conf": 0.595,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T21:46:38.073705+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T22:42:57.863877+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "kumar rocker",
       "pick": "CHC",
       "pick_prob": 0.633,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "v2_pick": "CHC",
       "v2_conf": 0.549,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:46:40.745696+00:00",
+      "last_refreshed_at": "2026-05-08T22:43:01.124883+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "ryne nelson",
       "pick": "NYM",
-      "pick_prob": 0.644,
+      "pick_prob": 0.613,
       "expected_total": 3.8,
       "v2_pick": "NYM",
-      "v2_conf": 0.572,
+      "v2_conf": 0.574,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T22:43:04.549985+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823303,
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 823794,
+      "away_team": "NYY",
+      "home_team": "MIL",
+      "away_pitcher": "max fried",
+      "home_pitcher": "jacob misiorowski",
+      "tier": "good",
+      "v2_pick": "NYY",
+      "v2_conf": 0.595,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824768,
       "away_team": "TB",
       "home_team": "BOS",
@@ -362,9 +379,9 @@
       "home_pitcher": "ryne nelson",
       "tier": "good",
       "v2_pick": "NYM",
-      "v2_conf": 0.572,
-      "lineup": "roster",
-      "n_batters": "21+15",
+      "v2_conf": 0.574,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.733,
@@ -372,38 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824116,
-      "away_team": "DET",
-      "home_team": "KC",
-      "away_pitcher": "keider montero",
-      "home_pitcher": "kris bubic",
-      "tier": "sweet_spot",
-      "v2_pick": "KC",
-      "v2_conf": 0.607,
-      "lineup": "partial",
-      "n_batters": "9+17",
-      "type": "ML",
-      "pick": "F5 KC",
-      "conf": 0.71,
-      "detail": "F5 KC ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 824846,
-      "away_team": "ATH",
-      "home_team": "BAL",
-      "away_pitcher": "jacob lopez",
-      "home_pitcher": "kyle bradish",
-      "tier": "sweet_spot",
-      "v2_pick": "BAL",
-      "v2_conf": 0.544,
+      "game_id": 824607,
+      "away_team": "SEA",
+      "home_team": "CWS",
+      "away_pitcher": "emerson hancock",
+      "home_pitcher": "sean burke",
+      "tier": "consensus",
+      "v2_pick": "SEA",
+      "v2_conf": 0.555,
       "lineup": "confirmed",
       "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 BAL",
-      "conf": 0.672,
-      "detail": "F5 BAL ML",
-      "ml_consensus": true
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-08T21:46:40.746224+00:00"
+  "last_modified_at": "2026-05-08T22:43:04.550518+00:00"
 }

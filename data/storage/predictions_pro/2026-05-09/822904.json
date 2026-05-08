@@ -2,7 +2,7 @@
   "game_id": 822904,
   "kst_date": "2026-05-09",
   "bulk_fetched_at": "2026-05-08T14:17:03.425632+00:00",
-  "last_refreshed_at": "2026-05-08T21:46:40.745696+00:00",
+  "last_refreshed_at": "2026-05-08T22:43:01.124883+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.367,
     "pick": "CHC",
     "pick_prob": 0.633,
-    "expected_total": 5.0,
+    "expected_total": 4.9,
     "away_team_total": {
-      "expected": 2.68,
+      "expected": 2.63,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.18
+      "gap": 0.13
     },
     "home_team_total": {
-      "expected": 2.32,
+      "expected": 2.27,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.18
+      "gap": 0.23
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 OVER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 5.0 vs line 4.5"
+        "conf": 0.633,
+        "detail": "Expected 4.9 vs line 4.5"
       }
     ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 9.9,
+      "speed_mph": 7.7,
       "direction": "out",
-      "adj": 0.28
+      "adj": 0.21
     },
     "away_pitch_detail": [
       {
