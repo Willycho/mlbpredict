@@ -21,7 +21,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:43:46.139968+00:00",
+      "last_refreshed_at": "2026-05-08T21:45:25.536436+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:43:48.855919+00:00",
+      "last_refreshed_at": "2026-05-08T21:45:29.877948+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:01.264962+00:00",
+      "last_refreshed_at": "2026-05-08T21:45:43.747432+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:13.775544+00:00",
+      "last_refreshed_at": "2026-05-08T21:45:57.650009+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:16.449350+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:01.917029+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:19.108373+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:05.813734+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:21.607150+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:19.829358+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:33.937135+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:32.338403+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "sean burke",
       "pick": "SEA",
       "pick_prob": 0.536,
-      "expected_total": 5.1,
+      "expected_total": 4.8,
       "v2_pick": "SEA",
       "v2_conf": 0.555,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T20:44:46.330269+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:35.160543+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "max fried",
       "home_pitcher": "jacob misiorowski",
       "pick": "NYY",
-      "pick_prob": 0.577,
-      "expected_total": 3.3,
+      "pick_prob": 0.604,
+      "expected_total": 2.9,
       "v2_pick": "NYY",
-      "v2_conf": 0.567,
+      "v2_conf": 0.557,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "consensus",
+      "ou_consensus": false,
+      "tier": "good",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T20:44:58.763340+00:00",
+      "last_refreshed_at": "2026-05-08T21:46:38.073705+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,17 +222,17 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "kumar rocker",
       "pick": "CHC",
-      "pick_prob": 0.663,
-      "expected_total": 4.5,
+      "pick_prob": 0.633,
+      "expected_total": 5.0,
       "v2_pick": "CHC",
-      "v2_conf": 0.501,
+      "v2_conf": 0.549,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "ou_consensus": true,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T21:46:40.745696+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825088,
@@ -338,23 +338,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823794,
-      "away_team": "NYY",
-      "home_team": "MIL",
-      "away_pitcher": "max fried",
-      "home_pitcher": "jacob misiorowski",
-      "tier": "consensus",
-      "v2_pick": "NYY",
-      "v2_conf": 0.567,
-      "lineup": "roster",
-      "n_batters": "17+15",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 3.3 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824768,
       "away_team": "TB",
       "home_team": "BOS",
@@ -404,6 +387,23 @@
       "conf": 0.71,
       "detail": "F5 KC ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824846,
+      "away_team": "ATH",
+      "home_team": "BAL",
+      "away_pitcher": "jacob lopez",
+      "home_pitcher": "kyle bradish",
+      "tier": "sweet_spot",
+      "v2_pick": "BAL",
+      "v2_conf": 0.544,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 BAL",
+      "conf": 0.672,
+      "detail": "F5 BAL ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-08T20:44:58.763912+00:00"
+  "last_modified_at": "2026-05-08T21:46:40.746224+00:00"
 }
