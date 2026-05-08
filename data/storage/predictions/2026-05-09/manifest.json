@@ -144,7 +144,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:29:47.156326+00:00",
+      "last_refreshed_at": "2026-05-08T23:31:10.064890+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:29:48.082308+00:00",
+      "last_refreshed_at": "2026-05-08T23:31:10.784659+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 2.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:29:48.887999+00:00",
+      "last_refreshed_at": "2026-05-08T23:31:11.401403+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "kumar rocker",
       "pick": "CHC",
       "pick_prob": 0.633,
-      "expected_total": 4.5,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:29:59.415210+00:00",
+      "last_refreshed_at": "2026-05-08T23:31:12.044005+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "ryne nelson",
       "pick": "NYM",
-      "pick_prob": 0.644,
-      "expected_total": 3.7,
+      "pick_prob": 0.613,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T23:31:12.634081+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823303,
@@ -220,12 +220,12 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "griffin canning",
       "pick": "SD",
-      "pick_prob": 0.514,
-      "expected_total": 4.5,
+      "pick_prob": 0.565,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T23:31:13.342709+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823957,
@@ -236,13 +236,13 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.571,
+      "pick_prob": 0.582,
       "expected_total": 3.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:10:54.374055+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T23:31:13.930613+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-08T22:29:59.415943+00:00"
+  "last_modified_at": "2026-05-08T23:31:13.931208+00:00"
 }
