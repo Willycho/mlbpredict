@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:43:01.124883+00:00",
+      "last_refreshed_at": "2026-05-08T23:42:27.152217+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T22:43:04.549985+00:00",
+      "last_refreshed_at": "2026-05-08T23:42:31.270152+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "griffin canning",
       "pick": "SD",
-      "pick_prob": 0.514,
-      "expected_total": 4.6,
+      "pick_prob": 0.565,
+      "expected_total": 4.4,
       "v2_pick": "SD",
-      "v2_conf": 0.532,
+      "v2_conf": 0.548,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T23:42:35.215083+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823957,
@@ -285,17 +285,17 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.571,
+      "pick_prob": 0.582,
       "expected_total": 2.8,
       "v2_pick": "LAD",
-      "v2_conf": 0.556,
+      "v2_conf": 0.533,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T23:42:48.489782+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823225,
@@ -328,9 +328,9 @@
       "home_pitcher": "emmet sheehan",
       "tier": "consensus",
       "v2_pick": "LAD",
-      "v2_conf": 0.556,
-      "lineup": "roster",
-      "n_batters": "14+18",
+      "v2_conf": 0.533,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-08T22:43:04.550518+00:00"
+  "last_modified_at": "2026-05-08T23:42:48.490365+00:00"
 }
