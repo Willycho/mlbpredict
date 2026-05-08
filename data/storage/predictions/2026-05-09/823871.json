@@ -2,7 +2,7 @@
   "game_id": 823871,
   "kst_date": "2026-05-09",
   "bulk_fetched_at": "2026-05-08T14:10:54.374055+00:00",
-  "last_refreshed_at": "2026-05-08T21:16:09.279573+00:00",
+  "last_refreshed_at": "2026-05-08T22:29:45.610563+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -97,7 +97,7 @@
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 6.5,
+      "speed_mph": 6.9,
       "direction": "in",
       "adj": -0.17
     },

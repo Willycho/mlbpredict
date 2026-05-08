@@ -45,10 +45,10 @@
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
       "pick_prob": 0.807,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:06.253251+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:42.092389+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,11 +60,11 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
-      "pick_prob": 0.672,
-      "expected_total": 3.9,
+      "pick_prob": 0.674,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:07.091201+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:43.030635+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "dylan cease",
       "pick": "TOR",
       "pick_prob": 0.611,
-      "expected_total": 3.8,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:07.835700+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:43.889979+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "connelly early",
       "pick": "BOS",
       "pick_prob": 0.747,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:08.585172+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:44.767296+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:09.279573+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:45.610563+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "parker messick",
       "pick": "CLE",
       "pick_prob": 0.67,
-      "expected_total": 3.7,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:10.015335+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:46.390933+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "keider montero",
       "home_pitcher": "kris bubic",
       "pick": "KC",
-      "pick_prob": 0.71,
-      "expected_total": 4.1,
+      "pick_prob": 0.668,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:10.807221+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:47.156326+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:11.589755+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:48.082308+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,11 +172,11 @@
       "away_pitcher": "max fried",
       "home_pitcher": "jacob misiorowski",
       "pick": "NYY",
-      "pick_prob": 0.604,
-      "expected_total": 3.3,
+      "pick_prob": 0.613,
+      "expected_total": 2.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T21:16:22.016926+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T22:29:48.887999+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T21:16:32.464926+00:00",
+      "last_refreshed_at": "2026-05-08T22:29:59.415210+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-08T21:16:32.465689+00:00"
+  "last_modified_at": "2026-05-08T22:29:59.415943+00:00"
 }
