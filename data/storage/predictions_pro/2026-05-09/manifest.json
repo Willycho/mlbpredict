@@ -12,17 +12,17 @@
       "away_pitcher": "mike burrows",
       "home_pitcher": "nick lodolo",
       "pick": "CIN",
-      "pick_prob": 0.576,
-      "expected_total": 4.0,
+      "pick_prob": 0.58,
+      "expected_total": 4.1,
       "v2_pick": "CIN",
-      "v2_conf": 0.514,
+      "v2_conf": 0.521,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T19:43:10.917073+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823466,
@@ -33,17 +33,17 @@
       "away_pitcher": "chase dollander",
       "home_pitcher": "jesús luzardo",
       "pick": "PHI",
-      "pick_prob": 0.834,
-      "expected_total": 4.3,
+      "pick_prob": 0.807,
+      "expected_total": 4.2,
       "v2_pick": "PHI",
-      "v2_conf": 0.631,
+      "v2_conf": 0.613,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-08T14:17:03.425632+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-08T19:43:13.774807+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824846,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 3,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-08T19:43:13.775374+00:00"
 }
