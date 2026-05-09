@@ -220,12 +220,12 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "landen roupp",
       "pick": "PIT",
-      "pick_prob": 0.592,
-      "expected_total": 3.6,
+      "pick_prob": 0.545,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T23:12:31.282477+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823955,
@@ -236,13 +236,13 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "blake snell",
       "pick": "LAD",
-      "pick_prob": 0.714,
-      "expected_total": 3.5,
+      "pick_prob": 0.749,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T23:12:31.869029+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-09T21:41:01.970334+00:00"
+  "last_modified_at": "2026-05-09T23:12:31.869602+00:00"
 }
