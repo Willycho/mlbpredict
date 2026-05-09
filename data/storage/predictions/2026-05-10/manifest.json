@@ -96,7 +96,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:10.743610+00:00",
+      "last_refreshed_at": "2026-05-09T21:40:56.317115+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:11.403859+00:00",
+      "last_refreshed_at": "2026-05-09T21:40:57.106488+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:12.059022+00:00",
+      "last_refreshed_at": "2026-05-09T21:40:57.920759+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:12.742205+00:00",
+      "last_refreshed_at": "2026-05-09T21:40:58.765228+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,11 +156,11 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "anthony kay",
       "pick": "SEA",
-      "pick_prob": 0.866,
+      "pick_prob": 0.863,
       "expected_total": 5.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:13.407850+00:00",
+      "last_refreshed_at": "2026-05-09T21:40:59.559964+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:14.082973+00:00",
+      "last_refreshed_at": "2026-05-09T21:41:00.350012+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:14.739552+00:00",
+      "last_refreshed_at": "2026-05-09T21:41:01.144498+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:51:15.410640+00:00",
+      "last_refreshed_at": "2026-05-09T21:41:01.969725+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-09T20:51:15.411239+00:00"
+  "last_modified_at": "2026-05-09T21:41:01.970334+00:00"
 }
