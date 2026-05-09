@@ -12,17 +12,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "trey yesavage",
       "pick": "TOR",
-      "pick_prob": 0.75,
-      "expected_total": 4.9,
+      "pick_prob": 0.752,
+      "expected_total": 5.0,
       "v2_pick": "TOR",
-      "v2_conf": 0.631,
+      "v2_conf": 0.635,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:52:35.438582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T16:37:30.882829+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824847,
@@ -338,23 +338,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 822820,
-      "away_team": "LAA",
-      "home_team": "TOR",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "trey yesavage",
-      "tier": "consensus",
-      "v2_pick": "TOR",
-      "v2_conf": 0.631,
-      "lineup": "roster",
-      "n_batters": "17+18",
-      "type": "ML",
-      "pick": "F5 TOR",
-      "conf": 0.75,
-      "detail": "F5 TOR ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 823869,
       "away_team": "WSH",
       "home_team": "MIA",
@@ -404,6 +387,23 @@
       "conf": 0.7,
       "detail": "Expected 5.1 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823468,
+      "away_team": "COL",
+      "home_team": "PHI",
+      "away_pitcher": "kyle freeland",
+      "home_pitcher": "aaron nola",
+      "tier": "sweet_spot",
+      "v2_pick": "PHI",
+      "v2_conf": 0.502,
+      "lineup": "roster",
+      "n_batters": "14+22",
+      "type": "ML",
+      "pick": "F5 PHI",
+      "conf": 0.676,
+      "detail": "F5 PHI ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 7,
     "sweet_spot_count": 2,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-09T16:37:30.883457+00:00"
 }
