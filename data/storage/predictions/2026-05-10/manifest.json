@@ -16,7 +16,7 @@
       "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:48:35.166523+00:00",
+      "last_refreshed_at": "2026-05-09T18:57:29.673535+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:48:35.842738+00:00",
+      "last_refreshed_at": "2026-05-09T18:57:30.460392+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:48:36.487818+00:00",
+      "last_refreshed_at": "2026-05-09T18:57:31.292077+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,11 +60,11 @@
       "away_pitcher": "nick martínez",
       "home_pitcher": "payton tolle",
       "pick": "TB",
-      "pick_prob": 0.529,
+      "pick_prob": 0.514,
       "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:48:37.147105+00:00",
+      "last_refreshed_at": "2026-05-09T18:57:32.073309+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -73,14 +73,14 @@
       "home_team": "MIA",
       "game_time_kst": "05:10",
       "game_date_kst": "2026-05-10",
-      "away_pitcher": "zack littell",
+      "away_pitcher": "richard lovelady",
       "home_pitcher": "janson junk",
       "pick": "MIA",
-      "pick_prob": 0.559,
-      "expected_total": 3.8,
+      "pick_prob": 0.755,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:48:37.789784+00:00",
+      "last_refreshed_at": "2026-05-09T18:57:33.534323+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-09T17:48:37.790323+00:00"
+  "last_modified_at": "2026-05-09T18:57:33.534937+00:00"
 }
