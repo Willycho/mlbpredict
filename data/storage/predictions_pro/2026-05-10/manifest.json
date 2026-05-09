@@ -13,7 +13,7 @@
       "home_pitcher": "trey yesavage",
       "pick": "TOR",
       "pick_prob": 0.752,
-      "expected_total": 5.2,
+      "expected_total": 5.3,
       "v2_pick": "TOR",
       "v2_conf": 0.635,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:36:30.147596+00:00",
+      "last_refreshed_at": "2026-05-09T18:37:53.347368+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -34,7 +34,7 @@
       "home_pitcher": "shane baz",
       "pick": "BAL",
       "pick_prob": 0.526,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "ATH",
       "v2_conf": 0.536,
       "consensus": false,
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:36:32.814316+00:00",
+      "last_refreshed_at": "2026-05-09T18:37:55.933492+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:36:35.565144+00:00",
+      "last_refreshed_at": "2026-05-09T18:37:58.283938+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,16 +75,16 @@
       "away_pitcher": "nick martínez",
       "home_pitcher": "payton tolle",
       "pick": "TB",
-      "pick_prob": 0.529,
+      "pick_prob": 0.514,
       "expected_total": 4.6,
       "v2_pick": "TB",
-      "v2_conf": 0.631,
+      "v2_conf": 0.627,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:36:47.976335+00:00",
+      "last_refreshed_at": "2026-05-09T18:38:10.597284+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,19 +93,19 @@
       "home_team": "MIA",
       "game_time_kst": "05:10",
       "game_date_kst": "2026-05-10",
-      "away_pitcher": "zack littell",
+      "away_pitcher": "richard lovelady",
       "home_pitcher": "janson junk",
       "pick": "MIA",
-      "pick_prob": 0.559,
-      "expected_total": 4.2,
+      "pick_prob": 0.755,
+      "expected_total": 4.4,
       "v2_pick": "MIA",
-      "v2_conf": 0.511,
+      "v2_conf": 0.54,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T17:37:00.363153+00:00",
+      "last_refreshed_at": "2026-05-09T18:38:23.172877+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -350,8 +350,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 5.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-09T17:37:00.363702+00:00"
+  "last_modified_at": "2026-05-09T18:38:23.173448+00:00"
 }
