@@ -13,10 +13,10 @@
       "home_pitcher": "trey yesavage",
       "pick": "TOR",
       "pick_prob": 0.752,
-      "expected_total": 5.2,
+      "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T16:52:52.682643+00:00",
+      "last_refreshed_at": "2026-05-09T17:48:35.166523+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,12 +28,12 @@
       "away_pitcher": "aaron civale",
       "home_pitcher": "shane baz",
       "pick": "BAL",
-      "pick_prob": 0.508,
-      "expected_total": 4.3,
+      "pick_prob": 0.526,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T17:48:35.842738+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824523,
@@ -44,12 +44,12 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "chase burns",
       "pick": "CIN",
-      "pick_prob": 0.752,
+      "pick_prob": 0.775,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T17:48:36.487818+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824766,
@@ -60,12 +60,12 @@
       "away_pitcher": "nick martínez",
       "home_pitcher": "payton tolle",
       "pick": "TB",
-      "pick_prob": 0.535,
-      "expected_total": 5.1,
+      "pick_prob": 0.529,
+      "expected_total": 5.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T17:48:37.147105+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823869,
@@ -76,12 +76,12 @@
       "away_pitcher": "zack littell",
       "home_pitcher": "janson junk",
       "pick": "MIA",
-      "pick_prob": 0.576,
+      "pick_prob": 0.559,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:46:16.461394+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T17:48:37.789784+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823468,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-09T16:52:52.683256+00:00"
+  "last_modified_at": "2026-05-09T17:48:37.790323+00:00"
 }
