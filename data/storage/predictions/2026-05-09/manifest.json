@@ -204,11 +204,11 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "ryne nelson",
       "pick": "NYM",
-      "pick_prob": 0.613,
+      "pick_prob": 0.639,
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:31:12.634081+00:00",
+      "last_refreshed_at": "2026-05-09T01:22:56.299754+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:31:13.342709+00:00",
+      "last_refreshed_at": "2026-05-09T01:22:57.121627+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -240,9 +240,9 @@
       "expected_total": 3.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:31:13.930613+00:00",
+      "last_refreshed_at": "2026-05-09T01:22:57.955657+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-08T23:31:13.931208+00:00"
+  "last_modified_at": "2026-05-09T01:22:57.956196+00:00"
 }
