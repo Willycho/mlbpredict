@@ -34,7 +34,7 @@
       "home_pitcher": "shane baz",
       "pick": "BAL",
       "pick_prob": 0.526,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "ATH",
       "v2_conf": 0.536,
       "consensus": false,
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T18:37:55.933492+00:00",
+      "last_refreshed_at": "2026-05-09T19:46:59.152293+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "chase burns",
       "pick": "CIN",
       "pick_prob": 0.775,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "v2_pick": "CIN",
       "v2_conf": 0.54,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T18:37:58.283938+00:00",
+      "last_refreshed_at": "2026-05-09T19:47:02.216945+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T18:38:10.597284+00:00",
+      "last_refreshed_at": "2026-05-09T19:47:15.052531+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T18:38:23.172877+00:00",
+      "last_refreshed_at": "2026-05-09T19:47:27.858647+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,17 +117,17 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "aaron nola",
       "pick": "PHI",
-      "pick_prob": 0.676,
-      "expected_total": 4.3,
+      "pick_prob": 0.62,
+      "expected_total": 4.8,
       "v2_pick": "PHI",
       "v2_conf": 0.502,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "ou_consensus": true,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:52:35.438582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T19:47:30.949639+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824444,
@@ -138,17 +138,17 @@
       "away_pitcher": "joe ryan",
       "home_pitcher": "tanner bibee",
       "pick": "MIN",
-      "pick_prob": 0.627,
-      "expected_total": 4.2,
+      "pick_prob": 0.647,
+      "expected_total": 4.0,
       "v2_pick": "MIN",
-      "v2_conf": 0.518,
+      "v2_conf": 0.546,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:52:35.438582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T19:47:33.979082+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822905,
@@ -372,21 +372,21 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823468,
-      "away_team": "COL",
-      "home_team": "PHI",
-      "away_pitcher": "kyle freeland",
-      "home_pitcher": "aaron nola",
-      "tier": "sweet_spot",
-      "v2_pick": "PHI",
-      "v2_conf": 0.502,
-      "lineup": "roster",
-      "n_batters": "14+22",
-      "type": "ML",
-      "pick": "F5 PHI",
-      "conf": 0.676,
-      "detail": "F5 PHI ML",
-      "ml_consensus": true
+      "game_id": 824444,
+      "away_team": "MIN",
+      "home_team": "CLE",
+      "away_pitcher": "joe ryan",
+      "home_pitcher": "tanner bibee",
+      "tier": "good",
+      "v2_pick": "MIN",
+      "v2_conf": 0.546,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 4.0 vs line 4.5",
+      "ou_consensus": true
     },
     {
       "game_id": 824606,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-09T18:38:23.173448+00:00"
+  "last_modified_at": "2026-05-09T19:47:33.979634+00:00"
 }
