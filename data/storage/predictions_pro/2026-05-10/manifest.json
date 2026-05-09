@@ -286,7 +286,7 @@
       "home_pitcher": "landen roupp",
       "pick": "PIT",
       "pick_prob": 0.545,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "PIT",
       "v2_conf": 0.553,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T22:25:02.007556+00:00",
+      "last_refreshed_at": "2026-05-09T23:28:44.338815+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -306,37 +306,20 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "blake snell",
       "pick": "LAD",
-      "pick_prob": 0.726,
-      "expected_total": 3.5,
+      "pick_prob": 0.749,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.594,
+      "v2_conf": 0.615,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T22:25:14.504168+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T23:28:47.122599+00:00",
       "refresh_type": "per_game"
     }
   ],
   "top_picks": [
-    {
-      "game_id": 823955,
-      "away_team": "ATL",
-      "home_team": "LAD",
-      "away_pitcher": "spencer strider",
-      "home_pitcher": "blake snell",
-      "tier": "sweet_spot",
-      "v2_pick": "LAD",
-      "v2_conf": 0.594,
-      "lineup": "partial",
-      "n_batters": "14+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
-      "ou_consensus": true
-    },
     {
       "game_id": 822820,
       "away_team": "LAA",
@@ -379,12 +362,12 @@
       "home_pitcher": "blake snell",
       "tier": "sweet_spot",
       "v2_pick": "LAD",
-      "v2_conf": 0.594,
-      "lineup": "partial",
-      "n_batters": "14+9",
+      "v2_conf": 0.615,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 LAD",
-      "conf": 0.726,
+      "conf": 0.749,
       "detail": "F5 LAD ML",
       "ml_consensus": true
     },
@@ -404,6 +387,23 @@
       "conf": 0.633,
       "detail": "Expected 4.9 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823304,
+      "away_team": "STL",
+      "home_team": "SD",
+      "away_pitcher": "dustin may",
+      "home_pitcher": "randy vásquez",
+      "tier": "consensus",
+      "v2_pick": "SD",
+      "v2_conf": 0.56,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-09T22:25:14.504711+00:00"
+  "last_modified_at": "2026-05-09T23:28:47.123131+00:00"
 }
