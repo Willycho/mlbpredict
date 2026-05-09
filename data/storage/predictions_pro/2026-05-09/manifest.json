@@ -243,16 +243,16 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "ryne nelson",
       "pick": "NYM",
-      "pick_prob": 0.613,
+      "pick_prob": 0.639,
       "expected_total": 3.8,
       "v2_pick": "NYM",
-      "v2_conf": 0.574,
+      "v2_conf": 0.534,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:42:31.270152+00:00",
+      "last_refreshed_at": "2026-05-09T01:26:07.074378+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:42:35.215083+00:00",
+      "last_refreshed_at": "2026-05-09T01:26:10.494389+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-08T23:42:48.489782+00:00",
+      "last_refreshed_at": "2026-05-09T01:26:23.642308+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -379,7 +379,7 @@
       "home_pitcher": "ryne nelson",
       "tier": "good",
       "v2_pick": "NYM",
-      "v2_conf": 0.574,
+      "v2_conf": 0.534,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-08T23:42:48.490365+00:00"
+  "last_modified_at": "2026-05-09T01:26:23.642842+00:00"
 }
