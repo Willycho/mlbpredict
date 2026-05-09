@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:11.787008+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:24.995063+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "michael wacha",
       "pick": "DET",
       "pick_prob": 0.505,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "v2_pick": "KC",
       "v2_conf": 0.52,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:14.132043+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:28.046601+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "anthony kay",
       "pick": "SEA",
       "pick_prob": 0.863,
-      "expected_total": 5.5,
+      "expected_total": 4.9,
       "v2_pick": "SEA",
       "v2_conf": 0.607,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:16.661321+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:40.635265+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:28.756690+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:53.456454+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:40.954399+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:56.401021+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T21:27:53.072175+00:00",
+      "last_refreshed_at": "2026-05-09T22:24:59.196997+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "landen roupp",
       "pick": "PIT",
-      "pick_prob": 0.592,
-      "expected_total": 3.6,
+      "pick_prob": 0.545,
+      "expected_total": 4.3,
       "v2_pick": "PIT",
-      "v2_conf": 0.565,
+      "v2_conf": 0.553,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:52:35.438582+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-09T22:25:02.007556+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823955,
@@ -306,52 +306,35 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "blake snell",
       "pick": "LAD",
-      "pick_prob": 0.714,
+      "pick_prob": 0.726,
       "expected_total": 3.5,
       "v2_pick": "LAD",
-      "v2_conf": 0.615,
+      "v2_conf": 0.594,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-09T13:52:35.438582+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-09T22:25:14.504168+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
     {
-      "game_id": 824606,
-      "away_team": "SEA",
-      "home_team": "CWS",
-      "away_pitcher": "luis castillo",
-      "home_pitcher": "anthony kay",
-      "tier": "consensus",
-      "v2_pick": "SEA",
-      "v2_conf": 0.607,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 5.5 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823224,
-      "away_team": "PIT",
-      "home_team": "SF",
-      "away_pitcher": "braxton ashcraft",
-      "home_pitcher": "landen roupp",
-      "tier": "consensus",
-      "v2_pick": "PIT",
-      "v2_conf": 0.565,
-      "lineup": "roster",
-      "n_batters": "20+18",
+      "game_id": 823955,
+      "away_team": "ATL",
+      "home_team": "LAD",
+      "away_pitcher": "spencer strider",
+      "home_pitcher": "blake snell",
+      "tier": "sweet_spot",
+      "v2_pick": "LAD",
+      "v2_conf": 0.594,
+      "lineup": "partial",
+      "n_batters": "14+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -396,14 +379,31 @@
       "home_pitcher": "blake snell",
       "tier": "sweet_spot",
       "v2_pick": "LAD",
-      "v2_conf": 0.615,
-      "lineup": "roster",
-      "n_batters": "14+18",
+      "v2_conf": 0.594,
+      "lineup": "partial",
+      "n_batters": "14+9",
       "type": "ML",
       "pick": "F5 LAD",
-      "conf": 0.714,
+      "conf": 0.726,
       "detail": "F5 LAD ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824606,
+      "away_team": "SEA",
+      "home_team": "CWS",
+      "away_pitcher": "luis castillo",
+      "home_pitcher": "anthony kay",
+      "tier": "consensus",
+      "v2_pick": "SEA",
+      "v2_conf": 0.607,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-09T21:27:53.072809+00:00"
+  "last_modified_at": "2026-05-09T22:25:14.504711+00:00"
 }
