@@ -118,15 +118,15 @@
       "home_pitcher": "aaron nola",
       "pick": "PHI",
       "pick_prob": 0.62,
-      "expected_total": 4.6,
+      "expected_total": 4.5,
       "v2_pick": "PHI",
       "v2_conf": 0.502,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:18.649233+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:06.781995+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "tanner bibee",
       "pick": "MIN",
       "pick_prob": 0.647,
-      "expected_total": 4.3,
+      "expected_total": 3.7,
       "v2_pick": "MIN",
       "v2_conf": 0.546,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:22.227470+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:09.249349+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -159,16 +159,16 @@
       "away_pitcher": "edward cabrera",
       "home_pitcher": "jack leiter",
       "pick": "CHC",
-      "pick_prob": 0.603,
-      "expected_total": 4.3,
+      "pick_prob": 0.612,
+      "expected_total": 4.2,
       "v2_pick": "CHC",
-      "v2_conf": 0.505,
+      "v2_conf": 0.506,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:35.344663+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:11.787008+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "michael wacha",
       "pick": "DET",
       "pick_prob": 0.505,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "v2_pick": "KC",
       "v2_conf": 0.52,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:48.581004+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:14.132043+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,16 +201,16 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "anthony kay",
       "pick": "SEA",
-      "pick_prob": 0.866,
+      "pick_prob": 0.863,
       "expected_total": 5.5,
       "v2_pick": "SEA",
-      "v2_conf": 0.605,
+      "v2_conf": 0.607,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:51.998868+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:16.661321+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,16 +222,16 @@
       "away_pitcher": "cam schlittler",
       "home_pitcher": "kyle harrison",
       "pick": "NYY",
-      "pick_prob": 0.574,
-      "expected_total": 4.4,
+      "pick_prob": 0.594,
+      "expected_total": 3.9,
       "v2_pick": "NYY",
-      "v2_conf": 0.594,
+      "v2_conf": 0.597,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:31:55.367447+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:28.756690+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:32:08.262556+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:40.954399+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-09T20:32:21.300969+00:00",
+      "last_refreshed_at": "2026-05-09T21:27:53.072175+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -328,7 +328,7 @@
       "home_pitcher": "anthony kay",
       "tier": "consensus",
       "v2_pick": "SEA",
-      "v2_conf": 0.605,
+      "v2_conf": 0.607,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
@@ -372,6 +372,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824444,
+      "away_team": "MIN",
+      "home_team": "CLE",
+      "away_pitcher": "joe ryan",
+      "home_pitcher": "tanner bibee",
+      "tier": "good",
+      "v2_pick": "MIN",
+      "v2_conf": 0.546,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823955,
       "away_team": "ATL",
       "home_team": "LAD",
@@ -387,23 +404,6 @@
       "conf": 0.714,
       "detail": "F5 LAD ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 823304,
-      "away_team": "STL",
-      "home_team": "SD",
-      "away_pitcher": "dustin may",
-      "home_pitcher": "randy vásquez",
-      "tier": "consensus",
-      "v2_pick": "SD",
-      "v2_conf": 0.56,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-09T20:32:21.301529+00:00"
+  "last_modified_at": "2026-05-09T21:27:53.072809+00:00"
 }
