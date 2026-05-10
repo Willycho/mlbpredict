@@ -222,16 +222,16 @@
       "away_pitcher": "bubba chandler",
       "home_pitcher": "tyler mahle",
       "pick": "PIT",
-      "pick_prob": 0.75,
-      "expected_total": 3.3,
+      "pick_prob": 0.727,
+      "expected_total": 3.8,
       "v2_pick": "PIT",
-      "v2_conf": 0.541,
+      "v2_conf": 0.518,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T17:35:28.665917+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T18:38:31.959978+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:35:41.197732+00:00",
+      "last_refreshed_at": "2026-05-10T18:38:34.594108+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,16 +264,16 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "walker buehler",
       "pick": "STL",
-      "pick_prob": 0.593,
-      "expected_total": 4.4,
-      "v2_pick": "STL",
-      "v2_conf": 0.548,
-      "consensus": true,
-      "ou_consensus": false,
-      "tier": "consensus",
+      "pick_prob": 0.574,
+      "expected_total": 4.6,
+      "v2_pick": "SD",
+      "v2_conf": 0.505,
+      "consensus": false,
+      "ou_consensus": true,
+      "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:35:53.605404+00:00",
+      "last_refreshed_at": "2026-05-10T18:38:37.134107+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
       "pick_prob": 0.768,
-      "expected_total": 4.3,
+      "expected_total": 4.0,
       "v2_pick": "LAD",
       "v2_conf": 0.553,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:35:56.511857+00:00",
+      "last_refreshed_at": "2026-05-10T18:38:49.727443+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -320,23 +320,6 @@
     }
   ],
   "top_picks": [
-    {
-      "game_id": 823221,
-      "away_team": "PIT",
-      "home_team": "SF",
-      "away_pitcher": "bubba chandler",
-      "home_pitcher": "tyler mahle",
-      "tier": "consensus",
-      "v2_pick": "PIT",
-      "v2_conf": 0.541,
-      "lineup": "partial",
-      "n_batters": "20+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 3.3 vs line 4.5",
-      "ou_consensus": true
-    },
     {
       "game_id": 823793,
       "away_team": "NYY",
@@ -389,21 +372,38 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824765,
-      "away_team": "TB",
-      "home_team": "BOS",
-      "away_pitcher": "nick martínez",
-      "home_pitcher": "payton tolle",
-      "tier": "consensus",
-      "v2_pick": "TB",
-      "v2_conf": 0.627,
+      "game_id": 823221,
+      "away_team": "PIT",
+      "home_team": "SF",
+      "away_pitcher": "bubba chandler",
+      "home_pitcher": "tyler mahle",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.518,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823221,
+      "away_team": "PIT",
+      "home_team": "SF",
+      "away_pitcher": "bubba chandler",
+      "home_pitcher": "tyler mahle",
+      "tier": "sweet_spot",
+      "v2_pick": "PIT",
+      "v2_conf": 0.518,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 PIT",
+      "conf": 0.727,
+      "detail": "F5 PIT ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-10T17:35:56.512449+00:00"
+  "last_modified_at": "2026-05-10T18:38:49.727983+00:00"
 }
