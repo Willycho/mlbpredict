@@ -176,7 +176,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:50:31.404650+00:00",
+      "last_refreshed_at": "2026-05-10T18:59:38.536623+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:50:32.254441+00:00",
+      "last_refreshed_at": "2026-05-10T18:59:39.466036+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,11 +204,11 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "walker buehler",
       "pick": "STL",
-      "pick_prob": 0.593,
+      "pick_prob": 0.574,
       "expected_total": 4.6,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:50:33.211493+00:00",
+      "last_refreshed_at": "2026-05-10T18:59:40.364683+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
       "pick_prob": 0.768,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T17:50:34.040162+00:00",
+      "last_refreshed_at": "2026-05-10T18:59:41.259220+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-10T17:50:34.040703+00:00"
+  "last_modified_at": "2026-05-10T18:59:41.259781+00:00"
 }
