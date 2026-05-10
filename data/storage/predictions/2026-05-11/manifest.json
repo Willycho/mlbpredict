@@ -12,12 +12,12 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "sandy alcántara",
       "pick": "WSH",
-      "pick_prob": 0.641,
-      "expected_total": 4.2,
+      "pick_prob": 0.652,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:51:29.655801+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824845,
@@ -32,8 +32,8 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-10T14:51:30.373451+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824765,
@@ -45,11 +45,11 @@
       "home_pitcher": "payton tolle",
       "pick": "TB",
       "pick_prob": 0.529,
-      "expected_total": 5.0,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-10T14:51:31.039879+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823463,
@@ -60,12 +60,12 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
-      "pick_prob": 0.911,
-      "expected_total": 3.5,
+      "pick_prob": 0.898,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:51:31.683483+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822819,
@@ -76,12 +76,12 @@
       "away_pitcher": "josé soriano",
       "home_pitcher": "Spencer Miles",
       "pick": "LAA",
-      "pick_prob": 0.542,
+      "pick_prob": 0.557,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:51:32.310320+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824520,
@@ -91,13 +91,13 @@
       "game_date_kst": "2026-05-11",
       "away_pitcher": "kai-wei teng",
       "home_pitcher": "andrew abbott",
-      "pick": "HOU",
-      "pick_prob": 0.518,
+      "pick": "CIN",
+      "pick_prob": 0.506,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:51:32.955955+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824440,
@@ -111,9 +111,9 @@
       "pick_prob": 0.512,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:51:33.608179+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824605,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-10T13:49:38.343006+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-10T14:51:33.608707+00:00"
 }
