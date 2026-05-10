@@ -307,7 +307,7 @@
       "home_pitcher": "noah cameron",
       "pick": "DET",
       "pick_prob": 0.63,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "v2_pick": "KC",
       "v2_conf": 0.532,
       "consensus": false,
@@ -315,7 +315,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T21:32:55.385239+00:00",
+      "last_refreshed_at": "2026-05-10T22:28:20.378501+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-10T21:32:55.385742+00:00"
+  "last_modified_at": "2026-05-10T22:28:20.379012+00:00"
 }
