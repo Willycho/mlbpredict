@@ -306,17 +306,17 @@
       "away_pitcher": "brenan hanifee",
       "home_pitcher": "noah cameron",
       "pick": "DET",
-      "pick_prob": 0.578,
-      "expected_total": 4.2,
+      "pick_prob": 0.63,
+      "expected_total": 4.0,
       "v2_pick": "KC",
-      "v2_conf": 0.551,
+      "v2_conf": 0.532,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:55:51.703834+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T20:36:31.956181+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-10T19:49:43.150860+00:00"
+  "last_modified_at": "2026-05-10T20:36:31.956841+00:00"
 }
