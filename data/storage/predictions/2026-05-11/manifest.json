@@ -28,11 +28,11 @@
       "away_pitcher": "luis severino",
       "home_pitcher": "keegan akin",
       "pick": "ATH",
-      "pick_prob": 0.579,
-      "expected_total": 4.2,
+      "pick_prob": 0.51,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T15:51:32.808714+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T16:52:53.007944+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:33.491712+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:53.863918+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:34.120816+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:54.770001+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:34.764732+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:55.635853+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:35.492527+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:56.501928+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:36.151333+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:57.372425+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "davis martin",
       "pick": "SEA",
       "pick_prob": 0.795,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:36.789756+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:58.218178+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:37.406305+00:00",
+      "last_refreshed_at": "2026-05-10T16:52:59.072080+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-10T15:51:47.738786+00:00",
+      "last_refreshed_at": "2026-05-10T16:53:09.528753+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-10T15:51:47.739487+00:00"
+  "last_modified_at": "2026-05-10T16:53:09.529468+00:00"
 }
