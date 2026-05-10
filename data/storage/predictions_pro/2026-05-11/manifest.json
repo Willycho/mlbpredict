@@ -12,17 +12,17 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "sandy alcántara",
       "pick": "WSH",
-      "pick_prob": 0.641,
-      "expected_total": 4.2,
+      "pick_prob": 0.652,
+      "expected_total": 4.0,
       "v2_pick": "MIA",
       "v2_conf": 0.581,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-10T13:55:51.703834+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-10T14:13:35.479847+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824845,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 4,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-10T14:13:35.480526+00:00"
 }
