@@ -28,12 +28,12 @@
       "away_pitcher": "ryan weathers",
       "home_pitcher": "brandon young",
       "pick": "NYY",
-      "pick_prob": 0.703,
-      "expected_total": 4.7,
+      "pick_prob": 0.682,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T20:47:24.562041+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822818,
@@ -44,12 +44,12 @@
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "kevin gausman",
       "pick": "TB",
-      "pick_prob": 0.595,
-      "expected_total": 3.4,
+      "pick_prob": 0.54,
+      "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T20:47:25.168293+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822901,
@@ -99,5 +99,6 @@
       "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-11T20:47:25.168785+00:00"
 }
