@@ -64,7 +64,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T22:05:34.182070+00:00",
+      "last_refreshed_at": "2026-05-11T23:11:21.336362+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T22:05:34.831212+00:00",
+      "last_refreshed_at": "2026-05-11T23:11:22.162199+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,13 +92,13 @@
       "away_pitcher": "trevor mcdonald",
       "home_pitcher": "roki sasaki",
       "pick": "SF",
-      "pick_prob": 0.754,
-      "expected_total": 4.7,
+      "pick_prob": 0.776,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T23:11:22.959136+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-11T22:05:34.831853+00:00"
+  "last_modified_at": "2026-05-11T23:11:22.959653+00:00"
 }
