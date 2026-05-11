@@ -12,16 +12,16 @@
       "away_pitcher": "ryan weathers",
       "home_pitcher": "brandon young",
       "pick": "NYY",
-      "pick_prob": 0.682,
-      "expected_total": 4.6,
+      "pick_prob": 0.689,
+      "expected_total": 4.7,
       "v2_pick": "NYY",
-      "v2_conf": 0.609,
+      "v2_conf": 0.605,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T20:58:03.880634+00:00",
+      "last_refreshed_at": "2026-05-11T22:17:22.273032+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T20:58:06.565517+00:00",
+      "last_refreshed_at": "2026-05-11T22:17:24.445742+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -52,19 +52,19 @@
       "game_time_kst": "09:05",
       "game_date_kst": "2026-05-12",
       "away_pitcher": "michael soroka",
-      "home_pitcher": "nathan eovaldi",
-      "pick": "TEX",
-      "pick_prob": 0.506,
-      "expected_total": 3.4,
+      "home_pitcher": "jakob junis",
+      "pick": "AZ",
+      "pick_prob": 0.621,
+      "expected_total": 4.1,
       "v2_pick": "TEX",
-      "v2_conf": 0.555,
-      "consensus": true,
-      "ou_consensus": true,
-      "tier": "consensus",
+      "v2_conf": 0.53,
+      "consensus": false,
+      "ou_consensus": false,
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:35:22.796496+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T22:17:27.050524+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824199,
@@ -75,17 +75,17 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "peter lambert",
       "pick": "SEA",
-      "pick_prob": 0.702,
-      "expected_total": 4.0,
+      "pick_prob": 0.749,
+      "expected_total": 4.1,
       "v2_pick": "SEA",
-      "v2_conf": 0.594,
+      "v2_conf": 0.62,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:35:22.796496+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T22:17:29.230778+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823953,
@@ -149,23 +149,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 822901,
-      "away_team": "AZ",
-      "home_team": "TEX",
-      "away_pitcher": "michael soroka",
-      "home_pitcher": "nathan eovaldi",
-      "tier": "consensus",
-      "v2_pick": "TEX",
-      "v2_conf": 0.555,
-      "lineup": "roster",
-      "n_batters": "16+21",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 3.4 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824199,
       "away_team": "SEA",
       "home_team": "HOU",
@@ -173,12 +156,12 @@
       "home_pitcher": "peter lambert",
       "tier": "sweet_spot",
       "v2_pick": "SEA",
-      "v2_conf": 0.594,
-      "lineup": "roster",
-      "n_batters": "18+17",
+      "v2_conf": 0.62,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 SEA",
-      "conf": 0.702,
+      "conf": 0.749,
       "detail": "F5 SEA ML",
       "ml_consensus": true
     },
@@ -190,12 +173,12 @@
       "home_pitcher": "brandon young",
       "tier": "sweet_spot",
       "v2_pick": "NYY",
-      "v2_conf": 0.609,
+      "v2_conf": 0.605,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 NYY",
-      "conf": 0.682,
+      "conf": 0.689,
       "detail": "F5 NYY ML",
       "ml_consensus": true
     }
@@ -206,5 +189,5 @@
     "sweet_spot_count": 2,
     "total_games": 6
   },
-  "last_modified_at": "2026-05-11T20:58:06.566039+00:00"
+  "last_modified_at": "2026-05-11T22:17:29.231341+00:00"
 }
