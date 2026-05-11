@@ -28,11 +28,11 @@
       "away_pitcher": "ryan weathers",
       "home_pitcher": "brandon young",
       "pick": "NYY",
-      "pick_prob": 0.682,
-      "expected_total": 4.6,
+      "pick_prob": 0.689,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T20:47:24.562041+00:00",
+      "last_refreshed_at": "2026-05-11T22:05:32.427513+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-11T20:47:25.168293+00:00",
+      "last_refreshed_at": "2026-05-11T22:05:33.056144+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -58,14 +58,14 @@
       "game_time_kst": "09:05",
       "game_date_kst": "2026-05-12",
       "away_pitcher": "michael soroka",
-      "home_pitcher": "nathan eovaldi",
-      "pick": "TEX",
-      "pick_prob": 0.506,
-      "expected_total": 3.4,
+      "home_pitcher": "jakob junis",
+      "pick": "AZ",
+      "pick_prob": 0.621,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T22:05:34.182070+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824199,
@@ -76,12 +76,12 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "peter lambert",
       "pick": "SEA",
-      "pick_prob": 0.702,
-      "expected_total": 4.0,
+      "pick_prob": 0.749,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:31:59.276984+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T22:05:34.831212+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823953,
@@ -100,5 +100,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-11T20:47:25.168785+00:00"
+  "last_modified_at": "2026-05-11T22:05:34.831853+00:00"
 }
