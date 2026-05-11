@@ -12,17 +12,17 @@
       "away_pitcher": "ryan weathers",
       "home_pitcher": "brandon young",
       "pick": "NYY",
-      "pick_prob": 0.703,
-      "expected_total": 4.7,
+      "pick_prob": 0.682,
+      "expected_total": 4.6,
       "v2_pick": "NYY",
       "v2_conf": 0.609,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:35:22.796496+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T20:58:03.880634+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822818,
@@ -33,17 +33,17 @@
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "kevin gausman",
       "pick": "TB",
-      "pick_prob": 0.595,
-      "expected_total": 3.4,
+      "pick_prob": 0.54,
+      "expected_total": 3.3,
       "v2_pick": "TOR",
-      "v2_conf": 0.51,
+      "v2_conf": 0.525,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-11T15:35:22.796496+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-11T20:58:06.565517+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822901,
@@ -139,13 +139,13 @@
       "home_pitcher": "kevin gausman",
       "tier": "disagree",
       "v2_pick": "TOR",
-      "v2_conf": 0.51,
-      "lineup": "roster",
-      "n_batters": "17+21",
+      "v2_conf": 0.525,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 3.4 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -166,23 +166,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824844,
-      "away_team": "NYY",
-      "home_team": "BAL",
-      "away_pitcher": "ryan weathers",
-      "home_pitcher": "brandon young",
-      "tier": "sweet_spot",
-      "v2_pick": "NYY",
-      "v2_conf": 0.609,
-      "lineup": "roster",
-      "n_batters": "22+15",
-      "type": "ML",
-      "pick": "F5 NYY",
-      "conf": 0.703,
-      "detail": "F5 NYY ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 824199,
       "away_team": "SEA",
       "home_team": "HOU",
@@ -198,6 +181,23 @@
       "conf": 0.702,
       "detail": "F5 SEA ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824844,
+      "away_team": "NYY",
+      "home_team": "BAL",
+      "away_pitcher": "ryan weathers",
+      "home_pitcher": "brandon young",
+      "tier": "sweet_spot",
+      "v2_pick": "NYY",
+      "v2_conf": 0.609,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 NYY",
+      "conf": 0.682,
+      "detail": "F5 NYY ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -205,5 +205,6 @@
     "ou_consensus_count": 4,
     "sweet_spot_count": 2,
     "total_games": 6
-  }
+  },
+  "last_modified_at": "2026-05-11T20:58:06.566039+00:00"
 }
