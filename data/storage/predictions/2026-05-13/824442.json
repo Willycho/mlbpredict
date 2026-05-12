@@ -2,7 +2,7 @@
   "game_id": 824442,
   "kst_date": "2026-05-13",
   "bulk_fetched_at": "2026-05-12T14:45:39.712042+00:00",
-  "last_refreshed_at": "2026-05-12T20:14:45.626495+00:00",
+  "last_refreshed_at": "2026-05-12T21:41:47.302013+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,20 +55,28 @@
     "win_prob_home": 0.288,
     "pick": "LAA",
     "pick_prob": 0.712,
-    "expected_total": 5.0,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 2.82,
+      "expected": 2.6,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.32
+      "gap": 0.1
     },
     "home_team_total": {
-      "expected": 2.18,
+      "expected": 2.0,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.32
+      "gap": 0.5
     },
     "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "CLE UNDER 2.5",
+        "conf": 0.75,
+        "detail": "Expected 2.0"
+      },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
@@ -76,38 +84,14 @@
         "pick": "F5 LAA",
         "conf": 0.712,
         "detail": "F5 LAA ML"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 OVER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 5.0 vs line 4.5"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "LAA OVER 2.5",
-        "conf": 0.66,
-        "detail": "Expected 2.82"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "CLE UNDER 2.5",
-        "conf": 0.66,
-        "detail": "Expected 2.18"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
     "wind": {
-      "speed_mph": 9.0,
-      "direction": "out",
-      "adj": 0.27
+      "speed_mph": 0.0,
+      "direction": "calm",
+      "adj": 0.0
     },
     "away_pitch_detail": [],
     "home_pitch_detail": [
