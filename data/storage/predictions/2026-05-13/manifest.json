@@ -44,12 +44,12 @@
       "away_pitcher": "Walbert Ureña",
       "home_pitcher": "slade cecconi",
       "pick": "LAA",
-      "pick_prob": 0.688,
-      "expected_total": 4.8,
+      "pick_prob": 0.712,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T20:14:45.626495+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824521,
@@ -60,12 +60,12 @@
       "away_pitcher": "miles mikolas",
       "home_pitcher": "brady singer",
       "pick": "CIN",
-      "pick_prob": 0.604,
-      "expected_total": 4.9,
+      "pick_prob": 0.616,
+      "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T20:14:46.238397+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823385,
@@ -76,12 +76,12 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "paul skenes",
       "pick": "PIT",
-      "pick_prob": 0.781,
+      "pick_prob": 0.807,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T20:14:46.847069+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822817,
@@ -92,12 +92,12 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "patrick corbin",
       "pick": "TOR",
-      "pick_prob": 0.51,
-      "expected_total": 4.2,
+      "pick_prob": 0.502,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T20:14:47.558652+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823632,
@@ -108,12 +108,12 @@
       "away_pitcher": "jack flaherty",
       "home_pitcher": "freddy peralta",
       "pick": "NYM",
-      "pick_prob": 0.625,
+      "pick_prob": 0.608,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T20:14:48.173699+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824927,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-12T20:14:48.174170+00:00"
 }
