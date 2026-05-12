@@ -2,7 +2,7 @@
   "game_id": 822903,
   "kst_date": "2026-05-13",
   "bulk_fetched_at": "2026-05-12T14:45:39.712042+00:00",
-  "last_refreshed_at": "2026-05-12T22:46:06.561362+00:00",
+  "last_refreshed_at": "2026-05-12T23:57:48.939134+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,26 +55,26 @@
     "win_prob_home": 0.426,
     "pick": "AZ",
     "pick_prob": 0.574,
-    "expected_total": 4.5,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 2.26,
+      "expected": 2.31,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.24
+      "gap": 0.19
     },
     "home_team_total": {
-      "expected": 2.24,
+      "expected": 2.29,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.26
+      "gap": 0.21
     },
     "sweet_picks": [],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 4.9,
+      "speed_mph": 6.3,
       "direction": "out",
-      "adj": 0.09
+      "adj": 0.16
     },
     "away_pitch_detail": [
       {

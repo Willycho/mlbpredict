@@ -189,10 +189,10 @@
       "home_pitcher": "mackenzie gore",
       "pick": "AZ",
       "pick_prob": 0.574,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T22:46:06.561362+00:00",
+      "last_refreshed_at": "2026-05-12T23:57:48.939134+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T22:46:07.118358+00:00",
+      "last_refreshed_at": "2026-05-12T23:57:49.813422+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T22:46:07.686466+00:00",
+      "last_refreshed_at": "2026-05-12T23:57:50.669080+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.755,
-      "expected_total": 3.7,
+      "pick_prob": 0.741,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T23:57:51.513197+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-12T22:46:07.687053+00:00"
+  "last_modified_at": "2026-05-12T23:57:51.513805+00:00"
 }
