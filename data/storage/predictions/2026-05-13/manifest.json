@@ -93,10 +93,10 @@
       "home_pitcher": "patrick corbin",
       "pick": "TOR",
       "pick_prob": 0.502,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:49.125751+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:03.026327+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:49.784098+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:03.600314+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:50.465396+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:04.210923+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "erick fedde",
       "pick": "KC",
       "pick_prob": 0.699,
-      "expected_total": 5.2,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:51.051288+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:04.827161+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:51.746892+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:05.403486+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "brandon sproat",
       "pick": "SD",
       "pick_prob": 0.747,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:52.796343+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:05.976250+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:53.402429+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:06.561362+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "Tatsuya Imai",
       "pick": "SEA",
       "pick_prob": 0.76,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T21:41:54.032798+00:00",
+      "last_refreshed_at": "2026-05-12T22:46:07.118358+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
-      "pick_prob": 0.519,
-      "expected_total": 4.4,
+      "pick_prob": 0.567,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:45:39.712042+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T22:46:07.686466+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823951,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-12T21:41:54.033335+00:00"
+  "last_modified_at": "2026-05-12T22:46:07.687053+00:00"
 }
