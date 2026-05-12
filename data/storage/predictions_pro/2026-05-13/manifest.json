@@ -202,7 +202,7 @@
       "home_pitcher": "mackenzie gore",
       "pick": "AZ",
       "pick_prob": 0.574,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "v2_pick": "AZ",
       "v2_conf": 0.516,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T22:22:28.424930+00:00",
+      "last_refreshed_at": "2026-05-12T23:35:23.827304+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "Tatsuya Imai",
       "pick": "SEA",
       "pick_prob": 0.76,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "v2_pick": "SEA",
       "v2_conf": 0.592,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T22:22:41.158382+00:00",
+      "last_refreshed_at": "2026-05-12T23:35:27.412637+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
-      "pick_prob": 0.519,
+      "pick_prob": 0.567,
       "expected_total": 4.4,
       "v2_pick": "ATH",
-      "v2_conf": 0.52,
+      "v2_conf": 0.542,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:49:48.818099+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T23:35:40.892316+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823951,
@@ -264,17 +264,17 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.755,
+      "pick_prob": 0.741,
       "expected_total": 3.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.624,
+      "v2_conf": 0.647,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-12T14:49:48.818099+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-12T23:35:54.126202+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824843,
@@ -355,6 +355,23 @@
       "ml_consensus": true
     },
     {
+      "game_id": 823951,
+      "away_team": "SF",
+      "home_team": "LAD",
+      "away_pitcher": "adrian houser",
+      "home_pitcher": "yoshinobu yamamoto",
+      "tier": "sweet_spot",
+      "v2_pick": "LAD",
+      "v2_conf": 0.647,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 LAD",
+      "conf": 0.741,
+      "detail": "F5 LAD ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 823385,
       "away_team": "COL",
       "home_team": "PIT",
@@ -387,23 +404,6 @@
       "conf": 0.712,
       "detail": "F5 LAA ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824604,
-      "away_team": "KC",
-      "home_team": "CWS",
-      "away_pitcher": "stephen kolek",
-      "home_pitcher": "erick fedde",
-      "tier": "sweet_spot",
-      "v2_pick": "KC",
-      "v2_conf": 0.55,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-12T22:22:41.158788+00:00"
+  "last_modified_at": "2026-05-12T23:35:54.126813+00:00"
 }
