@@ -11,13 +11,13 @@
       "game_date_kst": "2026-05-14",
       "away_pitcher": "max fried",
       "home_pitcher": "kyle bradish",
-      "pick": "NYY",
-      "pick_prob": 0.54,
-      "expected_total": 3.0,
+      "pick": "BAL",
+      "pick_prob": 0.537,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-13T14:55:23.535201+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-13T16:41:11.188604+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824438,
@@ -28,12 +28,12 @@
       "away_pitcher": "reid detmers",
       "home_pitcher": "parker messick",
       "pick": "CLE",
-      "pick_prob": 0.54,
-      "expected_total": 3.0,
+      "pick_prob": 0.527,
+      "expected_total": 2.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T14:55:23.535201+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-13T16:41:11.823903+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824519,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-13T14:55:23.535201+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-13T16:41:11.824529+00:00"
 }
