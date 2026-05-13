@@ -13,7 +13,7 @@
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
       "pick_prob": 0.537,
-      "expected_total": 3.0,
+      "expected_total": 3.6,
       "v2_pick": "NYY",
       "v2_conf": 0.572,
       "consensus": false,
@@ -21,8 +21,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T15:14:56.249738+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-13T16:08:36.444352+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824438,
@@ -34,7 +34,7 @@
       "home_pitcher": "parker messick",
       "pick": "CLE",
       "pick_prob": 0.54,
-      "expected_total": 3.0,
+      "expected_total": 2.9,
       "v2_pick": "CLE",
       "v2_conf": 0.5,
       "consensus": true,
@@ -42,8 +42,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T15:14:56.249738+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-13T16:08:39.594931+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824519,
@@ -321,23 +321,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 824841,
-      "away_team": "NYY",
-      "home_team": "BAL",
-      "away_pitcher": "max fried",
-      "home_pitcher": "kyle bradish",
-      "tier": "disagree",
-      "v2_pick": "NYY",
-      "v2_conf": 0.572,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.0 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823952,
       "away_team": "SF",
       "home_team": "LAD",
@@ -369,6 +352,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.933,
       "detail": "Expected 3.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 824841,
+      "away_team": "NYY",
+      "home_team": "BAL",
+      "away_pitcher": "max fried",
+      "home_pitcher": "kyle bradish",
+      "tier": "disagree",
+      "v2_pick": "NYY",
+      "v2_conf": 0.572,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 11,
     "sweet_spot_count": 1,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-13T16:08:39.595504+00:00"
 }
