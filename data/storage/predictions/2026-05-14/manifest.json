@@ -112,7 +112,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:38.910308+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:50.456218+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:39.549060+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:51.300917+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "Noah Schultz",
       "pick": "CWS",
       "pick_prob": 0.587,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:40.168363+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:52.158317+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "simeon woods richardson",
       "pick": "MIN",
       "pick_prob": 0.641,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:40.815972+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:52.998771+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
       "pick_prob": 0.593,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:41.463776+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:53.779797+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:42.107141+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:54.590279+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T21:51:52.419841+00:00",
+      "last_refreshed_at": "2026-05-13T23:03:55.402101+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
-      "pick_prob": 0.73,
-      "expected_total": 4.3,
+      "pick_prob": 0.746,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-13T14:55:23.535201+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-13T23:03:56.206228+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823952,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-13T21:51:52.420583+00:00"
+  "last_modified_at": "2026-05-13T23:03:56.206773+00:00"
 }
