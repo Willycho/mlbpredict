@@ -244,15 +244,15 @@
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
       "pick_prob": 0.567,
-      "expected_total": 4.4,
+      "expected_total": 4.9,
       "v2_pick": "ATH",
       "v2_conf": 0.542,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T23:35:40.892316+00:00",
+      "last_refreshed_at": "2026-05-13T01:27:12.188997+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
       "pick_prob": 0.741,
-      "expected_total": 3.7,
+      "expected_total": 4.0,
       "v2_pick": "LAD",
       "v2_conf": 0.647,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-12T23:35:54.126202+00:00",
+      "last_refreshed_at": "2026-05-13T01:27:14.924291+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-12T23:35:54.126813+00:00"
+  "last_modified_at": "2026-05-13T01:27:14.924919+00:00"
 }
