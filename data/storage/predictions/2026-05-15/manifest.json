@@ -80,7 +80,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T15:41:19.196442+00:00",
+      "last_refreshed_at": "2026-05-14T17:26:53.620438+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T15:41:19.846201+00:00",
+      "last_refreshed_at": "2026-05-14T17:26:54.277631+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,12 +108,12 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "jacob lopez",
       "pick": "ATH",
-      "pick_prob": 0.708,
-      "expected_total": 4.5,
+      "pick_prob": 0.782,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T17:26:55.017398+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824762,
@@ -180,5 +180,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-14T15:41:19.846778+00:00"
+  "last_modified_at": "2026-05-14T17:26:55.017902+00:00"
 }
