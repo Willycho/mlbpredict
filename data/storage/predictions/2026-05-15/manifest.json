@@ -28,12 +28,12 @@
       "away_pitcher": "chase dollander",
       "home_pitcher": "mason montgomery",
       "pick": "PIT",
-      "pick_prob": 0.611,
+      "pick_prob": 0.66,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T15:41:17.135480+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824517,
@@ -48,8 +48,8 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-14T15:41:17.872645+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823630,
@@ -64,8 +64,8 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-14T15:41:18.522534+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823789,
@@ -76,12 +76,12 @@
       "away_pitcher": "griffin canning",
       "home_pitcher": "kyle harrison",
       "pick": "MIL",
-      "pick_prob": 0.696,
+      "pick_prob": 0.673,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T15:41:19.196442+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824196,
@@ -92,12 +92,12 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "mike burrows",
       "pick": "SEA",
-      "pick_prob": 0.567,
+      "pick_prob": 0.613,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T15:41:19.846201+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825008,
@@ -179,5 +179,6 @@
       "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-14T15:41:19.846778+00:00"
 }
