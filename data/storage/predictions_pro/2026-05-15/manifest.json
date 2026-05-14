@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T21:57:09.531536+00:00",
+      "last_refreshed_at": "2026-05-14T23:10:10.260195+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "landen roupp",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.766,
-      "expected_total": 3.7,
+      "pick_prob": 0.737,
+      "expected_total": 3.8,
       "v2_pick": "LAD",
-      "v2_conf": 0.624,
+      "v2_conf": 0.591,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "consensus",
+      "ou_consensus": true,
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T23:10:14.440958+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823709,
@@ -236,6 +236,40 @@
     }
   ],
   "top_picks": [
+    {
+      "game_id": 823950,
+      "away_team": "SF",
+      "home_team": "LAD",
+      "away_pitcher": "landen roupp",
+      "home_pitcher": "emmet sheehan",
+      "tier": "sweet_spot",
+      "v2_pick": "LAD",
+      "v2_conf": 0.591,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 LAD",
+      "conf": 0.737,
+      "detail": "F5 LAD ML",
+      "ml_consensus": true
+    },
+    {
+      "game_id": 823950,
+      "away_team": "SF",
+      "home_team": "LAD",
+      "away_pitcher": "landen roupp",
+      "home_pitcher": "emmet sheehan",
+      "tier": "sweet_spot",
+      "v2_pick": "LAD",
+      "v2_conf": 0.591,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
+      "ou_consensus": true
+    },
     {
       "game_id": 824926,
       "away_team": "CHC",
@@ -286,23 +320,6 @@
       "conf": 0.685,
       "detail": "F5 NYM ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824926,
-      "away_team": "CHC",
-      "home_team": "ATL",
-      "away_pitcher": "ben brown",
-      "home_pitcher": "chris sale",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.581,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.1 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -311,5 +328,5 @@
     "sweet_spot_count": 4,
     "total_games": 11
   },
-  "last_modified_at": "2026-05-14T21:57:09.532113+00:00"
+  "last_modified_at": "2026-05-14T23:10:14.441524+00:00"
 }
