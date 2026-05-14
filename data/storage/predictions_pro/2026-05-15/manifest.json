@@ -63,8 +63,8 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-14T16:54:43.432833+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823789,
@@ -75,17 +75,17 @@
       "away_pitcher": "griffin canning",
       "home_pitcher": "kyle harrison",
       "pick": "MIL",
-      "pick_prob": 0.696,
+      "pick_prob": 0.673,
       "expected_total": 4.0,
       "v2_pick": "SD",
-      "v2_conf": 0.527,
+      "v2_conf": 0.541,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T16:54:46.421614+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824196,
@@ -96,17 +96,17 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "mike burrows",
       "pick": "SEA",
-      "pick_prob": 0.567,
+      "pick_prob": 0.613,
       "expected_total": 4.4,
       "v2_pick": "SEA",
-      "v2_conf": 0.545,
+      "v2_conf": 0.549,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "consensus",
+      "ou_consensus": false,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T16:54:49.094202+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825008,
@@ -117,17 +117,17 @@
       "away_pitcher": "michael mcgreevy",
       "home_pitcher": "jacob lopez",
       "pick": "ATH",
-      "pick_prob": 0.708,
-      "expected_total": 4.4,
+      "pick_prob": 0.782,
+      "expected_total": 4.0,
       "v2_pick": "ATH",
-      "v2_conf": 0.506,
+      "v2_conf": 0.525,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T16:55:01.426260+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824762,
@@ -254,23 +254,6 @@
       "ml_consensus": true
     },
     {
-      "game_id": 825008,
-      "away_team": "STL",
-      "home_team": "ATH",
-      "away_pitcher": "michael mcgreevy",
-      "home_pitcher": "jacob lopez",
-      "tier": "sweet_spot",
-      "v2_pick": "ATH",
-      "v2_conf": 0.506,
-      "lineup": "roster",
-      "n_batters": "22+15",
-      "type": "ML",
-      "pick": "F5 ATH",
-      "conf": 0.708,
-      "detail": "F5 ATH ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 824517,
       "away_team": "WSH",
       "home_team": "CIN",
@@ -327,5 +310,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 4,
     "total_games": 11
-  }
+  },
+  "last_modified_at": "2026-05-14T16:55:01.426777+00:00"
 }
