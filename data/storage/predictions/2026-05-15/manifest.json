@@ -124,12 +124,12 @@
       "away_pitcher": "jesús luzardo",
       "home_pitcher": "ranger suárez",
       "pick": "PHI",
-      "pick_prob": 0.527,
-      "expected_total": 3.6,
+      "pick_prob": 0.547,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T20:52:27.970201+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824926,
@@ -140,12 +140,12 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "chris sale",
       "pick": "ATL",
-      "pick_prob": 0.725,
+      "pick_prob": 0.732,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T20:52:28.545021+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824602,
@@ -156,12 +156,12 @@
       "away_pitcher": "kris bubic",
       "home_pitcher": "anthony kay",
       "pick": "KC",
-      "pick_prob": 0.886,
+      "pick_prob": 0.893,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-14T14:34:17.186005+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T20:52:29.123398+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823950,
@@ -180,5 +180,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-14T17:26:55.017902+00:00"
+  "last_modified_at": "2026-05-14T20:52:29.123956+00:00"
 }
