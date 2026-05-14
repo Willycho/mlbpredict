@@ -1,0 +1,151 @@
+{
+  "game_id": 824517,
+  "kst_date": "2026-05-15",
+  "bulk_fetched_at": "2026-05-14T14:38:46.041301+00:00",
+  "last_refreshed_at": "2026-05-14T14:38:46.041301+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 824517,
+    "away_team": "WSH",
+    "home_team": "CIN",
+    "game_time_kst": "01:40",
+    "game_date_kst": "2026-05-15",
+    "away_pitcher": {
+      "id": 656492,
+      "name": "Foster Griffin",
+      "team": "WSH",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "home_pitcher": {
+      "id": 695505,
+      "name": "chase burns",
+      "team": "CIN",
+      "throws": "R",
+      "total_score": 88.1,
+      "season_score": 79.1,
+      "arsenal_score": 88.4,
+      "recent_form_score": null,
+      "home_away_adj": 5.0,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "home_matchup": {
+      "matchup_score": 53.8,
+      "arsenal_matchup": 54.0,
+      "h2h_bonus": 2.7,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "effective_away": 53.8,
+    "effective_home": 71.3,
+    "win_prob_away": 0.31,
+    "win_prob_home": 0.69,
+    "pick": "CIN",
+    "pick_prob": 0.69,
+    "expected_total": 4.2,
+    "away_team_total": {
+      "expected": 1.65,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.15
+    },
+    "home_team_total": {
+      "expected": 2.55,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.05
+    },
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "ML",
+        "pick": "F5 CIN",
+        "conf": 0.69,
+        "detail": "F5 CIN ML"
+      }
+    ],
+    "grade": "sweet_spot",
+    "grade_label": "SWEET SPOT",
+    "wind": {
+      "speed_mph": 6.0,
+      "direction": "out",
+      "adj": 0.13
+    },
+    "away_pitch_detail": [],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.579,
+        "pitcher_xwoba": 0.32,
+        "team_xwoba": 0.376,
+        "league_xwoba": 0.345,
+        "advantage": -0.0032
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.338,
+        "pitcher_xwoba": 0.223,
+        "team_xwoba": 0.307,
+        "league_xwoba": 0.288,
+        "advantage": 0.0226
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.056,
+        "pitcher_xwoba": 0.295,
+        "team_xwoba": 0.278,
+        "league_xwoba": 0.29,
+        "advantage": 0.0039
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.017,
+        "pitcher_xwoba": 0.581,
+        "team_xwoba": 0.246,
+        "league_xwoba": 0.283,
+        "advantage": -0.1312
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.01,
+        "pitcher_xwoba": 0.32,
+        "team_xwoba": 0.342,
+        "league_xwoba": 0.351,
+        "advantage": 0.0194
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "total_pa": 17,
+      "n_batters": 6,
+      "w_k_rate": 0.412,
+      "w_bb_rate": 0.059,
+      "w_hr_rate": 0.0,
+      "confidence": 0.34
+    },
+    "v2_pick": "CIN",
+    "v2_conf": 0.554,
+    "consensus": true,
+    "tier": "sweet_spot",
+    "ou_consensus": false,
+    "v2_f5_total": 4.8
+  },
+  "locked_away_pitcher_id": 656492,
+  "locked_home_pitcher_id": 695505
+}
