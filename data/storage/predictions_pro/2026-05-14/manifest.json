@@ -286,7 +286,7 @@
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
       "pick_prob": 0.746,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "v2_pick": "STL",
       "v2_conf": 0.51,
       "consensus": false,
@@ -294,7 +294,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T22:55:31.043252+00:00",
+      "last_refreshed_at": "2026-05-14T00:13:19.414163+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -306,17 +306,17 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.795,
-      "expected_total": 3.1,
+      "pick_prob": 0.755,
+      "expected_total": 3.3,
       "v2_pick": "LAD",
-      "v2_conf": 0.592,
+      "v2_conf": 0.584,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-13T15:14:56.249738+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T00:13:22.030029+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -345,13 +345,13 @@
       "home_pitcher": "shohei ohtani",
       "tier": "consensus",
       "v2_pick": "LAD",
-      "v2_conf": 0.592,
-      "lineup": "roster",
-      "n_batters": "14+20",
+      "v2_conf": 0.584,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-13T22:55:31.043782+00:00"
+  "last_modified_at": "2026-05-14T00:13:22.030603+00:00"
 }
