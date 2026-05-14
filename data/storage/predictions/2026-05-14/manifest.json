@@ -221,10 +221,10 @@
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
       "pick_prob": 0.746,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-13T23:03:56.206228+00:00",
+      "last_refreshed_at": "2026-05-14T00:14:32.802602+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.795,
-      "expected_total": 3.1,
+      "pick_prob": 0.755,
+      "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-13T14:55:23.535201+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-14T00:14:33.561247+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-13T23:03:56.206773+00:00"
+  "last_modified_at": "2026-05-14T00:14:33.561801+00:00"
 }
