@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:15:57.141192+00:00",
+      "last_refreshed_at": "2026-05-15T23:16:06.435221+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,15 +181,15 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "TEX",
       "pick_prob": 0.524,
-      "expected_total": 4.4,
+      "expected_total": 4.8,
       "v2_pick": "TEX",
       "v2_conf": 0.533,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:16:10.070556+00:00",
+      "last_refreshed_at": "2026-05-15T23:16:09.547376+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:16:23.224256+00:00",
+      "last_refreshed_at": "2026-05-15T23:16:22.430139+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "kyle freeland",
       "pick": "AZ",
       "pick_prob": 0.727,
-      "expected_total": 5.2,
+      "expected_total": 5.0,
       "v2_pick": "AZ",
       "v2_conf": 0.579,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:16:26.959780+00:00",
+      "last_refreshed_at": "2026-05-15T23:16:35.282303+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -240,20 +240,20 @@
       "home_team": "LAA",
       "game_time_kst": "10:38",
       "game_date_kst": "2026-05-16",
-      "away_pitcher": "blake snell",
+      "away_pitcher": "will klein",
       "home_pitcher": "jack kochanowicz",
       "pick": "LAD",
-      "pick_prob": 0.837,
-      "expected_total": 4.4,
+      "pick_prob": 0.813,
+      "expected_total": 4.9,
       "v2_pick": "LAD",
-      "v2_conf": 0.648,
+      "v2_conf": 0.603,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:35:12.827551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:16:38.885589+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823140,
@@ -264,17 +264,17 @@
       "away_pitcher": "randy vásquez",
       "home_pitcher": "emerson hancock",
       "pick": "SEA",
-      "pick_prob": 0.545,
-      "expected_total": 5.2,
-      "v2_pick": "SEA",
-      "v2_conf": 0.518,
-      "consensus": true,
+      "pick_prob": 0.514,
+      "expected_total": 5.7,
+      "v2_pick": "SD",
+      "v2_conf": 0.513,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:35:12.827551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:16:41.805733+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825009,
@@ -285,17 +285,17 @@
       "away_pitcher": "tyler mahle",
       "home_pitcher": "aaron civale",
       "pick": "ATH",
-      "pick_prob": 0.608,
-      "expected_total": 4.1,
+      "pick_prob": 0.642,
+      "expected_total": 4.5,
       "v2_pick": "SF",
-      "v2_conf": 0.554,
+      "v2_conf": 0.51,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:35:12.827551+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:16:44.637005+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823707,
@@ -335,6 +335,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.9,
       "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823140,
+      "away_team": "SD",
+      "home_team": "SEA",
+      "away_pitcher": "randy vásquez",
+      "home_pitcher": "emerson hancock",
+      "tier": "disagree",
+      "v2_pick": "SD",
+      "v2_conf": 0.513,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 5.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -387,23 +404,6 @@
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 824360,
-      "away_team": "AZ",
-      "home_team": "COL",
-      "away_pitcher": "merrill kelly",
-      "home_pitcher": "kyle freeland",
-      "tier": "sweet_spot",
-      "v2_pick": "AZ",
-      "v2_conf": 0.579,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-15T22:16:26.960351+00:00"
+  "last_modified_at": "2026-05-15T23:16:44.637593+00:00"
 }
