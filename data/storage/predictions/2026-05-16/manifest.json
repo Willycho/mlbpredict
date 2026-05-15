@@ -28,12 +28,12 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "braxton ashcraft",
       "pick": "PIT",
-      "pick_prob": 0.532,
+      "pick_prob": 0.59,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T19:53:40.203598+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822739,
@@ -44,12 +44,12 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "zack littell",
       "pick": "BAL",
-      "pick_prob": 0.555,
-      "expected_total": 4.3,
+      "pick_prob": 0.536,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T19:53:40.843537+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824280,
@@ -60,12 +60,12 @@
       "away_pitcher": "trey yesavage",
       "home_pitcher": "brenan hanifee",
       "pick": "TOR",
-      "pick_prob": 0.507,
+      "pick_prob": 0.514,
       "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T19:53:41.547327+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824439,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-15T19:53:41.547930+00:00"
 }
