@@ -144,7 +144,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:03:16.192727+00:00",
+      "last_refreshed_at": "2026-05-15T23:11:20.188021+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "TEX",
       "pick_prob": 0.524,
-      "expected_total": 4.4,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:03:26.597264+00:00",
+      "last_refreshed_at": "2026-05-15T23:11:20.779033+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "dustin may",
       "pick": "KC",
       "pick_prob": 0.648,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:03:37.028118+00:00",
+      "last_refreshed_at": "2026-05-15T23:11:21.450800+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "kyle freeland",
       "pick": "AZ",
       "pick_prob": 0.727,
-      "expected_total": 5.0,
+      "expected_total": 5.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T22:03:47.527937+00:00",
+      "last_refreshed_at": "2026-05-15T23:11:22.057885+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,15 +201,15 @@
       "home_team": "LAA",
       "game_time_kst": "10:38",
       "game_date_kst": "2026-05-16",
-      "away_pitcher": "blake snell",
+      "away_pitcher": "will klein",
       "home_pitcher": "jack kochanowicz",
       "pick": "LAD",
-      "pick_prob": 0.837,
-      "expected_total": 4.4,
+      "pick_prob": 0.813,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:11:23.125673+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823140,
@@ -220,12 +220,12 @@
       "away_pitcher": "randy vásquez",
       "home_pitcher": "emerson hancock",
       "pick": "SEA",
-      "pick_prob": 0.545,
-      "expected_total": 5.2,
+      "pick_prob": 0.514,
+      "expected_total": 5.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:11:23.796640+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825009,
@@ -236,13 +236,13 @@
       "away_pitcher": "tyler mahle",
       "home_pitcher": "aaron civale",
       "pick": "ATH",
-      "pick_prob": 0.608,
-      "expected_total": 4.1,
+      "pick_prob": 0.642,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T23:11:24.379283+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-15T22:03:47.528646+00:00"
+  "last_modified_at": "2026-05-15T23:11:24.379922+00:00"
 }
