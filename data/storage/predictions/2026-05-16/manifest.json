@@ -32,7 +32,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:34.889943+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:10.563963+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,11 +44,11 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "zack littell",
       "pick": "BAL",
-      "pick_prob": 0.536,
-      "expected_total": 4.2,
+      "pick_prob": 0.577,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:35.737033+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:11.508427+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:36.555554+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:12.542474+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:37.350002+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:13.384908+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:38.212952+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:13.609034+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:39.045966+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:14.477364+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:39.869359+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:15.356347+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T20:58:40.689630+00:00",
+      "last_refreshed_at": "2026-05-15T22:03:16.192727+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "spencer arrighetti",
       "pick": "TEX",
-      "pick_prob": 0.525,
-      "expected_total": 4.9,
+      "pick_prob": 0.524,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T22:03:26.597264+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823061,
@@ -172,12 +172,12 @@
       "away_pitcher": "michael wacha",
       "home_pitcher": "dustin may",
       "pick": "KC",
-      "pick_prob": 0.592,
-      "expected_total": 4.7,
+      "pick_prob": 0.648,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T22:03:37.028118+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824360,
@@ -188,12 +188,12 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "kyle freeland",
       "pick": "AZ",
-      "pick_prob": 0.763,
+      "pick_prob": 0.727,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-15T14:29:34.678000+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-15T22:03:47.527937+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824037,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-15T20:58:40.690195+00:00"
+  "last_modified_at": "2026-05-15T22:03:47.528646+00:00"
 }
