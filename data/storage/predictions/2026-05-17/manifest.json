@@ -109,10 +109,10 @@
       "home_pitcher": "joey cantillo",
       "pick": "CLE",
       "pick_prob": 0.721,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:29.654189+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:33.545441+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:30.504219+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:34.112731+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "jameson taillon",
       "home_pitcher": "davis martin",
       "pick": "CHC",
-      "pick_prob": 0.701,
+      "pick_prob": 0.71,
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:31.369859+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:34.686042+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "Connor Prielipp",
       "pick": "MIL",
       "pick_prob": 0.623,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:32.203807+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:35.239261+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,11 +172,11 @@
       "away_pitcher": "walker buehler",
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
-      "pick_prob": 0.835,
-      "expected_total": 4.5,
+      "pick_prob": 0.83,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:33.091243+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:35.825037+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "bryce elder",
       "pick": "ATL",
       "pick_prob": 0.522,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:33.924641+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:36.403167+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T20:28:34.805131+00:00",
+      "last_refreshed_at": "2026-05-16T21:25:36.971845+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-16T20:28:34.805724+00:00"
+  "last_modified_at": "2026-05-16T21:25:36.972484+00:00"
 }
