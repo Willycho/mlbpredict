@@ -176,7 +176,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T22:10:38.277447+00:00",
+      "last_refreshed_at": "2026-05-16T23:08:50.484537+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T22:10:39.032228+00:00",
+      "last_refreshed_at": "2026-05-16T23:08:51.396803+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "huascar brazobán",
       "pick": "NYY",
       "pick_prob": 0.59,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T22:10:39.817308+00:00",
+      "last_refreshed_at": "2026-05-16T23:08:52.199174+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "josé soriano",
       "pick": "LAD",
-      "pick_prob": 0.606,
-      "expected_total": 3.9,
+      "pick_prob": 0.614,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T23:08:53.045990+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825007,
@@ -236,13 +236,13 @@
       "away_pitcher": "trevor mcdonald",
       "home_pitcher": "luis severino",
       "pick": "SF",
-      "pick_prob": 0.709,
-      "expected_total": 4.1,
+      "pick_prob": 0.681,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T23:08:53.873226+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-16T22:10:39.817802+00:00"
+  "last_modified_at": "2026-05-16T23:08:53.873917+00:00"
 }
