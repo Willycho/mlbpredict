@@ -223,7 +223,7 @@
       "home_pitcher": "kyle freeland",
       "pick": "AZ",
       "pick_prob": 0.727,
-      "expected_total": 5.0,
+      "expected_total": 5.5,
       "v2_pick": "AZ",
       "v2_conf": 0.579,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T23:16:35.282303+00:00",
+      "last_refreshed_at": "2026-05-16T00:12:16.687429+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T23:16:38.885589+00:00",
+      "last_refreshed_at": "2026-05-16T00:12:20.281652+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "emerson hancock",
       "pick": "SEA",
       "pick_prob": 0.514,
-      "expected_total": 5.7,
+      "expected_total": 5.2,
       "v2_pick": "SD",
       "v2_conf": 0.513,
       "consensus": false,
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T23:16:41.805733+00:00",
+      "last_refreshed_at": "2026-05-16T00:12:33.222793+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "aaron civale",
       "pick": "ATH",
       "pick_prob": 0.642,
-      "expected_total": 4.5,
+      "expected_total": 4.1,
       "v2_pick": "SF",
       "v2_conf": 0.51,
       "consensus": false,
@@ -294,7 +294,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-15T23:16:44.637005+00:00",
+      "last_refreshed_at": "2026-05-16T00:12:46.185705+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -338,20 +338,20 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823140,
-      "away_team": "SD",
-      "home_team": "SEA",
-      "away_pitcher": "randy vásquez",
-      "home_pitcher": "emerson hancock",
-      "tier": "disagree",
-      "v2_pick": "SD",
-      "v2_conf": 0.513,
+      "game_id": 824360,
+      "away_team": "AZ",
+      "home_team": "COL",
+      "away_pitcher": "merrill kelly",
+      "home_pitcher": "kyle freeland",
+      "tier": "sweet_spot",
+      "v2_pick": "AZ",
+      "v2_conf": 0.579,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 5.7 vs line 4.5",
+      "conf": 0.833,
+      "detail": "Expected 5.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-15T23:16:44.637593+00:00"
+  "last_modified_at": "2026-05-16T00:12:46.186275+00:00"
 }
