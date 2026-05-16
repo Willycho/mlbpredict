@@ -2,7 +2,7 @@
   "game_id": 822737,
   "kst_date": "2026-05-17",
   "bulk_fetched_at": "2026-05-16T13:59:03.976256+00:00",
-  "last_refreshed_at": "2026-05-16T18:37:37.200442+00:00",
+  "last_refreshed_at": "2026-05-16T19:47:23.104741+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.529,
     "pick": "WSH",
     "pick_prob": 0.529,
-    "expected_total": 4.4,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.15,
+      "expected": 2.2,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.35
+      "gap": 0.3
     },
     "home_team_total": {
-      "expected": 2.25,
+      "expected": 2.3,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.25
+      "gap": 0.2
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "BAL UNDER 2.5",
-        "conf": 0.675,
-        "detail": "Expected 2.15"
+        "conf": 0.65,
+        "detail": "Expected 2.2"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 7.5,
+      "speed_mph": 14.6,
       "direction": "out",
-      "adj": 0.16
+      "adj": 0.23
     },
     "away_pitch_detail": [
       {
