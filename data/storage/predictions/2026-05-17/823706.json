@@ -1,0 +1,132 @@
+{
+  "game_id": 823706,
+  "kst_date": "2026-05-17",
+  "bulk_fetched_at": "2026-05-16T13:51:44.375667+00:00",
+  "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 823706,
+    "away_team": "MIL",
+    "home_team": "MIN",
+    "game_time_kst": "08:10",
+    "game_date_kst": "2026-05-17",
+    "away_pitcher": {
+      "id": 701656,
+      "name": "logan henderson",
+      "team": "MIL",
+      "throws": "R",
+      "total_score": 75.2,
+      "season_score": 82.0,
+      "arsenal_score": 77.9,
+      "recent_form_score": null,
+      "home_away_adj": -5.0,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 687570,
+      "name": "Connor Prielipp",
+      "team": "MIN",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "away_matchup": {
+      "matchup_score": 61.0,
+      "arsenal_matchup": 68.4,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 20
+    },
+    "home_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 17
+    },
+    "effective_away": 68.9,
+    "effective_home": 54.5,
+    "win_prob_away": 0.66,
+    "win_prob_home": 0.34,
+    "pick": "MIL",
+    "pick_prob": 0.66,
+    "expected_total": 4.4,
+    "away_team_total": {
+      "expected": 2.64,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.14
+    },
+    "home_team_total": {
+      "expected": 1.76,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.26
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "20+17",
+        "type": "ML",
+        "pick": "F5 MIL",
+        "conf": 0.66,
+        "detail": "F5 MIL ML"
+      }
+    ],
+    "grade": "sweet_spot",
+    "grade_label": "SWEET SPOT",
+    "wind": {
+      "speed_mph": 9.1,
+      "direction": "out",
+      "adj": 0.26
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.488,
+        "pitcher_xwoba": 0.304,
+        "team_xwoba": 0.332,
+        "league_xwoba": 0.345,
+        "advantage": 0.0273
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.4,
+        "pitcher_xwoba": 0.284,
+        "team_xwoba": 0.268,
+        "league_xwoba": 0.29,
+        "advantage": 0.0137
+      },
+      {
+        "pitch_type": "FC",
+        "usage": 0.078,
+        "pitcher_xwoba": 0.282,
+        "team_xwoba": 0.365,
+        "league_xwoba": 0.343,
+        "advantage": 0.0192
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.034,
+        "pitcher_xwoba": 0.386,
+        "team_xwoba": 0.3,
+        "league_xwoba": 0.288,
+        "advantage": -0.055
+      }
+    ],
+    "home_pitch_detail": [],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    }
+  },
+  "locked_away_pitcher_id": 701656,
+  "locked_home_pitcher_id": 687570
+}
