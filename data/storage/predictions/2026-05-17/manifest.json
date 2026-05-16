@@ -29,10 +29,10 @@
       "home_pitcher": "kyle leahy",
       "pick": "KC",
       "pick_prob": 0.624,
-      "expected_total": 4.3,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T17:14:29.085744+00:00",
+      "last_refreshed_at": "2026-05-16T18:07:56.135453+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,11 +44,11 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "tomoyuki sugano",
       "pick": "AZ",
-      "pick_prob": 0.742,
+      "pick_prob": 0.775,
       "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T17:14:29.673194+00:00",
+      "last_refreshed_at": "2026-05-16T18:07:56.706000+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,11 +60,11 @@
       "away_pitcher": "chris bassitt",
       "home_pitcher": "cade cavalli",
       "pick": "WSH",
-      "pick_prob": 0.559,
-      "expected_total": 4.5,
+      "pick_prob": 0.529,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T17:14:30.268723+00:00",
+      "last_refreshed_at": "2026-05-16T18:07:57.373822+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,11 +76,11 @@
       "away_pitcher": "cristopher sánchez",
       "home_pitcher": "bubba chandler",
       "pick": "PHI",
-      "pick_prob": 0.625,
+      "pick_prob": 0.584,
       "expected_total": 3.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T17:14:30.864232+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T18:07:57.972037+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T17:14:31.048023+00:00",
+      "last_refreshed_at": "2026-05-16T18:07:58.142030+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-16T17:14:31.048725+00:00"
+  "last_modified_at": "2026-05-16T18:07:58.142690+00:00"
 }
