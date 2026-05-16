@@ -285,17 +285,17 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "josé soriano",
       "pick": "LAD",
-      "pick_prob": 0.606,
-      "expected_total": 3.9,
+      "pick_prob": 0.614,
+      "expected_total": 4.3,
       "v2_pick": "LAD",
-      "v2_conf": 0.564,
+      "v2_conf": 0.562,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:59:03.976256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T23:32:56.932990+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825007,
@@ -306,17 +306,17 @@
       "away_pitcher": "trevor mcdonald",
       "home_pitcher": "luis severino",
       "pick": "SF",
-      "pick_prob": 0.709,
-      "expected_total": 4.1,
+      "pick_prob": 0.681,
+      "expected_total": 3.9,
       "v2_pick": "SF",
-      "v2_conf": 0.581,
+      "v2_conf": 0.582,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:59:03.976256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T23:32:59.847087+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 5,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-16T22:28:20.772083+00:00"
+  "last_modified_at": "2026-05-16T23:32:59.847525+00:00"
 }
