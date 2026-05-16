@@ -12,17 +12,17 @@
       "away_pitcher": "mason fluharty",
       "home_pitcher": "casey mize",
       "pick": "TOR",
-      "pick_prob": 0.535,
-      "expected_total": 3.8,
+      "pick_prob": 0.549,
+      "expected_total": 3.7,
       "v2_pick": "TOR",
-      "v2_conf": 0.559,
+      "v2_conf": 0.59,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:59:03.976256+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T15:14:01.425200+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823060,
@@ -345,13 +345,13 @@
       "home_pitcher": "casey mize",
       "tier": "consensus",
       "v2_pick": "TOR",
-      "v2_conf": 0.559,
-      "lineup": "roster",
-      "n_batters": "17+17",
+      "v2_conf": 0.59,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 3.8 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 5,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-16T15:14:01.425738+00:00"
 }
