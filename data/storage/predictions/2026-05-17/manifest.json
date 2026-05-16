@@ -29,10 +29,10 @@
       "home_pitcher": "kyle leahy",
       "pick": "KC",
       "pick_prob": 0.624,
-      "expected_total": 4.1,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T16:08:45.666032+00:00",
+      "last_refreshed_at": "2026-05-16T17:14:29.085744+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "tomoyuki sugano",
       "pick": "AZ",
-      "pick_prob": 0.776,
+      "pick_prob": 0.742,
       "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T17:14:29.673194+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822737,
@@ -60,12 +60,12 @@
       "away_pitcher": "chris bassitt",
       "home_pitcher": "cade cavalli",
       "pick": "WSH",
-      "pick_prob": 0.517,
-      "expected_total": 4.7,
+      "pick_prob": 0.559,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T17:14:30.268723+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823382,
@@ -77,11 +77,11 @@
       "home_pitcher": "bubba chandler",
       "pick": "PHI",
       "pick_prob": 0.625,
-      "expected_total": 3.5,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-16T17:14:30.864232+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822981,
@@ -92,12 +92,12 @@
       "away_pitcher": "sandy alcántara",
       "home_pitcher": "nick martínez",
       "pick": "TB",
-      "pick_prob": 0.635,
+      "pick_prob": 0.652,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T17:14:31.048023+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824435,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-16T16:08:45.666603+00:00"
+  "last_modified_at": "2026-05-16T17:14:31.048725+00:00"
 }
