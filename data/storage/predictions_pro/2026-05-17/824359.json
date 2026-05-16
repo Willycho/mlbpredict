@@ -2,8 +2,8 @@
   "game_id": 824359,
   "kst_date": "2026-05-17",
   "bulk_fetched_at": "2026-05-16T13:59:03.976256+00:00",
-  "last_refreshed_at": "2026-05-16T13:59:03.976256+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-16T16:15:07.619100+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824359,
@@ -55,52 +55,40 @@
     "win_prob_home": 0.224,
     "pick": "AZ",
     "pick_prob": 0.776,
-    "expected_total": 5.2,
+    "expected_total": 5.6,
     "away_team_total": {
-      "expected": 3.18,
+      "expected": 3.43,
       "line": 3.5,
       "pick": "UNDER",
-      "gap": 0.32
+      "gap": 0.07
     },
     "home_team_total": {
-      "expected": 2.02,
+      "expected": 2.17,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.48
+      "gap": 0.33
     },
     "sweet_picks": [
       {
         "lineup": "roster",
         "n_batters": "22+21",
-        "type": "TT",
-        "pick": "COL UNDER 2.5",
-        "conf": 0.74,
-        "detail": "Expected 2.02"
-      },
-      {
-        "lineup": "roster",
-        "n_batters": "22+21",
         "type": "OU",
         "pick": "F5 OVER 4.5",
-        "conf": 0.733,
-        "detail": "Expected 5.2 vs line 4.5"
+        "conf": 0.867,
+        "detail": "Expected 5.6 vs line 4.5"
       },
       {
         "lineup": "roster",
         "n_batters": "22+21",
         "type": "TT",
-        "pick": "AZ UNDER 3.5",
-        "conf": 0.66,
-        "detail": "Expected 3.18"
+        "pick": "COL UNDER 2.5",
+        "conf": 0.665,
+        "detail": "Expected 2.17"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": {
-      "speed_mph": 8.1,
-      "direction": "in",
-      "adj": -0.24
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -220,5 +208,6 @@
     "v2_f5_total": 6.5
   },
   "locked_away_pitcher_id": 593958,
-  "locked_home_pitcher_id": 608372
+  "locked_home_pitcher_id": 608372,
+  "pitcher_changed_at_refresh": false
 }
