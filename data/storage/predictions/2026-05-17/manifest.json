@@ -16,7 +16,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T15:04:09.866049+00:00",
+      "last_refreshed_at": "2026-05-16T16:08:45.019779+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -28,12 +28,12 @@
       "away_pitcher": "noah cameron",
       "home_pitcher": "kyle leahy",
       "pick": "KC",
-      "pick_prob": 0.551,
+      "pick_prob": 0.624,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-16T13:51:44.375667+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-16T16:08:45.666032+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824359,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-16T15:04:09.866593+00:00"
+  "last_modified_at": "2026-05-16T16:08:45.666603+00:00"
 }
