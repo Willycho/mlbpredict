@@ -128,7 +128,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T16:59:00.721899+00:00",
+      "last_refreshed_at": "2026-05-17T18:02:22.895694+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T16:59:01.570650+00:00",
+      "last_refreshed_at": "2026-05-17T18:02:23.588767+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "bailey ober",
       "pick": "MIL",
       "pick_prob": 0.742,
-      "expected_total": 4.1,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T16:59:11.993462+00:00",
+      "last_refreshed_at": "2026-05-17T18:02:24.288596+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "andre pallante",
       "pick": "KC",
       "pick_prob": 0.57,
-      "expected_total": 4.7,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T16:59:22.405534+00:00",
+      "last_refreshed_at": "2026-05-17T18:02:25.003504+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "michael lorenzen",
       "pick": "AZ",
       "pick_prob": 0.753,
-      "expected_total": 5.1,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T16:59:32.833368+00:00",
+      "last_refreshed_at": "2026-05-17T18:02:25.737913+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "jeffrey springs",
       "pick": "SF",
-      "pick_prob": 0.538,
-      "expected_total": 4.3,
+      "pick_prob": 0.524,
+      "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-17T13:52:22.087733+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-17T18:02:26.438521+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824034,
@@ -220,12 +220,12 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
-      "pick_prob": 0.647,
-      "expected_total": 4.4,
+      "pick_prob": 0.629,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-17T13:52:22.087733+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-17T18:02:27.154810+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823138,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-17T16:59:32.833964+00:00"
+  "last_modified_at": "2026-05-17T18:02:27.155380+00:00"
 }
