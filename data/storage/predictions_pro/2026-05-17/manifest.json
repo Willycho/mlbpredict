@@ -286,7 +286,7 @@
       "home_pitcher": "josé soriano",
       "pick": "LAD",
       "pick_prob": 0.614,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "LAD",
       "v2_conf": 0.562,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T23:32:56.932990+00:00",
+      "last_refreshed_at": "2026-05-17T01:29:31.789705+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -315,7 +315,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-16T23:32:59.847087+00:00",
+      "last_refreshed_at": "2026-05-17T01:29:34.653681+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -412,5 +412,5 @@
     "sweet_spot_count": 5,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-16T23:32:59.847525+00:00"
+  "last_modified_at": "2026-05-17T01:29:34.654254+00:00"
 }
