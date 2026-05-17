@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T18:46:51.539990+00:00",
+      "last_refreshed_at": "2026-05-17T19:57:27.357075+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,15 +286,15 @@
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
       "pick_prob": 0.629,
-      "expected_total": 4.4,
+      "expected_total": 4.7,
       "v2_pick": "LAD",
       "v2_conf": 0.511,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T18:47:04.094745+00:00",
+      "last_refreshed_at": "2026-05-17T19:57:31.046346+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-17T18:47:04.095126+00:00"
+  "last_modified_at": "2026-05-17T19:57:31.046904+00:00"
 }
