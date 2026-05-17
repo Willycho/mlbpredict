@@ -11,18 +11,18 @@
       "game_date_kst": "2026-05-18",
       "away_pitcher": "eury pérez",
       "home_pitcher": "drew rasmussen",
-      "pick": "MIA",
-      "pick_prob": 0.527,
+      "pick": "TB",
+      "pick_prob": 0.507,
       "expected_total": 3.6,
       "v2_pick": "TB",
       "v2_conf": 0.539,
-      "consensus": false,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-17T13:56:57.720679+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-17T14:17:48.126432+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822738,
@@ -360,11 +360,11 @@
       "home_team": "TB",
       "away_pitcher": "eury pérez",
       "home_pitcher": "drew rasmussen",
-      "tier": "disagree",
+      "tier": "consensus",
       "v2_pick": "TB",
       "v2_conf": 0.539,
-      "lineup": "partial",
-      "n_batters": "21+9",
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.8,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 10,
     "sweet_spot_count": 2,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-17T14:17:48.127036+00:00"
 }
