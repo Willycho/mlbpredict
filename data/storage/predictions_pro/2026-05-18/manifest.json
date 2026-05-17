@@ -244,7 +244,7 @@
       "home_pitcher": "michael lorenzen",
       "pick": "AZ",
       "pick_prob": 0.753,
-      "expected_total": 5.1,
+      "expected_total": 4.9,
       "v2_pick": "AZ",
       "v2_conf": 0.552,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T17:40:18.893237+00:00",
+      "last_refreshed_at": "2026-05-17T18:46:48.570969+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,16 +264,16 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "jeffrey springs",
       "pick": "SF",
-      "pick_prob": 0.502,
-      "expected_total": 4.3,
+      "pick_prob": 0.524,
+      "expected_total": 3.5,
       "v2_pick": "ATH",
-      "v2_conf": 0.52,
+      "v2_conf": 0.522,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T17:40:31.123133+00:00",
+      "last_refreshed_at": "2026-05-17T18:46:51.539990+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,15 +286,15 @@
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
       "pick_prob": 0.629,
-      "expected_total": 4.7,
+      "expected_total": 4.4,
       "v2_pick": "LAD",
       "v2_conf": 0.511,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T17:40:33.616384+00:00",
+      "last_refreshed_at": "2026-05-17T18:47:04.094745+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-17T17:40:33.616876+00:00"
+  "last_modified_at": "2026-05-17T18:47:04.095126+00:00"
 }
