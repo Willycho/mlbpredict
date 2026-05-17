@@ -205,10 +205,10 @@
       "home_pitcher": "jeffrey springs",
       "pick": "SF",
       "pick_prob": 0.524,
-      "expected_total": 3.3,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T18:02:26.438521+00:00",
+      "last_refreshed_at": "2026-05-17T19:36:01.593383+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T18:02:27.154810+00:00",
+      "last_refreshed_at": "2026-05-17T19:36:02.522514+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-17T18:02:27.155380+00:00"
+  "last_modified_at": "2026-05-17T19:36:02.523018+00:00"
 }
