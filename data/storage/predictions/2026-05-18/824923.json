@@ -2,7 +2,7 @@
   "game_id": 824923,
   "kst_date": "2026-05-18",
   "bulk_fetched_at": "2026-05-17T13:52:22.087733+00:00",
-  "last_refreshed_at": "2026-05-17T15:57:02.572177+00:00",
+  "last_refreshed_at": "2026-05-17T16:58:57.307566+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.537,
     "pick": "ATL",
     "pick_prob": 0.537,
-    "expected_total": 3.9,
+    "expected_total": 3.8,
     "away_team_total": {
-      "expected": 1.83,
+      "expected": 1.78,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.33
+      "gap": 0.28
     },
     "home_team_total": {
-      "expected": 2.07,
+      "expected": 2.02,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.43
+      "gap": 0.48
     },
     "sweet_picks": [
       {
@@ -74,32 +74,24 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "ATL UNDER 2.5",
-        "conf": 0.715,
-        "detail": "Expected 2.07"
+        "conf": 0.74,
+        "detail": "Expected 2.02"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.7,
-        "detail": "Expected 3.9 vs line 4.5"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "BOS OVER 1.5",
-        "conf": 0.665,
-        "detail": "Expected 1.83"
+        "conf": 0.733,
+        "detail": "Expected 3.8 vs line 4.5"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 10.5,
+      "speed_mph": 10.7,
       "direction": "in",
-      "adj": -0.29
+      "adj": -0.31
     },
     "away_pitch_detail": [
       {

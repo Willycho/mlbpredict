@@ -29,10 +29,10 @@
       "home_pitcher": "richard lovelady",
       "pick": "BAL",
       "pick_prob": 0.622,
-      "expected_total": 5.1,
+      "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:01.400458+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:55.535814+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 2.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:01.986502+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:56.452168+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "grant holmes",
       "pick": "ATL",
       "pick_prob": 0.537,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:02.572177+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:57.307566+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:03.154091+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:58.177386+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "jack flaherty",
       "pick": "DET",
       "pick_prob": 0.532,
-      "expected_total": 3.0,
+      "expected_total": 2.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:03.724533+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:59.027888+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:04.268768+00:00",
+      "last_refreshed_at": "2026-05-17T16:58:59.861859+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:04.843963+00:00",
+      "last_refreshed_at": "2026-05-17T16:59:00.721899+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:05.428774+00:00",
+      "last_refreshed_at": "2026-05-17T16:59:01.570650+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "bailey ober",
       "pick": "MIL",
       "pick_prob": 0.742,
-      "expected_total": 3.6,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:06.004483+00:00",
+      "last_refreshed_at": "2026-05-17T16:59:11.993462+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "andre pallante",
       "pick": "KC",
       "pick_prob": 0.57,
-      "expected_total": 5.0,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-17T15:57:06.658620+00:00",
+      "last_refreshed_at": "2026-05-17T16:59:22.405534+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,12 +188,12 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "michael lorenzen",
       "pick": "AZ",
-      "pick_prob": 0.755,
+      "pick_prob": 0.753,
       "expected_total": 5.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-17T13:52:22.087733+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-17T16:59:32.833368+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825006,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-17T15:57:06.659179+00:00"
+  "last_modified_at": "2026-05-17T16:59:32.833964+00:00"
 }
