@@ -306,17 +306,17 @@
       "away_pitcher": "lucas giolito",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.706,
-      "expected_total": 3.9,
+      "pick_prob": 0.698,
+      "expected_total": 4.0,
       "v2_pick": "SEA",
-      "v2_conf": 0.539,
+      "v2_conf": 0.531,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-17T13:56:57.720679+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-17T21:06:47.463503+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-17T19:57:31.046904+00:00"
+  "last_modified_at": "2026-05-17T21:06:47.464171+00:00"
 }
