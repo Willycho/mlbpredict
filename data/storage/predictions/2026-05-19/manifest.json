@@ -13,10 +13,10 @@
       "home_pitcher": "framber valdez",
       "pick": "DET",
       "pick_prob": 0.776,
-      "expected_total": 3.4,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:48.116453+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:00.757622+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -32,7 +32,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:48.311569+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:01.061274+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:48.858808+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:01.849974+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -61,10 +61,10 @@
       "home_pitcher": "max meyer",
       "pick": "ATL",
       "pick_prob": 0.566,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:49.414347+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:02.647187+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 5.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:50.072333+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:03.425752+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "ryan weathers",
       "pick": "NYY",
       "pick_prob": 0.683,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:50.651764+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:04.226493+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:51.242423+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:05.032164+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:51.754073+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:05.694362+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
       "pick_prob": 0.652,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T20:44:52.322656+00:00",
+      "last_refreshed_at": "2026-05-18T21:53:06.481629+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,11 +157,11 @@
       "home_pitcher": "jose quintana",
       "pick": "TEX",
       "pick_prob": 0.718,
-      "expected_total": 4.9,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T15:53:03.666799+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-18T21:53:16.952324+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824035,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-18T20:44:52.323252+00:00"
+  "last_modified_at": "2026-05-18T21:53:16.953034+00:00"
 }
