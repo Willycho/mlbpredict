@@ -201,16 +201,16 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "jose quintana",
       "pick": "TEX",
-      "pick_prob": 0.718,
-      "expected_total": 4.8,
+      "pick_prob": 0.712,
+      "expected_total": 4.9,
       "v2_pick": "TEX",
-      "v2_conf": 0.518,
+      "v2_conf": 0.531,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T22:45:19.573646+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-18T23:52:47.362105+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:45:22.821141+00:00",
+      "last_refreshed_at": "2026-05-18T23:52:51.080905+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:45:35.539463+00:00",
+      "last_refreshed_at": "2026-05-18T23:53:04.612174+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:45:48.421855+00:00",
+      "last_refreshed_at": "2026-05-18T23:53:17.725875+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "bryan woo",
       "pick": "SEA",
       "pick_prob": 0.805,
-      "expected_total": 3.7,
+      "expected_total": 3.5,
       "v2_pick": "SEA",
       "v2_conf": 0.617,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:45:51.593182+00:00",
+      "last_refreshed_at": "2026-05-18T23:53:21.475213+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -314,6 +314,23 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.9,
       "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823137,
+      "away_team": "CWS",
+      "home_team": "SEA",
+      "away_pitcher": "Noah Schultz",
+      "home_pitcher": "bryan woo",
+      "tier": "consensus",
+      "v2_pick": "SEA",
+      "v2_conf": 0.617,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -351,23 +368,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823137,
-      "away_team": "CWS",
-      "home_team": "SEA",
-      "away_pitcher": "Noah Schultz",
-      "home_pitcher": "bryan woo",
-      "tier": "consensus",
-      "v2_pick": "SEA",
-      "v2_conf": 0.617,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 822734,
       "away_team": "NYM",
       "home_team": "WSH",
@@ -391,5 +391,5 @@
     "sweet_spot_count": 5,
     "total_games": 14
   },
-  "last_modified_at": "2026-05-18T22:45:51.593707+00:00"
+  "last_modified_at": "2026-05-18T23:53:21.475757+00:00"
 }
