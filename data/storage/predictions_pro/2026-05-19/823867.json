@@ -2,7 +2,7 @@
   "game_id": 823867,
   "kst_date": "2026-05-19",
   "bulk_fetched_at": "2026-05-18T15:57:02.864985+00:00",
-  "last_refreshed_at": "2026-05-18T20:08:28.155425+00:00",
+  "last_refreshed_at": "2026-05-18T21:42:56.887739+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,52 +55,48 @@
     "win_prob_home": 0.434,
     "pick": "ATL",
     "pick_prob": 0.566,
-    "expected_total": 4.0,
+    "expected_total": 4.1,
     "away_team_total": {
-      "expected": 2.07,
+      "expected": 2.12,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.43
+      "gap": 0.38
     },
     "home_team_total": {
-      "expected": 1.93,
+      "expected": 1.98,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.43
+      "gap": 0.48
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
-        "pick": "ATL UNDER 2.5",
-        "conf": 0.715,
-        "detail": "Expected 2.07"
+        "pick": "MIA OVER 1.5",
+        "conf": 0.74,
+        "detail": "Expected 1.98"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
-        "pick": "MIA OVER 1.5",
-        "conf": 0.715,
-        "detail": "Expected 1.93"
+        "pick": "ATL UNDER 2.5",
+        "conf": 0.69,
+        "detail": "Expected 2.12"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 4.0 vs line 4.5"
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
-    "wind": {
-      "speed_mph": 7.3,
-      "direction": "in",
-      "adj": -0.11
-    },
+    "wind": null,
     "away_pitch_detail": [],
     "home_pitch_detail": [
       {
