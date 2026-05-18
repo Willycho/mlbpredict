@@ -96,7 +96,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T21:53:04.226493+00:00",
+      "last_refreshed_at": "2026-05-18T22:58:59.455941+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T21:53:05.032164+00:00",
+      "last_refreshed_at": "2026-05-18T22:59:00.101260+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T21:53:05.694362+00:00",
+      "last_refreshed_at": "2026-05-18T22:59:00.715171+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
       "pick_prob": 0.652,
-      "expected_total": 4.8,
+      "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T21:53:06.481629+00:00",
+      "last_refreshed_at": "2026-05-18T22:59:01.394357+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "jose quintana",
       "pick": "TEX",
       "pick_prob": 0.718,
-      "expected_total": 5.1,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T21:53:16.952324+00:00",
+      "last_refreshed_at": "2026-05-18T22:59:02.088217+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "Walbert Ureña",
       "pick": "ATH",
-      "pick_prob": 0.688,
+      "pick_prob": 0.658,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T15:53:03.666799+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-18T22:59:02.731606+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823301,
@@ -188,12 +188,12 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "mike king",
       "pick": "LAD",
-      "pick_prob": 0.752,
+      "pick_prob": 0.767,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T15:53:03.666799+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-18T22:59:03.431607+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825087,
@@ -204,12 +204,12 @@
       "away_pitcher": "robbie ray",
       "home_pitcher": "zac gallen",
       "pick": "SF",
-      "pick_prob": 0.534,
-      "expected_total": 4.1,
+      "pick_prob": 0.506,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T15:53:03.666799+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-18T22:59:04.079037+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823137,
@@ -220,13 +220,13 @@
       "away_pitcher": "Noah Schultz",
       "home_pitcher": "bryan woo",
       "pick": "SEA",
-      "pick_prob": 0.81,
-      "expected_total": 3.7,
+      "pick_prob": 0.805,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T15:53:03.666799+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-18T22:59:04.703311+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-18T21:53:16.953034+00:00"
+  "last_modified_at": "2026-05-18T22:59:04.703918+00:00"
 }
