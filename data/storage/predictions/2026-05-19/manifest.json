@@ -156,11 +156,11 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "jose quintana",
       "pick": "TEX",
-      "pick_prob": 0.718,
-      "expected_total": 4.8,
+      "pick_prob": 0.712,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-18T22:59:02.088217+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T00:14:14.704623+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "Walbert Ureña",
       "pick": "ATH",
       "pick_prob": 0.658,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:59:02.731606+00:00",
+      "last_refreshed_at": "2026-05-19T00:14:15.487423+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:59:03.431607+00:00",
+      "last_refreshed_at": "2026-05-19T00:14:16.268872+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "zac gallen",
       "pick": "SF",
       "pick_prob": 0.506,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:59:04.079037+00:00",
+      "last_refreshed_at": "2026-05-19T00:14:17.055504+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,12 +221,12 @@
       "home_pitcher": "bryan woo",
       "pick": "SEA",
       "pick_prob": 0.805,
-      "expected_total": 3.6,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-18T22:59:04.703311+00:00",
+      "last_refreshed_at": "2026-05-19T00:14:17.828872+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-18T22:59:04.703918+00:00"
+  "last_modified_at": "2026-05-19T00:14:17.829376+00:00"
 }
