@@ -29,10 +29,10 @@
       "home_pitcher": "keider montero",
       "pick": "CLE",
       "pick_prob": 0.627,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:36.579019+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:16.678999+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 2.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:36.781602+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:17.045626+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:37.393051+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:18.064542+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:37.961299+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:18.978219+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:38.630348+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:19.910854+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:39.217591+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:20.803407+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 5.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:40.265395+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:21.684201+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "jacob misiorowski",
       "home_pitcher": "ben brown",
       "pick": "MIL",
-      "pick_prob": 0.585,
-      "expected_total": 4.1,
+      "pick_prob": 0.549,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:40.889622+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:22.574810+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T20:58:41.463107+00:00",
+      "last_refreshed_at": "2026-05-19T22:20:33.064921+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "tyler alexander",
       "home_pitcher": "sammy peralta",
       "pick": "COL",
-      "pick_prob": 0.539,
-      "expected_total": 5.0,
+      "pick_prob": 0.59,
+      "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:44:04.432007+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T22:20:43.586358+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824033,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-19T20:58:41.463749+00:00"
+  "last_modified_at": "2026-05-19T22:20:43.587109+00:00"
 }
