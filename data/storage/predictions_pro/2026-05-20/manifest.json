@@ -12,17 +12,17 @@
       "away_pitcher": "martín pérez",
       "home_pitcher": "braxton garrett",
       "pick": "MIA",
-      "pick_prob": 0.539,
-      "expected_total": 4.1,
+      "pick_prob": 0.585,
+      "expected_total": 4.2,
       "v2_pick": "ATL",
       "v2_conf": 0.502,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:49:33.987198+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T18:29:56.118763+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824276,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 6,
     "sweet_spot_count": 1,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-19T18:29:56.119296+00:00"
 }
