@@ -2,7 +2,7 @@
   "game_id": 824112,
   "kst_date": "2026-05-20",
   "bulk_fetched_at": "2026-05-19T15:49:33.987198+00:00",
-  "last_refreshed_at": "2026-05-19T21:51:30.536106+00:00",
+  "last_refreshed_at": "2026-05-19T22:58:50.245250+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.288,
     "pick": "BOS",
     "pick_prob": 0.712,
-    "expected_total": 4.5,
+    "expected_total": 4.1,
     "away_team_total": {
-      "expected": 2.71,
+      "expected": 2.47,
       "line": 2.5,
-      "pick": "OVER",
-      "gap": 0.21
+      "pick": "UNDER",
+      "gap": 0.03
     },
     "home_team_total": {
-      "expected": 1.79,
+      "expected": 1.63,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.29
+      "gap": 0.13
     },
     "sweet_picks": [
       {
@@ -76,11 +76,23 @@
         "pick": "F5 BOS",
         "conf": 0.712,
         "detail": "F5 BOS ML"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 8.9,
+      "direction": "in",
+      "adj": -0.22
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SI",

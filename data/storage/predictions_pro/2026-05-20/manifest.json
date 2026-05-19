@@ -118,7 +118,7 @@
       "home_pitcher": "will warren",
       "pick": "TOR",
       "pick_prob": 0.654,
-      "expected_total": 4.0,
+      "expected_total": 4.4,
       "v2_pick": "NYY",
       "v2_conf": 0.507,
       "consensus": false,
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:51:18.235792+00:00",
+      "last_refreshed_at": "2026-05-19T22:58:47.348722+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "bailey falter",
       "pick": "BOS",
       "pick_prob": 0.712,
-      "expected_total": 4.5,
+      "expected_total": 4.1,
       "v2_pick": "BOS",
       "v2_conf": 0.514,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:51:30.536106+00:00",
+      "last_refreshed_at": "2026-05-19T22:58:50.245250+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:51:33.443724+00:00",
+      "last_refreshed_at": "2026-05-19T22:58:52.831906+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "ben brown",
       "pick": "MIL",
       "pick_prob": 0.549,
-      "expected_total": 4.2,
+      "expected_total": 3.9,
       "v2_pick": "CHC",
       "v2_conf": 0.506,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:51:35.835388+00:00",
+      "last_refreshed_at": "2026-05-19T22:59:05.316217+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:51:48.024443+00:00",
+      "last_refreshed_at": "2026-05-19T22:59:17.897820+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "sammy peralta",
       "pick": "COL",
       "pick_prob": 0.59,
-      "expected_total": 5.2,
+      "expected_total": 5.0,
       "v2_pick": "TEX",
       "v2_conf": 0.52,
       "consensus": false,
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-19T21:52:00.331808+00:00",
+      "last_refreshed_at": "2026-05-19T22:59:20.487785+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "jacob lopez",
       "home_pitcher": "reid detmers",
       "pick": "LAA",
-      "pick_prob": 0.525,
+      "pick_prob": 0.534,
       "expected_total": 3.6,
       "v2_pick": "ATH",
-      "v2_conf": 0.513,
+      "v2_conf": 0.529,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:49:33.987198+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T22:59:23.304144+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823302,
@@ -264,17 +264,17 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "griffin canning",
       "pick": "LAD",
-      "pick_prob": 0.823,
-      "expected_total": 3.8,
+      "pick_prob": 0.817,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.555,
+      "v2_conf": 0.581,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:49:33.987198+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T22:59:25.936253+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825086,
@@ -285,17 +285,17 @@
       "away_pitcher": "landen roupp",
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
-      "pick_prob": 0.607,
+      "pick_prob": 0.652,
       "expected_total": 4.4,
       "v2_pick": "AZ",
-      "v2_conf": 0.558,
+      "v2_conf": 0.547,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:49:33.987198+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T22:59:38.217601+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823136,
@@ -306,17 +306,17 @@
       "away_pitcher": "anthony kay",
       "home_pitcher": "bryce miller",
       "pick": "SEA",
-      "pick_prob": 0.762,
+      "pick_prob": 0.746,
       "expected_total": 4.9,
       "v2_pick": "SEA",
-      "v2_conf": 0.59,
+      "v2_conf": 0.566,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-19T15:49:33.987198+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-19T22:59:40.828052+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -338,21 +338,38 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824356,
-      "away_team": "TEX",
-      "home_team": "COL",
-      "away_pitcher": "tyler alexander",
-      "home_pitcher": "sammy peralta",
-      "tier": "disagree",
-      "v2_pick": "TEX",
-      "v2_conf": 0.52,
+      "game_id": 823302,
+      "away_team": "LAD",
+      "home_team": "SD",
+      "away_pitcher": "emmet sheehan",
+      "home_pitcher": "griffin canning",
+      "tier": "consensus",
+      "v2_pick": "LAD",
+      "v2_conf": 0.581,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.733,
-      "detail": "Expected 5.2 vs line 4.5",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823136,
+      "away_team": "CWS",
+      "home_team": "SEA",
+      "away_pitcher": "anthony kay",
+      "home_pitcher": "bryce miller",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.566,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 SEA",
+      "conf": 0.746,
+      "detail": "F5 SEA ML",
+      "ml_consensus": true
     },
     {
       "game_id": 824112,
@@ -387,23 +404,6 @@
       "conf": 0.667,
       "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 822736,
-      "away_team": "NYM",
-      "home_team": "WSH",
-      "away_pitcher": "nolan mclean",
-      "home_pitcher": "Foster Griffin",
-      "tier": "sweet_spot",
-      "v2_pick": "NYM",
-      "v2_conf": 0.58,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 NYM",
-      "conf": 0.657,
-      "detail": "F5 NYM ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-19T21:52:00.332381+00:00"
+  "last_modified_at": "2026-05-19T22:59:40.828667+00:00"
 }
