@@ -1,0 +1,161 @@
+{
+  "game_id": 822736,
+  "kst_date": "2026-05-20",
+  "bulk_fetched_at": "2026-05-19T15:44:04.432007+00:00",
+  "last_refreshed_at": "2026-05-19T15:44:04.432007+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 822736,
+    "away_team": "NYM",
+    "home_team": "WSH",
+    "game_time_kst": "07:45",
+    "game_date_kst": "2026-05-20",
+    "away_pitcher": {
+      "id": 690997,
+      "name": "nolan mclean",
+      "team": "NYM",
+      "throws": "R",
+      "total_score": 83.5,
+      "season_score": 82.7,
+      "arsenal_score": 77.1,
+      "recent_form_score": null,
+      "home_away_adj": 3.2,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 656492,
+      "name": "Foster Griffin",
+      "team": "WSH",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "away_matchup": {
+      "matchup_score": 58.0,
+      "arsenal_matchup": 62.4,
+      "h2h_bonus": 1.2,
+      "lineup_source": "roster",
+      "n_batters": 19
+    },
+    "home_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 15
+    },
+    "effective_away": 71.3,
+    "effective_home": 53.8,
+    "win_prob_away": 0.691,
+    "win_prob_home": 0.309,
+    "pick": "NYM",
+    "pick_prob": 0.691,
+    "expected_total": 3.8,
+    "away_team_total": {
+      "expected": 2.32,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.18
+    },
+    "home_team_total": {
+      "expected": 1.48,
+      "line": 1.5,
+      "pick": "UNDER",
+      "gap": 0.02
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "19+15",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.733,
+        "detail": "Expected 3.8 vs line 4.5"
+      },
+      {
+        "lineup": "roster",
+        "n_batters": "19+15",
+        "type": "ML",
+        "pick": "F5 NYM",
+        "conf": 0.691,
+        "detail": "F5 NYM ML"
+      }
+    ],
+    "grade": "sweet_spot",
+    "grade_label": "SWEET SPOT",
+    "wind": {
+      "speed_mph": 3.5,
+      "direction": "in",
+      "adj": -0.05
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "SI",
+        "usage": 0.279,
+        "pitcher_xwoba": 0.284,
+        "team_xwoba": 0.336,
+        "league_xwoba": 0.351,
+        "advantage": 0.0407
+      },
+      {
+        "pitch_type": "ST",
+        "usage": 0.257,
+        "pitcher_xwoba": 0.447,
+        "team_xwoba": 0.261,
+        "league_xwoba": 0.267,
+        "advantage": -0.0872
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.159,
+        "pitcher_xwoba": 0.101,
+        "team_xwoba": 0.229,
+        "league_xwoba": 0.283,
+        "advantage": 0.1177
+      },
+      {
+        "pitch_type": "FF",
+        "usage": 0.133,
+        "pitcher_xwoba": 0.289,
+        "team_xwoba": 0.354,
+        "league_xwoba": 0.345,
+        "advantage": 0.0237
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.087,
+        "pitcher_xwoba": 0.278,
+        "team_xwoba": 0.282,
+        "league_xwoba": 0.29,
+        "advantage": 0.0099
+      },
+      {
+        "pitch_type": "FC",
+        "usage": 0.085,
+        "pitcher_xwoba": 0.309,
+        "team_xwoba": 0.36,
+        "league_xwoba": 0.343,
+        "advantage": 0.0088
+      }
+    ],
+    "home_pitch_detail": [],
+    "away_h2h_detail": {
+      "total_pa": 22,
+      "n_batters": 9,
+      "w_k_rate": 0.273,
+      "w_bb_rate": 0.091,
+      "w_hr_rate": 0.0,
+      "confidence": 0.44
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    }
+  },
+  "locked_away_pitcher_id": 690997,
+  "locked_home_pitcher_id": 656492
+}
