@@ -124,12 +124,12 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "janson junk",
       "pick": "ATL",
-      "pick_prob": 0.732,
-      "expected_total": 2.9,
+      "pick_prob": 0.748,
+      "expected_total": 3.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T20:33:04.191367+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822735,
@@ -140,12 +140,12 @@
       "away_pitcher": "Zach Thornton",
       "home_pitcher": "zack littell",
       "pick": "NYM",
-      "pick_prob": 0.613,
-      "expected_total": 4.4,
+      "pick_prob": 0.596,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T20:33:04.995706+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823547,
@@ -155,13 +155,13 @@
       "game_date_kst": "2026-05-21",
       "away_pitcher": "trey yesavage",
       "home_pitcher": "cam schlittler",
-      "pick": "NYY",
-      "pick_prob": 0.542,
-      "expected_total": 3.9,
+      "pick": "TOR",
+      "pick_prob": 0.515,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T20:33:05.938530+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824111,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-20T18:14:24.368118+00:00"
+  "last_modified_at": "2026-05-20T20:33:05.939074+00:00"
 }
