@@ -221,10 +221,10 @@
       "home_pitcher": "randy vásquez",
       "pick": "LAD",
       "pick_prob": 0.882,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T22:15:27.107139+00:00",
+      "last_refreshed_at": "2026-05-20T23:41:26.800672+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "aaron civale",
       "home_pitcher": "jack kochanowicz",
       "pick": "ATH",
-      "pick_prob": 0.725,
-      "expected_total": 5.1,
+      "pick_prob": 0.713,
+      "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T23:41:27.370862+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-20T22:15:27.107765+00:00"
+  "last_modified_at": "2026-05-20T23:41:27.371508+00:00"
 }
