@@ -117,16 +117,16 @@
       "away_pitcher": "sean burke",
       "home_pitcher": "emerson hancock",
       "pick": "SEA",
-      "pick_prob": 0.512,
-      "expected_total": 4.8,
+      "pick_prob": 0.524,
+      "expected_total": 4.5,
       "v2_pick": "SEA",
-      "v2_conf": 0.547,
+      "v2_conf": 0.523,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T17:36:17.166337+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T19:54:21.041428+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "janson junk",
       "pick": "ATL",
-      "pick_prob": 0.732,
-      "expected_total": 2.9,
+      "pick_prob": 0.748,
+      "expected_total": 3.0,
       "v2_pick": "ATL",
-      "v2_conf": 0.523,
+      "v2_conf": 0.563,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:55:22.908377+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T19:54:23.924192+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822735,
@@ -162,14 +162,14 @@
       "pick_prob": 0.613,
       "expected_total": 4.4,
       "v2_pick": "NYM",
-      "v2_conf": 0.561,
+      "v2_conf": 0.557,
       "consensus": true,
       "ou_consensus": false,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:55:22.908377+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T19:54:39.982001+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823547,
@@ -328,13 +328,13 @@
       "home_pitcher": "janson junk",
       "tier": "sweet_spot",
       "v2_pick": "ATL",
-      "v2_conf": 0.523,
-      "lineup": "roster",
-      "n_batters": "21+18",
+      "v2_conf": 0.563,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.95,
-      "detail": "Expected 2.9 vs line 4.5",
+      "detail": "Expected 3.0 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -379,12 +379,12 @@
       "home_pitcher": "janson junk",
       "tier": "sweet_spot",
       "v2_pick": "ATL",
-      "v2_conf": 0.523,
-      "lineup": "roster",
-      "n_batters": "21+18",
+      "v2_conf": 0.563,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 ATL",
-      "conf": 0.732,
+      "conf": 0.748,
       "detail": "F5 ATL ML",
       "ml_consensus": true
     },
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-20T17:36:17.166928+00:00"
+  "last_modified_at": "2026-05-20T19:54:39.982546+00:00"
 }

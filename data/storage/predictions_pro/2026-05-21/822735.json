@@ -2,8 +2,8 @@
   "game_id": 822735,
   "kst_date": "2026-05-21",
   "bulk_fetched_at": "2026-05-20T15:55:22.908377+00:00",
-  "last_refreshed_at": "2026-05-20T15:55:22.908377+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-20T19:54:39.982001+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 822735,
@@ -39,8 +39,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 19
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 38.9,
@@ -70,8 +70,8 @@
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "19+15",
+        "lineup": "partial",
+        "n_batters": "9+15",
         "type": "TT",
         "pick": "WSH UNDER 2.5",
         "conf": 0.705,
@@ -80,11 +80,7 @@
     ],
     "grade": "good",
     "grade_label": "GOOD",
-    "wind": {
-      "speed_mph": 6.8,
-      "direction": "cross",
-      "adj": 0.0
-    },
+    "wind": null,
     "away_pitch_detail": [],
     "home_pitch_detail": [
       {
@@ -140,12 +136,13 @@
       "confidence": 0.6
     },
     "v2_pick": "NYM",
-    "v2_conf": 0.561,
+    "v2_conf": 0.557,
     "consensus": true,
     "tier": "good",
     "ou_consensus": false,
-    "v2_f5_total": 4.8
+    "v2_f5_total": 4.9
   },
   "locked_away_pitcher_id": 804267,
-  "locked_home_pitcher_id": 641793
+  "locked_home_pitcher_id": 641793,
+  "pitcher_changed_at_refresh": false
 }
