@@ -76,12 +76,12 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "kyle freeland",
       "pick": "TEX",
-      "pick_prob": 0.603,
+      "pick_prob": 0.554,
       "expected_total": 5.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T18:14:22.691168+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825084,
@@ -92,12 +92,12 @@
       "away_pitcher": "tyler mahle",
       "home_pitcher": "merrill kelly",
       "pick": "AZ",
-      "pick_prob": 0.636,
+      "pick_prob": 0.625,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T18:14:23.521904+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823134,
@@ -107,13 +107,13 @@
       "game_date_kst": "2026-05-21",
       "away_pitcher": "sean burke",
       "home_pitcher": "emerson hancock",
-      "pick": "CWS",
-      "pick_prob": 0.508,
-      "expected_total": 4.5,
+      "pick": "SEA",
+      "pick_prob": 0.524,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T18:14:24.367501+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823866,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-20T18:14:24.368118+00:00"
 }
