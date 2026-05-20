@@ -244,7 +244,7 @@
       "home_pitcher": "michael mcgreevy",
       "pick": "PIT",
       "pick_prob": 0.681,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "PIT",
       "v2_conf": 0.541,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T22:04:01.680993+00:00",
+      "last_refreshed_at": "2026-05-20T23:38:32.967577+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "randy vásquez",
       "pick": "LAD",
       "pick_prob": 0.882,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "v2_pick": "LAD",
       "v2_conf": 0.58,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T22:04:03.780881+00:00",
+      "last_refreshed_at": "2026-05-20T23:38:34.939823+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "aaron civale",
       "home_pitcher": "jack kochanowicz",
       "pick": "ATH",
-      "pick_prob": 0.725,
-      "expected_total": 5.1,
+      "pick_prob": 0.713,
+      "expected_total": 5.2,
       "v2_pick": "ATH",
-      "v2_conf": 0.588,
+      "v2_conf": 0.581,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:55:22.908377+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T23:38:36.858366+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824273,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-20T22:04:03.781555+00:00"
+  "last_modified_at": "2026-05-20T23:38:36.859019+00:00"
 }
