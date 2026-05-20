@@ -125,10 +125,10 @@
       "home_pitcher": "janson junk",
       "pick": "ATL",
       "pick_prob": 0.748,
-      "expected_total": 3.0,
+      "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T20:33:04.191367+00:00",
+      "last_refreshed_at": "2026-05-20T22:15:22.286682+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "zack littell",
       "pick": "NYM",
       "pick_prob": 0.596,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T20:33:04.995706+00:00",
+      "last_refreshed_at": "2026-05-20T22:15:23.056808+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "cam schlittler",
       "pick": "TOR",
       "pick_prob": 0.515,
-      "expected_total": 4.2,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-20T20:33:05.938530+00:00",
+      "last_refreshed_at": "2026-05-20T22:15:23.978060+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "connelly early",
       "home_pitcher": "michael wacha",
       "pick": "BOS",
-      "pick_prob": 0.765,
+      "pick_prob": 0.737,
       "expected_total": 3.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T22:15:24.723192+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824678,
@@ -188,12 +188,12 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "edward cabrera",
       "pick": "CHC",
-      "pick_prob": 0.563,
-      "expected_total": 4.1,
+      "pick_prob": 0.57,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T22:15:25.500673+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823057,
@@ -204,12 +204,12 @@
       "away_pitcher": "carmen mlodzinski",
       "home_pitcher": "michael mcgreevy",
       "pick": "PIT",
-      "pick_prob": 0.617,
-      "expected_total": 4.3,
+      "pick_prob": 0.681,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T22:15:26.268878+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823299,
@@ -220,12 +220,12 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "randy vásquez",
       "pick": "LAD",
-      "pick_prob": 0.877,
-      "expected_total": 3.8,
+      "pick_prob": 0.882,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-20T15:51:39.109980+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-20T22:15:27.107139+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824032,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-20T20:33:05.939074+00:00"
+  "last_modified_at": "2026-05-20T22:15:27.107765+00:00"
 }
