@@ -117,17 +117,17 @@
       "away_pitcher": "luis severino",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.628,
+      "pick_prob": 0.613,
       "expected_total": 4.6,
-      "v2_pick": "ATH",
-      "v2_conf": 0.503,
-      "consensus": false,
+      "v2_pick": "LAA",
+      "v2_conf": 0.502,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:51:06.163763+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T23:16:21.095905+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825083,
@@ -138,17 +138,17 @@
       "away_pitcher": "zach agnos",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.754,
-      "expected_total": 5.1,
+      "pick_prob": 0.759,
+      "expected_total": 5.0,
       "v2_pick": "AZ",
-      "v2_conf": 0.503,
+      "v2_conf": 0.505,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:51:06.163763+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T23:16:23.524221+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -177,13 +177,13 @@
       "home_pitcher": "eduardo rodríguez",
       "tier": "consensus",
       "v2_pick": "AZ",
-      "v2_conf": 0.503,
-      "lineup": "roster",
-      "n_batters": "21+22",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+8",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -193,5 +193,5 @@
     "sweet_spot_count": 0,
     "total_games": 7
   },
-  "last_modified_at": "2026-05-21T22:05:08.020582+00:00"
+  "last_modified_at": "2026-05-21T23:16:23.524717+00:00"
 }
