@@ -60,12 +60,12 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "sandy alcántara",
       "pick": "ATL",
-      "pick_prob": 0.609,
+      "pick_prob": 0.604,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:48:05.398438+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T20:12:01.867802+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823545,
@@ -75,13 +75,13 @@
       "game_date_kst": "2026-05-22",
       "away_pitcher": "braydon fisher",
       "home_pitcher": "carlos rodón",
-      "pick": "NYY",
-      "pick_prob": 0.502,
+      "pick": "TOR",
+      "pick_prob": 0.51,
       "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:48:05.398438+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T20:12:02.707781+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824031,
@@ -116,5 +116,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-21T18:12:43.108896+00:00"
+  "last_modified_at": "2026-05-21T20:12:02.708351+00:00"
 }
