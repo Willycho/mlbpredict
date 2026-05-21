@@ -92,12 +92,12 @@
       "away_pitcher": "luis severino",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.628,
+      "pick_prob": 0.613,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:48:05.398438+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T23:01:43.065769+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825083,
@@ -108,13 +108,13 @@
       "away_pitcher": "zach agnos",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.754,
-      "expected_total": 5.1,
+      "pick_prob": 0.785,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:48:05.398438+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T23:01:43.900980+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-21T21:49:13.227748+00:00"
+  "last_modified_at": "2026-05-21T23:01:43.901464+00:00"
 }
