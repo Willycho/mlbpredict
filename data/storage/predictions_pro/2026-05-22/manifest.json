@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-21T20:25:46.853394+00:00",
+      "last_refreshed_at": "2026-05-21T22:05:04.925416+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "carlos rodón",
       "pick": "TOR",
       "pick_prob": 0.51,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "v2_pick": "TOR",
       "v2_conf": 0.54,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-21T20:25:48.895294+00:00",
+      "last_refreshed_at": "2026-05-21T22:05:08.020064+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -165,8 +165,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -193,5 +193,5 @@
     "sweet_spot_count": 0,
     "total_games": 7
   },
-  "last_modified_at": "2026-05-21T20:25:48.895816+00:00"
+  "last_modified_at": "2026-05-21T22:05:08.020582+00:00"
 }
