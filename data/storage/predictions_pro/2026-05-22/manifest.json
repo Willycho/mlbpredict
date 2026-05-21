@@ -57,14 +57,14 @@
       "pick_prob": 0.542,
       "expected_total": 3.9,
       "v2_pick": "NYM",
-      "v2_conf": 0.589,
+      "v2_conf": 0.564,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-21T15:51:06.163763+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-21T18:25:41.712004+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823864,
@@ -210,5 +210,5 @@
     "sweet_spot_count": 0,
     "total_games": 7
   },
-  "last_modified_at": "2026-05-21T16:27:32.658778+00:00"
+  "last_modified_at": "2026-05-21T18:25:41.712642+00:00"
 }
