@@ -34,15 +34,15 @@
       "home_pitcher": "chris paddack",
       "pick": "STL",
       "pick_prob": 0.58,
-      "expected_total": 4.6,
+      "expected_total": 4.4,
       "v2_pick": "CIN",
       "v2_conf": 0.528,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T20:24:18.392261+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:06.782167+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:21.235185+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:10.417080+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "gerrit cole",
       "pick": "NYY",
       "pick_prob": 0.747,
-      "expected_total": 3.8,
+      "expected_total": 4.1,
       "v2_pick": "NYY",
       "v2_conf": 0.572,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:24.132167+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:23.975424+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "kevin gausman",
       "pick": "PIT",
       "pick_prob": 0.592,
-      "expected_total": 3.1,
+      "expected_total": 3.2,
       "v2_pick": "TOR",
       "v2_conf": 0.515,
       "consensus": false,
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:26.727849+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:37.130455+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:29.523615+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:40.988506+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:32.221012+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:44.738571+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "home_pitcher": "keegan akin",
       "pick": "DET",
       "pick_prob": 0.668,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "v2_pick": "BAL",
       "v2_conf": 0.519,
       "consensus": false,
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T20:24:35.087143+00:00",
+      "last_refreshed_at": "2026-05-22T21:46:57.848621+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -180,17 +180,17 @@
       "away_pitcher": "logan gilbert",
       "home_pitcher": "noah cameron",
       "pick": "SEA",
-      "pick_prob": 0.634,
-      "expected_total": 3.5,
+      "pick_prob": 0.6,
+      "expected_total": 3.7,
       "v2_pick": "SEA",
-      "v2_conf": 0.541,
+      "v2_conf": 0.519,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T15:21:37.603181+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-22T21:47:11.220740+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823788,
@@ -201,17 +201,17 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "logan henderson",
       "pick": "LAD",
-      "pick_prob": 0.548,
-      "expected_total": 3.6,
+      "pick_prob": 0.572,
+      "expected_total": 3.5,
       "v2_pick": "MIL",
-      "v2_conf": 0.563,
+      "v2_conf": 0.556,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T15:21:37.603181+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-22T21:47:14.784567+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824029,
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.95,
-      "detail": "Expected 3.1 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -379,13 +379,13 @@
       "home_pitcher": "noah cameron",
       "tier": "good",
       "v2_pick": "SEA",
-      "v2_conf": 0.541,
-      "lineup": "roster",
-      "n_batters": "19+17",
+      "v2_conf": 0.519,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-22T20:24:35.087706+00:00"
+  "last_modified_at": "2026-05-22T21:47:14.785092+00:00"
 }
