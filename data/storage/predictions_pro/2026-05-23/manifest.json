@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T22:45:37.862891+00:00",
+      "last_refreshed_at": "2026-05-22T23:54:04.333882+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "michael soroka",
       "pick": "AZ",
       "pick_prob": 0.87,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "v2_pick": "AZ",
       "v2_conf": 0.583,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T22:45:50.346975+00:00",
+      "last_refreshed_at": "2026-05-22T23:54:07.360931+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T22:46:02.938609+00:00",
+      "last_refreshed_at": "2026-05-22T23:54:20.201824+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "davis martin",
       "home_pitcher": "trevor mcdonald",
       "pick": "SF",
-      "pick_prob": 0.782,
+      "pick_prob": 0.765,
       "expected_total": 3.9,
       "v2_pick": "SF",
-      "v2_conf": 0.609,
+      "v2_conf": 0.59,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T15:21:37.603181+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-22T23:54:32.902594+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824922,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-22T22:46:02.939200+00:00"
+  "last_modified_at": "2026-05-22T23:54:32.903122+00:00"
 }
