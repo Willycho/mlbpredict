@@ -80,7 +80,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:53.483261+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:48.584918+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:54.074512+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:49.365508+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "payton tolle",
       "pick": "MIN",
       "pick_prob": 0.551,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:54.656661+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:50.140036+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:55.278951+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:50.949429+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "keegan akin",
       "pick": "DET",
       "pick_prob": 0.668,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:56.412345+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:51.752489+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:56.996168+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:52.557395+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "logan henderson",
       "pick": "LAD",
       "pick_prob": 0.572,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-22T21:35:57.605426+00:00",
+      "last_refreshed_at": "2026-05-22T22:41:53.371422+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,12 +188,12 @@
       "away_pitcher": "jacob degrom",
       "home_pitcher": "grayson rodriguez",
       "pick": "TEX",
-      "pick_prob": 0.532,
+      "pick_prob": 0.528,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T14:58:24.958419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-22T22:41:54.168411+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825082,
@@ -208,8 +208,8 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T14:58:24.958419+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-22T22:42:04.586260+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823298,
@@ -220,12 +220,12 @@
       "away_pitcher": "jeffrey springs",
       "home_pitcher": "walker buehler",
       "pick": "ATH",
-      "pick_prob": 0.639,
+      "pick_prob": 0.657,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T14:58:24.958419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-22T22:42:14.945535+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823223,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-22T21:35:57.606028+00:00"
+  "last_modified_at": "2026-05-22T22:42:14.946275+00:00"
 }
