@@ -126,7 +126,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-21T23:16:21.095905+00:00",
+      "last_refreshed_at": "2026-05-22T01:26:55.551228+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,16 +138,16 @@
       "away_pitcher": "zach agnos",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.759,
-      "expected_total": 5.0,
+      "pick_prob": 0.762,
+      "expected_total": 5.1,
       "v2_pick": "AZ",
-      "v2_conf": 0.505,
+      "v2_conf": 0.527,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-21T23:16:23.524221+00:00",
+      "last_refreshed_at": "2026-05-22T01:26:57.714735+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -177,13 +177,13 @@
       "home_pitcher": "eduardo rodríguez",
       "tier": "consensus",
       "v2_pick": "AZ",
-      "v2_conf": 0.505,
+      "v2_conf": 0.527,
       "lineup": "confirmed",
-      "n_batters": "9+8",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 5.0 vs line 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -193,5 +193,5 @@
     "sweet_spot_count": 0,
     "total_games": 7
   },
-  "last_modified_at": "2026-05-21T23:16:23.524717+00:00"
+  "last_modified_at": "2026-05-22T01:26:57.715277+00:00"
 }
