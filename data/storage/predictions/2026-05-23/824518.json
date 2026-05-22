@@ -2,7 +2,7 @@
   "game_id": 824518,
   "kst_date": "2026-05-23",
   "bulk_fetched_at": "2026-05-22T14:58:24.958419+00:00",
-  "last_refreshed_at": "2026-05-22T20:10:19.902944+00:00",
+  "last_refreshed_at": "2026-05-22T21:35:52.313086+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.42,
     "pick": "STL",
     "pick_prob": 0.58,
-    "expected_total": 4.5,
+    "expected_total": 4.4,
     "away_team_total": {
-      "expected": 2.53,
+      "expected": 2.47,
       "line": 2.5,
-      "pick": "OVER",
+      "pick": "UNDER",
       "gap": 0.03
     },
     "home_team_total": {
-      "expected": 1.97,
+      "expected": 1.93,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.47
+      "gap": 0.43
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "17+15",
         "type": "TT",
         "pick": "CIN OVER 1.5",
-        "conf": 0.735,
-        "detail": "Expected 1.97"
+        "conf": 0.715,
+        "detail": "Expected 1.93"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 4.2,
+      "speed_mph": 5.7,
       "direction": "in",
-      "adj": -0.06
+      "adj": -0.11
     },
     "away_pitch_detail": [
       {
