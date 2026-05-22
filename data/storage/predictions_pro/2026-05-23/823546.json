@@ -2,7 +2,7 @@
   "game_id": 823546,
   "kst_date": "2026-05-23",
   "bulk_fetched_at": "2026-05-22T15:21:37.603181+00:00",
-  "last_refreshed_at": "2026-05-22T21:46:23.975424+00:00",
+  "last_refreshed_at": "2026-05-22T22:44:58.733680+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.747,
     "pick": "NYY",
     "pick_prob": 0.747,
-    "expected_total": 4.1,
+    "expected_total": 3.8,
     "away_team_total": {
-      "expected": 1.57,
+      "expected": 1.45,
       "line": 1.5,
-      "pick": "OVER",
-      "gap": 0.07
+      "pick": "UNDER",
+      "gap": 0.05
     },
     "home_team_total": {
-      "expected": 2.53,
+      "expected": 2.35,
       "line": 2.5,
-      "pick": "OVER",
-      "gap": 0.03
+      "pick": "UNDER",
+      "gap": 0.15
     },
     "sweet_picks": [
       {
@@ -82,13 +82,17 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.633,
-        "detail": "Expected 4.1 vs line 4.5"
+        "conf": 0.733,
+        "detail": "Expected 3.8 vs line 4.5"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": null,
+    "wind": {
+      "speed_mph": 8.9,
+      "direction": "in",
+      "adj": -0.22
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FC",
