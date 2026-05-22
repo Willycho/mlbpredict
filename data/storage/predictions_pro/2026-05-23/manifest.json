@@ -13,16 +13,16 @@
       "home_pitcher": "jameson taillon",
       "pick": "CHC",
       "pick_prob": 0.711,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "v2_pick": "CHC",
-      "v2_conf": 0.556,
+      "v2_conf": 0.553,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-22T15:21:37.603181+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-22T16:36:11.334707+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824518,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 2,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-22T16:36:11.335301+00:00"
 }
