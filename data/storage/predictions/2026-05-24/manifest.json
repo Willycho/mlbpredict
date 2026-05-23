@@ -64,7 +64,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T16:40:52.635704+00:00",
+      "last_refreshed_at": "2026-05-23T18:44:19.041528+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,11 +77,11 @@
       "home_pitcher": "brandon young",
       "pick": "DET",
       "pick_prob": 0.708,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-23T18:44:19.708460+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823458,
@@ -92,12 +92,12 @@
       "away_pitcher": "slade cecconi",
       "home_pitcher": "zack wheeler",
       "pick": "PHI",
-      "pick_prob": 0.89,
+      "pick_prob": 0.878,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:20.338413+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823222,
@@ -108,12 +108,12 @@
       "away_pitcher": "bryan hudson",
       "home_pitcher": "adrian houser",
       "pick": "SF",
-      "pick_prob": 0.583,
+      "pick_prob": 0.581,
       "expected_total": 4.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:20.982073+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824109,
@@ -124,12 +124,12 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "stephen kolek",
       "pick": "SEA",
-      "pick_prob": 0.606,
+      "pick_prob": 0.587,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:21.643171+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824760,
@@ -140,12 +140,12 @@
       "away_pitcher": "taj bradley",
       "home_pitcher": "jovani morán",
       "pick": "MIN",
-      "pick_prob": 0.534,
-      "expected_total": 4.3,
+      "pick_prob": 0.581,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:22.268644+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824920,
@@ -156,12 +156,12 @@
       "away_pitcher": "jake irvin",
       "home_pitcher": "grant holmes",
       "pick": "ATL",
-      "pick_prob": 0.683,
+      "pick_prob": 0.653,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:22.914346+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823862,
@@ -172,12 +172,12 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "max meyer",
       "pick": "NYM",
-      "pick_prob": 0.765,
+      "pick_prob": 0.763,
       "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:44:23.552150+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824516,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T16:40:52.636403+00:00"
+  "last_modified_at": "2026-05-23T18:44:23.552845+00:00"
 }
