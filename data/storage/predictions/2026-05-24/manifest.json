@@ -13,10 +13,10 @@
       "home_pitcher": "chris paddack",
       "pick": "STL",
       "pick_prob": 0.534,
-      "expected_total": 5.2,
+      "expected_total": 5.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T15:40:07.667840+00:00",
+      "last_refreshed_at": "2026-05-23T16:40:50.053925+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -29,10 +29,10 @@
       "home_pitcher": "ryan weathers",
       "pick": "TB",
       "pick_prob": 0.503,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T15:40:09.816600+00:00",
+      "last_refreshed_at": "2026-05-23T16:40:50.942259+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T15:40:14.356467+00:00",
+      "last_refreshed_at": "2026-05-23T16:40:51.797787+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "patrick corbin",
       "pick": "PIT",
-      "pick_prob": 0.659,
+      "pick_prob": 0.705,
       "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T16:40:52.635704+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824840,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T15:40:14.357165+00:00"
+  "last_modified_at": "2026-05-23T16:40:52.636403+00:00"
 }
