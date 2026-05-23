@@ -243,17 +243,17 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "Chase Petty",
       "pick": "STL",
-      "pick_prob": 0.758,
+      "pick_prob": 0.734,
       "expected_total": 4.5,
       "v2_pick": "STL",
-      "v2_conf": 0.652,
+      "v2_conf": 0.636,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T20:36:42.451543+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823787,
@@ -264,17 +264,17 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "robert gasser",
       "pick": "MIL",
-      "pick_prob": 0.771,
-      "expected_total": 4.3,
+      "pick_prob": 0.764,
+      "expected_total": 4.1,
       "v2_pick": "MIL",
-      "v2_conf": 0.529,
+      "v2_conf": 0.544,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T20:36:45.268556+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823300,
@@ -376,6 +376,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824516,
+      "away_team": "STL",
+      "home_team": "CIN",
+      "away_pitcher": "kyle leahy",
+      "home_pitcher": "Chase Petty",
+      "tier": "sweet_spot",
+      "v2_pick": "STL",
+      "v2_conf": 0.636,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 STL",
+      "conf": 0.734,
+      "detail": "F5 STL ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 824518,
       "away_team": "STL",
       "home_team": "CIN",
@@ -408,23 +425,6 @@
       "conf": 0.705,
       "detail": "F5 PIT ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824109,
-      "away_team": "SEA",
-      "home_team": "KC",
-      "away_pitcher": "george kirby",
-      "home_pitcher": "stephen kolek",
-      "tier": "consensus",
-      "v2_pick": "SEA",
-      "v2_conf": 0.55,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.667,
-      "detail": "Expected 4.0 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 4,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-23T19:42:07.917579+00:00"
+  "last_modified_at": "2026-05-23T20:36:45.269095+00:00"
 }
