@@ -97,7 +97,7 @@
       "home_pitcher": "brandon young",
       "pick": "DET",
       "pick_prob": 0.708,
-      "expected_total": 4.5,
+      "expected_total": 4.2,
       "v2_pick": null,
       "v2_conf": null,
       "consensus": null,
@@ -105,7 +105,7 @@
       "tier": "no_v2",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T18:09:55.773466+00:00",
+      "last_refreshed_at": "2026-05-23T19:41:33.670142+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,7 +118,7 @@
       "home_pitcher": "zack wheeler",
       "pick": "PHI",
       "pick_prob": 0.878,
-      "expected_total": 3.4,
+      "expected_total": 3.5,
       "v2_pick": "PHI",
       "v2_conf": 0.615,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:09:58.995882+00:00",
+      "last_refreshed_at": "2026-05-23T19:41:36.115773+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:10:02.293020+00:00",
+      "last_refreshed_at": "2026-05-23T19:41:38.593450+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:10:15.104677+00:00",
+      "last_refreshed_at": "2026-05-23T19:41:41.009671+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:10:27.802788+00:00",
+      "last_refreshed_at": "2026-05-23T19:41:53.127649+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,15 +202,15 @@
       "home_pitcher": "grant holmes",
       "pick": "ATL",
       "pick_prob": 0.653,
-      "expected_total": 4.4,
+      "expected_total": 4.6,
       "v2_pick": "ATL",
       "v2_conf": 0.584,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:10:30.943794+00:00",
+      "last_refreshed_at": "2026-05-23T19:42:05.501944+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:10:34.099461+00:00",
+      "last_refreshed_at": "2026-05-23T19:42:07.917003+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 4,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-23T18:10:34.099997+00:00"
+  "last_modified_at": "2026-05-23T19:42:07.917579+00:00"
 }

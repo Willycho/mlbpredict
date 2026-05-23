@@ -2,7 +2,7 @@
   "game_id": 824920,
   "kst_date": "2026-05-24",
   "bulk_fetched_at": "2026-05-23T14:03:14.639671+00:00",
-  "last_refreshed_at": "2026-05-23T18:10:30.943794+00:00",
+  "last_refreshed_at": "2026-05-23T19:42:05.501944+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.653,
     "pick": "ATL",
     "pick_prob": 0.653,
-    "expected_total": 4.4,
+    "expected_total": 4.6,
     "away_team_total": {
-      "expected": 1.9,
+      "expected": 1.98,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.4
+      "gap": 0.48
     },
     "home_team_total": {
-      "expected": 2.5,
+      "expected": 2.62,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.0
+      "gap": 0.12
     },
     "sweet_picks": [
       {
@@ -74,8 +74,8 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "WSH OVER 1.5",
-        "conf": 0.7,
-        "detail": "Expected 1.9"
+        "conf": 0.74,
+        "detail": "Expected 1.98"
       },
       {
         "lineup": "confirmed",
@@ -88,11 +88,7 @@
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": {
-      "speed_mph": 8.5,
-      "direction": "in",
-      "adj": -0.15
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -205,7 +201,7 @@
     "v2_conf": 0.584,
     "consensus": true,
     "tier": "sweet_spot",
-    "ou_consensus": false,
+    "ou_consensus": true,
     "v2_f5_total": 5.4
   },
   "locked_away_pitcher_id": 663623,
