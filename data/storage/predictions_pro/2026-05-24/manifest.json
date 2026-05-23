@@ -55,7 +55,7 @@
       "home_pitcher": "colin rea",
       "pick": "CHC",
       "pick_prob": 0.507,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "v2_pick": "CHC",
       "v2_conf": 0.55,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T16:55:12.960547+00:00",
+      "last_refreshed_at": "2026-05-23T18:09:39.609784+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,7 +76,7 @@
       "home_pitcher": "patrick corbin",
       "pick": "PIT",
       "pick_prob": 0.705,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "v2_pick": "PIT",
       "v2_conf": 0.587,
       "consensus": true,
@@ -84,7 +84,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T16:55:25.013019+00:00",
+      "last_refreshed_at": "2026-05-23T18:09:42.959989+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,16 +97,16 @@
       "home_pitcher": "brandon young",
       "pick": "DET",
       "pick_prob": 0.708,
-      "expected_total": 4.2,
-      "v2_pick": "DET",
-      "v2_conf": 0.618,
-      "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "expected_total": 4.5,
+      "v2_pick": null,
+      "v2_conf": null,
+      "consensus": null,
+      "ou_consensus": null,
+      "tier": "no_v2",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-23T18:09:55.773466+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823458,
@@ -117,17 +117,17 @@
       "away_pitcher": "slade cecconi",
       "home_pitcher": "zack wheeler",
       "pick": "PHI",
-      "pick_prob": 0.89,
-      "expected_total": 3.5,
+      "pick_prob": 0.878,
+      "expected_total": 3.4,
       "v2_pick": "PHI",
-      "v2_conf": 0.632,
+      "v2_conf": 0.615,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:09:58.995882+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823222,
@@ -138,17 +138,17 @@
       "away_pitcher": "bryan hudson",
       "home_pitcher": "adrian houser",
       "pick": "SF",
-      "pick_prob": 0.583,
+      "pick_prob": 0.581,
       "expected_total": 4.8,
       "v2_pick": "CWS",
-      "v2_conf": 0.526,
+      "v2_conf": 0.52,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:10:02.293020+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824109,
@@ -159,17 +159,17 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "stephen kolek",
       "pick": "SEA",
-      "pick_prob": 0.606,
+      "pick_prob": 0.587,
       "expected_total": 4.0,
       "v2_pick": "SEA",
-      "v2_conf": 0.578,
+      "v2_conf": 0.55,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:10:15.104677+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824760,
@@ -180,17 +180,17 @@
       "away_pitcher": "taj bradley",
       "home_pitcher": "jovani morán",
       "pick": "MIN",
-      "pick_prob": 0.534,
+      "pick_prob": 0.581,
       "expected_total": 4.5,
       "v2_pick": "MIN",
-      "v2_conf": 0.502,
+      "v2_conf": 0.503,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:10:27.802788+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824920,
@@ -201,17 +201,17 @@
       "away_pitcher": "jake irvin",
       "home_pitcher": "grant holmes",
       "pick": "ATL",
-      "pick_prob": 0.683,
-      "expected_total": 4.6,
+      "pick_prob": 0.653,
+      "expected_total": 4.4,
       "v2_pick": "ATL",
-      "v2_conf": 0.545,
+      "v2_conf": 0.584,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:10:30.943794+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823862,
@@ -222,17 +222,17 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "max meyer",
       "pick": "NYM",
-      "pick_prob": 0.765,
-      "expected_total": 3.7,
+      "pick_prob": 0.763,
+      "expected_total": 3.3,
       "v2_pick": "NYM",
-      "v2_conf": 0.596,
+      "v2_conf": 0.594,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T18:10:34.099461+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824516,
@@ -342,6 +342,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 823862,
+      "away_team": "NYM",
+      "home_team": "MIA",
+      "away_pitcher": "freddy peralta",
+      "home_pitcher": "max meyer",
+      "tier": "consensus",
+      "v2_pick": "NYM",
+      "v2_conf": 0.594,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 822814,
       "away_team": "PIT",
       "home_team": "TOR",
@@ -354,8 +371,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -376,23 +393,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824840,
-      "away_team": "DET",
-      "home_team": "BAL",
-      "away_pitcher": "framber valdez",
-      "home_pitcher": "brandon young",
-      "tier": "sweet_spot",
-      "v2_pick": "DET",
-      "v2_conf": 0.618,
-      "lineup": "roster",
-      "n_batters": "22+17",
-      "type": "ML",
-      "pick": "F5 DET",
-      "conf": 0.708,
-      "detail": "F5 DET ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 822814,
       "away_team": "PIT",
       "home_team": "TOR",
@@ -410,21 +410,21 @@
       "ml_consensus": true
     },
     {
-      "game_id": 824920,
-      "away_team": "WSH",
-      "home_team": "ATL",
-      "away_pitcher": "jake irvin",
-      "home_pitcher": "grant holmes",
-      "tier": "sweet_spot",
-      "v2_pick": "ATL",
-      "v2_conf": 0.545,
-      "lineup": "roster",
-      "n_batters": "18+19",
-      "type": "ML",
-      "pick": "F5 ATL",
-      "conf": 0.683,
-      "detail": "F5 ATL ML",
-      "ml_consensus": true
+      "game_id": 824109,
+      "away_team": "SEA",
+      "home_team": "KC",
+      "away_pitcher": "george kirby",
+      "home_pitcher": "stephen kolek",
+      "tier": "consensus",
+      "v2_pick": "SEA",
+      "v2_conf": 0.55,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 4.0 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -433,5 +433,5 @@
     "sweet_spot_count": 4,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-23T16:55:25.013546+00:00"
+  "last_modified_at": "2026-05-23T18:10:34.099997+00:00"
 }
