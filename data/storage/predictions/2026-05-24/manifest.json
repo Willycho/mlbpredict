@@ -80,7 +80,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T18:44:19.708460+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:15.547672+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:20.338413+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:16.463464+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:20.982073+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:17.321128+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:21.643171+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:18.124217+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:22.268644+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:18.880745+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:22.914346+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:19.787622+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T18:44:23.552150+00:00",
+      "last_refreshed_at": "2026-05-23T19:53:20.557406+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T18:44:23.552845+00:00"
+  "last_modified_at": "2026-05-23T19:53:20.558024+00:00"
 }
