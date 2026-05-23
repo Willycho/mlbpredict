@@ -12,11 +12,11 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "chris paddack",
       "pick": "STL",
-      "pick_prob": 0.586,
+      "pick_prob": 0.534,
       "expected_total": 5.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:17:02.292298+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T15:40:07.667840+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -29,11 +29,11 @@
       "home_pitcher": "ryan weathers",
       "pick": "TB",
       "pick_prob": 0.503,
-      "expected_total": 3.9,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-23T15:40:09.816600+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824674,
@@ -44,12 +44,12 @@
       "away_pitcher": "kai-wei teng",
       "home_pitcher": "colin rea",
       "pick": "CHC",
-      "pick_prob": 0.528,
+      "pick_prob": 0.507,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T15:40:14.356467+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822814,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T14:17:02.292933+00:00"
+  "last_modified_at": "2026-05-23T15:40:14.357165+00:00"
 }
