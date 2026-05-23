@@ -13,11 +13,11 @@
       "home_pitcher": "chris paddack",
       "pick": "STL",
       "pick_prob": 0.586,
-      "expected_total": 5.3,
+      "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-23T14:17:02.292298+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823543,
@@ -259,5 +259,6 @@
       "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-23T14:17:02.292933+00:00"
 }
