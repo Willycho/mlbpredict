@@ -224,7 +224,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T22:51:09.633242+00:00",
+      "last_refreshed_at": "2026-05-23T23:55:14.748145+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,12 +236,12 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "Walbert Ureña",
       "pick": "TEX",
-      "pick_prob": 0.651,
-      "expected_total": 3.8,
+      "pick_prob": 0.614,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T23:55:15.369518+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825080,
@@ -252,13 +252,13 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "zac gallen",
       "pick": "AZ",
-      "pick_prob": 0.639,
+      "pick_prob": 0.662,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T23:55:15.969810+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-23T22:51:09.633866+00:00"
+  "last_modified_at": "2026-05-23T23:55:15.970481+00:00"
 }
