@@ -189,10 +189,10 @@
       "home_pitcher": "Chase Petty",
       "pick": "STL",
       "pick_prob": 0.734,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T21:52:23.881509+00:00",
+      "last_refreshed_at": "2026-05-23T22:51:08.065363+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "robert gasser",
       "pick": "MIL",
       "pick_prob": 0.764,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T21:52:24.491876+00:00",
+      "last_refreshed_at": "2026-05-23T22:51:08.850987+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "lucas giolito",
       "pick": "ATH",
-      "pick_prob": 0.79,
+      "pick_prob": 0.791,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T22:51:09.633242+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824030,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T21:52:24.492435+00:00"
+  "last_modified_at": "2026-05-23T22:51:09.633866+00:00"
 }
