@@ -188,12 +188,12 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "Chase Petty",
       "pick": "STL",
-      "pick_prob": 0.758,
+      "pick_prob": 0.734,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T20:47:35.025550+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823787,
@@ -204,12 +204,12 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "robert gasser",
       "pick": "MIL",
-      "pick_prob": 0.771,
-      "expected_total": 4.0,
+      "pick_prob": 0.764,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T13:57:48.767646+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T20:47:35.589135+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823300,
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-23T19:53:20.558024+00:00"
+  "last_modified_at": "2026-05-23T20:47:35.589684+00:00"
 }
