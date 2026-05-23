@@ -285,17 +285,17 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "lucas giolito",
       "pick": "ATH",
-      "pick_prob": 0.79,
-      "expected_total": 3.9,
+      "pick_prob": 0.791,
+      "expected_total": 3.8,
       "v2_pick": "SD",
       "v2_conf": 0.553,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T23:43:45.578713+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824030,
@@ -306,17 +306,17 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "Walbert Ureña",
       "pick": "TEX",
-      "pick_prob": 0.651,
-      "expected_total": 3.8,
+      "pick_prob": 0.614,
+      "expected_total": 4.2,
       "v2_pick": "TEX",
-      "v2_conf": 0.622,
+      "v2_conf": 0.626,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "sweet_spot",
+      "ou_consensus": true,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T23:43:48.196413+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825080,
@@ -327,17 +327,17 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "zac gallen",
       "pick": "AZ",
-      "pick_prob": 0.639,
+      "pick_prob": 0.662,
       "expected_total": 4.6,
       "v2_pick": "AZ",
-      "v2_conf": 0.545,
+      "v2_conf": 0.554,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-23T14:03:14.639671+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-23T23:43:50.896696+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -433,5 +433,5 @@
     "sweet_spot_count": 4,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-23T22:38:51.216765+00:00"
+  "last_modified_at": "2026-05-23T23:43:50.897311+00:00"
 }
