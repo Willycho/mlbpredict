@@ -2,8 +2,8 @@
   "game_id": 824921,
   "kst_date": "2026-05-25",
   "bulk_fetched_at": "2026-05-24T13:55:03.607318+00:00",
-  "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-24T17:18:42.686598+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824921,
@@ -39,8 +39,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 18
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 42.5,
@@ -128,5 +128,6 @@
     }
   },
   "locked_away_pitcher_id": 656492,
-  "locked_home_pitcher_id": 527048
+  "locked_home_pitcher_id": 527048,
+  "pitcher_changed_at_refresh": false
 }
