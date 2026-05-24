@@ -252,13 +252,13 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "reid detmers",
       "pick": "LAA",
-      "pick_prob": 0.664,
-      "expected_total": 3.4,
+      "pick_prob": 0.619,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T20:53:00.857950+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-24T19:50:17.263878+00:00"
+  "last_modified_at": "2026-05-24T20:53:00.858560+00:00"
 }
