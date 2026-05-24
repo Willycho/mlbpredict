@@ -192,7 +192,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:36:36.148785+00:00",
+      "last_refreshed_at": "2026-05-24T19:50:11.960907+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:36:36.951784+00:00",
+      "last_refreshed_at": "2026-05-24T19:50:14.417498+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "mike king",
       "pick": "SD",
       "pick_prob": 0.586,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:36:37.821618+00:00",
+      "last_refreshed_at": "2026-05-24T19:50:15.885714+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -237,10 +237,10 @@
       "home_pitcher": "martín pérez",
       "pick": "WSH",
       "pick_prob": 0.594,
-      "expected_total": 4.5,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:36:38.666324+00:00",
+      "last_refreshed_at": "2026-05-24T19:50:17.263395+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -260,5 +260,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-24T18:36:38.666833+00:00"
+  "last_modified_at": "2026-05-24T19:50:17.263878+00:00"
 }
