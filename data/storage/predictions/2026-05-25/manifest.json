@@ -28,12 +28,12 @@
       "away_pitcher": "mitch keller",
       "home_pitcher": "dylan cease",
       "pick": "TOR",
-      "pick_prob": 0.742,
-      "expected_total": 3.8,
+      "pick_prob": 0.762,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:26.458301+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824839,
@@ -44,12 +44,12 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "brandon young",
       "pick": "DET",
-      "pick_prob": 0.711,
+      "pick_prob": 0.672,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:27.515373+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824759,
@@ -64,8 +64,8 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-24T15:01:28.645768+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823459,
@@ -76,12 +76,12 @@
       "away_pitcher": "parker messick",
       "home_pitcher": "Andrew Painter",
       "pick": "CLE",
-      "pick_prob": 0.612,
+      "pick_prob": 0.601,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:29.695021+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823544,
@@ -91,13 +91,13 @@
       "game_date_kst": "2026-05-25",
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "ryan weathers",
-      "pick": "TB",
-      "pick_prob": 0.503,
-      "expected_total": 3.4,
+      "pick": "NYY",
+      "pick_prob": 0.533,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:30.833977+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824514,
@@ -108,12 +108,12 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "brady singer",
       "pick": "CIN",
-      "pick_prob": 0.573,
-      "expected_total": 4.8,
+      "pick_prob": 0.582,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:31.931683+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823861,
@@ -123,13 +123,13 @@
       "game_date_kst": "2026-05-25",
       "away_pitcher": "christian scott",
       "home_pitcher": "tyler phillips",
-      "pick": "MIA",
-      "pick_prob": 0.505,
+      "pick": "NYM",
+      "pick_prob": 0.504,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-24T15:01:32.998074+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824108,
@@ -259,5 +259,6 @@
       "last_refreshed_at": "2026-05-24T13:55:03.607318+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-24T15:01:32.998658+00:00"
 }
