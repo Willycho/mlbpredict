@@ -315,7 +315,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T23:43:48.196413+00:00",
+      "last_refreshed_at": "2026-05-24T01:50:06.723203+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -327,16 +327,16 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "zac gallen",
       "pick": "AZ",
-      "pick_prob": 0.662,
+      "pick_prob": 0.68,
       "expected_total": 4.6,
       "v2_pick": "AZ",
-      "v2_conf": 0.554,
+      "v2_conf": 0.549,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-23T23:43:50.896696+00:00",
+      "last_refreshed_at": "2026-05-24T01:50:10.491955+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -433,5 +433,5 @@
     "sweet_spot_count": 4,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-23T23:43:50.897311+00:00"
+  "last_modified_at": "2026-05-24T01:50:10.492579+00:00"
 }
