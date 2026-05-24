@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:10:27.856585+00:00",
+      "last_refreshed_at": "2026-05-24T19:45:19.251601+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
       "pick_prob": 0.765,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "v2_pick": "AZ",
       "v2_conf": 0.515,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:10:40.353030+00:00",
+      "last_refreshed_at": "2026-05-24T19:45:22.370112+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "mike king",
       "pick": "SD",
       "pick_prob": 0.586,
-      "expected_total": 3.8,
+      "expected_total": 4.1,
       "v2_pick": "SD",
       "v2_conf": 0.548,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:10:42.980804+00:00",
+      "last_refreshed_at": "2026-05-24T19:45:35.103384+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,16 +285,16 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "martín pérez",
       "pick": "WSH",
-      "pick_prob": 0.558,
-      "expected_total": 4.5,
+      "pick_prob": 0.594,
+      "expected_total": 4.8,
       "v2_pick": "ATL",
-      "v2_conf": 0.517,
+      "v2_conf": 0.528,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-24T18:10:45.575749+00:00",
+      "last_refreshed_at": "2026-05-24T19:45:47.798638+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -408,23 +408,6 @@
       "conf": 0.672,
       "detail": "F5 DET ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 825081,
-      "away_team": "COL",
-      "home_team": "AZ",
-      "away_pitcher": "jose quintana",
-      "home_pitcher": "ryne nelson",
-      "tier": "consensus",
-      "v2_pick": "AZ",
-      "v2_conf": 0.515,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -433,5 +416,5 @@
     "sweet_spot_count": 3,
     "total_games": 16
   },
-  "last_modified_at": "2026-05-24T18:10:45.576282+00:00"
+  "last_modified_at": "2026-05-24T19:45:47.799120+00:00"
 }
