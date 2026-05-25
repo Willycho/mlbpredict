@@ -244,7 +244,7 @@
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
       "pick_prob": 0.907,
-      "expected_total": 4.0,
+      "expected_total": 4.3,
       "v2_pick": "LAD",
       "v2_conf": 0.644,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T22:34:36.524138+00:00",
+      "last_refreshed_at": "2026-05-25T23:43:13.266555+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "aaron civale",
       "pick": "SEA",
-      "pick_prob": 0.534,
-      "expected_total": 4.0,
+      "pick_prob": 0.501,
+      "expected_total": 4.6,
       "v2_pick": "SEA",
-      "v2_conf": 0.543,
+      "v2_conf": 0.553,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T23:43:15.765855+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -370,5 +370,5 @@
     "sweet_spot_count": 1,
     "total_games": 13
   },
-  "last_modified_at": "2026-05-25T22:34:36.524768+00:00"
+  "last_modified_at": "2026-05-25T23:43:15.766416+00:00"
 }
