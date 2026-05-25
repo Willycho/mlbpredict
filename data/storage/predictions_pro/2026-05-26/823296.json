@@ -2,7 +2,7 @@
   "game_id": 823296,
   "kst_date": "2026-05-26",
   "bulk_fetched_at": "2026-05-25T15:29:18.903266+00:00",
-  "last_refreshed_at": "2026-05-25T21:22:07.908520+00:00",
+  "last_refreshed_at": "2026-05-25T22:34:07.874157+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -81,7 +81,7 @@
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 9.3,
+      "speed_mph": 8.7,
       "direction": "in",
       "adj": -0.2
     },
