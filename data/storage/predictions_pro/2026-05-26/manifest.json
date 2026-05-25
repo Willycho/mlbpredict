@@ -12,17 +12,17 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "carmen mlodzinski",
       "pick": "CHC",
-      "pick_prob": 0.606,
+      "pick_prob": 0.541,
       "expected_total": 4.0,
       "v2_pick": "PIT",
-      "v2_conf": 0.56,
+      "v2_conf": 0.556,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T16:36:12.652060+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824838,
@@ -34,7 +34,7 @@
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
       "pick_prob": 0.741,
-      "expected_total": 3.6,
+      "expected_total": 3.5,
       "v2_pick": "TB",
       "v2_conf": 0.518,
       "consensus": false,
@@ -42,8 +42,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T16:36:14.948076+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824598,
@@ -54,17 +54,17 @@
       "away_pitcher": "zebby matthews",
       "home_pitcher": "anthony kay",
       "pick": "MIN",
-      "pick_prob": 0.749,
-      "expected_total": 4.7,
+      "pick_prob": 0.777,
+      "expected_total": 4.6,
       "v2_pick": "CWS",
-      "v2_conf": 0.523,
+      "v2_conf": 0.524,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T16:36:17.471042+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823784,
@@ -75,17 +75,17 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
-      "pick_prob": 0.707,
-      "expected_total": 3.8,
+      "pick_prob": 0.735,
+      "expected_total": 4.2,
       "v2_pick": "MIL",
-      "v2_conf": 0.526,
+      "v2_conf": 0.518,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T16:36:29.568311+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824107,
@@ -279,6 +279,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 824838,
+      "away_team": "TB",
+      "home_team": "BAL",
+      "away_pitcher": "shane mcclanahan",
+      "home_pitcher": "kyle bradish",
+      "tier": "disagree",
+      "v2_pick": "TB",
+      "v2_conf": 0.518,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823625,
       "away_team": "CIN",
       "home_team": "NYM",
@@ -296,23 +313,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824838,
-      "away_team": "TB",
-      "home_team": "BAL",
-      "away_pitcher": "shane mcclanahan",
-      "home_pitcher": "kyle bradish",
-      "tier": "disagree",
-      "v2_pick": "TB",
-      "v2_conf": 0.518,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823784,
       "away_team": "STL",
       "home_team": "MIL",
@@ -320,12 +320,12 @@
       "home_pitcher": "jacob misiorowski",
       "tier": "sweet_spot",
       "v2_pick": "MIL",
-      "v2_conf": 0.526,
-      "lineup": "partial",
-      "n_batters": "9+15",
+      "v2_conf": 0.518,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 MIL",
-      "conf": 0.707,
+      "conf": 0.735,
       "detail": "F5 MIL ML",
       "ml_consensus": true
     },
@@ -337,9 +337,9 @@
       "home_pitcher": "carmen mlodzinski",
       "tier": "disagree",
       "v2_pick": "PIT",
-      "v2_conf": 0.56,
-      "lineup": "partial",
-      "n_batters": "18+9",
+      "v2_conf": 0.556,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.667,
@@ -369,5 +369,6 @@
     "ou_consensus_count": 7,
     "sweet_spot_count": 1,
     "total_games": 13
-  }
+  },
+  "last_modified_at": "2026-05-25T16:36:29.568874+00:00"
 }
