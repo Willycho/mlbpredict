@@ -160,7 +160,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T21:44:37.425156+00:00",
+      "last_refreshed_at": "2026-05-25T22:44:42.626236+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "trey yesavage",
       "pick": "TOR",
       "pick_prob": 0.605,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T21:44:38.223614+00:00",
+      "last_refreshed_at": "2026-05-25T22:44:43.423511+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,11 +189,11 @@
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
       "pick_prob": 0.907,
-      "expected_total": 4.0,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T22:44:44.221485+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825005,
@@ -204,13 +204,13 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "aaron civale",
       "pick": "SEA",
-      "pick_prob": 0.534,
-      "expected_total": 4.0,
+      "pick_prob": 0.501,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T22:44:45.084424+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-25T21:44:38.224177+00:00"
+  "last_modified_at": "2026-05-25T22:44:45.084994+00:00"
 }
