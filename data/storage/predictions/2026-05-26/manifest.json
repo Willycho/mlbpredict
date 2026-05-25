@@ -12,12 +12,12 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "carmen mlodzinski",
       "pick": "CHC",
-      "pick_prob": 0.606,
+      "pick_prob": 0.541,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T17:20:05.116217+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824838,
@@ -29,11 +29,11 @@
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
       "pick_prob": 0.741,
-      "expected_total": 3.6,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T17:20:07.384500+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824598,
@@ -44,12 +44,12 @@
       "away_pitcher": "zebby matthews",
       "home_pitcher": "anthony kay",
       "pick": "MIN",
-      "pick_prob": 0.749,
+      "pick_prob": 0.777,
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T17:20:09.739778+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823784,
@@ -60,12 +60,12 @@
       "away_pitcher": "matthew liberatore",
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
-      "pick_prob": 0.707,
+      "pick_prob": 0.735,
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-25T17:20:14.224313+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824107,
@@ -76,12 +76,12 @@
       "away_pitcher": "will warren",
       "home_pitcher": "michael wacha",
       "pick": "NYY",
-      "pick_prob": 0.588,
-      "expected_total": 4.4,
+      "pick_prob": 0.579,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T17:20:24.574896+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823625,
@@ -92,12 +92,12 @@
       "away_pitcher": "nick lodolo",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.591,
-      "expected_total": 3.5,
+      "pick_prob": 0.569,
+      "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T17:20:34.926193+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823219,
@@ -211,5 +211,6 @@
       "last_refreshed_at": "2026-05-25T15:26:58.104419+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-25T17:20:34.927065+00:00"
 }
