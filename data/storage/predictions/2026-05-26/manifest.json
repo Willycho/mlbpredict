@@ -128,7 +128,7 @@
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:25:23.730025+00:00",
+      "last_refreshed_at": "2026-05-25T21:44:35.847650+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:25:24.736490+00:00",
+      "last_refreshed_at": "2026-05-25T21:44:36.647591+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "kumar rocker",
       "pick": "HOU",
       "pick_prob": 0.57,
-      "expected_total": 4.5,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:25:25.316376+00:00",
+      "last_refreshed_at": "2026-05-25T21:44:37.425156+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:25:25.943713+00:00",
+      "last_refreshed_at": "2026-05-25T21:44:38.223614+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -212,5 +212,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-25T20:25:25.944290+00:00"
+  "last_modified_at": "2026-05-25T21:44:38.224177+00:00"
 }
