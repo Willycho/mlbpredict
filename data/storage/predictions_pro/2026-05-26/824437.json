@@ -2,7 +2,7 @@
   "game_id": 824437,
   "kst_date": "2026-05-26",
   "bulk_fetched_at": "2026-05-25T15:29:18.903266+00:00",
-  "last_refreshed_at": "2026-05-25T20:04:10.040422+00:00",
+  "last_refreshed_at": "2026-05-25T21:22:05.098359+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,48 +55,52 @@
     "win_prob_home": 0.497,
     "pick": "WSH",
     "pick_prob": 0.503,
-    "expected_total": 4.0,
+    "expected_total": 3.8,
     "away_team_total": {
-      "expected": 1.94,
+      "expected": 1.84,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.44
+      "gap": 0.34
     },
     "home_team_total": {
-      "expected": 2.06,
-      "line": 2.5,
-      "pick": "UNDER",
-      "gap": 0.44
+      "expected": 1.96,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.46
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "TT",
-        "pick": "WSH OVER 1.5",
-        "conf": 0.72,
-        "detail": "Expected 1.94"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "CLE UNDER 2.5",
-        "conf": 0.72,
-        "detail": "Expected 2.06"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.667,
-        "detail": "Expected 4.0 vs line 4.5"
+        "conf": 0.733,
+        "detail": "Expected 3.8 vs line 4.5"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "CLE OVER 1.5",
+        "conf": 0.73,
+        "detail": "Expected 1.96"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "WSH OVER 1.5",
+        "conf": 0.67,
+        "detail": "Expected 1.84"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
-    "wind": null,
+    "wind": {
+      "speed_mph": 4.9,
+      "direction": "in",
+      "adj": -0.15
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -201,5 +205,5 @@
   },
   "locked_away_pitcher_id": 676571,
   "locked_home_pitcher_id": 676440,
-  "pitcher_changed_at_refresh": true
+  "pitcher_changed_at_refresh": false
 }

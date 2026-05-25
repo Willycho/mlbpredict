@@ -160,7 +160,7 @@
       "home_pitcher": "tanner bibee",
       "pick": "WSH",
       "pick_prob": 0.503,
-      "expected_total": 4.0,
+      "expected_total": 3.8,
       "v2_pick": "WSH",
       "v2_conf": 0.521,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:04:10.040422+00:00",
+      "last_refreshed_at": "2026-05-25T21:22:05.098359+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "griffin canning",
       "pick": "PHI",
       "pick_prob": 0.756,
-      "expected_total": 3.9,
+      "expected_total": 3.6,
       "v2_pick": "SD",
       "v2_conf": 0.524,
       "consensus": false,
@@ -189,7 +189,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-25T20:04:23.033633+00:00",
+      "last_refreshed_at": "2026-05-25T21:22:07.908520+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "Tatsuya Imai",
       "home_pitcher": "kumar rocker",
       "pick": "HOU",
-      "pick_prob": 0.589,
+      "pick_prob": 0.57,
       "expected_total": 4.7,
-      "v2_pick": "TEX",
-      "v2_conf": 0.503,
-      "consensus": false,
+      "v2_pick": "HOU",
+      "v2_conf": 0.533,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T21:22:20.360549+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822812,
@@ -222,17 +222,17 @@
       "away_pitcher": "janson junk",
       "home_pitcher": "trey yesavage",
       "pick": "TOR",
-      "pick_prob": 0.639,
+      "pick_prob": 0.605,
       "expected_total": 4.1,
       "v2_pick": "TOR",
-      "v2_conf": 0.524,
+      "v2_conf": 0.526,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T21:22:32.838086+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823948,
@@ -354,9 +354,9 @@
       "home_pitcher": "trey yesavage",
       "tier": "good",
       "v2_pick": "TOR",
-      "v2_conf": 0.524,
-      "lineup": "roster",
-      "n_batters": "17+21",
+      "v2_conf": 0.526,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.633,
@@ -370,5 +370,5 @@
     "sweet_spot_count": 1,
     "total_games": 13
   },
-  "last_modified_at": "2026-05-25T20:04:23.034211+00:00"
+  "last_modified_at": "2026-05-25T21:22:32.838644+00:00"
 }
