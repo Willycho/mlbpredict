@@ -96,17 +96,17 @@
       "away_pitcher": "will warren",
       "home_pitcher": "michael wacha",
       "pick": "NYY",
-      "pick_prob": 0.588,
-      "expected_total": 4.4,
+      "pick_prob": 0.579,
+      "expected_total": 4.5,
       "v2_pick": "NYY",
-      "v2_conf": 0.511,
+      "v2_conf": 0.526,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T18:15:02.413377+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823625,
@@ -117,17 +117,17 @@
       "away_pitcher": "nick lodolo",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.591,
+      "pick_prob": 0.569,
       "expected_total": 3.5,
       "v2_pick": "NYM",
-      "v2_conf": 0.559,
+      "v2_conf": 0.523,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T18:15:04.990645+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823219,
@@ -138,17 +138,17 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "landen roupp",
       "pick": "AZ",
-      "pick_prob": 0.553,
-      "expected_total": 4.5,
+      "pick_prob": 0.631,
+      "expected_total": 4.6,
       "v2_pick": "AZ",
-      "v2_conf": 0.541,
+      "v2_conf": 0.55,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "consensus",
+      "ou_consensus": true,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-25T15:29:18.903266+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-25T18:15:07.597600+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824437,
@@ -303,9 +303,9 @@
       "home_pitcher": "nolan mclean",
       "tier": "consensus",
       "v2_pick": "NYM",
-      "v2_conf": 0.559,
-      "lineup": "roster",
-      "n_batters": "15+17",
+      "v2_conf": 0.523,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.833,
@@ -370,5 +370,5 @@
     "sweet_spot_count": 1,
     "total_games": 13
   },
-  "last_modified_at": "2026-05-25T16:36:29.568874+00:00"
+  "last_modified_at": "2026-05-25T18:15:07.598174+00:00"
 }
