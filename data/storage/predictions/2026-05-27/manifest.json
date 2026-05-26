@@ -28,12 +28,12 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "joey cantillo",
       "pick": "CLE",
-      "pick_prob": 0.568,
+      "pick_prob": 0.588,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T19:28:11.679128+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824837,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-26T19:28:11.679715+00:00"
 }
