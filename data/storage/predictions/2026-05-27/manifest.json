@@ -173,10 +173,10 @@
       "home_pitcher": "jack leiter",
       "pick": "TEX",
       "pick_prob": 0.602,
-      "expected_total": 4.7,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T22:39:43.138034+00:00",
+      "last_refreshed_at": "2026-05-26T23:48:10.158591+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -186,14 +186,14 @@
       "game_time_kst": "10:40",
       "game_date_kst": "2026-05-27",
       "away_pitcher": "emerson hancock",
-      "home_pitcher": "luis severino",
+      "home_pitcher": "Gage Jump",
       "pick": "ATH",
-      "pick_prob": 0.549,
-      "expected_total": 4.9,
+      "pick_prob": 0.678,
+      "expected_total": 5.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T23:48:11.647822+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823294,
@@ -204,12 +204,12 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "randy vásquez",
       "pick": "PHI",
-      "pick_prob": 0.72,
-      "expected_total": 4.5,
+      "pick_prob": 0.702,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T23:48:12.443848+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823216,
@@ -220,12 +220,12 @@
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "tyler mahle",
       "pick": "AZ",
-      "pick_prob": 0.547,
-      "expected_total": 4.1,
+      "pick_prob": 0.557,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T23:48:13.253063+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823949,
@@ -236,13 +236,13 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "eric lauer",
       "pick": "LAD",
-      "pick_prob": 0.804,
-      "expected_total": 4.3,
+      "pick_prob": 0.798,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:04:06.145872+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T23:48:14.054919+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-26T22:39:43.138621+00:00"
+  "last_modified_at": "2026-05-26T23:48:14.055526+00:00"
 }
