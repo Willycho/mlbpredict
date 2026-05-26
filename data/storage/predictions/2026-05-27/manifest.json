@@ -96,7 +96,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:11:43.503852+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:40.012077+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:11:44.376199+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:40.629392+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:11:45.260620+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:41.247717+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:11:46.160978+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:41.868881+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "kyle harrison",
       "pick": "MIL",
       "pick_prob": 0.693,
-      "expected_total": 4.5,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:11:56.645786+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:42.476177+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "jack leiter",
       "pick": "TEX",
       "pick_prob": 0.602,
-      "expected_total": 4.9,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:12:07.153706+00:00",
+      "last_refreshed_at": "2026-05-26T22:39:43.138034+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-26T21:12:07.154480+00:00"
+  "last_modified_at": "2026-05-26T22:39:43.138621+00:00"
 }
