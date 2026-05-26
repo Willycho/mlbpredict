@@ -126,7 +126,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:18:08.264835+00:00",
+      "last_refreshed_at": "2026-05-26T22:44:22.000079+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:18:10.584936+00:00",
+      "last_refreshed_at": "2026-05-26T22:44:24.817632+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:18:13.004242+00:00",
+      "last_refreshed_at": "2026-05-26T22:44:37.420601+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:18:25.158578+00:00",
+      "last_refreshed_at": "2026-05-26T22:44:49.938319+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "jack leiter",
       "pick": "TEX",
       "pick_prob": 0.602,
-      "expected_total": 4.9,
+      "expected_total": 4.7,
       "v2_pick": "TEX",
       "v2_conf": 0.547,
       "consensus": true,
@@ -210,7 +210,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-26T21:18:37.313989+00:00",
+      "last_refreshed_at": "2026-05-26T22:44:52.751833+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,19 +220,19 @@
       "game_time_kst": "10:40",
       "game_date_kst": "2026-05-27",
       "away_pitcher": "emerson hancock",
-      "home_pitcher": "luis severino",
+      "home_pitcher": "Gage Jump",
       "pick": "ATH",
-      "pick_prob": 0.549,
-      "expected_total": 4.9,
-      "v2_pick": "SEA",
-      "v2_conf": 0.519,
-      "consensus": false,
+      "pick_prob": 0.678,
+      "expected_total": 5.1,
+      "v2_pick": "ATH",
+      "v2_conf": 0.504,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:08:20.473703+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T22:44:55.886905+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823294,
@@ -243,17 +243,17 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "randy vásquez",
       "pick": "PHI",
-      "pick_prob": 0.72,
+      "pick_prob": 0.702,
       "expected_total": 4.5,
       "v2_pick": "SD",
-      "v2_conf": 0.516,
+      "v2_conf": 0.504,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-26T16:08:20.473703+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-26T22:44:58.508764+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823216,
@@ -355,6 +355,23 @@
       "ml_consensus": true
     },
     {
+      "game_id": 825004,
+      "away_team": "SEA",
+      "home_team": "ATH",
+      "away_pitcher": "emerson hancock",
+      "home_pitcher": "Gage Jump",
+      "tier": "sweet_spot",
+      "v2_pick": "ATH",
+      "v2_conf": 0.504,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823785,
       "away_team": "STL",
       "home_team": "MIL",
@@ -387,23 +404,6 @@
       "conf": 0.687,
       "detail": "F5 BOS ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824275,
-      "away_team": "LAA",
-      "home_team": "DET",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "keider montero",
-      "tier": "good",
-      "v2_pick": "DET",
-      "v2_conf": 0.576,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.9 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-26T21:18:37.314562+00:00"
+  "last_modified_at": "2026-05-26T22:44:58.509409+00:00"
 }
