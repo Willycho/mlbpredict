@@ -124,11 +124,11 @@
       "away_pitcher": "josé soriano",
       "home_pitcher": "casey mize",
       "pick": "DET",
-      "pick_prob": 0.506,
+      "pick_prob": 0.502,
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T19:50:13.959116+00:00",
+      "last_refreshed_at": "2026-05-27T21:52:12.507196+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "jameson taillon",
       "home_pitcher": "bubba chandler",
       "pick": "PIT",
-      "pick_prob": 0.582,
+      "pick_prob": 0.651,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T19:50:15.356562+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T21:52:13.075078+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "connelly early",
       "pick": "BOS",
       "pick_prob": 0.739,
-      "expected_total": 4.1,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T19:50:16.709051+00:00",
+      "last_refreshed_at": "2026-05-27T21:52:13.663148+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "huascar brazobán",
       "pick": "NYM",
-      "pick_prob": 0.621,
-      "expected_total": 4.0,
+      "pick_prob": 0.653,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T21:52:14.340020+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824596,
@@ -186,14 +186,14 @@
       "game_time_kst": "08:40",
       "game_date_kst": "2026-05-28",
       "away_pitcher": "Connor Prielipp",
-      "home_pitcher": "davis martin",
+      "home_pitcher": "David Sandlin",
       "pick": "MIN",
-      "pick_prob": 0.592,
-      "expected_total": 4.7,
+      "pick_prob": 0.513,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T21:52:15.473608+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824104,
@@ -204,12 +204,12 @@
       "away_pitcher": "gerrit cole",
       "home_pitcher": "noah cameron",
       "pick": "NYY",
-      "pick_prob": 0.741,
-      "expected_total": 3.8,
+      "pick_prob": 0.677,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T21:52:16.045977+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822897,
@@ -221,11 +221,11 @@
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
       "pick_prob": 0.655,
-      "expected_total": 3.7,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T21:52:16.614397+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823947,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-27T19:50:16.709563+00:00"
+  "last_modified_at": "2026-05-27T21:52:16.615019+00:00"
 }
