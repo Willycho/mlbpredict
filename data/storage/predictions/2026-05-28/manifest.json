@@ -189,10 +189,10 @@
       "home_pitcher": "David Sandlin",
       "pick": "MIN",
       "pick_prob": 0.513,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T21:52:15.473608+00:00",
+      "last_refreshed_at": "2026-05-27T23:14:46.556219+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "noah cameron",
       "pick": "NYY",
       "pick_prob": 0.677,
-      "expected_total": 3.5,
+      "expected_total": 3.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T21:52:16.045977+00:00",
+      "last_refreshed_at": "2026-05-27T23:14:49.591393+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T21:52:16.614397+00:00",
+      "last_refreshed_at": "2026-05-27T23:14:50.337787+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.946,
-      "expected_total": 3.8,
+      "pick_prob": 0.938,
+      "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-27T23:14:51.093628+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-27T21:52:16.615019+00:00"
+  "last_modified_at": "2026-05-27T23:14:51.094163+00:00"
 }
