@@ -76,12 +76,12 @@
       "away_pitcher": "logan gilbert",
       "home_pitcher": "jeffrey springs",
       "pick": "SEA",
-      "pick_prob": 0.633,
-      "expected_total": 3.5,
+      "pick_prob": 0.673,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-27T17:45:47.122179+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823217,
@@ -91,13 +91,13 @@
       "game_date_kst": "2026-05-28",
       "away_pitcher": "michael soroka",
       "home_pitcher": "trevor mcdonald",
-      "pick": "AZ",
-      "pick_prob": 0.509,
-      "expected_total": 4.1,
+      "pick": "SF",
+      "pick_prob": 0.513,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T17:45:47.762152+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823295,
@@ -108,12 +108,12 @@
       "away_pitcher": "cristopher sánchez",
       "home_pitcher": "walker buehler",
       "pick": "PHI",
-      "pick_prob": 0.874,
+      "pick_prob": 0.851,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T17:45:48.424676+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824270,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-27T16:07:04.584725+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-27T17:45:48.425287+00:00"
 }
