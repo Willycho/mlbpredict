@@ -210,7 +210,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T20:54:24.884423+00:00",
+      "last_refreshed_at": "2026-05-27T22:49:25.181519+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "David Sandlin",
       "pick": "MIN",
       "pick_prob": 0.513,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "v2_pick": "CWS",
       "v2_conf": 0.532,
       "consensus": false,
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T20:54:27.544038+00:00",
+      "last_refreshed_at": "2026-05-27T22:49:28.089906+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "noah cameron",
       "pick": "NYY",
       "pick_prob": 0.677,
-      "expected_total": 3.8,
+      "expected_total": 3.5,
       "v2_pick": "NYY",
       "v2_conf": 0.564,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T20:54:39.519834+00:00",
+      "last_refreshed_at": "2026-05-27T22:49:30.876186+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -267,14 +267,14 @@
       "pick_prob": 0.655,
       "expected_total": 3.7,
       "v2_pick": "TEX",
-      "v2_conf": 0.566,
+      "v2_conf": 0.577,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:11:48.043849+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-27T22:49:43.340711+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823947,
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824104,
+      "away_team": "NYY",
+      "home_team": "KC",
+      "away_pitcher": "gerrit cole",
+      "home_pitcher": "noah cameron",
+      "tier": "sweet_spot",
+      "v2_pick": "NYY",
+      "v2_conf": 0.564,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.833,
+      "detail": "Expected 3.5 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 825003,
       "away_team": "SEA",
       "home_team": "ATH",
@@ -362,9 +379,9 @@
       "home_pitcher": "jacob degrom",
       "tier": "sweet_spot",
       "v2_pick": "TEX",
-      "v2_conf": 0.566,
-      "lineup": "roster",
-      "n_batters": "16+18",
+      "v2_conf": 0.577,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.767,
@@ -387,23 +404,6 @@
       "conf": 0.745,
       "detail": "F5 MIL ML",
       "ml_consensus": true
-    },
-    {
-      "game_id": 824756,
-      "away_team": "ATL",
-      "home_team": "BOS",
-      "away_pitcher": "bryce elder",
-      "home_pitcher": "connelly early",
-      "tier": "sweet_spot",
-      "v2_pick": "BOS",
-      "v2_conf": 0.544,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "ML",
-      "pick": "F5 BOS",
-      "conf": 0.739,
-      "detail": "F5 BOS ML",
-      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-27T20:54:39.520628+00:00"
+  "last_modified_at": "2026-05-27T22:49:43.341396+00:00"
 }
