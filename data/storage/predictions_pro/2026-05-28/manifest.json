@@ -265,7 +265,7 @@
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
       "pick_prob": 0.655,
-      "expected_total": 3.7,
+      "expected_total": 3.6,
       "v2_pick": "TEX",
       "v2_conf": 0.577,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-27T22:49:43.340711+00:00",
+      "last_refreshed_at": "2026-05-27T23:54:11.953569+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.946,
-      "expected_total": 3.8,
+      "pick_prob": 0.938,
+      "expected_total": 4.1,
       "v2_pick": "LAD",
-      "v2_conf": 0.627,
+      "v2_conf": 0.639,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-27T16:11:48.043849+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-27T23:54:14.660281+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824836,
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 825003,
-      "away_team": "SEA",
-      "home_team": "ATH",
-      "away_pitcher": "logan gilbert",
-      "home_pitcher": "jeffrey springs",
-      "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.542,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 822897,
       "away_team": "HOU",
       "home_team": "TEX",
@@ -380,6 +363,23 @@
       "tier": "sweet_spot",
       "v2_pick": "TEX",
       "v2_conf": 0.577,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 825003,
+      "away_team": "SEA",
+      "home_team": "ATH",
+      "away_pitcher": "logan gilbert",
+      "home_pitcher": "jeffrey springs",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.542,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-27T22:49:43.341396+00:00"
+  "last_modified_at": "2026-05-27T23:54:14.660879+00:00"
 }
