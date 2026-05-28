@@ -60,12 +60,12 @@
       "away_pitcher": "patrick corbin",
       "home_pitcher": "chris bassitt",
       "pick": "BAL",
-      "pick_prob": 0.527,
+      "pick_prob": 0.551,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-28T16:20:47.191449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-28T21:30:37.049830+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823378,
@@ -76,12 +76,12 @@
       "away_pitcher": "colin rea",
       "home_pitcher": "paul skenes",
       "pick": "PIT",
-      "pick_prob": 0.639,
+      "pick_prob": 0.626,
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-28T16:20:47.191449+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-28T21:30:37.801149+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822896,
@@ -92,13 +92,13 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
-      "pick_prob": 0.77,
+      "pick_prob": 0.789,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-28T16:20:47.191449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-28T21:30:38.559590+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-28T19:22:00.736585+00:00"
+  "last_modified_at": "2026-05-28T21:30:38.560204+00:00"
 }
