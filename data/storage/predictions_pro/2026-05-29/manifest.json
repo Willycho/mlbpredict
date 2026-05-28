@@ -54,17 +54,17 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "payton tolle",
       "pick": "ATL",
-      "pick_prob": 0.741,
+      "pick_prob": 0.735,
       "expected_total": 3.7,
       "v2_pick": "ATL",
-      "v2_conf": 0.632,
+      "v2_conf": 0.635,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-28T16:32:58.450794+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-28T19:16:22.337903+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824834,
@@ -139,12 +139,12 @@
       "home_pitcher": "payton tolle",
       "tier": "sweet_spot",
       "v2_pick": "ATL",
-      "v2_conf": 0.632,
-      "lineup": "partial",
-      "n_batters": "9+18",
+      "v2_conf": 0.635,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 ATL",
-      "conf": 0.741,
+      "conf": 0.735,
       "detail": "F5 ATL ML",
       "ml_consensus": true
     },
@@ -205,5 +205,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 1,
     "total_games": 6
-  }
+  },
+  "last_modified_at": "2026-05-28T19:16:22.338489+00:00"
 }
