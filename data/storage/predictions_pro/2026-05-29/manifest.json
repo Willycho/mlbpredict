@@ -118,7 +118,7 @@
       "home_pitcher": "nathan eovaldi",
       "pick": "TEX",
       "pick_prob": 0.789,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "v2_pick": "TEX",
       "v2_conf": 0.57,
       "consensus": true,
@@ -126,7 +126,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-28T21:27:30.491780+00:00",
+      "last_refreshed_at": "2026-05-28T23:00:42.482168+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -149,23 +149,6 @@
       "ml_consensus": true
     },
     {
-      "game_id": 822896,
-      "away_team": "HOU",
-      "home_team": "TEX",
-      "away_pitcher": "spencer arrighetti",
-      "home_pitcher": "nathan eovaldi",
-      "tier": "consensus",
-      "v2_pick": "TEX",
-      "v2_conf": 0.57,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823378,
       "away_team": "CHC",
       "home_team": "PIT",
@@ -176,6 +159,23 @@
       "v2_conf": 0.592,
       "lineup": "partial",
       "n_batters": "18+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 4.0 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 822896,
+      "away_team": "HOU",
+      "home_team": "TEX",
+      "away_pitcher": "spencer arrighetti",
+      "home_pitcher": "nathan eovaldi",
+      "tier": "consensus",
+      "v2_pick": "TEX",
+      "v2_conf": 0.57,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.667,
@@ -206,5 +206,5 @@
     "sweet_spot_count": 1,
     "total_games": 6
   },
-  "last_modified_at": "2026-05-28T21:27:30.492324+00:00"
+  "last_modified_at": "2026-05-28T23:00:42.482789+00:00"
 }
