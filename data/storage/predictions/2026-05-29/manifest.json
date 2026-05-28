@@ -44,12 +44,12 @@
       "away_pitcher": "chris sale",
       "home_pitcher": "payton tolle",
       "pick": "ATL",
-      "pick_prob": 0.741,
+      "pick_prob": 0.735,
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-28T16:20:47.191449+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-28T19:22:00.736024+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824834,
@@ -100,5 +100,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-28T16:34:07.358926+00:00"
+  "last_modified_at": "2026-05-28T19:22:00.736585+00:00"
 }
