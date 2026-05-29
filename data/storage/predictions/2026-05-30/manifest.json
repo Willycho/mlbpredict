@@ -32,7 +32,7 @@
       "expected_total": 4.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:38.734202+00:00",
+      "last_refreshed_at": "2026-05-29T22:19:58.320712+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:39.608830+00:00",
+      "last_refreshed_at": "2026-05-29T22:19:59.441866+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -59,12 +59,12 @@
       "game_date_kst": "2026-05-30",
       "away_pitcher": "taj bradley",
       "home_pitcher": "jared jones",
-      "pick": "MIN",
-      "pick_prob": 0.519,
+      "pick": "PIT",
+      "pick_prob": 0.535,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T20:42:40.531881+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T22:20:03.838454+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "slade cecconi",
       "pick": "BOS",
       "pick_prob": 0.648,
-      "expected_total": 4.5,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:41.377599+00:00",
+      "last_refreshed_at": "2026-05-29T22:20:14.258692+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:41.669760+00:00",
+      "last_refreshed_at": "2026-05-29T22:20:14.470956+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,11 +108,11 @@
       "away_pitcher": "max meyer",
       "home_pitcher": "freddy peralta",
       "pick": "NYM",
-      "pick_prob": 0.816,
-      "expected_total": 4.1,
+      "pick_prob": 0.82,
+      "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:42.556596+00:00",
+      "last_refreshed_at": "2026-05-29T22:20:24.947066+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "andre pallante",
       "pick": "CHC",
       "pick_prob": 0.678,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:43.435206+00:00",
+      "last_refreshed_at": "2026-05-29T22:20:35.555838+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T20:42:44.281472+00:00",
+      "last_refreshed_at": "2026-05-29T22:20:36.463849+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -155,13 +155,13 @@
       "game_date_kst": "2026-05-30",
       "away_pitcher": "stephen kolek",
       "home_pitcher": "mackenzie gore",
-      "pick": "TEX",
-      "pick_prob": 0.535,
-      "expected_total": 4.7,
+      "pick": "KC",
+      "pick_prob": 0.524,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T22:20:37.350764+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824191,
@@ -172,12 +172,12 @@
       "away_pitcher": "Coleman Crow",
       "home_pitcher": "kai-wei teng",
       "pick": "HOU",
-      "pick_prob": 0.532,
-      "expected_total": 4.8,
+      "pick_prob": 0.534,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T22:20:38.196539+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824353,
@@ -188,12 +188,12 @@
       "away_pitcher": "logan webb",
       "home_pitcher": "michael lorenzen",
       "pick": "SF",
-      "pick_prob": 0.731,
+      "pick_prob": 0.708,
       "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T22:20:39.078152+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825002,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-29T20:42:44.282121+00:00"
+  "last_modified_at": "2026-05-29T22:20:39.078743+00:00"
 }
