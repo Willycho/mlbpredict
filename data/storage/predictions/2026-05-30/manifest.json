@@ -157,10 +157,10 @@
       "home_pitcher": "mackenzie gore",
       "pick": "KC",
       "pick_prob": 0.524,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T22:20:37.350764+00:00",
+      "last_refreshed_at": "2026-05-29T23:48:50.310722+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T22:20:38.196539+00:00",
+      "last_refreshed_at": "2026-05-29T23:48:50.907222+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "michael lorenzen",
       "pick": "SF",
       "pick_prob": 0.708,
-      "expected_total": 4.3,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-29T22:20:39.078152+00:00",
+      "last_refreshed_at": "2026-05-29T23:48:51.495077+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,12 +204,12 @@
       "away_pitcher": "carlos rodón",
       "home_pitcher": "luis severino",
       "pick": "NYY",
-      "pick_prob": 0.788,
-      "expected_total": 4.2,
+      "pick_prob": 0.797,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T23:48:52.124527+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823135,
@@ -220,12 +220,12 @@
       "away_pitcher": "zac gallen",
       "home_pitcher": "george kirby",
       "pick": "SEA",
-      "pick_prob": 0.629,
-      "expected_total": 3.6,
+      "pick_prob": 0.557,
+      "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T23:48:52.790209+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823946,
@@ -236,13 +236,13 @@
       "away_pitcher": "zack wheeler",
       "home_pitcher": "justin wrobleski",
       "pick": "PHI",
-      "pick_prob": 0.572,
+      "pick_prob": 0.544,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-29T16:03:46.315006+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-29T23:48:53.422059+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-29T22:20:39.078743+00:00"
+  "last_modified_at": "2026-05-29T23:48:53.422711+00:00"
 }
