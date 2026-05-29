@@ -2,7 +2,7 @@
   "game_id": 822894,
   "kst_date": "2026-05-30",
   "bulk_fetched_at": "2026-05-29T16:08:02.618532+00:00",
-  "last_refreshed_at": "2026-05-29T22:42:16.552840+00:00",
+  "last_refreshed_at": "2026-05-29T23:59:18.121794+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,26 +55,26 @@
     "win_prob_home": 0.476,
     "pick": "KC",
     "pick_prob": 0.524,
-    "expected_total": 4.6,
+    "expected_total": 4.7,
     "away_team_total": {
-      "expected": 2.22,
+      "expected": 2.27,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.28
+      "gap": 0.23
     },
     "home_team_total": {
-      "expected": 2.38,
+      "expected": 2.43,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.12
+      "gap": 0.07
     },
     "sweet_picks": [],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 7.1,
+      "speed_mph": 7.6,
       "direction": "out",
-      "adj": 0.09
+      "adj": 0.16
     },
     "away_pitch_detail": [
       {
