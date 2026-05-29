@@ -2,8 +2,8 @@
   "game_id": 825002,
   "kst_date": "2026-05-30",
   "bulk_fetched_at": "2026-05-29T16:08:02.618532+00:00",
-  "last_refreshed_at": "2026-05-29T16:08:02.618532+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-05-29T22:42:25.775234+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 825002,
@@ -36,11 +36,11 @@
       "no_data": false
     },
     "away_matchup": {
-      "matchup_score": 59.1,
-      "arsenal_matchup": 61.5,
-      "h2h_bonus": 2.1,
-      "lineup_source": "roster",
-      "n_batters": 22
+      "matchup_score": 53.9,
+      "arsenal_matchup": 52.9,
+      "h2h_bonus": 2.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 31.8,
@@ -49,30 +49,30 @@
       "lineup_source": "roster",
       "n_batters": 15
     },
-    "effective_away": 68.8,
+    "effective_away": 65.2,
     "effective_home": 40.3,
-    "win_prob_away": 0.788,
-    "win_prob_home": 0.212,
+    "win_prob_away": 0.758,
+    "win_prob_home": 0.242,
     "pick": "NYY",
-    "pick_prob": 0.788,
+    "pick_prob": 0.758,
     "expected_total": 4.2,
     "away_team_total": {
-      "expected": 2.71,
+      "expected": 2.63,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.21
+      "gap": 0.13
     },
     "home_team_total": {
-      "expected": 1.49,
+      "expected": 1.57,
       "line": 1.5,
-      "pick": "UNDER",
-      "gap": 0.01
+      "pick": "OVER",
+      "gap": 0.07
     },
     "sweet_picks": [],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 3.4,
+      "speed_mph": 2.7,
       "direction": "out",
       "adj": 0.06
     },
@@ -81,9 +81,9 @@
         "pitch_type": "FF",
         "usage": 0.418,
         "pitcher_xwoba": 0.341,
-        "team_xwoba": 0.338,
+        "team_xwoba": 0.36,
         "league_xwoba": 0.345,
-        "advantage": 0.0054
+        "advantage": -0.0056
       },
       {
         "pitch_type": "SL",
@@ -91,39 +91,39 @@
         "pitcher_xwoba": 0.226,
         "team_xwoba": 0.314,
         "league_xwoba": 0.288,
-        "advantage": 0.0176
+        "advantage": 0.0181
       },
       {
         "pitch_type": "CH",
         "usage": 0.162,
         "pitcher_xwoba": 0.257,
-        "team_xwoba": 0.303,
+        "team_xwoba": 0.326,
         "league_xwoba": 0.29,
-        "advantage": 0.0099
+        "advantage": -0.0016
       },
       {
         "pitch_type": "SI",
         "usage": 0.097,
         "pitcher_xwoba": 0.341,
-        "team_xwoba": 0.325,
+        "team_xwoba": 0.359,
         "league_xwoba": 0.351,
-        "advantage": 0.0181
+        "advantage": 0.0008
       },
       {
         "pitch_type": "CU",
         "usage": 0.038,
         "pitcher_xwoba": 0.233,
-        "team_xwoba": 0.285,
+        "team_xwoba": 0.317,
         "league_xwoba": 0.283,
-        "advantage": 0.024
+        "advantage": 0.008
       },
       {
         "pitch_type": "FC",
         "usage": 0.002,
         "pitcher_xwoba": 0.32,
-        "team_xwoba": 0.358,
+        "team_xwoba": 0.416,
         "league_xwoba": 0.343,
-        "advantage": 0.0041
+        "advantage": -0.0249
       }
     ],
     "home_pitch_detail": [
@@ -177,12 +177,12 @@
       }
     ],
     "away_h2h_detail": {
-      "total_pa": 62,
-      "n_batters": 12,
-      "w_k_rate": 0.274,
-      "w_bb_rate": 0.032,
-      "w_hr_rate": 0.048,
-      "confidence": 1.0
+      "total_pa": 34,
+      "n_batters": 6,
+      "w_k_rate": 0.265,
+      "w_bb_rate": 0.029,
+      "w_hr_rate": 0.029,
+      "confidence": 0.68
     },
     "home_h2h_detail": {
       "total_pa": 67,
@@ -193,12 +193,13 @@
       "confidence": 1.0
     },
     "v2_pick": "NYY",
-    "v2_conf": 0.582,
+    "v2_conf": 0.623,
     "consensus": true,
     "tier": "consensus",
     "ou_consensus": false,
     "v2_f5_total": 5.0
   },
   "locked_away_pitcher_id": 607074,
-  "locked_home_pitcher_id": 622663
+  "locked_home_pitcher_id": 622663,
+  "pitcher_changed_at_refresh": false
 }
