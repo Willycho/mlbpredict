@@ -202,7 +202,7 @@
       "home_pitcher": "kyle leahy",
       "pick": "CHC",
       "pick_prob": 0.623,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "STL",
       "v2_conf": 0.528,
       "consensus": false,
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T21:46:00.169058+00:00",
+      "last_refreshed_at": "2026-05-30T22:43:29.420310+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T21:46:03.002632+00:00",
+      "last_refreshed_at": "2026-05-30T22:43:32.019915+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "adrian houser",
       "home_pitcher": "ryan feltner",
       "pick": "SF",
-      "pick_prob": 0.526,
+      "pick_prob": 0.516,
       "expected_total": 4.6,
       "v2_pick": "SF",
-      "v2_conf": 0.51,
+      "v2_conf": 0.507,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T14:03:55.119094+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T22:43:34.737476+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825000,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-30T21:46:03.003234+00:00"
+  "last_modified_at": "2026-05-30T22:43:34.738084+00:00"
 }
