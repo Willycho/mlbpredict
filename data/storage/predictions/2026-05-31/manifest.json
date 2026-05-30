@@ -12,12 +12,12 @@
       "away_pitcher": "framber valdez",
       "home_pitcher": "anthony kay",
       "pick": "DET",
-      "pick_prob": 0.889,
-      "expected_total": 4.7,
+      "pick_prob": 0.883,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T13:59:49.305376+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T15:36:00.509628+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822731,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-05-30T13:59:49.305376+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-05-30T15:36:00.510269+00:00"
 }
