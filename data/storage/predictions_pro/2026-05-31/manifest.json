@@ -13,7 +13,7 @@
       "home_pitcher": "anthony kay",
       "pick": "DET",
       "pick_prob": 0.883,
-      "expected_total": 4.6,
+      "expected_total": 4.7,
       "v2_pick": "DET",
       "v2_conf": 0.582,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T15:42:20.637163+00:00",
+      "last_refreshed_at": "2026-05-30T16:47:36.201519+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-30T15:42:20.637706+00:00"
+  "last_modified_at": "2026-05-30T16:47:36.202116+00:00"
 }
