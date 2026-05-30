@@ -201,16 +201,16 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "kyle leahy",
       "pick": "CHC",
-      "pick_prob": 0.622,
+      "pick_prob": 0.623,
       "expected_total": 4.1,
       "v2_pick": "STL",
-      "v2_conf": 0.538,
+      "v2_conf": 0.528,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T20:41:00.023163+00:00",
+      "last_refreshed_at": "2026-05-30T21:46:00.169058+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,16 +222,16 @@
       "away_pitcher": "martín pérez",
       "home_pitcher": "brady singer",
       "pick": "CIN",
-      "pick_prob": 0.587,
+      "pick_prob": 0.58,
       "expected_total": 5.0,
       "v2_pick": "ATL",
-      "v2_conf": 0.51,
+      "v2_conf": 0.504,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T20:41:02.691461+00:00",
+      "last_refreshed_at": "2026-05-30T21:46:03.002632+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -396,7 +396,7 @@
       "home_pitcher": "brady singer",
       "tier": "disagree",
       "v2_pick": "ATL",
-      "v2_conf": 0.51,
+      "v2_conf": 0.504,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-30T20:41:02.692039+00:00"
+  "last_modified_at": "2026-05-30T21:46:03.003234+00:00"
 }
