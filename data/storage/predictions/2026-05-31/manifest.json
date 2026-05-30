@@ -32,7 +32,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:43.266239+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:16.828648+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:44.119075+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:17.752361+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,11 +60,11 @@
       "away_pitcher": "trey yesavage",
       "home_pitcher": "brandon young",
       "pick": "TOR",
-      "pick_prob": 0.668,
+      "pick_prob": 0.638,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T17:46:44.955298+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T19:09:18.665494+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:45.797600+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:19.675337+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 2.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:46.665369+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:20.579133+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:47.021806+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:20.871444+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:47.855535+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:21.848966+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "peter lambert",
       "pick": "MIL",
       "pick_prob": 0.592,
-      "expected_total": 5.1,
+      "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:46:48.700386+00:00",
+      "last_refreshed_at": "2026-05-30T19:09:22.761301+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-30T17:46:48.700978+00:00"
+  "last_modified_at": "2026-05-30T19:09:22.761919+00:00"
 }
