@@ -156,12 +156,12 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "kyle leahy",
       "pick": "CHC",
-      "pick_prob": 0.609,
+      "pick_prob": 0.622,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T13:59:49.305376+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T20:17:07.520031+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824513,
@@ -172,12 +172,12 @@
       "away_pitcher": "martín pérez",
       "home_pitcher": "brady singer",
       "pick": "CIN",
-      "pick_prob": 0.566,
+      "pick_prob": 0.587,
       "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T13:59:49.305376+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T20:17:08.144511+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824352,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-30T19:09:22.761919+00:00"
+  "last_modified_at": "2026-05-30T20:17:08.145158+00:00"
 }
