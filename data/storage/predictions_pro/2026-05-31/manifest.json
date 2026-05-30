@@ -42,7 +42,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:53:42.272842+00:00",
+      "last_refreshed_at": "2026-05-30T19:39:57.748063+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -55,7 +55,7 @@
       "home_pitcher": "kumar rocker",
       "pick": "KC",
       "pick_prob": 0.546,
-      "expected_total": 4.7,
+      "expected_total": 5.1,
       "v2_pick": "KC",
       "v2_conf": 0.505,
       "consensus": true,
@@ -63,7 +63,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:53:55.058744+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:01.534806+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,16 +75,16 @@
       "away_pitcher": "trey yesavage",
       "home_pitcher": "brandon young",
       "pick": "TOR",
-      "pick_prob": 0.668,
+      "pick_prob": 0.638,
       "expected_total": 4.4,
       "v2_pick": "TOR",
-      "v2_conf": 0.628,
+      "v2_conf": 0.633,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-30T17:54:07.875774+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-30T19:40:14.988688+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:54:11.035528+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:28.280248+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:54:14.006151+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:31.821678+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:54:16.777284+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:35.041778+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:54:29.423924+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:48.460086+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "peter lambert",
       "pick": "MIL",
       "pick_prob": 0.592,
-      "expected_total": 4.8,
+      "expected_total": 5.2,
       "v2_pick": "MIL",
       "v2_conf": 0.613,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T17:54:42.325351+00:00",
+      "last_refreshed_at": "2026-05-30T19:40:52.168081+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -355,21 +355,38 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824833,
-      "away_team": "TOR",
-      "home_team": "BAL",
-      "away_pitcher": "trey yesavage",
-      "home_pitcher": "brandon young",
-      "tier": "sweet_spot",
-      "v2_pick": "TOR",
-      "v2_conf": 0.628,
-      "lineup": "partial",
-      "n_batters": "22+9",
-      "type": "ML",
-      "pick": "F5 TOR",
-      "conf": 0.668,
-      "detail": "F5 TOR ML",
-      "ml_consensus": true
+      "game_id": 824190,
+      "away_team": "MIL",
+      "home_team": "HOU",
+      "away_pitcher": "brandon sproat",
+      "home_pitcher": "peter lambert",
+      "tier": "consensus",
+      "v2_pick": "MIL",
+      "v2_conf": 0.613,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 5.2 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 822893,
+      "away_team": "KC",
+      "home_team": "TEX",
+      "away_pitcher": "seth lugo",
+      "home_pitcher": "kumar rocker",
+      "tier": "consensus",
+      "v2_pick": "KC",
+      "v2_conf": 0.505,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 5.1 vs line 4.5",
+      "ou_consensus": true
     },
     {
       "game_id": 824513,
@@ -387,23 +404,6 @@
       "conf": 0.667,
       "detail": "Expected 5.0 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823054,
-      "away_team": "CHC",
-      "home_team": "STL",
-      "away_pitcher": "ben brown",
-      "home_pitcher": "kyle leahy",
-      "tier": "disagree",
-      "v2_pick": "STL",
-      "v2_conf": 0.516,
-      "lineup": "roster",
-      "n_batters": "15+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.1 vs line 4.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-30T17:54:42.325922+00:00"
+  "last_modified_at": "2026-05-30T19:40:52.168631+00:00"
 }
