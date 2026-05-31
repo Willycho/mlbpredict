@@ -189,10 +189,10 @@
       "home_pitcher": "jacob lopez",
       "pick": "ATH",
       "pick_prob": 0.551,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T18:17:22.725403+00:00",
+      "last_refreshed_at": "2026-05-31T19:48:41.545156+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,11 +204,11 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "bryce miller",
       "pick": "AZ",
-      "pick_prob": 0.619,
-      "expected_total": 3.8,
+      "pick_prob": 0.664,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T18:17:23.401067+00:00",
+      "last_refreshed_at": "2026-05-31T19:48:42.172611+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T18:17:24.017418+00:00",
+      "last_refreshed_at": "2026-05-31T19:48:42.802394+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-05-31T18:17:24.017977+00:00"
+  "last_modified_at": "2026-05-31T19:48:42.802923+00:00"
 }
