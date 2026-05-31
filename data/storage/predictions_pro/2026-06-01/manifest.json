@@ -223,7 +223,7 @@
       "home_pitcher": "tanner gordon",
       "pick": "SF",
       "pick_prob": 0.769,
-      "expected_total": 5.1,
+      "expected_total": 4.7,
       "v2_pick": "SF",
       "v2_conf": 0.591,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T17:37:17.054421+00:00",
+      "last_refreshed_at": "2026-05-31T18:50:43.553124+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "jacob lopez",
       "pick": "ATH",
       "pick_prob": 0.551,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "v2_pick": "ATH",
       "v2_conf": 0.5,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T17:37:20.004723+00:00",
+      "last_refreshed_at": "2026-05-31T18:50:46.232494+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,16 +264,16 @@
       "away_pitcher": "merrill kelly",
       "home_pitcher": "bryce miller",
       "pick": "AZ",
-      "pick_prob": 0.619,
-      "expected_total": 3.7,
-      "v2_pick": "AZ",
-      "v2_conf": 0.518,
-      "consensus": true,
+      "pick_prob": 0.664,
+      "expected_total": 3.8,
+      "v2_pick": "SEA",
+      "v2_conf": 0.512,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T17:37:22.911748+00:00",
+      "last_refreshed_at": "2026-05-31T18:50:49.157120+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -286,7 +286,7 @@
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
       "pick_prob": 0.678,
-      "expected_total": 3.9,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
       "v2_conf": 0.598,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T17:37:26.129482+00:00",
+      "last_refreshed_at": "2026-05-31T18:51:01.669939+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -321,40 +321,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 823133,
-      "away_team": "AZ",
-      "home_team": "SEA",
-      "away_pitcher": "merrill kelly",
-      "home_pitcher": "bryce miller",
-      "tier": "good",
-      "v2_pick": "AZ",
-      "v2_conf": 0.518,
-      "lineup": "partial",
-      "n_batters": "9+21",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824354,
-      "away_team": "SF",
-      "home_team": "COL",
-      "away_pitcher": "robbie ray",
-      "home_pitcher": "tanner gordon",
-      "tier": "consensus",
-      "v2_pick": "SF",
-      "v2_conf": 0.591,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823944,
       "away_team": "PHI",
       "home_team": "LAD",
@@ -367,8 +333,25 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 823133,
+      "away_team": "AZ",
+      "home_team": "SEA",
+      "away_pitcher": "merrill kelly",
+      "home_pitcher": "bryce miller",
+      "tier": "disagree",
+      "v2_pick": "SEA",
+      "v2_conf": 0.512,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -404,6 +387,23 @@
       "conf": 0.667,
       "detail": "F5 PIT ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824592,
+      "away_team": "DET",
+      "home_team": "CWS",
+      "away_pitcher": "keider montero",
+      "home_pitcher": "sean burke",
+      "tier": "disagree",
+      "v2_pick": "CWS",
+      "v2_conf": 0.516,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-31T17:37:26.129981+00:00"
+  "last_modified_at": "2026-05-31T18:51:01.670445+00:00"
 }
