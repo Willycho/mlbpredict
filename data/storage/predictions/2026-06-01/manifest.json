@@ -236,13 +236,13 @@
       "away_pitcher": "jordan wicks",
       "home_pitcher": "matthew liberatore",
       "pick": "CHC",
-      "pick_prob": 0.586,
-      "expected_total": 4.5,
+      "pick_prob": 0.611,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:06:17.148588+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-31T20:56:55.180813+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-05-31T19:48:42.802923+00:00"
+  "last_modified_at": "2026-05-31T20:56:55.181411+00:00"
 }
