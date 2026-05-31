@@ -1,0 +1,143 @@
+{
+  "game_id": 824832,
+  "kst_date": "2026-06-01",
+  "bulk_fetched_at": "2026-05-31T14:10:19.082899+00:00",
+  "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 824832,
+    "away_team": "TOR",
+    "home_team": "BAL",
+    "game_time_kst": "01:15",
+    "game_date_kst": "2026-06-01",
+    "away_pitcher": {
+      "id": 693686,
+      "name": "Spencer Miles",
+      "team": "TOR",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "home_pitcher": {
+      "id": 680694,
+      "name": "kyle bradish",
+      "team": "BAL",
+      "throws": "R",
+      "total_score": 85.2,
+      "season_score": 87.4,
+      "arsenal_score": 93.9,
+      "recent_form_score": null,
+      "home_away_adj": -5.0,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "home_matchup": {
+      "matchup_score": 67.6,
+      "arsenal_matchup": 78.4,
+      "h2h_bonus": 0.2,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "effective_away": 55.7,
+    "effective_home": 79.6,
+    "win_prob_away": 0.25,
+    "win_prob_home": 0.75,
+    "pick": "BAL",
+    "pick_prob": 0.75,
+    "expected_total": 4.1,
+    "away_team_total": {
+      "expected": 1.38,
+      "line": 1.5,
+      "pick": "UNDER",
+      "gap": 0.12
+    },
+    "home_team_total": {
+      "expected": 2.72,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.22
+    },
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.1 vs line 4.5"
+      }
+    ],
+    "grade": "overconf",
+    "grade_label": "HIGH CONF",
+    "wind": {
+      "speed_mph": 6.6,
+      "direction": "out",
+      "adj": 0.16
+    },
+    "away_pitch_detail": [],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "SI",
+        "usage": 0.326,
+        "pitcher_xwoba": 0.289,
+        "team_xwoba": 0.333,
+        "league_xwoba": 0.351,
+        "advantage": 0.0397
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.32,
+        "pitcher_xwoba": 0.113,
+        "team_xwoba": 0.289,
+        "league_xwoba": 0.288,
+        "advantage": 0.0866
+      },
+      {
+        "pitch_type": "FF",
+        "usage": 0.227,
+        "pitcher_xwoba": 0.442,
+        "team_xwoba": 0.358,
+        "league_xwoba": 0.345,
+        "advantage": -0.0548
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.128,
+        "pitcher_xwoba": 0.261,
+        "team_xwoba": 0.301,
+        "league_xwoba": 0.283,
+        "advantage": 0.0019
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "total_pa": 18,
+      "n_batters": 3,
+      "w_k_rate": 0.167,
+      "w_bb_rate": 0.056,
+      "w_hr_rate": 0.0,
+      "confidence": 0.36
+    },
+    "v2_pick": "BAL",
+    "v2_conf": 0.531,
+    "consensus": true,
+    "tier": "consensus",
+    "ou_consensus": true,
+    "v2_f5_total": 4.5
+  },
+  "locked_away_pitcher_id": 693686,
+  "locked_home_pitcher_id": 680694
+}
