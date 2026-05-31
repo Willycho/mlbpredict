@@ -2,7 +2,7 @@
   "game_id": 824430,
   "kst_date": "2026-06-01",
   "bulk_fetched_at": "2026-05-31T14:10:19.082899+00:00",
-  "last_refreshed_at": "2026-05-31T14:54:43.888673+00:00",
+  "last_refreshed_at": "2026-05-31T16:21:45.267313+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -43,60 +43,48 @@
       "n_batters": 9
     },
     "home_matchup": {
-      "matchup_score": 63.3,
-      "arsenal_matchup": 72.7,
-      "h2h_bonus": -0.2,
+      "matchup_score": 63.9,
+      "arsenal_matchup": 72.8,
+      "h2h_bonus": 0.9,
       "lineup_source": "lineup",
       "n_batters": 9
     },
     "effective_away": 72.5,
-    "effective_home": 64.2,
-    "win_prob_away": 0.595,
-    "win_prob_home": 0.405,
+    "effective_home": 64.6,
+    "win_prob_away": 0.59,
+    "win_prob_home": 0.41,
     "pick": "BOS",
-    "pick_prob": 0.595,
-    "expected_total": 3.8,
+    "pick_prob": 0.59,
+    "expected_total": 3.4,
     "away_team_total": {
-      "expected": 1.98,
+      "expected": 1.76,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.48
+      "gap": 0.26
     },
     "home_team_total": {
-      "expected": 1.82,
+      "expected": 1.64,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.32
+      "gap": 0.14
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "TT",
-        "pick": "BOS OVER 1.5",
-        "conf": 0.74,
-        "detail": "Expected 1.98"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 4.5",
-        "conf": 0.733,
-        "detail": "Expected 3.8 vs line 4.5"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "CLE OVER 1.5",
-        "conf": 0.66,
-        "detail": "Expected 1.82"
+        "conf": 0.867,
+        "detail": "Expected 3.4 vs line 4.5"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
-    "wind": null,
+    "wind": {
+      "speed_mph": 8.6,
+      "direction": "in",
+      "adj": -0.24
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
@@ -152,41 +140,41 @@
         "pitch_type": "FF",
         "usage": 0.279,
         "pitcher_xwoba": 0.373,
-        "team_xwoba": 0.326,
+        "team_xwoba": 0.324,
         "league_xwoba": 0.345,
-        "advantage": -0.0044
+        "advantage": -0.0036
       },
       {
         "pitch_type": "FC",
         "usage": 0.207,
         "pitcher_xwoba": 0.291,
-        "team_xwoba": 0.311,
+        "team_xwoba": 0.333,
         "league_xwoba": 0.343,
-        "advantage": 0.042
+        "advantage": 0.0308
       },
       {
         "pitch_type": "ST",
         "usage": 0.16,
         "pitcher_xwoba": 0.275,
-        "team_xwoba": 0.241,
+        "team_xwoba": 0.224,
         "league_xwoba": 0.267,
-        "advantage": 0.0093
+        "advantage": 0.0174
       },
       {
         "pitch_type": "CH",
         "usage": 0.152,
         "pitcher_xwoba": 0.249,
-        "team_xwoba": 0.271,
+        "team_xwoba": 0.26,
         "league_xwoba": 0.29,
-        "advantage": 0.0299
+        "advantage": 0.0356
       },
       {
         "pitch_type": "SI",
         "usage": 0.152,
         "pitcher_xwoba": 0.267,
-        "team_xwoba": 0.309,
+        "team_xwoba": 0.308,
         "league_xwoba": 0.351,
-        "advantage": 0.0626
+        "advantage": 0.0629
       },
       {
         "pitch_type": "CU",
@@ -194,7 +182,7 @@
         "pitcher_xwoba": 0.292,
         "team_xwoba": 0.285,
         "league_xwoba": 0.283,
-        "advantage": -0.0057
+        "advantage": -0.0055
       }
     ],
     "away_h2h_detail": {
@@ -206,15 +194,15 @@
       "confidence": 0.5
     },
     "home_h2h_detail": {
-      "total_pa": 15,
+      "total_pa": 17,
       "n_batters": 4,
-      "w_k_rate": 0.067,
+      "w_k_rate": 0.176,
       "w_bb_rate": 0.0,
       "w_hr_rate": 0.0,
-      "confidence": 0.3
+      "confidence": 0.34
     },
     "v2_pick": "BOS",
-    "v2_conf": 0.524,
+    "v2_conf": 0.516,
     "consensus": true,
     "tier": "consensus",
     "ou_consensus": false,
