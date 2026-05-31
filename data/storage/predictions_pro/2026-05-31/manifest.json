@@ -265,7 +265,7 @@
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
       "pick_prob": 0.521,
-      "expected_total": 4.3,
+      "expected_total": 4.0,
       "v2_pick": "NYY",
       "v2_conf": 0.565,
       "consensus": false,
@@ -273,7 +273,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T23:46:24.447214+00:00",
+      "last_refreshed_at": "2026-05-31T01:57:03.291998+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,16 +285,16 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "bryan woo",
       "pick": "SEA",
-      "pick_prob": 0.675,
-      "expected_total": 3.5,
+      "pick_prob": 0.632,
+      "expected_total": 3.2,
       "v2_pick": "SEA",
-      "v2_conf": 0.567,
+      "v2_conf": 0.571,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T23:46:37.212572+00:00",
+      "last_refreshed_at": "2026-05-31T01:57:06.554495+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -315,7 +315,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-30T23:46:49.698196+00:00",
+      "last_refreshed_at": "2026-05-31T01:57:19.649732+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -326,15 +326,15 @@
       "home_team": "SEA",
       "away_pitcher": "ryne nelson",
       "home_pitcher": "bryan woo",
-      "tier": "sweet_spot",
+      "tier": "good",
       "v2_pick": "SEA",
-      "v2_conf": 0.567,
-      "lineup": "partial",
-      "n_batters": "9+21",
+      "v2_conf": 0.571,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.933,
+      "detail": "Expected 3.2 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -389,21 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823132,
-      "away_team": "AZ",
-      "home_team": "SEA",
-      "away_pitcher": "ryne nelson",
-      "home_pitcher": "bryan woo",
-      "tier": "sweet_spot",
-      "v2_pick": "SEA",
-      "v2_conf": 0.567,
-      "lineup": "partial",
-      "n_batters": "9+21",
-      "type": "ML",
-      "pick": "F5 SEA",
-      "conf": 0.675,
-      "detail": "F5 SEA ML",
-      "ml_consensus": true
+      "game_id": 824513,
+      "away_team": "ATL",
+      "home_team": "CIN",
+      "away_pitcher": "martín pérez",
+      "home_pitcher": "brady singer",
+      "tier": "disagree",
+      "v2_pick": "ATL",
+      "v2_conf": 0.504,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-05-30T23:46:49.698704+00:00"
+  "last_modified_at": "2026-05-31T01:57:19.650296+00:00"
 }
