@@ -2,7 +2,7 @@
   "game_id": 823053,
   "kst_date": "2026-06-01",
   "bulk_fetched_at": "2026-05-31T14:06:17.148588+00:00",
-  "last_refreshed_at": "2026-05-31T22:00:34.306064+00:00",
+  "last_refreshed_at": "2026-05-31T23:11:42.796776+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.388,
     "pick": "CHC",
     "pick_prob": 0.612,
-    "expected_total": 4.6,
+    "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.47,
+      "expected": 2.41,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.03
+      "gap": 0.09
     },
     "home_team_total": {
-      "expected": 2.13,
+      "expected": 2.09,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.37
+      "gap": 0.41
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "STL UNDER 2.5",
-        "conf": 0.685,
-        "detail": "Expected 2.13"
+        "conf": 0.705,
+        "detail": "Expected 2.09"
       }
     ],
     "grade": "good",
     "grade_label": "GOOD",
     "wind": {
-      "speed_mph": 2.7,
-      "direction": "out",
-      "adj": 0.08
+      "speed_mph": 4.1,
+      "direction": "cross",
+      "adj": 0.03
     },
     "away_pitch_detail": [
       {
