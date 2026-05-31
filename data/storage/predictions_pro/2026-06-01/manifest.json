@@ -21,8 +21,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-31T14:54:27.757205+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822729,
@@ -42,8 +42,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-31T14:54:29.795418+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823373,
@@ -63,8 +63,8 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-31T14:54:32.158925+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824430,
@@ -75,17 +75,17 @@
       "away_pitcher": "ranger suárez",
       "home_pitcher": "tanner bibee",
       "pick": "BOS",
-      "pick_prob": 0.613,
-      "expected_total": 3.5,
+      "pick_prob": 0.595,
+      "expected_total": 3.8,
       "v2_pick": "BOS",
-      "v2_conf": 0.54,
+      "v2_conf": 0.524,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "good",
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-31T14:54:43.888673+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822976,
@@ -96,17 +96,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "shane mcclanahan",
       "pick": "TB",
-      "pick_prob": 0.728,
+      "pick_prob": 0.777,
       "expected_total": 4.4,
       "v2_pick": "TB",
-      "v2_conf": 0.589,
+      "v2_conf": 0.628,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-31T14:54:45.528747+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824512,
@@ -117,17 +117,17 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "nick lodolo",
       "pick": "CIN",
-      "pick_prob": 0.556,
-      "expected_total": 4.3,
+      "pick_prob": 0.584,
+      "expected_total": 4.2,
       "v2_pick": "CIN",
-      "v2_conf": 0.519,
+      "v2_conf": 0.554,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-05-31T14:54:57.310828+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823621,
@@ -135,20 +135,20 @@
       "home_team": "NYM",
       "game_time_kst": "02:40",
       "game_date_kst": "2026-06-01",
-      "away_pitcher": "janson junk",
+      "away_pitcher": "john king",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.688,
-      "expected_total": 3.9,
+      "pick_prob": 0.748,
+      "expected_total": 4.1,
       "v2_pick": "NYM",
-      "v2_conf": 0.521,
+      "v2_conf": 0.562,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-05-31T14:10:19.082899+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-05-31T14:55:09.411191+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824592,
@@ -321,21 +321,21 @@
   ],
   "top_picks": [
     {
-      "game_id": 824430,
-      "away_team": "BOS",
-      "home_team": "CLE",
-      "away_pitcher": "ranger suárez",
-      "home_pitcher": "tanner bibee",
-      "tier": "good",
-      "v2_pick": "BOS",
-      "v2_conf": 0.54,
-      "lineup": "partial",
-      "n_batters": "17+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
-      "ou_consensus": true
+      "game_id": 823621,
+      "away_team": "MIA",
+      "home_team": "NYM",
+      "away_pitcher": "john king",
+      "home_pitcher": "nolan mclean",
+      "tier": "sweet_spot",
+      "v2_pick": "NYM",
+      "v2_conf": 0.562,
+      "lineup": "roster",
+      "n_batters": "15+21",
+      "type": "ML",
+      "pick": "F5 NYM",
+      "conf": 0.748,
+      "detail": "F5 NYM ML",
+      "ml_consensus": true
     },
     {
       "game_id": 823133,
@@ -355,40 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 822976,
-      "away_team": "LAA",
-      "home_team": "TB",
-      "away_pitcher": "jack kochanowicz",
-      "home_pitcher": "shane mcclanahan",
-      "tier": "sweet_spot",
-      "v2_pick": "TB",
-      "v2_conf": 0.589,
-      "lineup": "roster",
-      "n_batters": "21+18",
-      "type": "ML",
-      "pick": "F5 TB",
-      "conf": 0.728,
-      "detail": "F5 TB ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 823621,
-      "away_team": "MIA",
-      "home_team": "NYM",
-      "away_pitcher": "janson junk",
-      "home_pitcher": "nolan mclean",
-      "tier": "sweet_spot",
-      "v2_pick": "NYM",
-      "v2_conf": 0.521,
-      "lineup": "roster",
-      "n_batters": "15+21",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 823944,
       "away_team": "PHI",
       "home_team": "LAD",
@@ -404,6 +370,40 @@
       "conf": 0.69,
       "detail": "F5 LAD ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824592,
+      "away_team": "DET",
+      "home_team": "CWS",
+      "away_pitcher": "keider montero",
+      "home_pitcher": "sean burke",
+      "tier": "good",
+      "v2_pick": "DET",
+      "v2_conf": 0.513,
+      "lineup": "roster",
+      "n_batters": "20+17",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.667,
+      "detail": "Expected 5.0 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
+      "game_id": 824187,
+      "away_team": "MIL",
+      "home_team": "HOU",
+      "away_pitcher": "jacob misiorowski",
+      "home_pitcher": "Tatsuya Imai",
+      "tier": "sweet_spot",
+      "v2_pick": "MIL",
+      "v2_conf": 0.511,
+      "lineup": "roster",
+      "n_batters": "18+17",
+      "type": "ML",
+      "pick": "F5 MIL",
+      "conf": 0.652,
+      "detail": "F5 MIL ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 6,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-05-31T14:55:09.411774+00:00"
 }
