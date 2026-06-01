@@ -61,10 +61,10 @@
       "home_pitcher": "lyon richardson",
       "pick": "KC",
       "pick_prob": 0.858,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-01T20:45:13.826915+00:00",
+      "last_refreshed_at": "2026-06-01T22:53:07.027207+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -76,11 +76,11 @@
       "away_pitcher": "landen roupp",
       "home_pitcher": "Shane Drohan",
       "pick": "SF",
-      "pick_prob": 0.544,
-      "expected_total": 4.6,
+      "pick_prob": 0.515,
+      "expected_total": 4.5,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T20:45:14.486342+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T22:53:07.633650+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-01T20:45:15.129811+00:00",
+      "last_refreshed_at": "2026-06-01T22:53:08.245257+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,12 +108,12 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.72,
+      "pick_prob": 0.721,
       "expected_total": 4.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:13:49.771508+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T22:53:08.851398+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825078,
@@ -124,12 +124,12 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "eduardo rodríguez",
       "pick": "LAD",
-      "pick_prob": 0.783,
-      "expected_total": 4.1,
+      "pick_prob": 0.767,
+      "expected_total": 4.0,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:13:49.771508+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T22:53:09.450843+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823131,
@@ -140,13 +140,13 @@
       "away_pitcher": "Austin Warren",
       "home_pitcher": "emerson hancock",
       "pick": "NYM",
-      "pick_prob": 0.653,
+      "pick_prob": 0.694,
       "expected_total": 4.5,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:13:49.771508+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T22:53:10.072218+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-01T20:45:15.130434+00:00"
+  "last_modified_at": "2026-06-01T22:53:10.072842+00:00"
 }
