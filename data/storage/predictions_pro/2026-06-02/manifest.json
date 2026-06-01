@@ -117,17 +117,17 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "josé soriano",
       "pick": "LAA",
-      "pick_prob": 0.72,
+      "pick_prob": 0.721,
       "expected_total": 4.7,
       "v2_pick": "LAA",
-      "v2_conf": 0.613,
+      "v2_conf": 0.565,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:15:51.031440+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T23:47:24.213376+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825078,
@@ -138,17 +138,17 @@
       "away_pitcher": "emmet sheehan",
       "home_pitcher": "eduardo rodríguez",
       "pick": "LAD",
-      "pick_prob": 0.783,
-      "expected_total": 4.1,
+      "pick_prob": 0.767,
+      "expected_total": 4.0,
       "v2_pick": "LAD",
-      "v2_conf": 0.606,
+      "v2_conf": 0.586,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:15:51.031440+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T23:47:27.195030+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823131,
@@ -159,17 +159,17 @@
       "away_pitcher": "Austin Warren",
       "home_pitcher": "emerson hancock",
       "pick": "NYM",
-      "pick_prob": 0.653,
-      "expected_total": 4.5,
-      "v2_pick": "SEA",
-      "v2_conf": 0.513,
-      "consensus": false,
-      "ou_consensus": false,
-      "tier": "disagree",
+      "pick_prob": 0.694,
+      "expected_total": 4.7,
+      "v2_pick": "NYM",
+      "v2_conf": 0.501,
+      "consensus": true,
+      "ou_consensus": true,
+      "tier": "sweet_spot",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-01T18:15:51.031440+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-01T23:47:39.839086+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823702,
@@ -194,6 +194,23 @@
     }
   ],
   "top_picks": [
+    {
+      "game_id": 823131,
+      "away_team": "NYM",
+      "home_team": "SEA",
+      "away_pitcher": "Austin Warren",
+      "home_pitcher": "emerson hancock",
+      "tier": "sweet_spot",
+      "v2_pick": "NYM",
+      "v2_conf": 0.501,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 3.5",
+      "conf": 0.9,
+      "detail": "Expected 4.7 vs line 3.5",
+      "ou_consensus": true
+    },
     {
       "game_id": 822974,
       "away_team": "DET",
@@ -236,12 +253,12 @@
       "home_pitcher": "josé soriano",
       "tier": "sweet_spot",
       "v2_pick": "LAA",
-      "v2_conf": 0.613,
-      "lineup": "roster",
-      "n_batters": "18+22",
+      "v2_conf": 0.565,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 LAA",
-      "conf": 0.72,
+      "conf": 0.721,
       "detail": "F5 LAA ML",
       "ml_consensus": true
     },
@@ -269,5 +286,5 @@
     "sweet_spot_count": 3,
     "total_games": 9
   },
-  "last_modified_at": "2026-06-01T22:15:38.395373+00:00"
+  "last_modified_at": "2026-06-01T23:47:39.839668+00:00"
 }
