@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-03T22:04:59.280916+00:00",
+      "last_refreshed_at": "2026-06-03T23:58:46.929047+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "PIT",
       "pick_prob": 0.819,
-      "expected_total": 3.5,
+      "expected_total": 3.4,
       "v2_pick": "PIT",
       "v2_conf": 0.604,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-03T22:05:11.872838+00:00",
+      "last_refreshed_at": "2026-06-03T23:58:49.351099+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "Walbert Ureña",
       "pick": "LAA",
-      "pick_prob": 0.575,
-      "expected_total": 4.5,
+      "pick_prob": 0.522,
+      "expected_total": 4.8,
       "v2_pick": "COL",
-      "v2_conf": 0.51,
+      "v2_conf": 0.514,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-03T17:16:35.288751+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T23:58:51.733846+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825077,
@@ -285,17 +285,17 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "zac gallen",
       "pick": "LAD",
-      "pick_prob": 0.799,
+      "pick_prob": 0.81,
       "expected_total": 3.6,
       "v2_pick": "LAD",
-      "v2_conf": 0.582,
+      "v2_conf": 0.579,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-03T17:16:35.288751+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T23:59:03.876667+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823780,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-03T22:05:11.873455+00:00"
+  "last_modified_at": "2026-06-03T23:59:03.877169+00:00"
 }
