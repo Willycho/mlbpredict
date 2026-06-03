@@ -76,7 +76,7 @@
       "home_pitcher": "george kirby",
       "pick": "NYM",
       "pick_prob": 0.562,
-      "expected_total": 3.9,
+      "expected_total": 3.8,
       "v2_pick": "NYM",
       "v2_conf": 0.502,
       "consensus": true,
@@ -84,8 +84,8 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-03T17:16:35.288751+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-03T19:02:25.165484+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823456,
@@ -387,23 +387,6 @@
       "conf": 0.633,
       "detail": "Expected 4.1 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823130,
-      "away_team": "NYM",
-      "home_team": "SEA",
-      "away_pitcher": "freddy peralta",
-      "home_pitcher": "george kirby",
-      "tier": "consensus",
-      "v2_pick": "NYM",
-      "v2_conf": 0.502,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 3.5",
-      "conf": 0.633,
-      "detail": "Expected 3.9 vs line 3.5",
-      "ou_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +394,6 @@
     "ou_consensus_count": 7,
     "sweet_spot_count": 2,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-06-03T19:02:25.166101+00:00"
 }
