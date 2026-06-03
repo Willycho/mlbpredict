@@ -192,7 +192,7 @@
       "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-03T21:56:47.727638+00:00",
+      "last_refreshed_at": "2026-06-03T23:43:57.939060+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "PIT",
       "pick_prob": 0.819,
-      "expected_total": 3.5,
+      "expected_total": 3.4,
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-03T21:56:48.587092+00:00",
+      "last_refreshed_at": "2026-06-03T23:43:58.842404+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "Walbert Ureña",
       "pick": "LAA",
-      "pick_prob": 0.575,
-      "expected_total": 4.5,
+      "pick_prob": 0.522,
+      "expected_total": 4.8,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-03T17:08:24.680485+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T23:43:59.795499+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825077,
@@ -236,13 +236,13 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "zac gallen",
       "pick": "LAD",
-      "pick_prob": 0.799,
+      "pick_prob": 0.81,
       "expected_total": 3.6,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-03T17:08:24.680485+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T23:44:00.777780+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-03T21:56:48.587703+00:00"
+  "last_modified_at": "2026-06-03T23:44:00.778393+00:00"
 }
