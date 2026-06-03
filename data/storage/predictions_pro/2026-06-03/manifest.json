@@ -264,17 +264,17 @@
       "away_pitcher": "tomoyuki sugano",
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
-      "pick_prob": 0.808,
-      "expected_total": 4.4,
+      "pick_prob": 0.79,
+      "expected_total": 4.7,
       "v2_pick": "LAA",
-      "v2_conf": 0.573,
+      "v2_conf": 0.56,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-02T16:54:44.153909+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T00:06:48.714293+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825079,
@@ -285,17 +285,17 @@
       "away_pitcher": "eric lauer",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.567,
+      "pick_prob": 0.61,
       "expected_total": 4.1,
-      "v2_pick": "AZ",
-      "v2_conf": 0.5,
-      "consensus": true,
+      "v2_pick": "LAD",
+      "v2_conf": 0.52,
+      "consensus": false,
       "ou_consensus": false,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": 5.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-02T16:54:44.153909+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-03T00:06:52.282514+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823129,
@@ -395,5 +395,5 @@
     "sweet_spot_count": 2,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-02T22:10:42.601672+00:00"
+  "last_modified_at": "2026-06-03T00:06:52.283068+00:00"
 }
