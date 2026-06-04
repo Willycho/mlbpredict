@@ -93,10 +93,10 @@
       "home_pitcher": "Andrew Morris",
       "pick": "MIN",
       "pick_prob": 0.649,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T21:11:28.303031+00:00",
+      "last_refreshed_at": "2026-06-04T22:45:11.587604+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -112,7 +112,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T21:11:29.204925+00:00",
+      "last_refreshed_at": "2026-06-04T22:45:12.370190+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,11 +124,11 @@
       "away_pitcher": "jared jones",
       "home_pitcher": "kai-wei teng",
       "pick": "PIT",
-      "pick_prob": 0.502,
-      "expected_total": 4.1,
+      "pick_prob": 0.577,
+      "expected_total": 4.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T21:11:30.057343+00:00",
+      "last_refreshed_at": "2026-06-04T22:45:13.211152+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,13 +140,13 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "ryne nelson",
       "pick": "LAD",
-      "pick_prob": 0.597,
+      "pick_prob": 0.525,
       "expected_total": 4.2,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-04T15:35:53.431309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-04T22:45:14.013172+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-04T21:11:30.057960+00:00"
+  "last_modified_at": "2026-06-04T22:45:14.013751+00:00"
 }
