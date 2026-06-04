@@ -2,8 +2,8 @@
   "game_id": 823457,
   "kst_date": "2026-06-05",
   "bulk_fetched_at": "2026-06-04T15:40:14.574628+00:00",
-  "last_refreshed_at": "2026-06-04T15:40:14.574628+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-04T15:51:21.802076+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
     "game_id": 823457,
@@ -97,9 +97,9 @@
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 8.4,
+      "speed_mph": 8.1,
       "direction": "cross",
-      "adj": 0.07
+      "adj": 0.05
     },
     "away_pitch_detail": [
       {
@@ -209,5 +209,6 @@
     "v2_f5_total": 4.5
   },
   "locked_away_pitcher_id": 608337,
-  "locked_home_pitcher_id": 554430
+  "locked_home_pitcher_id": 554430,
+  "pitcher_changed_at_refresh": false
 }
