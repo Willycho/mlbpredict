@@ -92,12 +92,12 @@
       "away_pitcher": "seth lugo",
       "home_pitcher": "Andrew Morris",
       "pick": "MIN",
-      "pick_prob": 0.627,
-      "expected_total": 4.5,
+      "pick_prob": 0.649,
+      "expected_total": 4.4,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-04T15:35:53.431309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-04T21:11:28.303031+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824672,
@@ -108,12 +108,12 @@
       "away_pitcher": "j. t. ginn",
       "home_pitcher": "shota imanaga",
       "pick": "ATH",
-      "pick_prob": 0.557,
+      "pick_prob": 0.603,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-04T15:35:53.431309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-04T21:11:29.204925+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824185,
@@ -123,13 +123,13 @@
       "game_date_kst": "2026-06-05",
       "away_pitcher": "jared jones",
       "home_pitcher": "kai-wei teng",
-      "pick": "HOU",
-      "pick_prob": 0.506,
+      "pick": "PIT",
+      "pick_prob": 0.502,
       "expected_total": 4.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-04T15:35:53.431309+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-04T21:11:30.057343+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825076,
@@ -148,5 +148,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-04T16:52:49.625661+00:00"
+  "last_modified_at": "2026-06-04T21:11:30.057960+00:00"
 }
