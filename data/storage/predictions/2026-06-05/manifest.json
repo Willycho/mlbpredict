@@ -112,7 +112,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T22:45:12.370190+00:00",
+      "last_refreshed_at": "2026-06-04T23:54:54.921151+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,10 +125,10 @@
       "home_pitcher": "kai-wei teng",
       "pick": "PIT",
       "pick_prob": 0.577,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T22:45:13.211152+00:00",
+      "last_refreshed_at": "2026-06-04T23:54:55.803395+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,9 +144,9 @@
       "expected_total": 4.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-04T22:45:14.013172+00:00",
+      "last_refreshed_at": "2026-06-04T23:54:56.604887+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-04T22:45:14.013751+00:00"
+  "last_modified_at": "2026-06-04T23:54:56.605449+00:00"
 }
