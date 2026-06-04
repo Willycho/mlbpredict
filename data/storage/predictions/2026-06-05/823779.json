@@ -1,0 +1,140 @@
+{
+  "game_id": 823779,
+  "kst_date": "2026-06-05",
+  "bulk_fetched_at": "2026-06-04T15:35:53.431309+00:00",
+  "last_refreshed_at": "2026-06-04T15:35:53.431309+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": 5.5,
+  "prediction": {
+    "game_id": 823779,
+    "away_team": "SF",
+    "home_team": "MIL",
+    "game_time_kst": "03:10",
+    "game_date_kst": "2026-06-05",
+    "away_pitcher": {
+      "id": 605288,
+      "name": "adrian houser",
+      "team": "CWS",
+      "throws": "R",
+      "total_score": 49.3,
+      "season_score": 47.3,
+      "arsenal_score": 44.0,
+      "recent_form_score": null,
+      "home_away_adj": 3.4,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 689441,
+      "name": "Coleman Crow",
+      "team": "MIL",
+      "throws": "R",
+      "total_score": 50.0,
+      "season_score": 50.0,
+      "arsenal_score": 50.0,
+      "recent_form_score": null,
+      "home_away_adj": 0.0,
+      "no_data": true
+    },
+    "away_matchup": {
+      "matchup_score": 54.7,
+      "arsenal_matchup": 57.8,
+      "h2h_bonus": 0.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "home_matchup": {
+      "matchup_score": 50.0,
+      "arsenal_matchup": 50.0,
+      "h2h_bonus": 0.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
+    },
+    "effective_away": 59.2,
+    "effective_home": 55.5,
+    "win_prob_away": 0.543,
+    "win_prob_home": 0.457,
+    "pick": "SF",
+    "pick_prob": 0.543,
+    "expected_total": 4.6,
+    "away_team_total": {
+      "expected": 2.36,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.14
+    },
+    "home_team_total": {
+      "expected": 2.24,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.26
+    },
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 5.5",
+        "conf": 0.8,
+        "detail": "Expected 4.6 vs line 5.5"
+      }
+    ],
+    "grade": "pass",
+    "grade_label": "PASS",
+    "wind": {
+      "speed_mph": 11.3,
+      "direction": "cross",
+      "adj": 0.0
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "SI",
+        "usage": 0.459,
+        "pitcher_xwoba": 0.332,
+        "team_xwoba": 0.336,
+        "league_xwoba": 0.351,
+        "advantage": 0.0166
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.154,
+        "pitcher_xwoba": 0.268,
+        "team_xwoba": 0.292,
+        "league_xwoba": 0.288,
+        "advantage": 0.0079
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.153,
+        "pitcher_xwoba": 0.331,
+        "team_xwoba": 0.325,
+        "league_xwoba": 0.29,
+        "advantage": -0.0378
+      },
+      {
+        "pitch_type": "FF",
+        "usage": 0.117,
+        "pitcher_xwoba": 0.271,
+        "team_xwoba": 0.347,
+        "league_xwoba": 0.345,
+        "advantage": 0.0363
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.117,
+        "pitcher_xwoba": 0.291,
+        "team_xwoba": 0.267,
+        "league_xwoba": 0.283,
+        "advantage": 0.004
+      }
+    ],
+    "home_pitch_detail": [],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (0 < 10)"
+    }
+  },
+  "locked_away_pitcher_id": 605288,
+  "locked_home_pitcher_id": 689441
+}
