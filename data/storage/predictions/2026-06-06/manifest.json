@@ -144,7 +144,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T21:57:21.524178+00:00",
+      "last_refreshed_at": "2026-06-05T23:11:55.414690+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 4.6,
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T21:57:22.320757+00:00",
+      "last_refreshed_at": "2026-06-05T23:11:56.045681+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -176,7 +176,7 @@
       "expected_total": 4.2,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T21:57:23.161604+00:00",
+      "last_refreshed_at": "2026-06-05T23:11:56.679793+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,10 +189,10 @@
       "home_pitcher": "zebby matthews",
       "pick": "KC",
       "pick_prob": 0.517,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T21:57:23.976877+00:00",
+      "last_refreshed_at": "2026-06-05T23:11:57.298893+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -208,7 +208,7 @@
       "expected_total": 5.0,
       "f5_book_line": 6.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T21:57:24.798765+00:00",
+      "last_refreshed_at": "2026-06-05T23:11:57.925948+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "merrill kelly",
       "pick": "AZ",
-      "pick_prob": 0.592,
+      "pick_prob": 0.536,
       "expected_total": 4.4,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-05T15:24:48.320946+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-05T23:11:58.558518+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823293,
@@ -236,13 +236,13 @@
       "away_pitcher": "christian scott",
       "home_pitcher": "mike king",
       "pick": "NYM",
-      "pick_prob": 0.561,
-      "expected_total": 4.0,
+      "pick_prob": 0.521,
+      "expected_total": 4.2,
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-05T15:24:48.320946+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-05T23:11:59.190639+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-05T21:57:24.799411+00:00"
+  "last_modified_at": "2026-06-05T23:11:59.191286+00:00"
 }
