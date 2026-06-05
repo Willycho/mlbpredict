@@ -1,0 +1,30 @@
+{
+  "game_id": 823943,
+  "kst_date": "2026-06-06",
+  "bulk_fetched_at": "2026-06-05T15:24:48.320946+00:00",
+  "last_refreshed_at": "2026-06-05T15:24:48.320946+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": 4.5,
+  "prediction": {
+    "game_id": 823943,
+    "away_team": "LAA",
+    "home_team": "LAD",
+    "away_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "home_pitcher": {
+      "name": "TBD",
+      "total_score": null
+    },
+    "win_prob_away": null,
+    "win_prob_home": null,
+    "pick": null,
+    "pick_prob": null,
+    "expected_total": null,
+    "grade": "pass",
+    "grade_label": "TBD"
+  },
+  "locked_away_pitcher_id": null,
+  "locked_home_pitcher_id": null
+}
