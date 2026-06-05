@@ -160,15 +160,15 @@
       "home_pitcher": "peter lambert",
       "pick": "ATH",
       "pick_prob": 0.784,
-      "expected_total": 4.5,
+      "expected_total": 4.7,
       "v2_pick": "ATH",
       "v2_conf": 0.583,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T22:05:45.989727+00:00",
+      "last_refreshed_at": "2026-06-05T23:36:00.500543+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,15 +181,15 @@
       "home_pitcher": "kyle leahy",
       "pick": "CIN",
       "pick_prob": 0.544,
-      "expected_total": 4.2,
+      "expected_total": 4.6,
       "v2_pick": "STL",
       "v2_conf": 0.502,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T22:05:58.780922+00:00",
+      "last_refreshed_at": "2026-06-05T23:36:03.474683+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -202,7 +202,7 @@
       "home_pitcher": "kumar rocker",
       "pick": "CLE",
       "pick_prob": 0.71,
-      "expected_total": 4.2,
+      "expected_total": 4.1,
       "v2_pick": "TEX",
       "v2_conf": 0.516,
       "consensus": false,
@@ -210,7 +210,7 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T22:06:01.753801+00:00",
+      "last_refreshed_at": "2026-06-05T23:36:16.438087+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "zebby matthews",
       "pick": "KC",
       "pick_prob": 0.517,
-      "expected_total": 4.5,
+      "expected_total": 4.2,
       "v2_pick": "KC",
       "v2_conf": 0.605,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T22:06:04.711717+00:00",
+      "last_refreshed_at": "2026-06-05T23:36:29.104134+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "disagree",
       "f5_book_line": 6.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T22:06:07.642529+00:00",
+      "last_refreshed_at": "2026-06-05T23:36:31.905765+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "merrill kelly",
       "pick": "AZ",
-      "pick_prob": 0.592,
+      "pick_prob": 0.536,
       "expected_total": 4.4,
       "v2_pick": "AZ",
-      "v2_conf": 0.606,
+      "v2_conf": 0.529,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-05T15:28:08.974172+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-05T23:36:34.844886+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823293,
@@ -285,17 +285,17 @@
       "away_pitcher": "christian scott",
       "home_pitcher": "mike king",
       "pick": "NYM",
-      "pick_prob": 0.561,
-      "expected_total": 4.0,
+      "pick_prob": 0.521,
+      "expected_total": 4.2,
       "v2_pick": "SD",
-      "v2_conf": 0.538,
+      "v2_conf": 0.531,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-05T15:28:08.974172+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-05T23:36:37.722335+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823943,
@@ -338,20 +338,20 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823049,
-      "away_team": "CIN",
-      "home_team": "STL",
-      "away_pitcher": "brady singer",
-      "home_pitcher": "kyle leahy",
+      "game_id": 823293,
+      "away_team": "NYM",
+      "home_team": "SD",
+      "away_pitcher": "christian scott",
+      "home_pitcher": "mike king",
       "tier": "disagree",
-      "v2_pick": "STL",
-      "v2_conf": 0.502,
+      "v2_pick": "SD",
+      "v2_conf": 0.531,
       "lineup": "confirmed",
       "n_batters": "9+9",
       "type": "OU",
-      "pick": "F5 UNDER 5.5",
-      "conf": 0.933,
-      "detail": "Expected 4.2 vs line 5.5",
+      "pick": "F5 OVER 3.5",
+      "conf": 0.733,
+      "detail": "Expected 4.2 vs line 3.5",
       "ou_consensus": true
     },
     {
@@ -395,5 +395,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-05T22:06:07.643108+00:00"
+  "last_modified_at": "2026-06-05T23:36:37.722935+00:00"
 }

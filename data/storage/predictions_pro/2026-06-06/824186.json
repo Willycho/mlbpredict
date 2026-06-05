@@ -2,7 +2,7 @@
   "game_id": 824186,
   "kst_date": "2026-06-06",
   "bulk_fetched_at": "2026-06-05T15:28:08.974172+00:00",
-  "last_refreshed_at": "2026-06-05T22:05:45.989727+00:00",
+  "last_refreshed_at": "2026-06-05T23:36:00.500543+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,23 +55,44 @@
     "win_prob_home": 0.216,
     "pick": "ATH",
     "pick_prob": 0.784,
-    "expected_total": 4.5,
+    "expected_total": 4.7,
     "away_team_total": {
-      "expected": 2.73,
+      "expected": 2.85,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.23
+      "gap": 0.35
     },
     "home_team_total": {
-      "expected": 1.77,
+      "expected": 1.85,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.27
+      "gap": 0.35
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "ATH OVER 2.5",
+        "conf": 0.675,
+        "detail": "Expected 2.85"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "HOU OVER 1.5",
+        "conf": 0.675,
+        "detail": "Expected 1.85"
+      }
+    ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": null,
+    "wind": {
+      "speed_mph": 6.6,
+      "direction": "out",
+      "adj": 0.15
+    },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -182,7 +203,7 @@
     "v2_conf": 0.583,
     "consensus": true,
     "tier": "consensus",
-    "ou_consensus": false,
+    "ou_consensus": true,
     "v2_f5_total": 5.3
   },
   "locked_away_pitcher_id": 678022,
