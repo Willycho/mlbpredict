@@ -29,11 +29,11 @@
       "home_pitcher": "edward cabrera",
       "pick": "CHC",
       "pick_prob": 0.532,
-      "expected_total": 4.3,
+      "expected_total": 4.2,
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-05T15:24:48.320946+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-05T16:40:24.379102+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824271,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-06-05T15:24:48.320946+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-05T16:40:24.379704+00:00"
 }
