@@ -2,8 +2,8 @@
   "game_id": 824673,
   "kst_date": "2026-06-06",
   "bulk_fetched_at": "2026-06-05T15:28:08.974172+00:00",
-  "last_refreshed_at": "2026-06-05T15:28:08.974172+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-05T16:23:28.047000+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": 5.5,
   "prediction": {
     "game_id": 824673,
@@ -55,18 +55,18 @@
     "win_prob_home": 0.532,
     "pick": "CHC",
     "pick_prob": 0.532,
-    "expected_total": 4.3,
+    "expected_total": 4.2,
     "away_team_total": {
-      "expected": 2.16,
+      "expected": 2.11,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.34
+      "gap": 0.39
     },
     "home_team_total": {
-      "expected": 2.14,
+      "expected": 2.09,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.36
+      "gap": 0.41
     },
     "sweet_picks": [
       {
@@ -74,32 +74,32 @@
         "n_batters": "9+9",
         "type": "OU",
         "pick": "F5 UNDER 5.5",
-        "conf": 0.9,
-        "detail": "Expected 4.3 vs line 5.5"
+        "conf": 0.933,
+        "detail": "Expected 4.2 vs line 5.5"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
         "pick": "CHC UNDER 2.5",
-        "conf": 0.68,
-        "detail": "Expected 2.14"
+        "conf": 0.705,
+        "detail": "Expected 2.09"
       },
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
         "type": "TT",
         "pick": "SF UNDER 2.5",
-        "conf": 0.67,
-        "detail": "Expected 2.16"
+        "conf": 0.695,
+        "detail": "Expected 2.11"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 10.7,
+      "speed_mph": 8.4,
       "direction": "out",
-      "adj": 0.31
+      "adj": 0.25
     },
     "away_pitch_detail": [
       {
@@ -209,5 +209,6 @@
     "v2_f5_total": 5.0
   },
   "locked_away_pitcher_id": 592662,
-  "locked_home_pitcher_id": 665795
+  "locked_home_pitcher_id": 665795,
+  "pitcher_changed_at_refresh": false
 }
