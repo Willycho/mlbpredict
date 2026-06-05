@@ -2,7 +2,7 @@
   "game_id": 824271,
   "kst_date": "2026-06-06",
   "bulk_fetched_at": "2026-06-05T15:24:48.320946+00:00",
-  "last_refreshed_at": "2026-06-05T20:27:46.254144+00:00",
+  "last_refreshed_at": "2026-06-05T21:57:16.535772+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 3.5,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.407,
     "pick": "SEA",
     "pick_prob": 0.593,
-    "expected_total": 3.3,
+    "expected_total": 3.4,
     "away_team_total": {
-      "expected": 1.8,
+      "expected": 1.85,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.3
+      "gap": 0.35
     },
     "home_team_total": {
-      "expected": 1.5,
+      "expected": 1.55,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.0
+      "gap": 0.05
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "SEA OVER 1.5",
-        "conf": 0.65,
-        "detail": "Expected 1.8"
+        "conf": 0.675,
+        "detail": "Expected 1.85"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 8.1,
+      "speed_mph": 5.9,
       "direction": "cross",
-      "adj": -0.07
+      "adj": 0.03
     },
     "away_pitch_detail": [
       {

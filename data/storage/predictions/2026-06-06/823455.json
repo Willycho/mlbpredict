@@ -2,7 +2,7 @@
   "game_id": 823455,
   "kst_date": "2026-06-06",
   "bulk_fetched_at": "2026-06-05T15:24:48.320946+00:00",
-  "last_refreshed_at": "2026-06-05T20:27:46.862156+00:00",
+  "last_refreshed_at": "2026-06-05T21:57:17.397194+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,26 +55,26 @@
     "win_prob_home": 0.911,
     "pick": "PHI",
     "pick_prob": 0.911,
-    "expected_total": 4.6,
+    "expected_total": 4.8,
     "away_team_total": {
-      "expected": 1.22,
+      "expected": 1.27,
       "line": 1.5,
       "pick": "UNDER",
-      "gap": 0.28
+      "gap": 0.23
     },
     "home_team_total": {
-      "expected": 3.38,
+      "expected": 3.53,
       "line": 3.5,
-      "pick": "UNDER",
-      "gap": 0.12
+      "pick": "OVER",
+      "gap": 0.03
     },
     "sweet_picks": [],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
     "wind": {
-      "speed_mph": 6.5,
+      "speed_mph": 7.5,
       "direction": "out",
-      "adj": 0.13
+      "adj": 0.21
     },
     "away_pitch_detail": [
       {
