@@ -1,0 +1,211 @@
+{
+  "game_id": 824186,
+  "kst_date": "2026-06-06",
+  "bulk_fetched_at": "2026-06-05T15:28:08.974172+00:00",
+  "last_refreshed_at": "2026-06-05T15:28:08.974172+00:00",
+  "refresh_type": "bulk_initial",
+  "f5_book_line": null,
+  "prediction": {
+    "game_id": 824186,
+    "away_team": "ATH",
+    "home_team": "HOU",
+    "game_time_kst": "09:10",
+    "game_date_kst": "2026-06-06",
+    "away_pitcher": {
+      "id": 678022,
+      "name": "jack perkins",
+      "team": "ATH",
+      "throws": "R",
+      "total_score": 61.0,
+      "season_score": 49.5,
+      "arsenal_score": 88.1,
+      "recent_form_score": null,
+      "home_away_adj": -5.0,
+      "no_data": false
+    },
+    "home_pitcher": {
+      "id": 663567,
+      "name": "peter lambert",
+      "team": "COL",
+      "throws": "R",
+      "total_score": 39.5,
+      "season_score": 32.5,
+      "arsenal_score": 44.5,
+      "recent_form_score": null,
+      "home_away_adj": 1.9,
+      "no_data": false
+    },
+    "away_matchup": {
+      "matchup_score": 57.5,
+      "arsenal_matchup": 62.5,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 18
+    },
+    "home_matchup": {
+      "matchup_score": 44.4,
+      "arsenal_matchup": 40.7,
+      "h2h_bonus": 0.0,
+      "lineup_source": "roster",
+      "n_batters": 22
+    },
+    "effective_away": 68.0,
+    "effective_home": 45.8,
+    "win_prob_away": 0.736,
+    "win_prob_home": 0.264,
+    "pick": "ATH",
+    "pick_prob": 0.736,
+    "expected_total": 4.7,
+    "away_team_total": {
+      "expected": 2.74,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.24
+    },
+    "home_team_total": {
+      "expected": 1.96,
+      "line": 1.5,
+      "pick": "OVER",
+      "gap": 0.46
+    },
+    "sweet_picks": [
+      {
+        "lineup": "roster",
+        "n_batters": "18+22",
+        "type": "ML",
+        "pick": "F5 ATH",
+        "conf": 0.736,
+        "detail": "F5 ATH ML"
+      },
+      {
+        "lineup": "roster",
+        "n_batters": "18+22",
+        "type": "TT",
+        "pick": "HOU OVER 1.5",
+        "conf": 0.73,
+        "detail": "Expected 1.96"
+      }
+    ],
+    "grade": "sweet_spot",
+    "grade_label": "SWEET SPOT",
+    "wind": {
+      "speed_mph": 6.5,
+      "direction": "out",
+      "adj": 0.15
+    },
+    "away_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.419,
+        "pitcher_xwoba": 0.381,
+        "team_xwoba": 0.356,
+        "league_xwoba": 0.345,
+        "advantage": -0.0235
+      },
+      {
+        "pitch_type": "ST",
+        "usage": 0.328,
+        "pitcher_xwoba": 0.201,
+        "team_xwoba": 0.269,
+        "league_xwoba": 0.267,
+        "advantage": 0.0319
+      },
+      {
+        "pitch_type": "FC",
+        "usage": 0.141,
+        "pitcher_xwoba": 0.349,
+        "team_xwoba": 0.345,
+        "league_xwoba": 0.343,
+        "advantage": -0.0042
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.104,
+        "pitcher_xwoba": 0.076,
+        "team_xwoba": 0.261,
+        "league_xwoba": 0.29,
+        "advantage": 0.1214
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.008,
+        "pitcher_xwoba": 0.32,
+        "team_xwoba": 0.258,
+        "league_xwoba": 0.283,
+        "advantage": -0.0062
+      }
+    ],
+    "home_pitch_detail": [
+      {
+        "pitch_type": "FF",
+        "usage": 0.384,
+        "pitcher_xwoba": 0.364,
+        "team_xwoba": 0.338,
+        "league_xwoba": 0.345,
+        "advantage": -0.0062
+      },
+      {
+        "pitch_type": "CH",
+        "usage": 0.25,
+        "pitcher_xwoba": 0.246,
+        "team_xwoba": 0.303,
+        "league_xwoba": 0.29,
+        "advantage": 0.0158
+      },
+      {
+        "pitch_type": "SL",
+        "usage": 0.188,
+        "pitcher_xwoba": 0.351,
+        "team_xwoba": 0.314,
+        "league_xwoba": 0.288,
+        "advantage": -0.0452
+      },
+      {
+        "pitch_type": "SV",
+        "usage": 0.105,
+        "pitcher_xwoba": 0.296,
+        "team_xwoba": 0.294,
+        "league_xwoba": 0.286,
+        "advantage": -0.0092
+      },
+      {
+        "pitch_type": "CU",
+        "usage": 0.039,
+        "pitcher_xwoba": 0.357,
+        "team_xwoba": 0.285,
+        "league_xwoba": 0.283,
+        "advantage": -0.0384
+      },
+      {
+        "pitch_type": "SI",
+        "usage": 0.024,
+        "pitcher_xwoba": 0.375,
+        "team_xwoba": 0.325,
+        "league_xwoba": 0.351,
+        "advantage": 0.0006
+      },
+      {
+        "pitch_type": "FC",
+        "usage": 0.01,
+        "pitcher_xwoba": 0.32,
+        "team_xwoba": 0.358,
+        "league_xwoba": 0.343,
+        "advantage": 0.0041
+      }
+    ],
+    "away_h2h_detail": {
+      "note": "insufficient h2h PA (9 < 10)"
+    },
+    "home_h2h_detail": {
+      "note": "insufficient h2h PA (5 < 10)"
+    },
+    "v2_pick": "ATH",
+    "v2_conf": 0.579,
+    "consensus": true,
+    "tier": "sweet_spot",
+    "ou_consensus": true,
+    "v2_f5_total": 5.3
+  },
+  "locked_away_pitcher_id": 678022,
+  "locked_home_pitcher_id": 663567
+}
