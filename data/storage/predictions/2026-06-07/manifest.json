@@ -48,7 +48,7 @@
       "expected_total": 5.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T14:28:22.220845+00:00",
+      "last_refreshed_at": "2026-06-06T15:51:53.295163+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "luinder avila",
       "home_pitcher": "joe ryan",
       "pick": "KC",
-      "pick_prob": 0.608,
+      "pick_prob": 0.586,
       "expected_total": 3.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T15:51:53.878061+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823048,
@@ -76,12 +76,12 @@
       "away_pitcher": "nick lodolo",
       "home_pitcher": "matthew liberatore",
       "pick": "CIN",
-      "pick_prob": 0.638,
-      "expected_total": 4.0,
+      "pick_prob": 0.677,
+      "expected_total": 4.1,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T15:51:54.462876+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824669,
@@ -92,12 +92,12 @@
       "away_pitcher": "landen roupp",
       "home_pitcher": "ben brown",
       "pick": "CHC",
-      "pick_prob": 0.628,
-      "expected_total": 3.8,
+      "pick_prob": 0.584,
+      "expected_total": 3.9,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T15:51:55.034733+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823454,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-06T14:28:22.221496+00:00"
+  "last_modified_at": "2026-06-06T15:51:55.035282+00:00"
 }
