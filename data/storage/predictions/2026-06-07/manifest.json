@@ -220,12 +220,12 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.857,
-      "expected_total": 4.2,
+      "pick_prob": 0.859,
+      "expected_total": 4.5,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T23:34:40.404258+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823292,
@@ -236,13 +236,13 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "griffin canning",
       "pick": "NYM",
-      "pick_prob": 0.782,
-      "expected_total": 3.9,
+      "pick_prob": 0.772,
+      "expected_total": 4.0,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T23:34:41.255379+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-06T22:16:24.725545+00:00"
+  "last_modified_at": "2026-06-06T23:34:41.256060+00:00"
 }
