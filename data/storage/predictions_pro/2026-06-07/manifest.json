@@ -243,17 +243,17 @@
       "away_pitcher": "jack kochanowicz",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.857,
-      "expected_total": 4.2,
+      "pick_prob": 0.859,
+      "expected_total": 4.5,
       "v2_pick": "LAD",
-      "v2_conf": 0.659,
+      "v2_conf": 0.654,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:07:54.552739+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T23:33:07.746635+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823292,
@@ -264,17 +264,17 @@
       "away_pitcher": "nolan mclean",
       "home_pitcher": "griffin canning",
       "pick": "NYM",
-      "pick_prob": 0.782,
-      "expected_total": 3.9,
+      "pick_prob": 0.772,
+      "expected_total": 4.0,
       "v2_pick": "NYM",
-      "v2_conf": 0.557,
+      "v2_conf": 0.542,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:07:54.552739+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T23:33:12.631525+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822808,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-06T22:14:52.294057+00:00"
+  "last_modified_at": "2026-06-06T23:33:12.632128+00:00"
 }
