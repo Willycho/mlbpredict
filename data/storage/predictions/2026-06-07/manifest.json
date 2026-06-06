@@ -44,12 +44,12 @@
       "away_pitcher": "bryce miller",
       "home_pitcher": "keider montero",
       "pick": "DET",
-      "pick_prob": 0.602,
+      "pick_prob": 0.588,
       "expected_total": 5.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-06T14:28:22.220845+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823697,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-06T14:28:22.221496+00:00"
 }
