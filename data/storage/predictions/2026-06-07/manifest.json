@@ -112,7 +112,7 @@
       "expected_total": 4.9,
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:21:09.874973+00:00",
+      "last_refreshed_at": "2026-06-06T19:53:20.298550+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 5.1,
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:21:10.798884+00:00",
+      "last_refreshed_at": "2026-06-06T19:53:21.157157+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:21:11.665191+00:00",
+      "last_refreshed_at": "2026-06-06T19:53:21.898212+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "expected_total": 3.3,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:21:12.561846+00:00",
+      "last_refreshed_at": "2026-06-06T19:53:22.696796+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -173,10 +173,10 @@
       "home_pitcher": "lake bachar",
       "pick": "TB",
       "pick_prob": 0.651,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:21:13.445067+00:00",
+      "last_refreshed_at": "2026-06-06T19:53:23.482603+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-06T18:21:13.445679+00:00"
+  "last_modified_at": "2026-06-06T19:53:23.483177+00:00"
 }
