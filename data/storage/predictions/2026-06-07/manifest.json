@@ -64,7 +64,7 @@
       "expected_total": 3.1,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T15:51:53.878061+00:00",
+      "last_refreshed_at": "2026-06-06T17:10:23.912665+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -77,10 +77,10 @@
       "home_pitcher": "matthew liberatore",
       "pick": "CIN",
       "pick_prob": 0.677,
-      "expected_total": 4.1,
+      "expected_total": 3.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T15:51:54.462876+00:00",
+      "last_refreshed_at": "2026-06-06T17:10:24.685729+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -96,7 +96,7 @@
       "expected_total": 3.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T15:51:55.034733+00:00",
+      "last_refreshed_at": "2026-06-06T17:10:25.430414+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,12 +108,12 @@
       "away_pitcher": "brandon eisert",
       "home_pitcher": "Andrew Painter",
       "pick": "PHI",
-      "pick_prob": 0.608,
-      "expected_total": 4.7,
+      "pick_prob": 0.617,
+      "expected_total": 4.9,
       "f5_book_line": 5.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T17:10:26.114789+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825075,
@@ -128,8 +128,8 @@
       "expected_total": 5.1,
       "f5_book_line": 5.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-06T17:10:26.839401+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824184,
@@ -141,11 +141,11 @@
       "home_pitcher": "Tatsuya Imai",
       "pick": "ATH",
       "pick_prob": 0.533,
-      "expected_total": 4.8,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T17:10:27.446408+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824915,
@@ -156,12 +156,12 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "spencer strider",
       "pick": "PIT",
-      "pick_prob": 0.592,
-      "expected_total": 3.4,
+      "pick_prob": 0.614,
+      "expected_total": 3.3,
       "f5_book_line": 4.5,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-06T17:10:28.129799+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823859,
@@ -172,12 +172,12 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "lake bachar",
       "pick": "TB",
-      "pick_prob": 0.623,
+      "pick_prob": 0.634,
       "expected_total": 3.7,
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:03:49.715449+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T17:10:28.804611+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822891,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-06T15:51:55.035282+00:00"
+  "last_modified_at": "2026-06-06T17:10:28.805228+00:00"
 }
