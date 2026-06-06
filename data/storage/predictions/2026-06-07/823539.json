@@ -2,7 +2,7 @@
   "game_id": 823539,
   "kst_date": "2026-06-07",
   "bulk_fetched_at": "2026-06-06T14:03:49.715449+00:00",
-  "last_refreshed_at": "2026-06-06T21:01:59.058031+00:00",
+  "last_refreshed_at": "2026-06-06T22:16:24.724846+00:00",
   "refresh_type": "per_game",
   "f5_book_line": 4.5,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.43,
     "pick": "BOS",
     "pick_prob": 0.57,
-    "expected_total": 4.7,
+    "expected_total": 4.8,
     "away_team_total": {
-      "expected": 2.58,
+      "expected": 2.63,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.08
+      "gap": 0.13
     },
     "home_team_total": {
-      "expected": 2.12,
+      "expected": 2.17,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.38
+      "gap": 0.33
     },
     "sweet_picks": [
       {
@@ -74,16 +74,16 @@
         "n_batters": "9+9",
         "type": "TT",
         "pick": "NYY UNDER 2.5",
-        "conf": 0.69,
-        "detail": "Expected 2.12"
+        "conf": 0.665,
+        "detail": "Expected 2.17"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 13.7,
+      "speed_mph": 13.8,
       "direction": "out",
-      "adj": 0.38
+      "adj": 0.39
     },
     "away_pitch_detail": [
       {

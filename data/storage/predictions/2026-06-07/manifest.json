@@ -189,10 +189,10 @@
       "home_pitcher": "jack leiter",
       "pick": "TEX",
       "pick_prob": 0.508,
-      "expected_total": 4.1,
+      "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T21:01:58.462036+00:00",
+      "last_refreshed_at": "2026-06-06T22:16:23.809720+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "will warren",
       "pick": "BOS",
       "pick_prob": 0.57,
-      "expected_total": 4.7,
+      "expected_total": 4.8,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T21:01:59.058031+00:00",
+      "last_refreshed_at": "2026-06-06T22:16:24.724846+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-06T21:01:59.058651+00:00"
+  "last_modified_at": "2026-06-06T22:16:24.725545+00:00"
 }
