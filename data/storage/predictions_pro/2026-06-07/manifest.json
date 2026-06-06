@@ -201,17 +201,17 @@
       "away_pitcher": "tanner bibee",
       "home_pitcher": "jack leiter",
       "pick": "TEX",
-      "pick_prob": 0.519,
-      "expected_total": 4.3,
+      "pick_prob": 0.508,
+      "expected_total": 4.1,
       "v2_pick": "TEX",
-      "v2_conf": 0.534,
+      "v2_conf": 0.533,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:07:54.552739+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T20:57:25.885131+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823539,
@@ -222,17 +222,17 @@
       "away_pitcher": "ranger suárez",
       "home_pitcher": "will warren",
       "pick": "BOS",
-      "pick_prob": 0.573,
-      "expected_total": 4.2,
+      "pick_prob": 0.57,
+      "expected_total": 4.7,
       "v2_pick": "NYY",
-      "v2_conf": 0.54,
+      "v2_conf": 0.503,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-06T14:07:54.552739+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-06T20:57:29.018399+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823942,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-06T19:51:37.988903+00:00"
+  "last_modified_at": "2026-06-06T20:57:29.018982+00:00"
 }
