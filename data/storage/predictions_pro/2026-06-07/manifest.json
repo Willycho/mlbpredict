@@ -105,7 +105,7 @@
       "tier": "good",
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:19:15.520157+00:00",
+      "last_refreshed_at": "2026-06-06T19:51:07.385065+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -126,7 +126,7 @@
       "tier": "good",
       "f5_book_line": 5.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:19:18.286581+00:00",
+      "last_refreshed_at": "2026-06-06T19:51:10.227487+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -147,7 +147,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:19:30.754762+00:00",
+      "last_refreshed_at": "2026-06-06T19:51:22.641910+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "good",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:19:43.161115+00:00",
+      "last_refreshed_at": "2026-06-06T19:51:35.116269+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "lake bachar",
       "pick": "TB",
       "pick_prob": 0.651,
-      "expected_total": 3.7,
+      "expected_total": 3.8,
       "v2_pick": "TB",
       "v2_conf": 0.523,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "sweet_spot",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T18:19:45.763496+00:00",
+      "last_refreshed_at": "2026-06-06T19:51:37.988349+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -384,8 +384,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.767,
-      "detail": "Expected 3.7 vs line 4.5",
+      "conf": 0.733,
+      "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-06T18:19:45.764044+00:00"
+  "last_modified_at": "2026-06-06T19:51:37.988903+00:00"
 }
