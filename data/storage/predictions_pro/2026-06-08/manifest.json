@@ -306,17 +306,17 @@
       "away_pitcher": "trevor mcdonald",
       "home_pitcher": "jameson taillon",
       "pick": "SF",
-      "pick_prob": 0.572,
-      "expected_total": 3.9,
+      "pick_prob": 0.607,
+      "expected_total": 3.6,
       "v2_pick": "SF",
-      "v2_conf": 0.517,
+      "v2_conf": 0.516,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "good",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T22:16:00.196625+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824670,
+      "away_team": "SF",
+      "home_team": "CHC",
+      "away_pitcher": "trevor mcdonald",
+      "home_pitcher": "jameson taillon",
+      "tier": "good",
+      "v2_pick": "SF",
+      "v2_conf": 0.516,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824268,
       "away_team": "SEA",
       "home_team": "DET",
@@ -352,23 +369,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824670,
-      "away_team": "SF",
-      "home_team": "CHC",
-      "away_pitcher": "trevor mcdonald",
-      "home_pitcher": "jameson taillon",
-      "tier": "consensus",
-      "v2_pick": "SF",
-      "v2_conf": 0.517,
-      "lineup": "roster",
-      "n_batters": "14+20",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.7,
-      "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-07T19:44:37.822423+00:00"
+  "last_modified_at": "2026-06-07T22:16:00.197247+00:00"
 }
