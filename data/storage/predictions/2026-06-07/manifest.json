@@ -224,7 +224,7 @@
       "expected_total": 4.5,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T23:34:40.404258+00:00",
+      "last_refreshed_at": "2026-06-07T01:55:22.477887+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -237,12 +237,12 @@
       "home_pitcher": "griffin canning",
       "pick": "NYM",
       "pick_prob": 0.772,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T23:34:41.255379+00:00",
+      "last_refreshed_at": "2026-06-07T01:55:23.298322+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-06T23:34:41.256060+00:00"
+  "last_modified_at": "2026-06-07T01:55:23.298946+00:00"
 }
