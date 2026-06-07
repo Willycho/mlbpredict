@@ -9,20 +9,20 @@
       "home_team": "ATL",
       "game_time_kst": "02:35",
       "game_date_kst": "2026-06-08",
-      "away_pitcher": "bubba chandler",
+      "away_pitcher": "mason montgomery",
       "home_pitcher": "bryce elder",
-      "pick": "PIT",
-      "pick_prob": 0.702,
-      "expected_total": 4.2,
-      "v2_pick": "PIT",
-      "v2_conf": 0.595,
+      "pick": "ATL",
+      "pick_prob": 0.503,
+      "expected_total": 4.9,
+      "v2_pick": "ATL",
+      "v2_conf": 0.505,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T15:05:30.681015+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823453,
@@ -42,8 +42,8 @@
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-07T15:05:32.908013+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823537,
@@ -54,17 +54,17 @@
       "away_pitcher": "ranger suárez",
       "home_pitcher": "cam schlittler",
       "pick": "NYY",
-      "pick_prob": 0.504,
-      "expected_total": 4.2,
+      "pick_prob": 0.506,
+      "expected_total": 4.1,
       "v2_pick": "NYY",
-      "v2_conf": 0.58,
+      "v2_conf": 0.537,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T15:05:35.304109+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822807,
@@ -75,17 +75,17 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "kevin gausman",
       "pick": "TOR",
-      "pick_prob": 0.574,
-      "expected_total": 3.7,
+      "pick_prob": 0.59,
+      "expected_total": 3.9,
       "v2_pick": "TOR",
-      "v2_conf": 0.606,
+      "v2_conf": 0.597,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T15:05:47.181818+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824268,
@@ -96,17 +96,17 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "jack flaherty",
       "pick": "DET",
-      "pick_prob": 0.6,
-      "expected_total": 3.8,
+      "pick_prob": 0.577,
+      "expected_total": 3.7,
       "v2_pick": "SEA",
-      "v2_conf": 0.541,
+      "v2_conf": 0.558,
       "consensus": false,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-07T15:05:59.022180+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823857,
@@ -117,17 +117,17 @@
       "away_pitcher": "griffin jax",
       "home_pitcher": "sandy alcántara",
       "pick": "TB",
-      "pick_prob": 0.667,
-      "expected_total": 3.3,
+      "pick_prob": 0.627,
+      "expected_total": 3.7,
       "v2_pick": "TB",
-      "v2_conf": 0.529,
+      "v2_conf": 0.542,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "sweet_spot",
+      "tier": "good",
       "f5_book_line": 3.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T15:06:10.828080+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824183,
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824268,
+      "away_team": "SEA",
+      "home_team": "DET",
+      "away_pitcher": "luis castillo",
+      "home_pitcher": "jack flaherty",
+      "tier": "disagree",
+      "v2_pick": "SEA",
+      "v2_conf": 0.558,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.767,
+      "detail": "Expected 3.7 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823941,
       "away_team": "LAA",
       "home_team": "LAD",
@@ -352,23 +369,6 @@
       "pick": "F5 LAD",
       "conf": 0.703,
       "detail": "F5 LAD ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 824916,
-      "away_team": "PIT",
-      "home_team": "ATL",
-      "away_pitcher": "bubba chandler",
-      "home_pitcher": "bryce elder",
-      "tier": "sweet_spot",
-      "v2_pick": "PIT",
-      "v2_conf": 0.595,
-      "lineup": "roster",
-      "n_batters": "18+18",
-      "type": "ML",
-      "pick": "F5 PIT",
-      "conf": 0.702,
-      "detail": "F5 PIT ML",
       "ml_consensus": true
     },
     {
@@ -389,21 +389,21 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823857,
-      "away_team": "TB",
-      "home_team": "MIA",
-      "away_pitcher": "griffin jax",
-      "home_pitcher": "sandy alcántara",
-      "tier": "sweet_spot",
-      "v2_pick": "TB",
-      "v2_conf": 0.529,
+      "game_id": 822890,
+      "away_team": "CLE",
+      "home_team": "TEX",
+      "away_pitcher": "joey cantillo",
+      "home_pitcher": "jacob degrom",
+      "tier": "good",
+      "v2_pick": "TEX",
+      "v2_conf": 0.586,
       "lineup": "roster",
-      "n_batters": "21+21",
-      "type": "ML",
-      "pick": "F5 TB",
+      "n_batters": "16+17",
+      "type": "OU",
+      "pick": "F5 OVER 3.5",
       "conf": 0.667,
-      "detail": "F5 TB ML",
-      "ml_consensus": true
+      "detail": "Expected 4.0 vs line 3.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 7,
     "sweet_spot_count": 3,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-06-07T15:06:10.828741+00:00"
 }
