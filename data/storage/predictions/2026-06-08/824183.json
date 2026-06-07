@@ -2,7 +2,7 @@
   "game_id": 824183,
   "kst_date": "2026-06-08",
   "bulk_fetched_at": "2026-06-07T14:14:51.327477+00:00",
-  "last_refreshed_at": "2026-06-07T16:50:52.778799+00:00",
+  "last_refreshed_at": "2026-06-07T18:01:52.717102+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -72,9 +72,9 @@
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 6.1,
+      "speed_mph": 7.4,
       "direction": "out",
-      "adj": 0.18
+      "adj": 0.22
     },
     "away_pitch_detail": [],
     "home_pitch_detail": [
