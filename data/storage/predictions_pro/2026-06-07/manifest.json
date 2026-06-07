@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T23:33:07.746635+00:00",
+      "last_refreshed_at": "2026-06-07T01:52:44.064738+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "griffin canning",
       "pick": "NYM",
       "pick_prob": 0.772,
-      "expected_total": 4.0,
+      "expected_total": 3.9,
       "v2_pick": "NYM",
       "v2_conf": 0.542,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-06T23:33:12.631525+00:00",
+      "last_refreshed_at": "2026-06-07T01:52:48.108734+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 0,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-06T23:33:12.632128+00:00"
+  "last_modified_at": "2026-06-07T01:52:48.109328+00:00"
 }
