@@ -208,7 +208,7 @@
       "expected_total": 3.7,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T18:01:56.157354+00:00",
+      "last_refreshed_at": "2026-06-07T19:46:01.907458+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -221,10 +221,10 @@
       "home_pitcher": "randy vásquez",
       "pick": "NYM",
       "pick_prob": 0.775,
-      "expected_total": 4.6,
+      "expected_total": 4.4,
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T18:01:56.725523+00:00",
+      "last_refreshed_at": "2026-06-07T19:46:02.815840+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-07T18:01:56.726168+00:00"
+  "last_modified_at": "2026-06-07T19:46:02.816331+00:00"
 }
