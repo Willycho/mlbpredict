@@ -147,7 +147,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T16:44:18.844609+00:00",
+      "last_refreshed_at": "2026-06-07T17:57:19.688538+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "home_pitcher": "Connor Prielipp",
       "pick": "KC",
       "pick_prob": 0.505,
-      "expected_total": 4.4,
+      "expected_total": 4.0,
       "v2_pick": "KC",
       "v2_conf": 0.582,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T16:44:31.317023+00:00",
+      "last_refreshed_at": "2026-06-07T17:57:22.898186+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": 4.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T16:44:43.966309+00:00",
+      "last_refreshed_at": "2026-06-07T17:57:35.815473+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": 3.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T16:44:56.520721+00:00",
+      "last_refreshed_at": "2026-06-07T17:57:48.581517+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -223,7 +223,7 @@
       "home_pitcher": "kyle freeland",
       "pick": "MIL",
       "pick_prob": 0.603,
-      "expected_total": 5.3,
+      "expected_total": 5.2,
       "v2_pick": "MIL",
       "v2_conf": 0.569,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "good",
       "f5_book_line": 6.5,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-07T16:44:59.436113+00:00",
+      "last_refreshed_at": "2026-06-07T17:57:51.502061+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,16 +243,16 @@
       "away_pitcher": "cade cavalli",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.642,
+      "pick_prob": 0.657,
       "expected_total": 4.4,
       "v2_pick": "AZ",
-      "v2_conf": 0.569,
+      "v2_conf": 0.588,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T16:45:02.781729+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T17:57:54.466423+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,17 +264,17 @@
       "away_pitcher": "josé soriano",
       "home_pitcher": "emmet sheehan",
       "pick": "LAD",
-      "pick_prob": 0.703,
-      "expected_total": 3.4,
+      "pick_prob": 0.764,
+      "expected_total": 3.7,
       "v2_pick": "LAD",
-      "v2_conf": 0.592,
+      "v2_conf": 0.571,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "sweet_spot",
+      "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T17:57:57.527230+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823291,
@@ -285,7 +285,7 @@
       "away_pitcher": "huascar brazobán",
       "home_pitcher": "randy vásquez",
       "pick": "NYM",
-      "pick_prob": 0.762,
+      "pick_prob": 0.775,
       "expected_total": 4.5,
       "v2_pick": "NYM",
       "v2_conf": 0.513,
@@ -293,9 +293,9 @@
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": 4.5,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-07T14:20:13.499095+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-07T17:58:10.336395+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824670,
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 6.5",
-      "conf": 0.9,
-      "detail": "Expected 5.3 vs line 6.5",
+      "conf": 0.933,
+      "detail": "Expected 5.2 vs line 6.5",
       "ou_consensus": true
     },
     {
@@ -353,23 +353,6 @@
       "conf": 0.733,
       "detail": "Expected 3.8 vs line 4.5",
       "ou_consensus": true
-    },
-    {
-      "game_id": 823941,
-      "away_team": "LAA",
-      "home_team": "LAD",
-      "away_pitcher": "josé soriano",
-      "home_pitcher": "emmet sheehan",
-      "tier": "sweet_spot",
-      "v2_pick": "LAD",
-      "v2_conf": 0.592,
-      "lineup": "roster",
-      "n_batters": "14+18",
-      "type": "ML",
-      "pick": "F5 LAD",
-      "conf": 0.703,
-      "detail": "F5 LAD ML",
-      "ml_consensus": true
     },
     {
       "game_id": 824670,
@@ -404,6 +387,23 @@
       "conf": 0.657,
       "detail": "F5 TB ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 825074,
+      "away_team": "WSH",
+      "home_team": "AZ",
+      "away_pitcher": "cade cavalli",
+      "home_pitcher": "michael soroka",
+      "tier": "sweet_spot",
+      "v2_pick": "AZ",
+      "v2_conf": 0.588,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 AZ",
+      "conf": 0.657,
+      "detail": "F5 AZ ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-07T16:45:02.782273+00:00"
+  "last_modified_at": "2026-06-07T17:58:10.336962+00:00"
 }
