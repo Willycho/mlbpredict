@@ -63,7 +63,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T21:09:44.531362+00:00",
+      "last_refreshed_at": "2026-06-08T22:52:49.250600+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -75,17 +75,17 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
-      "pick_prob": 0.683,
-      "expected_total": 4.5,
+      "pick_prob": 0.706,
+      "expected_total": 4.4,
       "v2_pick": "HOU",
-      "v2_conf": 0.54,
+      "v2_conf": 0.529,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:20:53.794512+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T22:52:52.017294+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823289,
@@ -96,17 +96,17 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "walker buehler",
       "pick": "CIN",
-      "pick_prob": 0.717,
-      "expected_total": 4.4,
+      "pick_prob": 0.713,
+      "expected_total": 4.5,
       "v2_pick": "CIN",
-      "v2_conf": 0.57,
+      "v2_conf": 0.539,
       "consensus": true,
       "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:20:53.794512+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T22:53:04.669070+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823218,
@@ -114,20 +114,20 @@
       "home_team": "SF",
       "game_time_kst": "10:45",
       "game_date_kst": "2026-06-09",
-      "away_pitcher": "miles mikolas",
+      "away_pitcher": "richard lovelady",
       "home_pitcher": "logan webb",
       "pick": "SF",
-      "pick_prob": 0.727,
-      "expected_total": 4.6,
+      "pick_prob": 0.784,
+      "expected_total": 4.1,
       "v2_pick": "SF",
-      "v2_conf": 0.546,
+      "v2_conf": 0.527,
       "consensus": true,
-      "ou_consensus": true,
-      "tier": "sweet_spot",
+      "ou_consensus": false,
+      "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:20:53.794512+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-08T22:53:17.692027+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824998,
@@ -208,23 +208,6 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823218,
-      "away_team": "WSH",
-      "home_team": "SF",
-      "away_pitcher": "miles mikolas",
-      "home_pitcher": "logan webb",
-      "tier": "sweet_spot",
-      "v2_pick": "SF",
-      "v2_conf": 0.546,
-      "lineup": "roster",
-      "n_batters": "20+19",
-      "type": "ML",
-      "pick": "F5 SF",
-      "conf": 0.727,
-      "detail": "F5 SF ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 823289,
       "away_team": "CIN",
       "home_team": "SD",
@@ -232,12 +215,12 @@
       "home_pitcher": "walker buehler",
       "tier": "sweet_spot",
       "v2_pick": "CIN",
-      "v2_conf": 0.57,
-      "lineup": "roster",
-      "n_batters": "15+17",
+      "v2_conf": 0.539,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 CIN",
-      "conf": 0.717,
+      "conf": 0.713,
       "detail": "F5 CIN ML",
       "ml_consensus": true
     }
@@ -248,5 +231,5 @@
     "sweet_spot_count": 5,
     "total_games": 8
   },
-  "last_modified_at": "2026-06-08T21:09:44.531858+00:00"
+  "last_modified_at": "2026-06-08T22:53:17.692535+00:00"
 }
