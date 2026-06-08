@@ -28,12 +28,12 @@
       "away_pitcher": "connelly early",
       "home_pitcher": "ian seymour",
       "pick": "BOS",
-      "pick_prob": 0.702,
+      "pick_prob": 0.643,
       "expected_total": 3.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T20:36:23.700974+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824427,
@@ -44,12 +44,12 @@
       "away_pitcher": "will warren",
       "home_pitcher": "gavin williams",
       "pick": "NYY",
-      "pick_prob": 0.655,
-      "expected_total": 3.9,
+      "pick_prob": 0.617,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T20:36:24.522956+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822806,
@@ -60,12 +60,12 @@
       "away_pitcher": "cristopher sánchez",
       "home_pitcher": "patrick corbin",
       "pick": "PHI",
-      "pick_prob": 0.727,
+      "pick_prob": 0.735,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T20:36:25.367411+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824025,
@@ -131,5 +131,6 @@
       "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-08T20:36:25.368018+00:00"
 }
