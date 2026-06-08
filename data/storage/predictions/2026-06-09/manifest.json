@@ -76,12 +76,12 @@
       "away_pitcher": "spencer arrighetti",
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
-      "pick_prob": 0.683,
-      "expected_total": 4.5,
+      "pick_prob": 0.706,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T23:39:55.809346+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823289,
@@ -92,12 +92,12 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "walker buehler",
       "pick": "CIN",
-      "pick_prob": 0.717,
-      "expected_total": 4.4,
+      "pick_prob": 0.713,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T23:39:56.809523+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823218,
@@ -105,15 +105,15 @@
       "home_team": "SF",
       "game_time_kst": "10:45",
       "game_date_kst": "2026-06-09",
-      "away_pitcher": "miles mikolas",
+      "away_pitcher": "richard lovelady",
       "home_pitcher": "logan webb",
       "pick": "SF",
-      "pick_prob": 0.727,
+      "pick_prob": 0.787,
       "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T23:39:58.772792+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824998,
@@ -124,13 +124,13 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "jeffrey springs",
       "pick": "MIL",
-      "pick_prob": 0.6,
+      "pick_prob": 0.569,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:12:30.284353+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-08T23:39:59.632907+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-08T22:15:36.857631+00:00"
+  "last_modified_at": "2026-06-08T23:39:59.633522+00:00"
 }
