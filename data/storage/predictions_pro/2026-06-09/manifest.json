@@ -84,7 +84,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T22:52:52.017294+00:00",
+      "last_refreshed_at": "2026-06-09T00:14:47.051901+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -97,7 +97,7 @@
       "home_pitcher": "walker buehler",
       "pick": "CIN",
       "pick_prob": 0.713,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "v2_pick": "CIN",
       "v2_conf": 0.539,
       "consensus": true,
@@ -105,7 +105,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T22:53:04.669070+00:00",
+      "last_refreshed_at": "2026-06-09T00:14:49.980489+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -117,16 +117,16 @@
       "away_pitcher": "richard lovelady",
       "home_pitcher": "logan webb",
       "pick": "SF",
-      "pick_prob": 0.784,
+      "pick_prob": 0.787,
       "expected_total": 4.1,
       "v2_pick": "SF",
-      "v2_conf": 0.527,
+      "v2_conf": 0.536,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T22:53:17.692027+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T00:15:02.550457+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -138,17 +138,17 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "jeffrey springs",
       "pick": "MIL",
-      "pick_prob": 0.6,
-      "expected_total": 4.4,
+      "pick_prob": 0.569,
+      "expected_total": 4.1,
       "v2_pick": "ATH",
       "v2_conf": 0.525,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-08T16:20:53.794512+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T00:15:15.046567+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824829,
@@ -231,5 +231,5 @@
     "sweet_spot_count": 5,
     "total_games": 8
   },
-  "last_modified_at": "2026-06-08T22:53:17.692535+00:00"
+  "last_modified_at": "2026-06-09T00:15:15.047134+00:00"
 }
