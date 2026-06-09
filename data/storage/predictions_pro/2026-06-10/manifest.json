@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:23:17.665295+00:00",
+      "last_refreshed_at": "2026-06-09T22:57:14.499586+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -168,7 +168,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:23:20.368026+00:00",
+      "last_refreshed_at": "2026-06-09T22:57:17.908195+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -189,7 +189,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:23:32.631467+00:00",
+      "last_refreshed_at": "2026-06-09T22:57:31.102923+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -210,7 +210,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:23:45.394578+00:00",
+      "last_refreshed_at": "2026-06-09T22:57:44.125196+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -222,17 +222,17 @@
       "away_pitcher": "colin rea",
       "home_pitcher": "tomoyuki sugano",
       "pick": "CHC",
-      "pick_prob": 0.802,
-      "expected_total": 5.7,
+      "pick_prob": 0.791,
+      "expected_total": 5.8,
       "v2_pick": "CHC",
-      "v2_conf": 0.582,
+      "v2_conf": 0.603,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:27:38.436635+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T22:57:47.533467+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824023,
@@ -243,17 +243,17 @@
       "away_pitcher": "kai-wei teng",
       "home_pitcher": "Walbert Ureña",
       "pick": "HOU",
-      "pick_prob": 0.556,
-      "expected_total": 4.1,
-      "v2_pick": "LAA",
-      "v2_conf": 0.501,
-      "consensus": false,
+      "pick_prob": 0.561,
+      "expected_total": 4.5,
+      "v2_pick": "HOU",
+      "v2_conf": 0.517,
+      "consensus": true,
       "ou_consensus": false,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:27:38.436635+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T22:57:50.912154+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823290,
@@ -264,17 +264,17 @@
       "away_pitcher": "chase burns",
       "home_pitcher": "lucas giolito",
       "pick": "CIN",
-      "pick_prob": 0.722,
+      "pick_prob": 0.699,
       "expected_total": 3.8,
       "v2_pick": "CIN",
-      "v2_conf": 0.523,
+      "v2_conf": 0.529,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:27:38.436635+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T22:58:04.303176+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823214,
@@ -285,17 +285,17 @@
       "away_pitcher": "andrew alvarez",
       "home_pitcher": "adrian houser",
       "pick": "WSH",
-      "pick_prob": 0.555,
+      "pick_prob": 0.513,
       "expected_total": 4.4,
       "v2_pick": "WSH",
-      "v2_conf": 0.561,
+      "v2_conf": 0.554,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:27:38.436635+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T22:58:17.319053+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824999,
@@ -338,6 +338,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 824347,
+      "away_team": "CHC",
+      "home_team": "COL",
+      "away_pitcher": "colin rea",
+      "home_pitcher": "tomoyuki sugano",
+      "tier": "consensus",
+      "v2_pick": "CHC",
+      "v2_conf": 0.603,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.933,
+      "detail": "Expected 5.8 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 823374,
       "away_team": "LAD",
       "home_team": "PIT",
@@ -352,23 +369,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.9,
       "detail": "Expected 3.3 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824347,
-      "away_team": "CHC",
-      "home_team": "COL",
-      "away_pitcher": "colin rea",
-      "home_pitcher": "tomoyuki sugano",
-      "tier": "consensus",
-      "v2_pick": "CHC",
-      "v2_conf": 0.582,
-      "lineup": "roster",
-      "n_batters": "22+14",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.9,
-      "detail": "Expected 5.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-09T21:23:45.395149+00:00"
+  "last_modified_at": "2026-06-09T22:58:17.319635+00:00"
 }
