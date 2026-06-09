@@ -2,7 +2,7 @@
   "game_id": 824591,
   "kst_date": "2026-06-10",
   "bulk_fetched_at": "2026-06-09T15:24:15.228020+00:00",
-  "last_refreshed_at": "2026-06-09T21:46:19.182710+00:00",
+  "last_refreshed_at": "2026-06-09T23:16:29.510252+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,51 +55,51 @@
     "win_prob_home": 0.464,
     "pick": "ATL",
     "pick_prob": 0.536,
-    "expected_total": 3.8,
+    "expected_total": 4.0,
     "away_team_total": {
-      "expected": 1.88,
+      "expected": 1.98,
       "line": 1.5,
       "pick": "OVER",
-      "gap": 0.38
+      "gap": 0.48
     },
     "home_team_total": {
-      "expected": 1.92,
-      "line": 1.5,
-      "pick": "OVER",
-      "gap": 0.42
+      "expected": 2.02,
+      "line": 2.5,
+      "pick": "UNDER",
+      "gap": 0.48
     },
     "sweet_picks": [
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "OU",
-        "pick": "F5 UNDER 4.5",
-        "conf": 0.733,
-        "detail": "Expected 3.8 vs line 4.5"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
-        "type": "TT",
-        "pick": "CWS OVER 1.5",
-        "conf": 0.71,
-        "detail": "Expected 1.92"
-      },
-      {
-        "lineup": "confirmed",
-        "n_batters": "9+9",
         "type": "TT",
         "pick": "ATL OVER 1.5",
-        "conf": 0.69,
-        "detail": "Expected 1.88"
+        "conf": 0.74,
+        "detail": "Expected 1.98"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "CWS UNDER 2.5",
+        "conf": 0.74,
+        "detail": "Expected 2.02"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.667,
+        "detail": "Expected 4.0 vs line 4.5"
       }
     ],
     "grade": "pass",
     "grade_label": "PASS",
     "wind": {
-      "speed_mph": 6.8,
-      "direction": "in",
-      "adj": -0.14
+      "speed_mph": 4.3,
+      "direction": "cross",
+      "adj": -0.02
     },
     "away_pitch_detail": [
       {
@@ -186,5 +186,5 @@
   },
   "locked_away_pitcher_id": 656550,
   "locked_home_pitcher_id": 685126,
-  "pitcher_changed_at_refresh": true
+  "pitcher_changed_at_refresh": false
 }

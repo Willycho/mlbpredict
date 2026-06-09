@@ -141,10 +141,10 @@
       "home_pitcher": "stephen kolek",
       "pick": "TEX",
       "pick_prob": 0.646,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:46:17.623677+00:00",
+      "last_refreshed_at": "2026-06-09T23:16:28.700122+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "brandon eisert",
       "pick": "ATL",
       "pick_prob": 0.536,
-      "expected_total": 3.8,
+      "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:46:19.182710+00:00",
+      "last_refreshed_at": "2026-06-09T23:16:29.510252+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,11 +172,11 @@
       "away_pitcher": "colin rea",
       "home_pitcher": "tomoyuki sugano",
       "pick": "CHC",
-      "pick_prob": 0.786,
-      "expected_total": 5.8,
+      "pick_prob": 0.791,
+      "expected_total": 5.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T21:46:19.810101+00:00",
+      "last_refreshed_at": "2026-06-09T23:16:30.320005+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -188,12 +188,12 @@
       "away_pitcher": "kai-wei teng",
       "home_pitcher": "Walbert Ureña",
       "pick": "HOU",
-      "pick_prob": 0.556,
-      "expected_total": 4.4,
+      "pick_prob": 0.561,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:24:15.228020+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T23:16:31.104423+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823290,
@@ -204,12 +204,12 @@
       "away_pitcher": "chase burns",
       "home_pitcher": "lucas giolito",
       "pick": "CIN",
-      "pick_prob": 0.722,
-      "expected_total": 3.8,
+      "pick_prob": 0.699,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:24:15.228020+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T23:16:31.913835+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823214,
@@ -220,12 +220,12 @@
       "away_pitcher": "andrew alvarez",
       "home_pitcher": "adrian houser",
       "pick": "WSH",
-      "pick_prob": 0.555,
-      "expected_total": 4.4,
+      "pick_prob": 0.513,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:24:15.228020+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T23:16:32.710663+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824999,
@@ -236,13 +236,13 @@
       "away_pitcher": "robert gasser",
       "home_pitcher": "j. t. ginn",
       "pick": "MIL",
-      "pick_prob": 0.573,
-      "expected_total": 3.8,
+      "pick_prob": 0.557,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:24:15.228020+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-09T23:16:33.508265+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-09T21:46:19.810757+00:00"
+  "last_modified_at": "2026-06-09T23:16:33.508861+00:00"
 }
