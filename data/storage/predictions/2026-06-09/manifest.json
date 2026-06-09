@@ -80,7 +80,7 @@
       "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T23:39:55.809346+00:00",
+      "last_refreshed_at": "2026-06-09T01:31:17.217429+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "walker buehler",
       "pick": "CIN",
       "pick_prob": 0.713,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T23:39:56.809523+00:00",
+      "last_refreshed_at": "2026-06-09T01:31:18.213496+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -109,10 +109,10 @@
       "home_pitcher": "logan webb",
       "pick": "SF",
       "pick_prob": 0.787,
-      "expected_total": 4.6,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T23:39:58.772792+00:00",
+      "last_refreshed_at": "2026-06-09T01:31:19.090102+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -125,12 +125,12 @@
       "home_pitcher": "jeffrey springs",
       "pick": "MIL",
       "pick_prob": 0.569,
-      "expected_total": 4.4,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-08T23:39:59.632907+00:00",
+      "last_refreshed_at": "2026-06-09T01:31:20.048344+00:00",
       "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-08T23:39:59.633522+00:00"
+  "last_modified_at": "2026-06-09T01:31:20.048976+00:00"
 }
