@@ -2,8 +2,8 @@
   "game_id": 822970,
   "kst_date": "2026-06-11",
   "bulk_fetched_at": "2026-06-10T16:07:01.961704+00:00",
-  "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-10T16:25:35.654479+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 822970,
@@ -171,5 +171,6 @@
     "v2_f5_total": 3.7
   },
   "locked_away_pitcher_id": 687562,
-  "locked_home_pitcher_id": 656876
+  "locked_home_pitcher_id": 656876,
+  "pitcher_changed_at_refresh": false
 }

@@ -21,8 +21,8 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-10T16:25:35.654479+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824428,
@@ -42,8 +42,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-10T16:25:39.218453+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823215,
@@ -411,5 +411,6 @@
     "ou_consensus_count": 9,
     "sweet_spot_count": 5,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-06-10T16:25:39.219041+00:00"
 }
