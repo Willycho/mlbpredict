@@ -96,7 +96,7 @@
       "expected_total": 4.0,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-10T17:34:38.856778+00:00",
+      "last_refreshed_at": "2026-06-10T19:57:44.650337+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,12 +108,12 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "brandon young",
       "pick": "SEA",
-      "pick_prob": 0.676,
-      "expected_total": 4.8,
+      "pick_prob": 0.634,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T19:57:45.538011+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823372,
@@ -124,12 +124,12 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "jared jones",
       "pick": "LAD",
-      "pick_prob": 0.824,
+      "pick_prob": 0.843,
       "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-10T19:57:46.406923+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823856,
@@ -140,12 +140,12 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "ryan gusto",
       "pick": "AZ",
-      "pick_prob": 0.644,
+      "pick_prob": 0.695,
       "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T19:57:47.246054+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822804,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-10T17:34:38.857395+00:00"
+  "last_modified_at": "2026-06-10T19:57:47.246708+00:00"
 }
