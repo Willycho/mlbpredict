@@ -204,11 +204,11 @@
       "away_pitcher": "shota imanaga",
       "home_pitcher": "michael lorenzen",
       "pick": "CHC",
-      "pick_prob": 0.678,
-      "expected_total": 4.9,
+      "pick_prob": 0.676,
+      "expected_total": 5.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-10T22:05:15.402439+00:00",
+      "last_refreshed_at": "2026-06-10T23:50:04.102583+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -224,7 +224,7 @@
       "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-10T22:05:16.240015+00:00",
+      "last_refreshed_at": "2026-06-10T23:50:06.301644+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "peter lambert",
       "home_pitcher": "reid detmers",
       "pick": "LAA",
-      "pick_prob": 0.673,
-      "expected_total": 4.1,
+      "pick_prob": 0.684,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T23:50:08.694167+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-10T22:05:16.240534+00:00"
+  "last_modified_at": "2026-06-10T23:50:08.694749+00:00"
 }
