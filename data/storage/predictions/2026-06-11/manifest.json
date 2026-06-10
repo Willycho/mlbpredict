@@ -79,9 +79,9 @@
       "pick_prob": 0.555,
       "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T17:34:38.291794+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823287,
@@ -92,12 +92,12 @@
       "away_pitcher": "brady singer",
       "home_pitcher": "mike king",
       "pick": "SD",
-      "pick_prob": 0.553,
+      "pick_prob": 0.616,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T17:34:38.856778+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824831,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-06-10T15:59:14.411690+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-10T17:34:38.857395+00:00"
 }
