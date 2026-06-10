@@ -223,7 +223,7 @@
       "home_pitcher": "tomoyuki sugano",
       "pick": "CHC",
       "pick_prob": 0.791,
-      "expected_total": 5.8,
+      "expected_total": 5.9,
       "v2_pick": "CHC",
       "v2_conf": 0.603,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T22:57:47.533467+00:00",
+      "last_refreshed_at": "2026-06-10T00:23:18.957336+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "Walbert Ureña",
       "pick": "HOU",
       "pick_prob": 0.561,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "v2_pick": "HOU",
       "v2_conf": 0.517,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T22:57:50.912154+00:00",
+      "last_refreshed_at": "2026-06-10T00:23:21.988427+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T22:58:04.303176+00:00",
+      "last_refreshed_at": "2026-06-10T00:23:34.794012+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-09T22:58:17.319053+00:00",
+      "last_refreshed_at": "2026-06-10T00:23:47.695633+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -306,20 +306,37 @@
       "away_pitcher": "robert gasser",
       "home_pitcher": "j. t. ginn",
       "pick": "MIL",
-      "pick_prob": 0.573,
-      "expected_total": 3.8,
+      "pick_prob": 0.557,
+      "expected_total": 3.7,
       "v2_pick": "MIL",
-      "v2_conf": 0.567,
+      "v2_conf": 0.591,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-09T15:27:38.436635+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T00:23:51.026933+00:00",
+      "refresh_type": "per_game"
     }
   ],
   "top_picks": [
+    {
+      "game_id": 824347,
+      "away_team": "CHC",
+      "home_team": "COL",
+      "away_pitcher": "colin rea",
+      "home_pitcher": "tomoyuki sugano",
+      "tier": "consensus",
+      "v2_pick": "CHC",
+      "v2_conf": 0.603,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.95,
+      "detail": "Expected 5.9 vs line 4.5",
+      "ou_consensus": true
+    },
     {
       "game_id": 822805,
       "away_team": "PHI",
@@ -335,23 +352,6 @@
       "pick": "F5 UNDER 4.5",
       "conf": 0.933,
       "detail": "Expected 3.2 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 824347,
-      "away_team": "CHC",
-      "home_team": "COL",
-      "away_pitcher": "colin rea",
-      "home_pitcher": "tomoyuki sugano",
-      "tier": "consensus",
-      "v2_pick": "CHC",
-      "v2_conf": 0.603,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.933,
-      "detail": "Expected 5.8 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-09T22:58:17.319635+00:00"
+  "last_modified_at": "2026-06-10T00:23:51.027529+00:00"
 }
