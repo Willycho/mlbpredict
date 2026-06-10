@@ -54,17 +54,17 @@
       "away_pitcher": "Foster Griffin",
       "home_pitcher": "robbie ray",
       "pick": "SF",
-      "pick_prob": 0.555,
+      "pick_prob": 0.561,
       "expected_total": 4.5,
       "v2_pick": "SF",
-      "v2_conf": 0.555,
+      "v2_conf": 0.543,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T19:18:17.038812+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823287,
@@ -75,17 +75,17 @@
       "away_pitcher": "brady singer",
       "home_pitcher": "mike king",
       "pick": "SD",
-      "pick_prob": 0.537,
+      "pick_prob": 0.616,
       "expected_total": 4.0,
       "v2_pick": "SD",
-      "v2_conf": 0.529,
+      "v2_conf": 0.517,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T19:18:19.305540+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824831,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 5,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-10T16:25:39.219041+00:00"
+  "last_modified_at": "2026-06-10T19:18:19.306140+00:00"
 }

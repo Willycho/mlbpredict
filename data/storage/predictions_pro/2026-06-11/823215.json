@@ -2,8 +2,8 @@
   "game_id": 823215,
   "kst_date": "2026-06-11",
   "bulk_fetched_at": "2026-06-10T16:07:01.961704+00:00",
-  "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-10T19:18:17.038812+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 823215,
@@ -39,51 +39,51 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 20
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
-      "matchup_score": 51.8,
-      "arsenal_matchup": 51.7,
-      "h2h_bonus": 1.5,
-      "lineup_source": "roster",
-      "n_batters": 19
+      "matchup_score": 52.6,
+      "arsenal_matchup": 54.3,
+      "h2h_bonus": 0.0,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "effective_away": 53.8,
-    "effective_home": 58.6,
-    "win_prob_away": 0.445,
-    "win_prob_home": 0.555,
+    "effective_home": 59.2,
+    "win_prob_away": 0.439,
+    "win_prob_home": 0.561,
     "pick": "SF",
-    "pick_prob": 0.555,
+    "pick_prob": 0.561,
     "expected_total": 4.5,
     "away_team_total": {
-      "expected": 2.1,
+      "expected": 2.09,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.4
+      "gap": 0.41
     },
     "home_team_total": {
-      "expected": 2.4,
+      "expected": 2.41,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.1
+      "gap": 0.09
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "20+19",
+        "lineup": "confirmed",
+        "n_batters": "9+9",
         "type": "TT",
         "pick": "WSH UNDER 2.5",
-        "conf": 0.7,
-        "detail": "Expected 2.1"
+        "conf": 0.705,
+        "detail": "Expected 2.09"
       }
     ],
     "grade": "lean",
     "grade_label": "LEAN",
     "wind": {
-      "speed_mph": 12.3,
+      "speed_mph": 11.2,
       "direction": "out",
-      "adj": 0.32
+      "adj": 0.3
     },
     "away_pitch_detail": [],
     "home_pitch_detail": [
@@ -91,61 +91,57 @@
         "pitch_type": "FF",
         "usage": 0.519,
         "pitcher_xwoba": 0.302,
-        "team_xwoba": 0.354,
+        "team_xwoba": 0.365,
         "league_xwoba": 0.345,
-        "advantage": 0.0169
+        "advantage": 0.0113
       },
       {
         "pitch_type": "SL",
         "usage": 0.226,
         "pitcher_xwoba": 0.27,
-        "team_xwoba": 0.299,
+        "team_xwoba": 0.282,
         "league_xwoba": 0.288,
-        "advantage": 0.0034
+        "advantage": 0.0117
       },
       {
         "pitch_type": "CH",
         "usage": 0.13,
         "pitcher_xwoba": 0.319,
-        "team_xwoba": 0.282,
+        "team_xwoba": 0.271,
         "league_xwoba": 0.29,
-        "advantage": -0.0106
+        "advantage": -0.0053
       },
       {
         "pitch_type": "KC",
         "usage": 0.121,
         "pitcher_xwoba": 0.349,
-        "team_xwoba": 0.305,
+        "team_xwoba": 0.257,
         "league_xwoba": 0.274,
-        "advantage": -0.0531
+        "advantage": -0.0292
       },
       {
         "pitch_type": "ST",
         "usage": 0.004,
         "pitcher_xwoba": 0.32,
-        "team_xwoba": 0.261,
+        "team_xwoba": 0.26,
         "league_xwoba": 0.267,
-        "advantage": -0.0236
+        "advantage": -0.023
       }
     ],
     "away_h2h_detail": {
       "note": "insufficient h2h PA (0 < 10)"
     },
     "home_h2h_detail": {
-      "total_pa": 27,
-      "n_batters": 10,
-      "w_k_rate": 0.296,
-      "w_bb_rate": 0.111,
-      "w_hr_rate": 0.0,
-      "confidence": 0.54
+      "note": "insufficient h2h PA (7 < 10)"
     },
     "v2_pick": "SF",
-    "v2_conf": 0.555,
+    "v2_conf": 0.543,
     "consensus": true,
     "tier": "consensus",
     "ou_consensus": false,
-    "v2_f5_total": 4.7
+    "v2_f5_total": 4.8
   },
   "locked_away_pitcher_id": 656492,
-  "locked_home_pitcher_id": 592662
+  "locked_home_pitcher_id": 592662,
+  "pitcher_changed_at_refresh": false
 }
