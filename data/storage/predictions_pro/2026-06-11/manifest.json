@@ -96,17 +96,17 @@
       "away_pitcher": "george kirby",
       "home_pitcher": "brandon young",
       "pick": "SEA",
-      "pick_prob": 0.676,
-      "expected_total": 4.8,
+      "pick_prob": 0.661,
+      "expected_total": 4.6,
       "v2_pick": "SEA",
-      "v2_conf": 0.608,
+      "v2_conf": 0.631,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:32:33.145851+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823372,
@@ -117,17 +117,17 @@
       "away_pitcher": "shohei ohtani",
       "home_pitcher": "jared jones",
       "pick": "LAD",
-      "pick_prob": 0.824,
+      "pick_prob": 0.822,
       "expected_total": 3.6,
       "v2_pick": "LAD",
-      "v2_conf": 0.503,
+      "v2_conf": 0.55,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:32:37.013858+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823856,
@@ -138,17 +138,17 @@
       "away_pitcher": "ryne nelson",
       "home_pitcher": "ryan gusto",
       "pick": "AZ",
-      "pick_prob": 0.644,
-      "expected_total": 3.8,
+      "pick_prob": 0.695,
+      "expected_total": 4.1,
       "v2_pick": "AZ",
-      "v2_conf": 0.546,
+      "v2_conf": 0.541,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:32:50.270930+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822804,
@@ -159,17 +159,17 @@
       "away_pitcher": "jesús luzardo",
       "home_pitcher": "max scherzer",
       "pick": "PHI",
-      "pick_prob": 0.604,
-      "expected_total": 3.8,
+      "pick_prob": 0.613,
+      "expected_total": 4.0,
       "v2_pick": "TOR",
-      "v2_conf": 0.505,
+      "v2_conf": 0.51,
       "consensus": false,
       "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:33:03.464744+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823618,
@@ -180,17 +180,17 @@
       "away_pitcher": "andre pallante",
       "home_pitcher": "Austin Warren",
       "pick": "NYM",
-      "pick_prob": 0.627,
-      "expected_total": 4.8,
+      "pick_prob": 0.63,
+      "expected_total": 4.9,
       "v2_pick": "NYM",
-      "v2_conf": 0.545,
+      "v2_conf": 0.544,
       "consensus": true,
       "ou_consensus": true,
       "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:33:06.992942+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824103,
@@ -201,17 +201,17 @@
       "away_pitcher": "mackenzie gore",
       "home_pitcher": "seth lugo",
       "pick": "TEX",
-      "pick_prob": 0.647,
-      "expected_total": 5.1,
+      "pick_prob": 0.6,
+      "expected_total": 5.0,
       "v2_pick": "KC",
-      "v2_conf": 0.515,
+      "v2_conf": 0.504,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-10T16:07:01.961704+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-10T21:33:10.537615+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824348,
@@ -338,23 +338,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 823372,
-      "away_team": "LAD",
-      "home_team": "PIT",
-      "away_pitcher": "shohei ohtani",
-      "home_pitcher": "jared jones",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.503,
-      "lineup": "roster",
-      "n_batters": "18+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.8,
-      "detail": "Expected 3.6 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824348,
       "away_team": "CHC",
       "home_team": "COL",
@@ -404,6 +387,23 @@
       "conf": 0.702,
       "detail": "F5 CHC ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 824996,
+      "away_team": "MIL",
+      "home_team": "ATH",
+      "away_pitcher": "brandon sproat",
+      "home_pitcher": "jack perkins",
+      "tier": "sweet_spot",
+      "v2_pick": "ATH",
+      "v2_conf": 0.519,
+      "lineup": "roster",
+      "n_batters": "22+17",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.7,
+      "detail": "Expected 3.9 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 5,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-10T19:18:19.306140+00:00"
+  "last_modified_at": "2026-06-10T21:33:10.538275+00:00"
 }
