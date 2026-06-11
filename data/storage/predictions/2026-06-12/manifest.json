@@ -108,12 +108,12 @@
       "away_pitcher": "justin wrobleski",
       "home_pitcher": "mitch keller",
       "pick": "LAD",
-      "pick_prob": 0.776,
-      "expected_total": 4.2,
+      "pick_prob": 0.779,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-11T16:17:34.701815+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-11T21:34:06.531480+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824827,
@@ -124,13 +124,13 @@
       "away_pitcher": "bryan woo",
       "home_pitcher": "kyle bradish",
       "pick": "BAL",
-      "pick_prob": 0.517,
-      "expected_total": 3.6,
+      "pick_prob": 0.542,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-11T16:17:34.701815+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-11T21:34:07.169464+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-11T16:35:58.128254+00:00"
+  "last_modified_at": "2026-06-11T21:34:07.170071+00:00"
 }
