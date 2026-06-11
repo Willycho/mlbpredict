@@ -96,17 +96,17 @@
       "away_pitcher": "edward cabrera",
       "home_pitcher": "ryan feltner",
       "pick": "CHC",
-      "pick_prob": 0.613,
+      "pick_prob": 0.572,
       "expected_total": 4.6,
       "v2_pick": "CHC",
-      "v2_conf": 0.567,
+      "v2_conf": 0.605,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-11T16:20:02.095413+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-11T18:28:10.343083+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823371,
@@ -213,5 +213,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 0,
     "total_games": 8
-  }
+  },
+  "last_modified_at": "2026-06-11T18:28:10.343586+00:00"
 }
