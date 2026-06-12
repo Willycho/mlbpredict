@@ -44,12 +44,12 @@
       "away_pitcher": "sandy alcántara",
       "home_pitcher": "braxton ashcraft",
       "pick": "PIT",
-      "pick_prob": 0.671,
+      "pick_prob": 0.684,
       "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:46.175167+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822726,
@@ -60,12 +60,12 @@
       "away_pitcher": "bryce miller",
       "home_pitcher": "zack littell",
       "pick": "WSH",
-      "pick_prob": 0.588,
-      "expected_total": 4.5,
+      "pick_prob": 0.58,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:47.013855+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824826,
@@ -76,12 +76,12 @@
       "away_pitcher": "griffin canning",
       "home_pitcher": "shane baz",
       "pick": "BAL",
-      "pick_prob": 0.626,
-      "expected_total": 4.5,
+      "pick_prob": 0.658,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:47.860887+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824425,
@@ -92,12 +92,12 @@
       "away_pitcher": "jack flaherty",
       "home_pitcher": "tanner bibee",
       "pick": "DET",
-      "pick_prob": 0.637,
-      "expected_total": 3.7,
+      "pick_prob": 0.623,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:48.703529+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824752,
@@ -108,12 +108,12 @@
       "away_pitcher": "jack leiter",
       "home_pitcher": "sonny gray",
       "pick": "BOS",
-      "pick_prob": 0.643,
+      "pick_prob": 0.639,
       "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:49.545887+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824507,
@@ -123,13 +123,13 @@
       "game_date_kst": "2026-06-13",
       "away_pitcher": "eduardo rodríguez",
       "home_pitcher": "nick lodolo",
-      "pick": "CIN",
-      "pick_prob": 0.554,
+      "pick": "AZ",
+      "pick_prob": 0.533,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:50.372688+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823617,
@@ -140,12 +140,12 @@
       "away_pitcher": "spencer strider",
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
-      "pick_prob": 0.668,
-      "expected_total": 3.8,
+      "pick_prob": 0.704,
+      "expected_total": 3.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:51.237513+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824588,
@@ -156,12 +156,12 @@
       "away_pitcher": "roki sasaki",
       "home_pitcher": "anthony kay",
       "pick": "LAD",
-      "pick_prob": 0.755,
-      "expected_total": 5.7,
+      "pick_prob": 0.741,
+      "expected_total": 5.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:52.135988+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823778,
@@ -172,12 +172,12 @@
       "away_pitcher": "Andrew Painter",
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
-      "pick_prob": 0.639,
-      "expected_total": 4.0,
+      "pick_prob": 0.616,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:52.952390+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824102,
@@ -189,11 +189,11 @@
       "home_pitcher": "luinder avila",
       "pick": "KC",
       "pick_prob": 0.782,
-      "expected_total": 3.9,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:53.767284+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823695,
@@ -204,12 +204,12 @@
       "away_pitcher": "kyle leahy",
       "home_pitcher": "joe ryan",
       "pick": "MIN",
-      "pick_prob": 0.688,
-      "expected_total": 3.6,
+      "pick_prob": 0.724,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T21:12:54.605923+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824020,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-12T21:12:54.606538+00:00"
 }

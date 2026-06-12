@@ -2,8 +2,8 @@
   "game_id": 824102,
   "kst_date": "2026-06-13",
   "bulk_fetched_at": "2026-06-12T15:35:23.932239+00:00",
-  "last_refreshed_at": "2026-06-12T15:35:23.932239+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-12T21:12:53.767284+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 824102,
@@ -39,8 +39,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 19
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 80.0,
@@ -55,48 +55,52 @@
     "win_prob_home": 0.782,
     "pick": "KC",
     "pick_prob": 0.782,
-    "expected_total": 3.9,
+    "expected_total": 4.0,
     "away_team_total": {
-      "expected": 1.08,
+      "expected": 1.1,
       "line": 1.5,
       "pick": "UNDER",
-      "gap": 0.42
+      "gap": 0.4
     },
     "home_team_total": {
-      "expected": 2.82,
+      "expected": 2.9,
       "line": 2.5,
       "pick": "OVER",
-      "gap": 0.32
+      "gap": 0.4
     },
     "sweet_picks": [
       {
-        "lineup": "roster",
-        "n_batters": "19+18",
+        "lineup": "partial",
+        "n_batters": "9+18",
         "type": "TT",
         "pick": "HOU UNDER 1.5",
-        "conf": 0.71,
-        "detail": "Expected 1.08"
-      },
-      {
-        "lineup": "roster",
-        "n_batters": "19+18",
-        "type": "OU",
-        "pick": "F5 UNDER 4.5",
         "conf": 0.7,
-        "detail": "Expected 3.9 vs line 4.5"
+        "detail": "Expected 1.1"
       },
       {
-        "lineup": "roster",
-        "n_batters": "19+18",
+        "lineup": "partial",
+        "n_batters": "9+18",
         "type": "TT",
         "pick": "KC OVER 2.5",
-        "conf": 0.66,
-        "detail": "Expected 2.82"
+        "conf": 0.7,
+        "detail": "Expected 2.9"
+      },
+      {
+        "lineup": "partial",
+        "n_batters": "9+18",
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.667,
+        "detail": "Expected 4.0 vs line 4.5"
       }
     ],
     "grade": "overconf",
     "grade_label": "HIGH CONF",
-    "wind": null,
+    "wind": {
+      "speed_mph": 6.5,
+      "direction": "out",
+      "adj": 0.07
+    },
     "away_pitch_detail": [],
     "home_pitch_detail": [
       {
@@ -140,5 +144,6 @@
     }
   },
   "locked_away_pitcher_id": 837227,
-  "locked_home_pitcher_id": 679883
+  "locked_home_pitcher_id": 679883,
+  "pitcher_changed_at_refresh": false
 }
