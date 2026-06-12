@@ -55,7 +55,7 @@
       "home_pitcher": "shane baz",
       "pick": "BAL",
       "pick_prob": 0.658,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "v2_pick": "SD",
       "v2_conf": 0.541,
       "consensus": false,
@@ -63,7 +63,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:21.349765+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:28.959176+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -84,7 +84,7 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:33.952717+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:31.917608+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,7 +105,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:36.803025+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:34.733547+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -118,15 +118,15 @@
       "home_pitcher": "nick lodolo",
       "pick": "AZ",
       "pick_prob": 0.533,
-      "expected_total": 4.7,
+      "expected_total": 4.3,
       "v2_pick": "CIN",
       "v2_conf": 0.54,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:39.703242+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:47.458270+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -139,7 +139,7 @@
       "home_pitcher": "nolan mclean",
       "pick": "NYM",
       "pick_prob": 0.704,
-      "expected_total": 3.4,
+      "expected_total": 3.3,
       "v2_pick": "NYM",
       "v2_conf": 0.579,
       "consensus": true,
@@ -147,7 +147,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:42.494834+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:50.411593+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -160,7 +160,7 @@
       "home_pitcher": "anthony kay",
       "pick": "LAD",
       "pick_prob": 0.741,
-      "expected_total": 5.5,
+      "expected_total": 5.7,
       "v2_pick": "LAD",
       "v2_conf": 0.524,
       "consensus": true,
@@ -168,7 +168,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:19:55.105748+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:53.345081+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "jacob misiorowski",
       "pick": "MIL",
       "pick_prob": 0.592,
-      "expected_total": 3.7,
+      "expected_total": 4.0,
       "v2_pick": "MIL",
       "v2_conf": 0.524,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:20:08.139997+00:00",
+      "last_refreshed_at": "2026-06-12T22:52:56.491639+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,13 +204,13 @@
       "pick_prob": 0.782,
       "expected_total": 3.9,
       "v2_pick": "KC",
-      "v2_conf": 0.61,
+      "v2_conf": 0.616,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:20:20.598913+00:00",
+      "last_refreshed_at": "2026-06-12T22:53:09.038155+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -231,7 +231,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-12T21:20:23.369626+00:00",
+      "last_refreshed_at": "2026-06-12T22:53:11.848982+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -243,17 +243,17 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "sam aldegheri",
       "pick": "TB",
-      "pick_prob": 0.823,
-      "expected_total": 4.9,
+      "pick_prob": 0.866,
+      "expected_total": 5.0,
       "v2_pick": "TB",
-      "v2_conf": 0.641,
+      "v2_conf": 0.643,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-12T15:37:52.430169+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-12T22:53:14.756271+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823211,
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 OVER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 5.5 vs line 4.5",
+      "conf": 0.9,
+      "detail": "Expected 5.7 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -379,9 +379,9 @@
       "home_pitcher": "luinder avila",
       "tier": "consensus",
       "v2_pick": "KC",
-      "v2_conf": 0.61,
-      "lineup": "partial",
-      "n_batters": "9+18",
+      "v2_conf": 0.616,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.7,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-12T21:20:23.370269+00:00"
+  "last_modified_at": "2026-06-12T22:53:14.756690+00:00"
 }

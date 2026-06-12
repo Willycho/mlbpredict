@@ -2,7 +2,7 @@
   "game_id": 824507,
   "kst_date": "2026-06-13",
   "bulk_fetched_at": "2026-06-12T15:37:52.430169+00:00",
-  "last_refreshed_at": "2026-06-12T21:19:39.703242+00:00",
+  "last_refreshed_at": "2026-06-12T22:52:47.458270+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,27 +55,40 @@
     "win_prob_home": 0.467,
     "pick": "AZ",
     "pick_prob": 0.533,
-    "expected_total": 4.7,
+    "expected_total": 4.3,
     "away_team_total": {
-      "expected": 2.29,
+      "expected": 2.1,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.21
+      "gap": 0.4
     },
     "home_team_total": {
-      "expected": 2.41,
+      "expected": 2.2,
       "line": 2.5,
       "pick": "UNDER",
-      "gap": 0.09
+      "gap": 0.3
     },
-    "sweet_picks": [],
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "AZ UNDER 2.5",
+        "conf": 0.7,
+        "detail": "Expected 2.1"
+      },
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "TT",
+        "pick": "CIN UNDER 2.5",
+        "conf": 0.65,
+        "detail": "Expected 2.2"
+      }
+    ],
     "grade": "pass",
     "grade_label": "PASS",
-    "wind": {
-      "speed_mph": 8.9,
-      "direction": "out",
-      "adj": 0.27
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
@@ -180,7 +193,7 @@
     "v2_conf": 0.54,
     "consensus": false,
     "tier": "disagree",
-    "ou_consensus": true,
+    "ou_consensus": false,
     "v2_f5_total": 5.3
   },
   "locked_away_pitcher_id": 593958,
