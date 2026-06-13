@@ -173,10 +173,10 @@
       "home_pitcher": "noah cameron",
       "pick": "KC",
       "pick_prob": 0.543,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-13T20:47:56.127891+00:00",
+      "last_refreshed_at": "2026-06-13T22:01:43.930735+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -192,7 +192,7 @@
       "expected_total": 4.7,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-13T20:47:56.700824+00:00",
+      "last_refreshed_at": "2026-06-13T22:01:44.655149+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-13T20:47:56.701312+00:00"
+  "last_modified_at": "2026-06-13T22:01:44.655690+00:00"
 }
