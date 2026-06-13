@@ -200,18 +200,18 @@
       "game_date_kst": "2026-06-14",
       "away_pitcher": "mike burrows",
       "home_pitcher": "noah cameron",
-      "pick": "HOU",
-      "pick_prob": 0.512,
+      "pick": "KC",
+      "pick_prob": 0.543,
       "expected_total": 4.4,
       "v2_pick": "KC",
-      "v2_conf": 0.523,
-      "consensus": false,
+      "v2_conf": 0.524,
+      "consensus": true,
       "ou_consensus": true,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:24:03.262558+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T21:07:24.928594+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823776,
@@ -222,17 +222,17 @@
       "away_pitcher": "aaron nola",
       "home_pitcher": "Shane Drohan",
       "pick": "PHI",
-      "pick_prob": 0.511,
+      "pick_prob": 0.528,
       "expected_total": 4.7,
-      "v2_pick": "PHI",
-      "v2_conf": 0.504,
-      "consensus": true,
+      "v2_pick": "MIL",
+      "v2_conf": 0.5,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:24:03.262558+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T21:07:27.819895+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824995,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-13T19:52:00.182127+00:00"
+  "last_modified_at": "2026-06-13T21:07:27.820415+00:00"
 }
