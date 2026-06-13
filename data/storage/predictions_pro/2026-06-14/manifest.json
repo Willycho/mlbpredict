@@ -243,17 +243,17 @@
       "away_pitcher": "kyle freeland",
       "home_pitcher": "joey estes",
       "pick": "COL",
-      "pick_prob": 0.508,
+      "pick_prob": 0.539,
       "expected_total": 5.4,
       "v2_pick": "ATH",
-      "v2_conf": 0.521,
+      "v2_conf": 0.5,
       "consensus": false,
       "ou_consensus": true,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:24:03.262558+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T23:37:10.489993+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823213,
@@ -264,17 +264,17 @@
       "away_pitcher": "ben brown",
       "home_pitcher": "trevor mcdonald",
       "pick": "SF",
-      "pick_prob": 0.631,
-      "expected_total": 3.5,
+      "pick_prob": 0.658,
+      "expected_total": 4.3,
       "v2_pick": "SF",
-      "v2_conf": 0.58,
+      "v2_conf": 0.543,
       "consensus": true,
       "ou_consensus": true,
-      "tier": "good",
+      "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:24:03.262558+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T23:37:14.143580+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824019,
@@ -285,17 +285,17 @@
       "away_pitcher": "griffin jax",
       "home_pitcher": "josé soriano",
       "pick": "TB",
-      "pick_prob": 0.571,
+      "pick_prob": 0.538,
       "expected_total": 3.4,
       "v2_pick": "TB",
-      "v2_conf": 0.586,
+      "v2_conf": 0.592,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:24:03.262558+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T23:37:27.361893+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823616,
@@ -362,30 +362,13 @@
       "home_pitcher": "josé soriano",
       "tier": "consensus",
       "v2_pick": "TB",
-      "v2_conf": 0.586,
-      "lineup": "roster",
-      "n_batters": "18+21",
+      "v2_conf": 0.592,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.867,
       "detail": "Expected 3.4 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 823213,
-      "away_team": "CHC",
-      "home_team": "SF",
-      "away_pitcher": "ben brown",
-      "home_pitcher": "trevor mcdonald",
-      "tier": "good",
-      "v2_pick": "SF",
-      "v2_conf": 0.58,
-      "lineup": "roster",
-      "n_batters": "20+14",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -404,6 +387,23 @@
       "conf": 0.8,
       "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824995,
+      "away_team": "COL",
+      "home_team": "ATH",
+      "away_pitcher": "kyle freeland",
+      "home_pitcher": "joey estes",
+      "tier": "disagree",
+      "v2_pick": "ATH",
+      "v2_conf": 0.5,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 5.4 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-13T22:19:04.496257+00:00"
+  "last_modified_at": "2026-06-13T23:37:27.362465+00:00"
 }
