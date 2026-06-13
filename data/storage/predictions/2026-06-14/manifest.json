@@ -29,10 +29,10 @@
       "home_pitcher": "Connor Prielipp",
       "pick": "MIN",
       "pick_prob": 0.546,
-      "expected_total": 5.3,
+      "expected_total": 5.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-13T16:20:12.331429+00:00",
+      "last_refreshed_at": "2026-06-13T17:52:46.184973+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -48,7 +48,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-13T16:20:13.137799+00:00",
+      "last_refreshed_at": "2026-06-13T17:52:47.079798+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -60,12 +60,12 @@
       "away_pitcher": "randy vásquez",
       "home_pitcher": "Trey Gibson",
       "pick": "BAL",
-      "pick_prob": 0.64,
-      "expected_total": 5.1,
+      "pick_prob": 0.695,
+      "expected_total": 5.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:52:48.043536+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822725,
@@ -76,12 +76,12 @@
       "away_pitcher": "luis castillo",
       "home_pitcher": "cade cavalli",
       "pick": "WSH",
-      "pick_prob": 0.501,
-      "expected_total": 4.3,
+      "pick_prob": 0.532,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:52:49.047835+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823369,
@@ -92,12 +92,12 @@
       "away_pitcher": "lake bachar",
       "home_pitcher": "bubba chandler",
       "pick": "PIT",
-      "pick_prob": 0.684,
+      "pick_prob": 0.717,
       "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:52:49.991878+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824508,
@@ -108,12 +108,12 @@
       "away_pitcher": "michael soroka",
       "home_pitcher": "rhett lowder",
       "pick": "AZ",
-      "pick_prob": 0.676,
-      "expected_total": 4.8,
+      "pick_prob": 0.705,
+      "expected_total": 4.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:52:50.908365+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824426,
@@ -124,12 +124,12 @@
       "away_pitcher": "tarik skubal",
       "home_pitcher": "joey cantillo",
       "pick": "DET",
-      "pick_prob": 0.773,
+      "pick_prob": 0.761,
       "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:52:51.859758+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824749,
@@ -140,12 +140,12 @@
       "away_pitcher": "jacob degrom",
       "home_pitcher": "ranger suárez",
       "pick": "BOS",
-      "pick_prob": 0.555,
+      "pick_prob": 0.563,
       "expected_total": 3.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:53:02.405558+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824587,
@@ -156,12 +156,12 @@
       "away_pitcher": "yoshinobu yamamoto",
       "home_pitcher": "sean burke",
       "pick": "LAD",
-      "pick_prob": 0.863,
-      "expected_total": 4.1,
+      "pick_prob": 0.876,
+      "expected_total": 4.0,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-13T14:20:55.073465+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-13T17:53:12.966993+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824100,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-13T16:20:13.138425+00:00"
+  "last_modified_at": "2026-06-13T17:53:12.967784+00:00"
 }
