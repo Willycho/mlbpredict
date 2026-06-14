@@ -236,13 +236,13 @@
       "away_pitcher": "nathan eovaldi",
       "home_pitcher": "connelly early",
       "pick": "BOS",
-      "pick_prob": 0.592,
-      "expected_total": 3.1,
+      "pick_prob": 0.604,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-14T14:23:20.442414+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-14T20:46:53.047949+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-14T19:22:55.297348+00:00"
+  "last_modified_at": "2026-06-14T20:46:53.048490+00:00"
 }
