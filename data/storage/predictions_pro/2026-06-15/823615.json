@@ -2,7 +2,7 @@
   "game_id": 823615,
   "kst_date": "2026-06-15",
   "bulk_fetched_at": "2026-06-14T14:28:01.635767+00:00",
-  "last_refreshed_at": "2026-06-14T14:58:40.478232+00:00",
+  "last_refreshed_at": "2026-06-14T16:46:12.188066+00:00",
   "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
@@ -55,18 +55,18 @@
     "win_prob_home": 0.739,
     "pick": "NYM",
     "pick_prob": 0.739,
-    "expected_total": 4.6,
+    "expected_total": 3.8,
     "away_team_total": {
-      "expected": 1.63,
+      "expected": 1.35,
       "line": 1.5,
-      "pick": "OVER",
-      "gap": 0.13
+      "pick": "UNDER",
+      "gap": 0.15
     },
     "home_team_total": {
-      "expected": 2.97,
+      "expected": 2.45,
       "line": 2.5,
-      "pick": "OVER",
-      "gap": 0.47
+      "pick": "UNDER",
+      "gap": 0.05
     },
     "sweet_picks": [
       {
@@ -80,19 +80,15 @@
       {
         "lineup": "confirmed",
         "n_batters": "9+9",
-        "type": "TT",
-        "pick": "NYM OVER 2.5",
-        "conf": 0.735,
-        "detail": "Expected 2.97"
+        "type": "OU",
+        "pick": "F5 UNDER 4.5",
+        "conf": 0.733,
+        "detail": "Expected 3.8 vs line 4.5"
       }
     ],
     "grade": "sweet_spot",
     "grade_label": "SWEET SPOT",
-    "wind": {
-      "speed_mph": 18.1,
-      "direction": "out",
-      "adj": 0.51
-    },
+    "wind": null,
     "away_pitch_detail": [
       {
         "pitch_type": "SI",
@@ -181,7 +177,7 @@
     "v2_conf": 0.554,
     "consensus": true,
     "tier": "sweet_spot",
-    "ou_consensus": true,
+    "ou_consensus": false,
     "v2_f5_total": 4.6
   },
   "locked_away_pitcher_id": 693821,
