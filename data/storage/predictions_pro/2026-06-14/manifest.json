@@ -286,7 +286,7 @@
       "home_pitcher": "josé soriano",
       "pick": "TB",
       "pick_prob": 0.538,
-      "expected_total": 3.4,
+      "expected_total": 3.6,
       "v2_pick": "TB",
       "v2_conf": 0.592,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-13T23:37:27.361893+00:00",
+      "last_refreshed_at": "2026-06-14T02:00:40.273600+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -355,23 +355,6 @@
       "ou_consensus": true
     },
     {
-      "game_id": 824019,
-      "away_team": "TB",
-      "home_team": "LAA",
-      "away_pitcher": "griffin jax",
-      "home_pitcher": "josé soriano",
-      "tier": "consensus",
-      "v2_pick": "TB",
-      "v2_conf": 0.592,
-      "lineup": "confirmed",
-      "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 3.4 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
       "game_id": 824749,
       "away_team": "TEX",
       "home_team": "BOS",
@@ -404,6 +387,23 @@
       "conf": 0.8,
       "detail": "Expected 5.4 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 824019,
+      "away_team": "TB",
+      "home_team": "LAA",
+      "away_pitcher": "griffin jax",
+      "home_pitcher": "josé soriano",
+      "tier": "consensus",
+      "v2_pick": "TB",
+      "v2_conf": 0.592,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 1,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-13T23:37:27.362465+00:00"
+  "last_modified_at": "2026-06-14T02:00:40.274210+00:00"
 }
