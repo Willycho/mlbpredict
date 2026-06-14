@@ -244,7 +244,7 @@
       "home_pitcher": "jeffrey springs",
       "pick": "ATH",
       "pick_prob": 0.736,
-      "expected_total": 4.6,
+      "expected_total": 5.1,
       "v2_pick": "ATH",
       "v2_conf": 0.527,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-14T16:46:42.828957+00:00",
+      "last_refreshed_at": "2026-06-14T18:05:19.984989+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -264,16 +264,16 @@
       "away_pitcher": "ryan rolison",
       "home_pitcher": "logan webb",
       "pick": "SF",
-      "pick_prob": 0.785,
+      "pick_prob": 0.794,
       "expected_total": 5.1,
       "v2_pick": "SF",
-      "v2_conf": 0.563,
+      "v2_conf": 0.576,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-14T16:46:44.936869+00:00",
+      "last_refreshed_at": "2026-06-14T18:05:22.562856+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -285,17 +285,17 @@
       "away_pitcher": "casey legumina",
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
-      "pick_prob": 0.586,
-      "expected_total": 3.9,
-      "v2_pick": "TB",
-      "v2_conf": 0.503,
-      "consensus": false,
+      "pick_prob": 0.574,
+      "expected_total": 4.0,
+      "v2_pick": "LAA",
+      "v2_conf": 0.506,
+      "consensus": true,
       "ou_consensus": false,
-      "tier": "disagree",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-14T14:28:01.635767+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-14T18:05:24.866243+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824751,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-14T16:46:44.937512+00:00"
+  "last_modified_at": "2026-06-14T18:05:24.866787+00:00"
 }
