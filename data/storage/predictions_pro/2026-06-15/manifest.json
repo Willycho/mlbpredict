@@ -286,7 +286,7 @@
       "home_pitcher": "grayson rodriguez",
       "pick": "LAA",
       "pick_prob": 0.574,
-      "expected_total": 4.0,
+      "expected_total": 4.1,
       "v2_pick": "LAA",
       "v2_conf": 0.506,
       "consensus": true,
@@ -294,7 +294,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-14T18:05:24.866243+00:00",
+      "last_refreshed_at": "2026-06-14T19:56:11.625685+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-14T18:05:24.866787+00:00"
+  "last_modified_at": "2026-06-14T19:56:11.626300+00:00"
 }
