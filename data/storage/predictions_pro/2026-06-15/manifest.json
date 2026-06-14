@@ -307,7 +307,7 @@
       "home_pitcher": "connelly early",
       "pick": "BOS",
       "pick_prob": 0.604,
-      "expected_total": 3.5,
+      "expected_total": 3.6,
       "v2_pick": "TEX",
       "v2_conf": 0.521,
       "consensus": false,
@@ -315,7 +315,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-14T21:36:22.219650+00:00",
+      "last_refreshed_at": "2026-06-14T22:50:37.119008+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -333,8 +333,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 3.5 vs line 4.5",
+      "conf": 0.8,
+      "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 6,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-14T21:36:22.220308+00:00"
+  "last_modified_at": "2026-06-14T22:50:37.119601+00:00"
 }
