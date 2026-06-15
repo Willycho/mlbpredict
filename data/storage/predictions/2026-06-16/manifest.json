@@ -93,10 +93,10 @@
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
       "pick_prob": 0.701,
-      "expected_total": 4.7,
+      "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-15T21:29:58.810678+00:00",
+      "last_refreshed_at": "2026-06-15T23:20:07.889591+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -105,14 +105,14 @@
       "home_team": "HOU",
       "game_time_kst": "09:10",
       "game_date_kst": "2026-06-16",
-      "away_pitcher": "troy melton",
+      "away_pitcher": "Drew Anderson",
       "home_pitcher": "kai-wei teng",
       "pick": "DET",
-      "pick_prob": 0.651,
-      "expected_total": 4.3,
+      "pick_prob": 0.549,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-15T21:29:59.445258+00:00",
+      "last_refreshed_at": "2026-06-15T23:20:09.360969+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -124,12 +124,12 @@
       "away_pitcher": "Walbert Ureña",
       "home_pitcher": "ryne nelson",
       "pick": "AZ",
-      "pick_prob": 0.56,
-      "expected_total": 4.5,
+      "pick_prob": 0.541,
+      "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T23:20:10.016765+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824993,
@@ -140,12 +140,12 @@
       "away_pitcher": "jared jones",
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
-      "pick_prob": 0.635,
+      "pick_prob": 0.627,
       "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T23:20:10.653523+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823938,
@@ -156,13 +156,13 @@
       "away_pitcher": "nick martínez",
       "home_pitcher": "eric lauer",
       "pick": "LAD",
-      "pick_prob": 0.601,
+      "pick_prob": 0.635,
       "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T23:20:11.320489+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-15T21:29:59.445878+00:00"
+  "last_modified_at": "2026-06-15T23:20:11.321024+00:00"
 }
