@@ -13,7 +13,7 @@
       "home_pitcher": "zack wheeler",
       "pick": "PHI",
       "pick_prob": 0.819,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "v2_pick": "PHI",
       "v2_conf": 0.585,
       "consensus": true,
@@ -21,7 +21,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-15T20:06:03.208238+00:00",
+      "last_refreshed_at": "2026-06-15T22:28:35.215851+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -42,7 +42,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-15T20:06:05.907583+00:00",
+      "last_refreshed_at": "2026-06-15T22:28:39.338970+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -54,17 +54,17 @@
       "away_pitcher": "tobias myers",
       "home_pitcher": "chase burns",
       "pick": "CIN",
-      "pick_prob": 0.567,
-      "expected_total": 4.3,
+      "pick_prob": 0.566,
+      "expected_total": 4.2,
       "v2_pick": "CIN",
-      "v2_conf": 0.53,
+      "v2_conf": 0.527,
       "consensus": true,
       "ou_consensus": false,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:27:06.018594+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T22:28:43.402134+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824666,
@@ -75,17 +75,17 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
-      "pick_prob": 0.729,
-      "expected_total": 4.7,
+      "pick_prob": 0.701,
+      "expected_total": 4.4,
       "v2_pick": "CHC",
-      "v2_conf": 0.573,
+      "v2_conf": 0.574,
       "consensus": true,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:27:06.018594+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T22:28:57.206765+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824181,
@@ -93,20 +93,20 @@
       "home_team": "HOU",
       "game_time_kst": "09:10",
       "game_date_kst": "2026-06-16",
-      "away_pitcher": "troy melton",
+      "away_pitcher": "Drew Anderson",
       "home_pitcher": "kai-wei teng",
       "pick": "DET",
-      "pick_prob": 0.613,
+      "pick_prob": 0.549,
       "expected_total": 4.4,
       "v2_pick": "DET",
-      "v2_conf": 0.56,
+      "v2_conf": 0.53,
       "consensus": true,
       "ou_consensus": false,
-      "tier": "good",
+      "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:27:06.018594+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T22:29:12.809677+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825071,
@@ -223,12 +223,12 @@
       "home_pitcher": "shota imanaga",
       "tier": "sweet_spot",
       "v2_pick": "CHC",
-      "v2_conf": 0.573,
-      "lineup": "roster",
-      "n_batters": "14+22",
+      "v2_conf": 0.574,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "ML",
       "pick": "F5 CHC",
-      "conf": 0.729,
+      "conf": 0.701,
       "detail": "F5 CHC ML",
       "ml_consensus": true
     }
@@ -239,5 +239,5 @@
     "sweet_spot_count": 1,
     "total_games": 10
   },
-  "last_modified_at": "2026-06-15T20:06:05.908107+00:00"
+  "last_modified_at": "2026-06-15T22:29:12.810137+00:00"
 }
