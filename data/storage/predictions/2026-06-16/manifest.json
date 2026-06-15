@@ -44,12 +44,12 @@
       "away_pitcher": "ryan gusto",
       "home_pitcher": "zack wheeler",
       "pick": "PHI",
-      "pick_prob": 0.829,
-      "expected_total": 3.8,
+      "pick_prob": 0.819,
+      "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T21:29:56.872980+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822724,
@@ -60,12 +60,12 @@
       "away_pitcher": "mitch spence",
       "home_pitcher": "andrew alvarez",
       "pick": "WSH",
-      "pick_prob": 0.781,
-      "expected_total": 4.4,
+      "pick_prob": 0.764,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T21:29:57.525289+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824505,
@@ -76,12 +76,12 @@
       "away_pitcher": "tobias myers",
       "home_pitcher": "chase burns",
       "pick": "CIN",
-      "pick_prob": 0.567,
-      "expected_total": 4.3,
+      "pick_prob": 0.566,
+      "expected_total": 4.2,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T21:29:58.175975+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824666,
@@ -92,12 +92,12 @@
       "away_pitcher": "michael lorenzen",
       "home_pitcher": "shota imanaga",
       "pick": "CHC",
-      "pick_prob": 0.729,
+      "pick_prob": 0.701,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T21:29:58.810678+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824181,
@@ -108,12 +108,12 @@
       "away_pitcher": "troy melton",
       "home_pitcher": "kai-wei teng",
       "pick": "DET",
-      "pick_prob": 0.613,
-      "expected_total": 4.4,
+      "pick_prob": 0.651,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-15T21:29:59.445258+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825071,
@@ -163,5 +163,6 @@
       "last_refreshed_at": "2026-06-15T17:26:05.562167+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-15T21:29:59.445878+00:00"
 }
