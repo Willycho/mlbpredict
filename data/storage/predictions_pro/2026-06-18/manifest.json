@@ -177,20 +177,20 @@
       "home_team": "BOS",
       "game_time_kst": "07:45",
       "game_date_kst": "2026-06-18",
-      "away_pitcher": "max scherzer",
+      "away_pitcher": "braydon fisher",
       "home_pitcher": "Jake Bennett",
-      "pick": "BOS",
-      "pick_prob": 0.535,
-      "expected_total": 4.6,
-      "v2_pick": "BOS",
-      "v2_conf": 0.567,
+      "pick": "TOR",
+      "pick_prob": 0.627,
+      "expected_total": 4.3,
+      "v2_pick": "TOR",
+      "v2_conf": 0.551,
       "consensus": true,
-      "ou_consensus": false,
-      "tier": "consensus",
+      "ou_consensus": true,
+      "tier": "good",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T16:02:50.826489+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T20:37:24.654848+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823536,
@@ -201,17 +201,17 @@
       "away_pitcher": "anthony kay",
       "home_pitcher": "carlos rodón",
       "pick": "NYY",
-      "pick_prob": 0.902,
-      "expected_total": 4.8,
+      "pick_prob": 0.886,
+      "expected_total": 4.7,
       "v2_pick": "NYY",
-      "v2_conf": 0.62,
+      "v2_conf": 0.589,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T16:02:50.826489+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T20:37:27.763727+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823774,
@@ -412,5 +412,5 @@
     "sweet_spot_count": 3,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-17T18:30:50.779122+00:00"
+  "last_modified_at": "2026-06-17T20:37:27.764337+00:00"
 }
