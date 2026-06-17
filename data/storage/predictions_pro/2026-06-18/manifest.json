@@ -138,17 +138,17 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.804,
+      "pick_prob": 0.756,
       "expected_total": 3.4,
-      "v2_pick": "LAD",
-      "v2_conf": 0.551,
-      "consensus": true,
+      "v2_pick": "TB",
+      "v2_conf": 0.506,
+      "consensus": false,
       "ou_consensus": true,
-      "tier": "consensus",
+      "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T16:02:50.826489+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T18:30:46.827053+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825072,
@@ -159,17 +159,17 @@
       "away_pitcher": "sam aldegheri",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.772,
-      "expected_total": 5.5,
+      "pick_prob": 0.797,
+      "expected_total": 5.1,
       "v2_pick": "AZ",
-      "v2_conf": 0.601,
+      "v2_conf": 0.563,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T16:02:50.826489+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T18:30:50.778507+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824746,
@@ -360,32 +360,15 @@
       "home_team": "LAD",
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "shohei ohtani",
-      "tier": "consensus",
-      "v2_pick": "LAD",
-      "v2_conf": 0.551,
-      "lineup": "roster",
-      "n_batters": "14+21",
+      "tier": "disagree",
+      "v2_pick": "TB",
+      "v2_conf": 0.506,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
       "conf": 0.867,
       "detail": "Expected 3.4 vs line 4.5",
-      "ou_consensus": true
-    },
-    {
-      "game_id": 825072,
-      "away_team": "LAA",
-      "home_team": "AZ",
-      "away_pitcher": "sam aldegheri",
-      "home_pitcher": "eduardo rodríguez",
-      "tier": "consensus",
-      "v2_pick": "AZ",
-      "v2_conf": 0.601,
-      "lineup": "roster",
-      "n_batters": "21+18",
-      "type": "OU",
-      "pick": "F5 OVER 4.5",
-      "conf": 0.833,
-      "detail": "Expected 5.5 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -404,6 +387,23 @@
       "conf": 0.8,
       "detail": "Expected 3.6 vs line 4.5",
       "ou_consensus": true
+    },
+    {
+      "game_id": 823450,
+      "away_team": "MIA",
+      "home_team": "PHI",
+      "away_pitcher": "sandy alcántara",
+      "home_pitcher": "Andrew Painter",
+      "tier": "disagree",
+      "v2_pick": "MIA",
+      "v2_conf": 0.512,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 OVER 4.5",
+      "conf": 0.733,
+      "detail": "Expected 5.2 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -411,5 +411,6 @@
     "ou_consensus_count": 10,
     "sweet_spot_count": 3,
     "total_games": 15
-  }
+  },
+  "last_modified_at": "2026-06-17T18:30:50.779122+00:00"
 }
