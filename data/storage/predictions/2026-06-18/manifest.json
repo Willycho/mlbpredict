@@ -80,8 +80,8 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-17T17:23:05.459471+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824178,
@@ -93,11 +93,11 @@
       "home_pitcher": "peter lambert",
       "pick": "DET",
       "pick_prob": 0.7,
-      "expected_total": 4.7,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-17T17:23:06.113606+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823044,
@@ -109,11 +109,11 @@
       "home_pitcher": "kyle leahy",
       "pick": "SD",
       "pick_prob": 0.814,
-      "expected_total": 4.9,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-17T17:23:06.842148+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823940,
@@ -124,12 +124,12 @@
       "away_pitcher": "shane mcclanahan",
       "home_pitcher": "shohei ohtani",
       "pick": "LAD",
-      "pick_prob": 0.804,
+      "pick_prob": 0.756,
       "expected_total": 3.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T17:23:07.574590+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825072,
@@ -140,12 +140,12 @@
       "away_pitcher": "sam aldegheri",
       "home_pitcher": "eduardo rodríguez",
       "pick": "AZ",
-      "pick_prob": 0.772,
-      "expected_total": 5.5,
+      "pick_prob": 0.789,
+      "expected_total": 5.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T17:23:08.246310+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824746,
@@ -243,5 +243,6 @@
       "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-17T17:23:08.246965+00:00"
 }
