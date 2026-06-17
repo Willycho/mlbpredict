@@ -189,10 +189,10 @@
       "home_pitcher": "merrill kelly",
       "pick": "AZ",
       "pick_prob": 0.513,
-      "expected_total": 3.9,
+      "expected_total": 3.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-16T22:52:08.543009+00:00",
+      "last_refreshed_at": "2026-06-17T00:13:59.406543+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -204,11 +204,11 @@
       "away_pitcher": "mitch keller",
       "home_pitcher": "jack perkins",
       "pick": "ATH",
-      "pick_prob": 0.769,
-      "expected_total": 3.8,
+      "pick_prob": 0.729,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-16T22:52:18.940449+00:00",
+      "last_refreshed_at": "2026-06-17T00:14:00.099957+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,11 +220,11 @@
       "away_pitcher": "brandon young",
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
-      "pick_prob": 0.748,
-      "expected_total": 3.8,
+      "pick_prob": 0.732,
+      "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-16T22:52:29.387634+00:00",
+      "last_refreshed_at": "2026-06-17T00:14:00.797140+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -236,13 +236,13 @@
       "away_pitcher": "drew rasmussen",
       "home_pitcher": "justin wrobleski",
       "pick": "LAD",
-      "pick_prob": 0.561,
-      "expected_total": 3.6,
+      "pick_prob": 0.564,
+      "expected_total": 3.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-16T17:17:33.400899+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T00:14:01.489724+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-16T22:52:29.388355+00:00"
+  "last_modified_at": "2026-06-17T00:14:01.490496+00:00"
 }
