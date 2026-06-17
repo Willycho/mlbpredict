@@ -189,10 +189,10 @@
       "home_pitcher": "brandon sproat",
       "pick": "MIL",
       "pick_prob": 0.55,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-17T21:34:46.845084+00:00",
+      "last_refreshed_at": "2026-06-17T23:07:58.161896+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -205,10 +205,10 @@
       "home_pitcher": "javier assad",
       "pick": "COL",
       "pick_prob": 0.557,
-      "expected_total": 5.2,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-17T21:34:47.777925+00:00",
+      "last_refreshed_at": "2026-06-17T23:07:58.744875+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -220,12 +220,12 @@
       "away_pitcher": "braxton ashcraft",
       "home_pitcher": "aaron civale",
       "pick": "PIT",
-      "pick_prob": 0.557,
-      "expected_total": 3.6,
+      "pick_prob": 0.601,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T23:07:59.528247+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823127,
@@ -236,13 +236,13 @@
       "away_pitcher": "kyle bradish",
       "home_pitcher": "george kirby",
       "pick": "BAL",
-      "pick_prob": 0.663,
-      "expected_total": 2.9,
+      "pick_prob": 0.652,
+      "expected_total": 2.8,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-17T15:57:50.428357+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-17T23:08:00.208369+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-17T21:34:47.778518+00:00"
+  "last_modified_at": "2026-06-17T23:08:00.208988+00:00"
 }
