@@ -29,11 +29,11 @@
       "home_pitcher": "sonny gray",
       "pick": "TOR",
       "pick_prob": 0.569,
-      "expected_total": 3.8,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-18T17:29:03.363583+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823772,
@@ -48,8 +48,8 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-18T17:29:04.189612+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822889,
@@ -60,12 +60,12 @@
       "away_pitcher": "joe ryan",
       "home_pitcher": "jack leiter",
       "pick": "MIN",
-      "pick_prob": 0.734,
+      "pick_prob": 0.72,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-18T17:29:05.006468+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823125,
@@ -80,8 +80,8 @@
       "expected_total": 3.3,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-18T17:29:05.829835+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823448,
@@ -147,5 +147,6 @@
       "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-18T17:29:05.830437+00:00"
 }
