@@ -76,11 +76,11 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "bryan woo",
       "pick": "SEA",
-      "pick_prob": 0.718,
+      "pick_prob": 0.702,
       "expected_total": 3.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T17:29:05.829835+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-18T19:40:22.654171+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,12 +92,12 @@
       "away_pitcher": "sean manaea",
       "home_pitcher": "aaron nola",
       "pick": "NYM",
-      "pick_prob": 0.573,
-      "expected_total": 4.4,
+      "pick_prob": 0.553,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T15:48:34.283345+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-18T19:40:23.315136+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823533,
@@ -148,5 +148,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-18T17:29:05.830437+00:00"
+  "last_modified_at": "2026-06-18T19:40:23.315694+00:00"
 }
