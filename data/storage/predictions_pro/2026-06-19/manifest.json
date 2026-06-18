@@ -75,17 +75,17 @@
       "away_pitcher": "shane baz",
       "home_pitcher": "bryan woo",
       "pick": "SEA",
-      "pick_prob": 0.718,
+      "pick_prob": 0.702,
       "expected_total": 3.3,
       "v2_pick": "SEA",
-      "v2_conf": 0.596,
+      "v2_conf": 0.615,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T15:51:33.188876+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-18T18:39:43.051107+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823448,
@@ -195,6 +195,23 @@
   ],
   "top_picks": [
     {
+      "game_id": 823125,
+      "away_team": "BAL",
+      "home_team": "SEA",
+      "away_pitcher": "shane baz",
+      "home_pitcher": "bryan woo",
+      "tier": "sweet_spot",
+      "v2_pick": "SEA",
+      "v2_conf": 0.615,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.9,
+      "detail": "Expected 3.3 vs line 4.5",
+      "ou_consensus": true
+    },
+    {
       "game_id": 824748,
       "away_team": "TOR",
       "home_team": "BOS",
@@ -253,31 +270,14 @@
       "home_pitcher": "bryan woo",
       "tier": "sweet_spot",
       "v2_pick": "SEA",
-      "v2_conf": 0.596,
-      "lineup": "roster",
-      "n_batters": "17+22",
-      "type": "ML",
-      "pick": "F5 SEA",
-      "conf": 0.718,
-      "detail": "F5 SEA ML",
-      "ml_consensus": true
-    },
-    {
-      "game_id": 822889,
-      "away_team": "MIN",
-      "home_team": "TEX",
-      "away_pitcher": "joe ryan",
-      "home_pitcher": "jack leiter",
-      "tier": "sweet_spot",
-      "v2_pick": "MIN",
-      "v2_conf": 0.522,
+      "v2_conf": 0.615,
       "lineup": "confirmed",
       "n_batters": "9+9",
-      "type": "OU",
-      "pick": "F5 UNDER 4.5",
-      "conf": 0.633,
-      "detail": "Expected 4.1 vs line 4.5",
-      "ou_consensus": true
+      "type": "ML",
+      "pick": "F5 SEA",
+      "conf": 0.702,
+      "detail": "F5 SEA ML",
+      "ml_consensus": true
     }
   ],
   "stats": {
@@ -286,5 +286,5 @@
     "sweet_spot_count": 2,
     "total_games": 9
   },
-  "last_modified_at": "2026-06-18T16:20:41.801308+00:00"
+  "last_modified_at": "2026-06-18T18:39:43.051648+00:00"
 }
