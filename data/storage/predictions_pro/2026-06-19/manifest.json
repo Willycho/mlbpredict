@@ -21,8 +21,8 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-18T15:51:33.188876+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-18T16:20:25.117933+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823772,
@@ -42,8 +42,8 @@
       "tier": "good",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-18T15:51:33.188876+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-18T16:20:28.514419+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822889,
@@ -54,17 +54,17 @@
       "away_pitcher": "joe ryan",
       "home_pitcher": "jack leiter",
       "pick": "MIN",
-      "pick_prob": 0.734,
+      "pick_prob": 0.72,
       "expected_total": 4.1,
       "v2_pick": "MIN",
-      "v2_conf": 0.502,
+      "v2_conf": 0.522,
       "consensus": true,
-      "ou_consensus": false,
+      "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-18T15:51:33.188876+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-18T16:20:41.800743+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823125,
@@ -195,23 +195,6 @@
   ],
   "top_picks": [
     {
-      "game_id": 822889,
-      "away_team": "MIN",
-      "home_team": "TEX",
-      "away_pitcher": "joe ryan",
-      "home_pitcher": "jack leiter",
-      "tier": "sweet_spot",
-      "v2_pick": "MIN",
-      "v2_conf": 0.502,
-      "lineup": "partial",
-      "n_batters": "16+9",
-      "type": "ML",
-      "pick": "F5 MIN",
-      "conf": 0.734,
-      "detail": "F5 MIN ML",
-      "ml_consensus": true
-    },
-    {
       "game_id": 824748,
       "away_team": "TOR",
       "home_team": "BOS",
@@ -246,6 +229,23 @@
       "ou_consensus": true
     },
     {
+      "game_id": 822889,
+      "away_team": "MIN",
+      "home_team": "TEX",
+      "away_pitcher": "joe ryan",
+      "home_pitcher": "jack leiter",
+      "tier": "sweet_spot",
+      "v2_pick": "MIN",
+      "v2_conf": 0.522,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "ML",
+      "pick": "F5 MIN",
+      "conf": 0.72,
+      "detail": "F5 MIN ML",
+      "ml_consensus": true
+    },
+    {
       "game_id": 823125,
       "away_team": "BAL",
       "home_team": "SEA",
@@ -261,6 +261,23 @@
       "conf": 0.718,
       "detail": "F5 SEA ML",
       "ml_consensus": true
+    },
+    {
+      "game_id": 822889,
+      "away_team": "MIN",
+      "home_team": "TEX",
+      "away_pitcher": "joe ryan",
+      "home_pitcher": "jack leiter",
+      "tier": "sweet_spot",
+      "v2_pick": "MIN",
+      "v2_conf": 0.522,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
+      "type": "OU",
+      "pick": "F5 UNDER 4.5",
+      "conf": 0.633,
+      "detail": "Expected 4.1 vs line 4.5",
+      "ou_consensus": true
     }
   ],
   "stats": {
@@ -268,5 +285,6 @@
     "ou_consensus_count": 3,
     "sweet_spot_count": 2,
     "total_games": 9
-  }
+  },
+  "last_modified_at": "2026-06-18T16:20:41.801308+00:00"
 }
