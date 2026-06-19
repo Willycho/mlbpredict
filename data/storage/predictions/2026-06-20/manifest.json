@@ -109,10 +109,10 @@
       "home_pitcher": "jacob degrom",
       "pick": "TEX",
       "pick_prob": 0.704,
-      "expected_total": 4.2,
+      "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T22:13:39.034637+00:00",
+      "last_refreshed_at": "2026-06-19T23:16:10.594998+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T22:13:39.647202+00:00",
+      "last_refreshed_at": "2026-06-19T23:16:11.663353+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -144,7 +144,7 @@
       "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T22:13:40.301596+00:00",
+      "last_refreshed_at": "2026-06-19T23:16:12.566140+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -157,10 +157,10 @@
       "home_pitcher": "kyle freeland",
       "pick": "PIT",
       "pick_prob": 0.806,
-      "expected_total": 4.4,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T22:13:40.957350+00:00",
+      "last_refreshed_at": "2026-06-19T23:16:13.486745+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "josé soriano",
       "home_pitcher": "jeffrey springs",
       "pick": "LAA",
-      "pick_prob": 0.587,
-      "expected_total": 4.1,
+      "pick_prob": 0.542,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-19T23:16:14.395498+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825069,
@@ -188,12 +188,12 @@
       "away_pitcher": "Connor Prielipp",
       "home_pitcher": "michael soroka",
       "pick": "AZ",
-      "pick_prob": 0.654,
-      "expected_total": 4.3,
+      "pick_prob": 0.655,
+      "expected_total": 4.5,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-19T23:16:15.285736+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823936,
@@ -204,12 +204,12 @@
       "away_pitcher": "Trey Gibson",
       "home_pitcher": "roki sasaki",
       "pick": "BAL",
-      "pick_prob": 0.667,
-      "expected_total": 4.9,
+      "pick_prob": 0.674,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-19T23:16:16.201516+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823124,
@@ -220,13 +220,13 @@
       "away_pitcher": "ranger suárez",
       "home_pitcher": "bryce miller",
       "pick": "BOS",
-      "pick_prob": 0.727,
+      "pick_prob": 0.687,
       "expected_total": 3.9,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-19T23:16:26.744799+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-19T22:13:40.957874+00:00"
+  "last_modified_at": "2026-06-19T23:16:26.745568+00:00"
 }
