@@ -25,15 +25,15 @@
       "home_team": "DET",
       "game_time_kst": "07:40",
       "game_date_kst": "2026-06-20",
-      "away_pitcher": "erick fedde",
+      "away_pitcher": "brandon eisert",
       "home_pitcher": "tarik skubal",
       "pick": "DET",
-      "pick_prob": 0.902,
-      "expected_total": 4.2,
+      "pick_prob": 0.88,
+      "expected_total": 3.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-19T19:46:26.999360+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823534,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-19T17:54:02.707583+00:00"
+  "last_modified_at": "2026-06-19T19:46:26.999948+00:00"
 }
