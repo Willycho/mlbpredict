@@ -12,12 +12,12 @@
       "away_pitcher": "kevin gausman",
       "home_pitcher": "ben brown",
       "pick": "TOR",
-      "pick_prob": 0.518,
-      "expected_total": 3.8,
+      "pick_prob": 0.591,
+      "expected_total": 3.9,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-19T15:50:59.621887+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824264,
@@ -227,5 +227,6 @@
       "last_refreshed_at": "2026-06-19T15:38:25.175094+00:00",
       "refresh_type": "bulk_initial"
     }
-  ]
+  ],
+  "last_modified_at": "2026-06-19T15:50:59.622442+00:00"
 }
