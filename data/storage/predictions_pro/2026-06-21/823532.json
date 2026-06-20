@@ -2,8 +2,8 @@
   "game_id": 823532,
   "kst_date": "2026-06-21",
   "bulk_fetched_at": "2026-06-20T14:29:34.359818+00:00",
-  "last_refreshed_at": "2026-06-20T14:29:34.359818+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-20T15:19:34.300125+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 823532,
@@ -36,11 +36,11 @@
       "no_data": false
     },
     "away_matchup": {
-      "matchup_score": 47.3,
-      "arsenal_matchup": 48.7,
-      "h2h_bonus": -3.8,
-      "lineup_source": "roster",
-      "n_batters": 15
+      "matchup_score": 53.1,
+      "arsenal_matchup": 56.3,
+      "h2h_bonus": -1.4,
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "home_matchup": {
       "matchup_score": 52.2,
@@ -49,73 +49,82 @@
       "lineup_source": "lineup",
       "n_batters": 9
     },
-    "effective_away": 54.4,
+    "effective_away": 58.4,
     "effective_home": 61.9,
-    "win_prob_away": 0.414,
-    "win_prob_home": 0.586,
+    "win_prob_away": 0.46,
+    "win_prob_home": 0.54,
     "pick": "NYY",
-    "pick_prob": 0.586,
-    "expected_total": 4.8,
+    "pick_prob": 0.54,
+    "expected_total": 4.9,
     "away_team_total": {
+      "expected": 2.52,
+      "line": 2.5,
+      "pick": "OVER",
+      "gap": 0.02
+    },
+    "home_team_total": {
       "expected": 2.38,
       "line": 2.5,
       "pick": "UNDER",
       "gap": 0.12
     },
-    "home_team_total": {
-      "expected": 2.42,
-      "line": 2.5,
-      "pick": "UNDER",
-      "gap": 0.08
-    },
-    "sweet_picks": [],
-    "grade": "lean",
-    "grade_label": "LEAN",
+    "sweet_picks": [
+      {
+        "lineup": "confirmed",
+        "n_batters": "9+9",
+        "type": "OU",
+        "pick": "F5 OVER 4.5",
+        "conf": 0.633,
+        "detail": "Expected 4.9 vs line 4.5"
+      }
+    ],
+    "grade": "pass",
+    "grade_label": "PASS",
     "wind": {
-      "speed_mph": 12.6,
+      "speed_mph": 13.9,
       "direction": "out",
-      "adj": 0.34
+      "adj": 0.39
     },
     "away_pitch_detail": [
       {
         "pitch_type": "FF",
         "usage": 0.472,
         "pitcher_xwoba": 0.302,
-        "team_xwoba": 0.373,
+        "team_xwoba": 0.346,
         "league_xwoba": 0.345,
-        "advantage": 0.0073
+        "advantage": 0.0209
       },
       {
         "pitch_type": "CH",
         "usage": 0.196,
         "pitcher_xwoba": 0.307,
-        "team_xwoba": 0.288,
+        "team_xwoba": 0.287,
         "league_xwoba": 0.29,
-        "advantage": -0.0076
+        "advantage": -0.0072
       },
       {
         "pitch_type": "CU",
         "usage": 0.151,
         "pitcher_xwoba": 0.232,
-        "team_xwoba": 0.307,
+        "team_xwoba": 0.303,
         "league_xwoba": 0.283,
-        "advantage": 0.0136
+        "advantage": 0.0155
       },
       {
         "pitch_type": "ST",
         "usage": 0.138,
         "pitcher_xwoba": 0.279,
-        "team_xwoba": 0.297,
+        "team_xwoba": 0.293,
         "league_xwoba": 0.267,
-        "advantage": -0.0211
+        "advantage": -0.019
       },
       {
         "pitch_type": "FC",
         "usage": 0.043,
         "pitcher_xwoba": 0.387,
-        "team_xwoba": 0.412,
+        "team_xwoba": 0.384,
         "league_xwoba": 0.343,
-        "advantage": -0.0563
+        "advantage": -0.0425
       }
     ],
     "home_pitch_detail": [
@@ -163,8 +172,8 @@
     "away_h2h_detail": {
       "total_pa": 37,
       "n_batters": 7,
-      "w_k_rate": 0.108,
-      "w_bb_rate": 0.189,
+      "w_k_rate": 0.162,
+      "w_bb_rate": 0.135,
       "w_hr_rate": 0.0,
       "confidence": 0.74
     },
@@ -177,12 +186,13 @@
       "confidence": 0.2
     },
     "v2_pick": "CIN",
-    "v2_conf": 0.501,
+    "v2_conf": 0.531,
     "consensus": false,
     "tier": "disagree",
-    "ou_consensus": true,
-    "v2_f5_total": 4.7
+    "ou_consensus": false,
+    "v2_f5_total": 4.5
   },
   "locked_away_pitcher_id": 671096,
-  "locked_home_pitcher_id": 701542
+  "locked_home_pitcher_id": 701542,
+  "pitcher_changed_at_refresh": false
 }

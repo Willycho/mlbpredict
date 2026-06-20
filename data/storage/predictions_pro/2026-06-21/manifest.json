@@ -13,7 +13,7 @@
       "home_pitcher": "troy melton",
       "pick": "CWS",
       "pick_prob": 0.517,
-      "expected_total": 4.5,
+      "expected_total": 4.4,
       "v2_pick": "DET",
       "v2_conf": 0.545,
       "consensus": false,
@@ -21,8 +21,8 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T14:29:34.359818+00:00",
-      "refresh_type": "bulk_initial"
+      "last_refreshed_at": "2026-06-20T15:19:31.228762+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823532,
@@ -33,17 +33,17 @@
       "away_pitcher": "andrew abbott",
       "home_pitcher": "will warren",
       "pick": "NYY",
-      "pick_prob": 0.586,
-      "expected_total": 4.8,
+      "pick_prob": 0.54,
+      "expected_total": 4.9,
       "v2_pick": "CIN",
-      "v2_conf": 0.501,
+      "v2_conf": 0.531,
       "consensus": false,
-      "ou_consensus": true,
+      "ou_consensus": false,
       "tier": "disagree",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:29:34.359818+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T15:19:34.300125+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824665,
@@ -390,5 +390,6 @@
     "ou_consensus_count": 8,
     "sweet_spot_count": 3,
     "total_games": 14
-  }
+  },
+  "last_modified_at": "2026-06-20T15:19:34.300692+00:00"
 }
