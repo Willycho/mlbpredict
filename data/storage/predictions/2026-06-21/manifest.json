@@ -61,10 +61,10 @@
       "home_pitcher": "mackenzie gore",
       "pick": "TEX",
       "pick_prob": 0.608,
-      "expected_total": 5.0,
+      "expected_total": 5.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T18:08:58.159060+00:00",
+      "last_refreshed_at": "2026-06-20T19:56:52.695011+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T18:08:58.326304+00:00",
+      "last_refreshed_at": "2026-06-20T19:56:52.878925+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -92,11 +92,11 @@
       "away_pitcher": "trevor mcdonald",
       "home_pitcher": "max meyer",
       "pick": "SF",
-      "pick_prob": 0.725,
-      "expected_total": 3.4,
+      "pick_prob": 0.715,
+      "expected_total": 3.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T18:08:59.016816+00:00",
+      "last_refreshed_at": "2026-06-20T19:56:53.499180+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,11 +108,11 @@
       "away_pitcher": "kyle harrison",
       "home_pitcher": "chris sale",
       "pick": "ATL",
-      "pick_prob": 0.662,
+      "pick_prob": 0.666,
       "expected_total": 3.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T18:08:59.624078+00:00",
+      "last_refreshed_at": "2026-06-20T19:56:54.200219+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-20T18:08:59.668467+00:00"
+  "last_modified_at": "2026-06-20T19:56:54.200770+00:00"
 }
