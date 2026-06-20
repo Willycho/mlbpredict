@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T23:13:14.534365+00:00",
+      "last_refreshed_at": "2026-06-20T01:34:25.219504+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -244,7 +244,7 @@
       "home_pitcher": "michael soroka",
       "pick": "AZ",
       "pick_prob": 0.655,
-      "expected_total": 4.5,
+      "expected_total": 4.3,
       "v2_pick": "AZ",
       "v2_conf": 0.526,
       "consensus": true,
@@ -252,7 +252,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T23:13:17.138037+00:00",
+      "last_refreshed_at": "2026-06-20T01:34:28.803138+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,15 +265,15 @@
       "home_pitcher": "roki sasaki",
       "pick": "BAL",
       "pick_prob": 0.674,
-      "expected_total": 5.1,
+      "expected_total": 4.9,
       "v2_pick": "BAL",
-      "v2_conf": 0.527,
+      "v2_conf": 0.529,
       "consensus": true,
       "ou_consensus": true,
       "tier": "sweet_spot",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-19T23:13:19.617808+00:00",
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T01:34:41.780118+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -294,7 +294,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-19T23:13:32.239832+00:00",
+      "last_refreshed_at": "2026-06-20T01:34:54.829882+00:00",
       "refresh_type": "per_game"
     }
   ],
@@ -368,20 +368,20 @@
       "ml_consensus": true
     },
     {
-      "game_id": 823936,
-      "away_team": "BAL",
-      "home_team": "LAD",
-      "away_pitcher": "Trey Gibson",
-      "home_pitcher": "roki sasaki",
-      "tier": "sweet_spot",
-      "v2_pick": "BAL",
-      "v2_conf": 0.527,
-      "lineup": "partial",
-      "n_batters": "14+9",
+      "game_id": 823124,
+      "away_team": "BOS",
+      "home_team": "SEA",
+      "away_pitcher": "ranger suárez",
+      "home_pitcher": "bryce miller",
+      "tier": "disagree",
+      "v2_pick": "SEA",
+      "v2_conf": 0.52,
+      "lineup": "confirmed",
+      "n_batters": "9+9",
       "type": "OU",
-      "pick": "F5 OVER 4.5",
+      "pick": "F5 UNDER 4.5",
       "conf": 0.7,
-      "detail": "Expected 5.1 vs line 4.5",
+      "detail": "Expected 3.9 vs line 4.5",
       "ou_consensus": true
     }
   ],
@@ -391,5 +391,5 @@
     "sweet_spot_count": 3,
     "total_games": 14
   },
-  "last_modified_at": "2026-06-19T23:13:32.240460+00:00"
+  "last_modified_at": "2026-06-20T01:34:54.830522+00:00"
 }
