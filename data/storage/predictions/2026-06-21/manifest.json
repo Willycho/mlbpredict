@@ -125,10 +125,10 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "CLE",
       "pick_prob": 0.656,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T21:19:22.459831+00:00",
+      "last_refreshed_at": "2026-06-20T22:41:01.112641+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -141,10 +141,10 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.577,
-      "expected_total": 3.4,
+      "expected_total": 3.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T21:19:23.074920+00:00",
+      "last_refreshed_at": "2026-06-20T22:41:01.992527+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "tomoyuki sugano",
       "pick": "PIT",
-      "pick_prob": 0.888,
-      "expected_total": 4.6,
+      "pick_prob": 0.871,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T22:41:02.918192+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824988,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-20T21:19:23.075597+00:00"
+  "last_modified_at": "2026-06-20T22:41:02.918796+00:00"
 }
