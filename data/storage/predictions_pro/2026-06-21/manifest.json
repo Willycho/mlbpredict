@@ -160,7 +160,7 @@
       "home_pitcher": "spencer arrighetti",
       "pick": "CLE",
       "pick_prob": 0.656,
-      "expected_total": 4.1,
+      "expected_total": 4.2,
       "v2_pick": "HOU",
       "v2_conf": 0.521,
       "consensus": false,
@@ -168,7 +168,7 @@
       "tier": "disagree",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T21:43:16.809678+00:00",
+      "last_refreshed_at": "2026-06-20T22:54:45.387913+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -181,7 +181,7 @@
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
       "pick_prob": 0.577,
-      "expected_total": 3.4,
+      "expected_total": 3.0,
       "v2_pick": "PHI",
       "v2_conf": 0.535,
       "consensus": true,
@@ -189,7 +189,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T21:43:19.901474+00:00",
+      "last_refreshed_at": "2026-06-20T22:54:48.411420+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -201,17 +201,17 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "tomoyuki sugano",
       "pick": "PIT",
-      "pick_prob": 0.888,
+      "pick_prob": 0.871,
       "expected_total": 4.6,
       "v2_pick": "PIT",
-      "v2_conf": 0.65,
+      "v2_conf": 0.651,
       "consensus": true,
       "ou_consensus": true,
       "tier": "consensus",
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:29:34.359818+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T22:55:01.177068+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824988,
@@ -312,8 +312,8 @@
       "n_batters": "9+9",
       "type": "OU",
       "pick": "F5 UNDER 4.5",
-      "conf": 0.867,
-      "detail": "Expected 3.4 vs line 4.5",
+      "conf": 0.95,
+      "detail": "Expected 3.0 vs line 4.5",
       "ou_consensus": true
     },
     {
@@ -391,5 +391,5 @@
     "sweet_spot_count": 3,
     "total_games": 14
   },
-  "last_modified_at": "2026-06-20T21:43:19.902079+00:00"
+  "last_modified_at": "2026-06-20T22:55:01.177667+00:00"
 }
