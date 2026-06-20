@@ -13,10 +13,10 @@
       "home_pitcher": "troy melton",
       "pick": "CWS",
       "pick_prob": 0.517,
-      "expected_total": 4.4,
+      "expected_total": 4.5,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T15:15:00.190046+00:00",
+      "last_refreshed_at": "2026-06-20T16:53:47.970820+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -29,10 +29,10 @@
       "home_pitcher": "will warren",
       "pick": "NYY",
       "pick_prob": 0.54,
-      "expected_total": 4.9,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T15:15:00.843556+00:00",
+      "last_refreshed_at": "2026-06-20T16:53:48.592868+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -44,12 +44,12 @@
       "away_pitcher": "patrick corbin",
       "home_pitcher": "colin rea",
       "pick": "CHC",
-      "pick_prob": 0.532,
-      "expected_total": 4.5,
+      "pick_prob": 0.503,
+      "expected_total": 4.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T16:53:49.219246+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 822885,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-20T15:15:00.844162+00:00"
+  "last_modified_at": "2026-06-20T16:53:49.219911+00:00"
 }
