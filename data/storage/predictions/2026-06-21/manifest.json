@@ -124,12 +124,12 @@
       "away_pitcher": "joey cantillo",
       "home_pitcher": "spencer arrighetti",
       "pick": "CLE",
-      "pick_prob": 0.64,
+      "pick_prob": 0.656,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T21:19:22.459831+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823447,
@@ -140,12 +140,12 @@
       "away_pitcher": "freddy peralta",
       "home_pitcher": "cristopher sánchez",
       "pick": "PHI",
-      "pick_prob": 0.532,
-      "expected_total": 3.5,
+      "pick_prob": 0.577,
+      "expected_total": 3.4,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T21:19:23.074920+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824342,
@@ -228,5 +228,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-20T19:56:54.200770+00:00"
+  "last_modified_at": "2026-06-20T21:19:23.075597+00:00"
 }
