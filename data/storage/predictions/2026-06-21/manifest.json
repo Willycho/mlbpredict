@@ -156,11 +156,11 @@
       "away_pitcher": "paul skenes",
       "home_pitcher": "tomoyuki sugano",
       "pick": "PIT",
-      "pick_prob": 0.871,
-      "expected_total": 4.3,
+      "pick_prob": 0.886,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-20T22:41:02.918192+00:00",
+      "last_refreshed_at": "2026-06-20T23:49:45.688432+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -172,12 +172,12 @@
       "away_pitcher": "Walbert Ureña",
       "home_pitcher": "j. t. ginn",
       "pick": "ATH",
-      "pick_prob": 0.657,
-      "expected_total": 4.1,
+      "pick_prob": 0.609,
+      "expected_total": 4.6,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T23:49:46.367395+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823937,
@@ -188,12 +188,12 @@
       "away_pitcher": "trevor rogers",
       "home_pitcher": "yoshinobu yamamoto",
       "pick": "LAD",
-      "pick_prob": 0.636,
-      "expected_total": 3.4,
+      "pick_prob": 0.601,
+      "expected_total": 3.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T23:49:47.013809+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 823126,
@@ -204,12 +204,12 @@
       "away_pitcher": "connelly early",
       "home_pitcher": "emerson hancock",
       "pick": "BOS",
-      "pick_prob": 0.819,
-      "expected_total": 3.8,
+      "pick_prob": 0.794,
+      "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T23:49:47.761656+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825068,
@@ -220,13 +220,13 @@
       "away_pitcher": "taj bradley",
       "home_pitcher": "zac gallen",
       "pick": "AZ",
-      "pick_prob": 0.604,
-      "expected_total": 4.4,
+      "pick_prob": 0.642,
+      "expected_total": 4.3,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-20T14:25:16.267783+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-20T23:49:48.376856+00:00",
+      "refresh_type": "per_game"
     }
   ],
-  "last_modified_at": "2026-06-20T22:41:02.918796+00:00"
+  "last_modified_at": "2026-06-20T23:49:48.377424+00:00"
 }
