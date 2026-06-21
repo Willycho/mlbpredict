@@ -32,7 +32,7 @@
       "expected_total": 4.1,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:48.420234+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:20.084673+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -45,10 +45,10 @@
       "home_pitcher": "bryce elder",
       "pick": "MIL",
       "pick_prob": 0.714,
-      "expected_total": 4.3,
+      "expected_total": 4.4,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:49.393687+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:20.686070+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -64,7 +64,7 @@
       "expected_total": 4.2,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:49.696464+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:20.865312+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -80,7 +80,7 @@
       "expected_total": 4.6,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:50.831483+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:21.482767+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -93,10 +93,10 @@
       "home_pitcher": "ryan gusto",
       "pick": "SF",
       "pick_prob": 0.652,
-      "expected_total": 3.8,
+      "expected_total": 3.7,
       "f5_book_line": null,
       "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-21T15:24:51.750024+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:22.112279+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -108,11 +108,11 @@
       "away_pitcher": "slade cecconi",
       "home_pitcher": "kai-wei teng",
       "pick": "HOU",
-      "pick_prob": 0.651,
-      "expected_total": 4.7,
+      "pick_prob": 0.63,
+      "expected_total": 4.8,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:52.680899+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:22.710160+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -128,7 +128,7 @@
       "expected_total": 4.3,
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:53.620855+00:00",
+      "last_refreshed_at": "2026-06-21T17:03:23.302828+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -140,11 +140,11 @@
       "away_pitcher": "dylan cease",
       "home_pitcher": "shota imanaga",
       "pick": "TOR",
-      "pick_prob": 0.67,
-      "expected_total": 3.4,
+      "pick_prob": 0.673,
+      "expected_total": 3.1,
       "f5_book_line": null,
-      "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T15:24:54.561746+00:00",
+      "lineup_source": "roster",
+      "last_refreshed_at": "2026-06-21T17:03:24.107391+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -156,12 +156,12 @@
       "away_pitcher": "jared jones",
       "home_pitcher": "michael lorenzen",
       "pick": "PIT",
-      "pick_prob": 0.669,
+      "pick_prob": 0.697,
       "expected_total": 4.1,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-21T14:28:48.506188+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-21T17:03:24.707392+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 825067,
@@ -175,9 +175,9 @@
       "pick_prob": 0.523,
       "expected_total": 4.7,
       "f5_book_line": null,
-      "lineup_source": "roster",
-      "last_refreshed_at": "2026-06-21T14:28:48.506188+00:00",
-      "refresh_type": "bulk_initial"
+      "lineup_source": "lineup",
+      "last_refreshed_at": "2026-06-21T17:03:25.269115+00:00",
+      "refresh_type": "per_game"
     },
     {
       "game_id": 824987,
@@ -244,5 +244,5 @@
       "refresh_type": "bulk_initial"
     }
   ],
-  "last_modified_at": "2026-06-21T15:24:54.562432+00:00"
+  "last_modified_at": "2026-06-21T17:03:25.269496+00:00"
 }
