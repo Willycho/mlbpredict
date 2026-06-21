@@ -2,8 +2,8 @@
   "game_id": 825067,
   "kst_date": "2026-06-22",
   "bulk_fetched_at": "2026-06-21T14:32:34.055442+00:00",
-  "last_refreshed_at": "2026-06-21T14:32:34.055442+00:00",
-  "refresh_type": "bulk_initial",
+  "last_refreshed_at": "2026-06-21T16:19:49.474584+00:00",
+  "refresh_type": "per_game",
   "f5_book_line": null,
   "prediction": {
     "game_id": 825067,
@@ -46,8 +46,8 @@
       "matchup_score": 50.0,
       "arsenal_matchup": 50.0,
       "h2h_bonus": 0.0,
-      "lineup_source": "roster",
-      "n_batters": 20
+      "lineup_source": "lineup",
+      "n_batters": 9
     },
     "effective_away": 54.5,
     "effective_home": 56.5,
@@ -71,11 +71,7 @@
     "sweet_picks": [],
     "grade": "pass",
     "grade_label": "PASS",
-    "wind": {
-      "speed_mph": 7.3,
-      "direction": "cross",
-      "adj": 0.04
-    },
+    "wind": null,
     "away_pitch_detail": [],
     "home_pitch_detail": [],
     "away_h2h_detail": {
@@ -85,12 +81,13 @@
       "note": "insufficient h2h PA (0 < 10)"
     },
     "v2_pick": "MIN",
-    "v2_conf": 0.538,
+    "v2_conf": 0.532,
     "consensus": false,
     "tier": "disagree",
     "ou_consensus": false,
-    "v2_f5_total": 4.2
+    "v2_f5_total": 4.3
   },
   "locked_away_pitcher_id": 702474,
-  "locked_home_pitcher_id": 703615
+  "locked_home_pitcher_id": 703615,
+  "pitcher_changed_at_refresh": false
 }
