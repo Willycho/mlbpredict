@@ -223,7 +223,7 @@
       "home_pitcher": "jack perkins",
       "pick": "ATH",
       "pick_prob": 0.583,
-      "expected_total": 3.5,
+      "expected_total": 4.0,
       "v2_pick": "ATH",
       "v2_conf": 0.553,
       "consensus": true,
@@ -231,7 +231,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T18:00:01.061932+00:00",
+      "last_refreshed_at": "2026-06-21T19:59:15.626272+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -252,7 +252,7 @@
       "tier": "consensus",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T18:00:09.454213+00:00",
+      "last_refreshed_at": "2026-06-21T19:59:17.911744+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -265,7 +265,7 @@
       "home_pitcher": "logan gilbert",
       "pick": "SEA",
       "pick_prob": 0.748,
-      "expected_total": 3.7,
+      "expected_total": 3.4,
       "v2_pick": "SEA",
       "v2_conf": 0.632,
       "consensus": true,
@@ -273,7 +273,7 @@
       "tier": "sweet_spot",
       "f5_book_line": null,
       "lineup_source": "lineup",
-      "last_refreshed_at": "2026-06-21T18:00:21.754976+00:00",
+      "last_refreshed_at": "2026-06-21T19:59:20.192653+00:00",
       "refresh_type": "per_game"
     },
     {
@@ -412,5 +412,5 @@
     "sweet_spot_count": 4,
     "total_games": 15
   },
-  "last_modified_at": "2026-06-21T18:00:21.755568+00:00"
+  "last_modified_at": "2026-06-21T19:59:20.193119+00:00"
 }
